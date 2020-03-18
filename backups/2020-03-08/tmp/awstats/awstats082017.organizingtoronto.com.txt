@@ -1,0 +1,4007 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201708 will be lost/reset.
+# Last config file used to build this data file was /home/andrewn29/tmp/awstats/awstats.organizingtoronto.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2019                
+POS_TIME 2706                
+POS_VISITOR 46339               
+POS_DAY 140075              
+POS_DOMAIN 3750                
+POS_LOGIN 5774                
+POS_ROBOT 5929                
+POS_WORMS 6632                
+POS_EMAILSENDER 6763                
+POS_EMAILRECEIVER 6906                
+POS_SESSION 141078              
+POS_SIDER 141292              
+POS_FILETYPES 7041                
+POS_DOWNLOADS 7370                
+POS_OS 8376                
+POS_BROWSER 8837                
+POS_SCREENSIZE 13649               
+POS_UNKNOWNREFERER 13723               
+POS_UNKNOWNREFERERBROWSER 16232               
+POS_ORIGIN 17776               
+POS_SEREFERRALS 17930               
+POS_PAGEREFS 18121               
+POS_SEARCHWORDS 21477               
+POS_KEYWORDS 21778               
+POS_MISC 2369                
+POS_ERRORS 21992               
+POS_CLUSTER 5630                
+POS_SIDER_404 22182               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20170901000040 2455 657237 10634139554096
+FirstTime 20170801000303
+LastTime 20170831235529
+LastUpdate 20170901051228 2455 0 2454 0 0
+TotalVisits 3101                
+TotalUnique 2186                
+MonthHostsKnown 0                   
+MonthHostsUnknown 2499                
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+PDFSupport 0 0 0
+JavascriptDisabled 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 32 0
+WindowsMediaPlayerSupport 0 0 0
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+TotalMisc 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 889 1358 22016153 838 1093 10755747
+1 860 1209 17384846 727 1014 11441269
+2 767 942 12635974 647 1028 8258817
+3 903 1691 29189052 502 770 10900756
+4 764 1404 17644196 661 1084 17455121
+5 1167 2051 31950828 579 1137 15049210
+6 1105 2579 43299897 996 1185 13964382
+7 1135 3398 78353971 496 831 7101829
+8 973 2427 51414022 843 1186 13570506
+9 988 2954 66108947 640 891 10658588
+10 782 2312 52014345 592 731 10372391
+11 750 2008 37110060 492 900 10185580
+12 962 2340 41624823 817 1263 13101968
+13 799 2453 64993037 515 763 8658609
+14 745 1992 42906797 449 1120 12552016
+15 703 1789 25511705 434 1588 16889798
+16 692 2025 53950615 380 1163 14512156
+17 677 1758 41313679 442 1176 10500268
+18 992 3207 62349001 550 1598 23920439
+19 754 2265 44313581 478 793 12821576
+20 1084 2897 59028100 900 1446 23301664
+21 740 1515 25769624 679 1359 25954645
+22 758 2845 38939346 626 979 19726750
+23 687 1043 8832495 737 1009 11529726
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 126
+us 14739 22750 314437959
+ca 2055 20723 486510394
+ru 741 1178 37757192
+fr 456 554 18862671
+ua 396 396 20220234
+in 235 655 9081632
+gb 173 346 10710455
+pl 153 153 6330311
+il 143 145 1834256
+ph 111 769 4995382
+pk 82 83 584979
+cn 76 104 2011700
+de 74 192 3359116
+br 72 299 5973514
+hu 61 61 797905
+th 60 71 3647917
+cz 54 54 3334988
+au 48 148 3752491
+my 44 200 6494342
+ro 38 38 538313
+mu 38 38 2470479
+tr 37 39 678326
+pt 36 36 1639486
+cl 34 37 657653
+id 34 36 689983
+lv 4 4 292018
+am 4 4 79854
+cy 3 3 9587
+do 6 90 2735753
+mg 2 2 9140
+ie 6 6 34558
+fi 2 2 146010
+uz 1 1 447
+jo 2 2 9141
+ge 1 1 61938
+sd 2 2 9140
+tn 6 6 19174
+bg 17 17 111178
+pe 2 4 250608
+ag 2 2 62422
+kw 1 1 448
+qa 5 5 88241
+cm 1 1 0
+nl 26 26 432037
+ve 6 8 268115
+ch 6 6 188893
+ng 8 8 36648
+rw 2 2 70364
+lt 24 24 821231
+tz 11 98 634887
+hk 15 98 777040
+af 2 2 8829
+ke 6 85 514981
+ne 1 1 447
+iq 5 5 34922
+ni 2 2 9140
+az 3 3 9586
+mz 3 3 9589
+za 31 118 857228
+sa 9 9 14410
+jm 1 1 61938
+it 23 23 279379
+vg 3 3 95342
+bn 2 2 70364
+ye 1 1 449
+al 8 8 28002
+by 1 1 61938
+sn 3 3 23261
+gi 1 1 2790
+uy 1 1 447
+tw 9 9 72006
+kg 2 2 9141
+zz 2 2 146091
+dz 28 28 122405
+cw 1 1 447
+rs 15 15 53387
+kr 6 90 2741280
+ma 7 7 89442
+eg 33 33 228446
+eu 18 18 511116
+lu 5 5 85379
+sy 2 2 9140
+gy 1 1 446
+gh 4 4 18280
+ar 7 8 210229
+sg 4 4 79504
+ao 3 3 15018
+mn 6 6 88334
+co 3 4 130321
+be 4 4 10035
+pr 6 92 602047
+kh 2 2 8829
+kz 7 7 85086
+nz 2 3 56821
+om 4 4 140728
+bz 1 1 447
+np 7 7 80492
+no 4 4 23730
+lb 2 2 8829
+dk 4 4 10034
+sk 4 4 87642
+mx 11 15 528427
+lk 20 20 144418
+jp 7 8 80975
+is 1 1 447
+at 6 6 19172
+ci 7 8 37117
+ir 6 6 35754
+bf 2 2 9140
+mk 9 9 82047
+ee 3 3 9587
+si 22 22 145639
+es 20 21 568731
+ec 4 5 146728
+ba 2 2 9140
+gr 5 5 10480
+md 26 26 833762
+se 11 77 2852343
+pa 2 2 146010
+cr 1 1 448
+bd 10 10 40040
+bj 2 2 9140
+vn 22 22 393438
+ae 6 6 72418
+mw 2 2 123952
+bw 5 5 27017
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 14
+bot[\s_+:,\.\;\/\\-] 11344 177729414 20170831235528 1312
+spider 1511 13389233 20170831172739 45
+googlebot 1509 7135169 20170831225508 48
+bingpreview 1209 25034339 20170831202314 0
+robot 801 13328165 20170831232440 161
+crawl 594 8055607 20170830042431 24
+unknown 258 32624 20170831213351 258
+php 186 21074669 20170831185254 0
+ia_archiver 115 3891950 20170824000034 13
+[\s_+:,\.\;\/\\-]bot 90 315986 20170831144024 0
+no_user_agent 71 2460482 20170831114947 4
+slurp 24 139191 20170825093410 14
+googlebot\-image 24 174605 20170829062303 0
+checker 10 557562 20170830043147 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 13
+svg 29 653031 0 0
+png 5220 538337626 0 0
+js 15345 75459941 0 0
+html 6352 175100332 0 0
+php 14179 6253815 0 0
+Unknown 6 8620 0 0
+gif 1152 7012408 0 0
+woff 115 3627566 0 0
+css 6228 23307749 0 0
+txt 10 4720 0 0
+xml 9 9380 0 0
+jpg 1802 138545640 0 0
+eot 15 334266 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 25
+/sitemap_post.xml.gz 33 0 63979
+/sitemap.xml.gz 26 0 11565
+/sitemap_attachment.xml.gz 26 0 100491
+/sitemap_faq_category.xml.gz 23 0 9965
+/sitemap_addl.xml.gz 22 0 8798
+/sitemap_page.xml.gz 22 0 19824
+/sitemap_slide-page.xml.gz 21 0 8286
+/sitemap_category.xml.gz 21 0 10881
+/sitemap_portfolio_category.xml.gz 21 0 9229
+/sitemap_avada_faq.xml.gz 20 0 23932
+/sitemap_testimonial.xml.gz 20 0 8662
+/sitemap_avada_portfolio.xml.gz 19 0 8165
+/sitemap_post_tag.xml.gz 18 0 9018
+/wp-content/plugins/contact-form-7/license.txt 10 0 4720
+/sitemap-pt-post-2016-01.xml.gz 2 0 1172
+/sitemap-pt-post-2016-04.xml.gz 1 0 509
+/sitemap-pt-post-2015-09.xml.gz 1 0 515
+/sitemap-pt-post-2013-07.xml.gz 1 0 522
+/sitemap-misc.xml.gz 1 0 490
+/sitemap-pt-post-2014-04.xml.gz 1 0 515
+/sitemap-pt-page-2013-03.xml.gz 1 0 781
+/sitemap-pt-post-2014-03.xml.gz 1 0 547
+/sitemap-pt-post-2015-12.xml.gz 1 0 575
+/sitemap-pt-post-2016-03.xml.gz 1 0 521
+/sitemap-pt-post-2015-10.xml.gz 1 0 558
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 28
+winme 6 6
+java 6 6
+win16 5 0
+sunos 1 1
+macosx4 2 2
+macosx7 108 108
+winlong 666 154
+win2003 4 3
+win8 399 143
+macosx8 13 13
+ios_iphone 5071 328
+ios_ipad 1967 224
+macosx6 7 6
+winvista 1 1
+win7 7246 2441
+linux 818 491
+linuxandroid 4863 357
+win2000 6 6
+linuxubuntu 5 3
+Unknown 15565 13686
+symbian 1 1
+winxp 561 433
+macosx9 714 144
+macosx5 8 8
+unix 88 6
+win8.1 1465 455
+winnt 6306 793
+macosx 4560 857
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 230
+opera8.0 2 2
+safari8.0 278 24
+firefox7.0.1 33 33
+chrome34.0.1847.131 114 46
+chrome60.0.3112.90 2474 224
+chrome51.0.2706.26 1 1
+chrome59.0.3071.115 2110 212
+chrome14.0.794.0 1 0
+chrome38.0.2125.102 182 10
+chrome40.0.2214.93 3 3
+firefox12.0 2 1
+chrome39.0.2171.65 1 1
+firefox51.0 8 7
+firefox32.0 66 47
+chrome60.0.3112.113 1010 127
+Unknown 15432 13571
+firefox14.0.1 1 1
+chrome27.0.1453.90 1 1
+opera7.50 6 6
+cloudflare 16 0
+chrome14.0.803.0 1 1
+chrome34.0.1847.137 31 23
+opera44.0.2510.1449 32 32
+firefox46.0 3 3
+firefox52.0 111 110
+safari7.1 5 5
+chrome26.0.1410.64 5 5
+chrome54.8.4435.9708 1 1
+firefox2.0.0.12 4 4
+safari0.9 2 2
+firefox6.0.2 3 3
+chrome17.0.963.56 1 0
+msie7.0 29 9
+chrome17.0.963.65 1 1
+chrome45.0.2454.94 2 2
+chrome55.0.2883.87 1 1
+chrome59.0.3071.86 6 6
+chrome34.0.1847.116 5 5
+firefox40.1 1230 1160
+iphone 1204 65
+chrome57.5.0565.5837 1 1
+chrome10.0.648.0 1 0
+opera46.0.2597.57 94 7
+chrome13.0.782.215 1 1
+chrome36.0.1985.125 20 20
+firefox3.6 1 1
+opera36.0.2130.80 24 24
+chrome42.0.2311.135 5 5
+chrome49.0.2623.112 1 0
+safari9.0 525 30
+safari1.0 2 2
+chrome55.0.2883.95 7 7
+nokia 1 1
+msie6.0 249 166
+chrome55.0.2883.91 2 2
+safari10.1.2 1199 70
+opera12.00 1 1
+safari9.0.2 94 10
+chrome58.0.3029.110 342 257
+chrome57.5.0558.4286 1 1
+chrome30.0.0.0 1 0
+chrome44.0.2403.89 14 14
+chrome35.0.1916.114 22 9
+chrome41.0.2228.0 8 8
+mozilla 500 214
+firefox3.5.6 1 1
+firefox28.0 139 40
+chrome57.0.2987.98 110 27
+chrome51.0.2704.106 614 36
+firefox3.03 1 1
+firefox26.0 2 1
+firefox41.0 11 11
+firefox3.6.12 2 2
+firefox45.73.26 1 1
+firefox47.0 60 17
+opera47.0.2631.39 1 0
+chrome28.0.1500.71 9 9
+chrome11.0.696.68 1 1
+firefox54.0 710 116
+safari10.1.1 435 116
+safari6.0 12 12
+opera43.0.2442.1144 71 71
+safari10.0.3 111 24
+chrome59.0.3071.134 87 5
+msie11.0 1777 174
+firefox2.0.0.11 1 1
+chrome59.0.3071.104 192 16
+chrome32.0.1700.107 84 2
+chrome51.0.2704.79 200 26
+firefox3.6.8 1 1
+opera47.0.2631.55 93 8
+safari4.6.2 1 1
+firefox45.69.16 1 1
+chrome18.0.1025.45 1 1
+firefox2.0.0.9 1 1
+chrome59.0.3071.117 92 4
+chrome31.0.1650.63 2 1
+chrome32.0.1700.76 390 14
+firefox45.0 14 14
+chrome41.0.2225.0 1 1
+firefox 1 1
+chrome5.0.342.1 94 94
+chrome53.0.2785.143 2 2
+firefox3.6.4 1 1
+chrome49.0.2628.27 1 1
+firefox50.0 25 25
+opera34.0.2036.25 1 1
+firefox49.0 43 43
+safari5.0.2 3 3
+chrome47.0.2526.111 4 4
+lynx 1 1
+chrome33.0.1750.5 1 0
+firefox44.0 1 1
+chrome6.0 4 4
+chrome60.0.3112.78 271 24
+chrome53.0.2785.146 87 3
+firefox29.0 58 39
+chrome59.0.3071.71 4 4
+chrome49.0.2623.75 3 3
+chrome52.0.2743.116 1758 81
+chrome39.0.2171.95 3 1
+firefox40.0 2 2
+chrome50.0.2661.89 93 6
+safari9.1.3 422 60
+firefox3.0.1 33 33
+safari1.2.2 6 6
+firefox23.0 1 1
+opera42.0.5108.0836 1 1
+firefox36.0 10 10
+chrome52.0.2761.23 1 0
+android 350 18
+opera19.0.1326.59 1 0
+chrome19.0.1063.0 1 1
+safari2.0 2 2
+chrome43.0.2357.124 2 2
+chrome36.0.1985.143 237 10
+firefox30.0 24 24
+chrome57.0.2987.110 6 6
+chrome52.0.2743.75 99 99
+firefox21.0 117 108
+chrome10.0.648.134 1 0
+msie9.0 1545 148
+chrome13.0.782.20 2 1
+chrome60.0.3112.107 611 48
+chrome41.0.2272.118 75 0
+safari5.5.1 1 1
+chrome50.0.2661.102 72 72
+firefox55.0 95 8
+chrome51.0.2704.103 3 3
+opera11.00 1 1
+opera46.0.2597.26314 1 0
+safari7.0.3 22 11
+chrome58.0.3029.83 94 7
+chrome30.0.1599.66 25 25
+firefox15.0.1 7 7
+firefox33.0 4 4
+chrome59.0.3071.109 2 2
+firefox24.0 12 10
+firefox6.0.1 1 1
+wget 3 3
+chrome11.0.696.50 1 1
+chrome49.0.2649.91 1 1
+chrome10.0.649.0 1 1
+firefox10.0.2 2 2
+chrome38.0.2125.111 5 5
+firefox1.0.5 2 2
+firefox3.6.2 1 1
+firefox56.0 93 10
+firefox25.0 1 0
+chrome35.0.2309.372 1 1
+netscape3.01 1 1
+chrome55.0.2883.75 44 44
+firefox11.0 32 0
+chrome58.0.3029.81 1156 105
+chrome58.0.3029.96 35 35
+chrome37.0.2049.0 3 2
+opera44.0.2510.857 112 112
+msie10.0 263 58
+chrome54.8.3849.8111 1 1
+msie8.0 120 58
+firefox34.0 82 82
+opera36.0.2130.32 2 2
+firefox43.0 12 12
+chrome26.0.1410.63 1 1
+safari5.0.4 2 2
+safari5.1 103 103
+safari 694 72
+safari10.1 4 2
+chrome46.0.2465.0 1 0
+chrome26.0.1410.65 5 5
+firefox53.0 64 64
+firefox38.0 2 2
+firefox19.0 1 1
+chrome60.0.3112.101 1791 161
+chrome37.0.2062.120 42 42
+safari11.0 101 15
+chrome30.0.1599.101 1 1
+chrome45.0.2454.93 52 52
+chrome59.0.3071.125 1444 177
+chrome40.0.2214.115 99 99
+chrome49.0.2650.88 1 1
+chrome10.0.648.204 11 11
+chrome48.0.2564.116 2 2
+chrome42.0.2311.152 1 1
+firefox2.0 8 8
+safari0.8.1 4 4
+chrome17.0.1000.0 1 1
+opera23.0.1522.60 105 16
+opera9.25 2 2
+opera8.50 1 1
+chrome57.0.2987.133 270 184
+opera44.5.0380.5652 1 1
+netscape5.0 4 4
+chrome57.4.0531.5803 1 1
+chrome31.0.1650.57 5 5
+chrome48.0.2621.50 1 1
+chrome21.0.1180.82 4 4
+safari8.0.8 91 4
+firefox31.0 12 12
+chrome50.0.2661.75 40 40
+firefox48.0 2 2
+msie5.5 2 2
+chrome16.0.912.36 1 1
+firefox18.0 24 4
+chrome56.0.2924.110 1 1
+safari10.0 4006 302
+firefox3.6.3 1 1
+chrome32.0.1749.76 1 1
+chrome56.0.2924.87 366 284
+chrome14.0.812.0 1 0
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 44
+null 20170814074628
+Feedly/1.0_(_http://www.feedly.com/fetcher.html;_like_FeedFetcher-Google) 20170831095512
+Mozilla/5.0_(compatible;_Dataprovider.com;) 20170825041803
+Ruby 20170824061401
+Jetpack_by_WordPress.com 20170831152957
+YahooCacheSystem;_YahooWebServiceClient 20170827143006
+http://www.nominet.org.uk/privacypolicy 20170801060110
+Mozilla/4.0_(compatible;) 20170821170553
+NING/1.0 20170829072304
+weborama-fetcher_(_http://www.weborama.com) 20170822154641
+Photon/1.0 20170831195808
+AddThis.com_(http://support.addthis.com/) 20170831213352
+Mozilla/5.0_(compatible;_um-LN/1.0;_mailto:_techinfo@ubermetrics-technologies.com) 20170804181804
+AppEngine-Google;_(_http://code.google.com/appengine;_appid:_s~buzzstream-tools-hrd) 20170814114943
+Mozilla/5.0_Moreover/5.1_(_http://www.moreover.com;_webmaster@moreover.com) 20170804180302
+Nuzzel 20170804181639
+Tumblr/14.0.835.186 20170827121822
+Foo 20170823082549
+Mozilla/5.0_(compatible;_Twingly_Recon;_twingly.com) 20170828114359
+Peet_Browser 20170828153030
+MetaURI_API/2.0__metauri.com 20170804180541
+Barkrowler_0.1.6 20170831195501
+WordPress.com;_http://organizingtoronto.com 20170831152955
+Mozilla/5.0_(compatible;_Redirector/1.1) 20170813002443
+okhttp/3.3.0 20170806192404
+WordPress/4.5.9;_http://organizingtoronto.com 20170831235529
+python-requests/2.10.0 20170809155237
+gobyus 20170821024916
+Mozilla/5.0_(compatible;_CloudFlare-AlwaysOnline/1.0;__http://www.cloudflare.com/always-online)_AppleWebKit/534.34 20170827103846
+Mozilla/5.0_(en-us;) 20170819115221
+Mozilla/5.0_(compatible;_GroupHigh/1.0;__http://www.grouphigh.com/) 20170829204636
+Go-http-client/1.1 20170828005424
+Lynx/2.8.5rel.1_libwww-FM/2.15FC_SSL-MM/1.4.1c_OpenSSL/0.9.7e-dev 20170822122106
+okhttp/3.5.0 20170802194320
+UniversalFeedParser/5.2.1__https://code.google.com/p/feedparser/ 20170831232729
+EasyBib_AutoCite_(http://autocite-info.citation-api.com/) 20170824140120
+WWW-Mechanize/1.73 20170813050444
+ColdFusion 20170826022907
+Mozilla/3.0_(compatible;_Indy_Library) 20170807175159
+Mozilla/5.0_(compatible;_Qwantify/2.4w;__https://www.qwant.com/)/2.4w 20170831201548
+Mozilla/5.0_(compatible;_kulturarw3__http://www.kb.se/om/projekt/Svenska-webbsidor---Kulturarw3/) 20170823174703
+Rome_Client_(http://tinyurl.com/64t5n)_Ver:_UNKNOWN 20170826160706
+SimplePie/1.1.3_(Feed_Parser;_http://simplepie.org;_Allow_like_Gecko)_Build/20081219 20170831201108
+Mozilla/5.0_(compatible;_ips-agent) 20170802164146
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 32
+okhttp/3.5.0 20170802194320
+EasyBib_AutoCite_(http://autocite-info.citation-api.com/) 20170824140120
+UniversalFeedParser/5.2.1__https://code.google.com/p/feedparser/ 20170831232729
+Go-http-client/1.1 20170828005424
+gobyus 20170821024916
+WordPress.com;_http://organizingtoronto.com 20170831152955
+Barkrowler_0.1.6 20170831195501
+WordPress/4.5.9;_http://organizingtoronto.com 20170831235529
+okhttp/3.3.0 20170806192404
+python-requests/2.10.0 20170809155237
+Rome_Client_(http://tinyurl.com/64t5n)_Ver:_UNKNOWN 20170826160706
+SimplePie/1.1.3_(Feed_Parser;_http://simplepie.org;_Allow_like_Gecko)_Build/20081219 20170831201108
+ColdFusion 20170826022907
+WWW-Mechanize/1.73 20170813050444
+weborama-fetcher_(_http://www.weborama.com) 20170822154641
+Photon/1.0 20170831195808
+YahooCacheSystem;_YahooWebServiceClient 20170827143006
+http://www.nominet.org.uk/privacypolicy 20170801060110
+NING/1.0 20170829072304
+Jetpack_by_WordPress.com 20170831152957
+null 20170814074628
+Feedly/1.0_(_http://www.feedly.com/fetcher.html;_like_FeedFetcher-Google) 20170831095512
+Ruby 20170824061401
+MetaURI_API/2.0__metauri.com 20170804180541
+Peet_Browser 20170828153030
+Tumblr/14.0.835.186 20170827121822
+Foo 20170823082549
+Java/1.8.0_131 20170825044339
+Nuzzel 20170804181639
+Apache-HttpClient/4.5.2_(Java/1.8.0_111) 20170813202844
+AddThis.com_(http://support.addthis.com/) 20170831213352
+AppEngine-Google;_(_http://code.google.com/appengine;_appid:_s~buzzstream-tools-hrd) 20170814114943
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 16729 18929
+From1 8 91
+From2 218 282
+From3 219 242
+From4 3502 30918
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 4
+yahoo 4 5
+yandex 6 6
+google 190 233
+bing 18 38
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 81
+http://m.facebook.com 40 40
+http://www.emailmarketingrobot.com/webmasters/ 20 20
+http://burger-imperia.com 19 19
+http://gtawindows.com 15 15
+http://www.gutterguardgreenville.com 10 10
+http://pizza-tycoon.com 7 7
+http://pizza-imperia.com 7 7
+http://mailto:Andrew@OrganizingToronto.com 6 6
+https://www.foxweber.com 6 6
+http://hvd-store.com 5 5
+http://organizing-canada.com 4 4
+http://hundejo.com 4 4
+http://organizing-toronto.com 3 3
+http://money-for-placing-articles.com 3 3
+http://cottagecountryorganizers.com 3 3
+http://organizingvancouver.com 3 3
+http://organizingontario.com 3 3
+http://tpc.googlesyndication.com/safeframe/1-0-10/html/container.html 2 2
+http://organizingnewfoundland.com 2 2
+https://justkillingti.me 2 2
+https://www.adsensecustomsearchads.com 2 2
+https://www.pinterest.com 1 1
+http://organizingcalgary.com 1 1
+http://ca.izito.com/ws 1 1
+http://cloudacl.jiaolongdigital.com/training/cloudaclurl_category.asp 1 1
+http://morgandafantasyfreak.blogspot.com/2014/06/organizing-small-space-house-ideas.html 0 3
+http://organizingcalgary.ca 1 1
+http://www.organizing-canada.com 1 1
+http://sexy.wives.blogporn.in 1 1
+http://www.homeorganizeit.com/professional-organizer-toronto-ontario-canada.html 1 1
+http://tresvy.16mb.com 1 1
+https://t.co/RZ18QBFyLM 1 1
+http://strapon.xblog.in 1 1
+http://www.okclipart.com/2017/03/page/447/ 0 1
+http://seo-analysis.net/try.php 1 1
+https://es.pinterest.com/search/pins/ 1 1
+https://bestonwardticket.com 1 1
+http://www.crowfansonline.com 0 13
+http://girl.babies.photos.replyme.pw 1 1
+http://tips-to-toes.blogspot.se/2014/06/organizing-small-space-house-ideas.html 0 1
+http://girlfriends-nude-pictures.twiclub.in 1 1
+http://pornmarket.replyme.pw 1 1
+http://roberttierrez.blogspot.com 1 1
+http://asian69.adultnet.in 1 1
+https://twitter.com/easychoise 1 1
+http://www.sexybang.top/gal/5263.html 1 1
+http://www.okclipart.com/author/admin/page/462/ 0 1
+http://asianpic.twiclub.in 1 1
+http://letsbeabestshop.tumblr.com 1 1
+http://womenindirectselling.us/home-staging-design.html 0 3
+http://www.cottagecountryorganizers.com 1 1
+http://teen.erolove.in 1 1
+http://legacy-galleries.blogporn.in 1 1
+http://shemale.erolove.in 1 1
+http://www.organizingontario.com 1 1
+http://best.massage.erolove.top 1 1
+http://butt.porn.galleries.bdsmsex.top 1 1
+http://opno.life 1 1
+http://sexiest-stockings.xblog.in 1 1
+http://torontohomeorganizers.com 1 1
+https://presleycollectibles.com/store 1 1
+https://www.reddit.com/r/toronto/comments/375ffh/hoarding_services/ 1 1
+https://goo.gl/k4wpNx 1 1
+http://bdsm.adultnet.in 1 1
+http://theoriginalorganizingtoronto.com 1 1
+https://twitter.com/choise_hard 1 1
+http://organizing-toronto.ca 1 1
+http://bbwporn.xblog.in 1 1
+http://www.organizingnewfoundland.com 1 1
+http://qoo.by/2osX 1 1
+http://www.muz-tracker.net 1 1
+http://www.okclipart.com/Kitchen-Renovation-Clip-Art30jsrighij/ 0 1
+http://twerking.porndairy.in 1 1
+http://krasivye.blondinki.replyme.pw 1 1
+http://udacha33.ru/forum/index.php 1 1
+http://adultgalls.com 1 1
+http://femdom-packs.femdomgalleries.top 1 1
+http://longviberi.tumblr.com 1 1
+http://asses.love.erolove.top 1 1
+http://www.limestonefalls.ca/index.cfm/hello/business-directory/ 1 1
+http://www.sexybang.top/gal/8245.html 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 5
+ideas+for+small+clothes+closet 1
+professional+organizer+toronto+cost 1
+organizingtoronto.com 1
+laundry+aesthetics 1
+professional+organizers+canada 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 14
+professional 2
+aesthetics 1
+laundry 1
+organizer 1
+ideas 1
+for 1
+canada 1
+organizers 1
+small 1
+toronto 1
+cost 1
+clothes 1
+organizingtoronto.com 1
+closet 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 8
+503 919 2444722
+302 2894 0
+301 1343 275
+405 8 300
+404 2149 53645537
+206 30 629426
+403 835 1838954
+500 151 1305601
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 476
+/wp-includes/js/tinymce/themes/main.php 1 http://organizingtoronto.com/wp-includes/js/tinymce/themes/main.php
+/HomeOrganizingBusiness.html 1 -
+/WfYMZ/robots.txt 1 -
+/xmlrpc/header_img.php 2 http://organizingtoronto.com/xmlrpc/header_img.php
+/menus/popup-pomo.php 2 http://organizingtoronto.com/menus/popup-pomo.php
+/organizingtoronto.com/contact/ 1 -
+/wp-content/themes/twentyseventeen/footer.php 14 http://ORGANIZINGTORONTO.COM/wp-content/themes/twentyseventeen/footer.php
+/wp-content/uploads/logo_img.php.suspected 2 http://organizingtoronto.com/wp-content/uploads/logo_img.php.suspected
+/xmlrpc/logo_img.php.suspected 3 http://organizingtoronto.com/xmlrpc/logo_img.php.suspected
+/OrganizingServicesforPeopleWithADD.html 1 http://go.mail.ru/search_images
+/wp-content/plugins/clode/worse.php 15 http://ORGANIZINGTORONTO.COM/wp-content/plugins/clode/worse.php
+/wp-content/uploads/2015/10/new_up.php 8 http://organizingtoronto.com/wp-content/uploads/2015/10/new_up.php
+/wp-content/plugins/gallery-plugin/gallery-plugin.php 5 -
+/ZXiQZ/wp-config.php~ 1 http://organizing-canada.com/ZXiQZ/wp-config.php~
+/OrganizeHousehold.html 1 http://go.mail.ru/search_images
+/phpmaila/popup-pomo.php 1 http://organizingtoronto.com/phpmaila/popup-pomo.php
+/Devins.php 1 -
+/searchreplacedb.php 2 -
+/tMxg.php 2 -
+/SBIforProfessionalOrganizers.html 2 http://go.mail.ru/search_images
+/music-search/temp/error.php 1 -
+/wp-admin/css/colors/blue/system_m.php 15 http://ORGANIZINGTORONTO.COM/wp-admin/css/colors/blue/system_m.php
+/wp-content/themes/barracudafx/lib/scripts/dl-skin.php 5 -
+/wp-config.php.bak 13 -
+/BathroomOrganizing.html 3 -
+/Gjssmnd.php 3 -
+/wp-content/plugins/wp-post-frontend/readme.txt 3 -
+/bdhbjs.php 1 -
+/Organizing.xml 373 -
+/wp-content/themes/mesocolumn/lib/scripts/dl-skin.php 5 -
+/HouseholdOrganization.html 1 -
+/wp-admin/includes/rnnvhs.php 1 organizingtoronto.com
+/adminer/ 14 -
+/wp-content/plugins/rndpst/db.php 1 http://organizingnewfoundland.com/wp-content/plugins/rndpst/db.php
+/Evnsjg.php 1 -
+/bbob.php 2 -
+/wp-content/themes/bonkersbeat/lib/scripts/dl-skin.php 4 -
+/BasementOrganizing.html 2 http://go.mail.ru/search_images
+/custom-post.php 1 organizingtoronto.com
+/LockerOrganizing.html 1 -
+/importance-of-organizing.html 2 -
+/OrganizingClutterTips.html 1 -
+/professional-organizing-services/prices/credit-cards/ 2 -
+/Mkutp.php 2 -
+/mp3/list/temp/error.php 1 -
+/LockerOrganizingTips.html 2 -
+/wp-content/plugins/wp-editor/readme.txt 2 -
+/wp-content/themes/pagelines/js/less.min.js 4 -
+/wp-xmlrpc.php 1 http://organizingtoronto.com/wp-xmlrpc.php
+/Msdfbkd.php 1 -
+/axt.php 1 -
+/phpMyAdmin/ 1 -
+/blog/page/2+order+by+1+--+ 1 -
+/OrganizingConsultants.html 1 -
+/OrganizingClosetSpace.html 1 -
+/adminer.php 17 -
+/sql/ 1 -
+/wp-content/plugins/chikuncount/readme.txt 3 -
+/wp-content/common_.php 1 http://cottagecountryorganizers.com/wp-content/common_.php
+/wp-cron.php 1 -
+/permalink/popup-pomo.php 1 http://organizingtoronto.com/permalink/popup-pomo.php
+/wp-content/plugins/font-uploader/font-uploader-free.php 4 -
+/wp-admin/maint/system.php 3 http://organizingtoronto.com/wp-admin/maint/system.php
+/discussion/popup-pomo.php 2 http://organizingtoronto.com/discussion/popup-pomo.php
+/blog/author/hellothecreativeninja-ca/ 4 -
+/wp-admin/system_cache.php.suspected 2 http://organizingtoronto.com/wp-admin/system_cache.php.suspected
+/wp-content/plugins/category-grid-view-gallery/cat_grid.php 5 -
+/blog/author/maria/ 2 http://go.mail.ru/search_images
+/wp-content/themes/u-design/scripts/admin/uploadify/uploadify.php 5 -
+/HowtoOrganizeaLocker.html 1 -
+/wp-content/plugins/woocommerce-product-addon/readme.txt 3 -
+/wp-content/themes/Minamaze_Pro/lib/scripts/dl-skin.php 4 -
+/Ucsdva.php 2 -
+/HowtoOrganizeaGarage.html 1 -
+/wp-admin/favicon_img.php 1 http://organizingtoronto.com/wp-admin/favicon_img.php
+/wp-content/plugins/formcraft/file-upload/server/php/ 5 -
+/wp-content/plugins/rss_feeder.class.php 1 organizingtoronto.com
+/rnnvhs.php 1 organizingtoronto.com
+/blog/wordpress/wp-admin/setup-config.php 1 -
+/wp-includes/class-wp-upgrade.php 13 http://www.google.com/
+/AdvertiseWithUs.html 1 http://go.mail.ru/search_images
+/RRPfZ/ 1 -
+/OrganizerPro.html 1 -
+/wp-content/plugins/revslider/temp/update_extract/revslider/wp-ajax.php 1 -
+/wp-content/plugins/user-avatar/readme.txt 3 -
+/XlkMZ/Organizing.xml 1 -
+/wp-content/plugins/revslider/temp/update_extract/revslider/cache.php 1 -
+/WorkFromHomeIdeas.html 1 -
+/wp-content/slide-menues.php 1 organizingtoronto.com
+/wp-content/plugins/ckeditor-for-wordpress/ckeditor.config.js 4 -
+/news_parser.class.php 1 organizingtoronto.com
+/wp-content/themes/dejavu/lib/scripts/dl-skin.php 5 -
+/OrganizeYourGarage.html 1 -
+/v0.wordpress.com 1 -
+/myadmin/ 1 -
+/wp-content/plugins/wp-image-news-slider/functions.php 4 -
+/HomeOrganizingExpert.html 1 -
+/wp-content/themes/fusion/lib/scripts/dl-skin.php 5 -
+/KMjkZ/Organizing.xml 1 -
+/index.html 1 -
+/LockerShelves.html 2 -
+/wp-admin/network/wp-error-log.php 2 -
+/OrganizingConsultant.html 1 -
+/wp-admin/logo_img.php.suspected 2 http://organizingtoronto.com/wp-admin/logo_img.php.suspected
+/wp-includes/logo_img.php 3 http://organizingtoronto.com/wp-includes/logo_img.php
+/wp-content/plugins/front-end-upload/destination.php 9 -
+/user/register 6 -
+/wp-content/uploads/temp.php 2 organizingtoronto.com
+/wp-content/plugins/clode/slide-menues.php 1 organizingtoronto.com
+/wp-content/plugins/fcchat/default.png 2 -
+/JunkRemovalServices.html 1 -
+/wp/beta/wp-admin/setup-config.php 1 -
+/TipsforOrganizingClosets.html 1 -
+/wp-content/plugins/gravityforms/css/preview.css 4 -
+/KitchenOrganization.html 1 -
+/wp-content/themes/elegance/lib/scripts/dl-skin.php 5 -
+/file.php 2 -
+/home/wp-admin/setup-config.php 1 -
+/wp-content/logo_img.php.suspected 2 http://organizingtoronto.com/wp-content/logo_img.php.suspected
+/slide-menues.php 1 organizingtoronto.com
+/wp-content/plugins/wp-simple-cart/readme.txt 3 -
+/Cnmvxis.php 1 -
+/wp-content/uploads/slide-menues.php 1 organizingtoronto.com
+/wp-content/plugins/slide-menues.php 1 organizingtoronto.com
+/LockerOrganizerShelves.html 1 -
+/wp-content/uploads/wysija/themes/Gassrini/herewgo.php 1 -
+/wp-json/oembed/1.0/embed 2 -
+/wp-content/wordpress_cache.php 1 http://organizingtoronto.com/wp-content/wordpress_cache.php
+/OrganizingaCloset.html 1 -
+/professional-organizing-services/seasonal-specials/ 1 http://go.mail.ru/search_images
+/apple-touch-icon-120x120.png 2 -
+/wp-includes/css/system.php 1 http://organizingtoronto.com/wp-includes/css/system.php
+/RubbermaidClosetSystems.html 2 http://go.mail.ru/search_images
+/blog/2014/01/ 9 -
+/components/ 1 -
+/wp-admin/favicon_img.php.suspected 1 http://organizingtoronto.com/wp-admin/favicon_img.php.suspected
+/DeclutteringServices.html 2 http://go.mail.ru/search_images
+/CustomClosetOrganizers.html 5 http://go.mail.ru/search_images
+/wp-content/themes/bordeaux-theme/functions/upload-handler.php 1 http://organizingtoronto.com/wp-content/themes/bordeaux-theme/functions/upload-handler.php
+/OrganizerProfessional.html 1 -
+/xmlrpc/system_infos.php 1 http://organizingtoronto.com/xmlrpc/system_infos.php
+/wp-content/plugins/theme-check/main.php 1 http://organizingtoronto.com/wp-content/plugins/theme-check/main.php
+/wp-content/wp-content/logo_img.php 1 http://organizingtoronto.com/wp-content/wp-content/logo_img.php
+/UccMZ/OifoZ/YiTWZ/ 1 -
+/GladiatorGarageworks.html 3 http://go.mail.ru/search_images
+/wp-content/plugins/mac-dock-gallery/bugslist.txt 5 -
+/yt.php 1 organizingtoronto.com
+/ProfessionalOrganizing 1 -
+/wp-config.php.1 13 -
+/wp-config.php.save 10 http://ORGANIZINGTORONTO.COM/wp-config.php.save
+/Tmcnva.php 1 -
+/xmlrpc/logo_img.php 1 http://organizingtoronto.com/xmlrpc/logo_img.php
+/seasonal-specials/ 2 http://go.mail.ru/search_images
+/blog/xmlrpc.php 1 -
+/wp-content/plugins/revslider/css/admin.css 2 -
+/organizingservices.html 2 -
+/LockerOrganizationIdeas.html 1 -
+/organizingtips.html 2 -
+/blog/page/2\"+order+by+1+--+ 1 -
+/wp-content/uploads/logo_img.php 1 http://organizingtoronto.com/wp-content/uploads/logo_img.php
+/Bsgfru.php 2 -
+/wp-includes/js/tinymce/themes/advanced/skins/default/img/class.php 1 http://organizingtoronto.com/wp-includes/js/tinymce/themes/advanced/skins/default/img/class.php
+/ccontacts 1 http://ya.ru/
+/ashdusc.php 1 -
+/wp-includes/requests/utility/.path.php 1 http://organizingtoronto.com/wp-includes/requests/utility/.path.php
+/www.googletagmanager.com/ns.html 2 -
+/GarageOrganizingTip.html 1 -
+/images/ShulteFreedomRailCustomCloset3.jpg 1 -
+/wp-content/plugins/simple-dropbox-upload-form/ 5 -
+/MpLmZ/ 1 http://organizingontario.com
+/new/wp-admin/setup-config.php 1 -
+/wp-content/plugins/revslider/temp/update_extract/revslider/db.php 1 -
+/wp-content/plugins/dropbox-backup/template/js/admin-wpadm.js 3 -
+/wp-content/plugins/clode/temp.php 2 organizingtoronto.com
+/pma/ 1 -
+/wp-content/uploads/db_model.php 1 organizingtoronto.com
+/wp-includes/js/tinymce/themes/advanced/skins/wp_theme/img/main.php 7 http://organizingtoronto.com/wp-includes/js/tinymce/themes/advanced/skins/wp_theme/img/main.php
+/wp-content/themes/Avada/framework/plugins/revslider/rs-plugin/js/'+i+' 1 -
+/TbKTZ/ 1 http://pizza-imperia.com/
+/Maggis.php 1 -
+/wp-content/plugins/clode/sidebar-widescreen.php 1 organizingtoronto.com
+/BedroomOrganizing.html 2 http://go.mail.ru/search_images
+/wp-content/plugins/mobile-friendly-app-builder-by-easytouch/readme.txt 2 -
+/STnTZ/wp-content/plugins/premium-seo-pack/readme.txt 1 -
+/blog/page/2+and+3>1 1 -
+/BedroomOrganization.html 1 -
+/blog/author/trudi/ 2 -
+/wp-content/plugins/ari-adminer/adminer/adminer/adminer/ 13 -
+/apple-touch-icon.png 1 -
+/wp-content/plugins/360-product-rotation/readme.txt 3 -
+/adminer-4.3.1/ 13 -
+/apple-touch-icon-120x120-precomposed.png 2 -
+/wp-content/plugins/showbiz/css/admin.css 1 -
+/blog/2013/03/ 5 -
+/a,c.type= 1 http://organizingtoronto.com/
+/success-stories/ 7 -
+/ClosetOrganization.html 1 -
+/wp-includes/id3/system.php 2 http://organizingtoronto.com/wp-includes/id3/system.php
+/Keiths.php 1 -
+/content-footer.php 1 organizingtoronto.com
+/wp-content/plugins/adminer/inc/adminer/ 15 -
+/BasementOrganization.html 2 -
+/Fshjbs.php 2 -
+/HomeOrganizerProfessional.html 1 -
+/prv8.php 1 -
+/wpversion.php 1 organizingtoronto.com
+/OrganizingCloset.html 1 -
+/NWPmZ/ 1 -
+/YUibZ/wp-content/plugins/premium-seo-pack/readme.txt 1 -
+/jm-ajax/upload_file/ 2 -
+/wp-content/plugins/downloads-manager/readme.txt 3 -
+/wp-content/sidebar-widescreen.php 1 organizingtoronto.com
+/blog/page/2'+order+by+1+--+ 1 -
+/wp-content/plugins/nextgen-gallery/changelog.txt 3 -
+/HomeOrganizerConsultant.html 1 -
+/wp-content/themes/awake/lib/scripts/dl-skin.php 5 -
+/professional-organizing-services/prices/ 2 http://go.mail.ru/search_images
+/wp-content/plugins/dop-slider/readme.txt 3 -
+/klash.php 3 -
+/wp/logo_img.php.suspected 1 http://organizingtoronto.com/wp/logo_img.php.suspected
+/TorontoGarageOrganization.html 3 -
+/mailto:Andrew@OrganizingToronto.com 1 -
+/ClosetOrganizingIdeas.html 4 -
+/wp-admin/includes/ 3 http://organizingtoronto.com/wp-admin/includes/
+/wp-content/img.php 2 -
+/wp-config.php.old 12 -
+/homefeatured/popup-pomo.php 1 http://organizingtoronto.com/homefeatured/popup-pomo.php
+/wp 7 -
+/i1.wp.com 2 -
+/install/popup-pomo.php 1 http://organizingtoronto.com/install/popup-pomo.php
+/blog/page/2\"+order+by+999+--+ 1 -
+/OrganizedCloset.html 1 http://go.mail.ru/search_images
+/wp-content/uploads/2014/ini.php 2 http://organizingtoronto.com/wp-content/uploads/2014/ini.php
+/wp-content/plugins/magic-fields/MF_Constant.php 3 -
+/don.php 1 -
+/profilea/popup-pomo.php 1 http://organizingtoronto.com/profilea/popup-pomo.php
+/wp-content/plugins/cimy-user-extra-fields/README_OFFICIAL.txt 3 -
+/Tchate/flashchat/temp/error.php 1 -
+/ClosetOrganizingSystems.html 5 http://go.mail.ru/search_images
+/OrganizingArticles.html 2 -
+/wp-content/themes/twentyseventeen/inc/color-patterns.php 11 http://ORGANIZINGTORONTO.COM/wp-content/themes/twentyseventeen/inc/color-patterns.php
+/ob.php 1 -
+/baixar/temp/error.php 1 -
+/wp-content/plugins/auto-attachments/a-a.css 3 -
+/apple-touch-icon-152x152-precomposed.png 1 -
+/wp-content/plugins/porshe/content-footer.php 1 organizingtoronto.com
+/wp-content/news_parser.class.php 1 organizingtoronto.com
+/wp-content/plugins/disable-comments/logo_img.php 1 http://organizingtoronto.com/wp-content/plugins/disable-comments/logo_img.php
+/wp-content/themes/method/lib/scripts/dl-skin.php 5 -
+/wp-content/plugins/wp-filemanager/fm.php 5 -
+/wp-content/plugins/wp-db-ajax-made/wp-ajax.php 1 http://organizingtoronto.com/wp-content/plugins/wp-db-ajax-made/wp-ajax.php
+/up.php 2 -
+/wp-content/plugins/wpmarketplace/readme.txt 10 -
+/wp-includes/js/tinymce/themes/advanced/skins/wp_theme/class.php 2 http://organizingtoronto.com/wp-includes/js/tinymce/themes/advanced/skins/wp_theme/class.php
+/DownsizingServices.html 1 http://go.mail.ru/search_images
+/GarageOrganization.html 1 http://go.mail.ru/search_images
+/wp-content/plugins/genesis-simple-defaults/readme.txt 3 -
+/iuhgfs.php 1 -
+/OrganizingTips.html 6 -
+/OrganizingYourHome.html 2 http://go.mail.ru/search_images
+/versions.php 1 organizingtoronto.com
+/professionalorganizers.html 4 http://go.mail.ru/search_images
+/wp-content/plugins/user-meta/readme.txt 5 -
+/wp-content/plugins/wp2android-turn-wp-site-into-android-app/readme.txt 2 -
+/wp-content/db_model.php 1 organizingtoronto.com
+/nimas.php 1 -
+/wp-content/plugins/mobile-app-builder-by-wappress/readme.txt 2 -
+/blog/carpentry-technique-organize-your-kitchen/www.googletagmanager.com/ns.html 2 -
+/tong.php 12 http://ORGANIZINGTORONTO.COM/tong.php
+/wp-includes/admin_login.php 2 http://organizingtoronto.com/wp-includes/admin_login.php
+/Wpwcwjqs.php 1 -
+/ToZWZ/Organizing.xml 1 -
+/wp-content/script.php 11 http://ORGANIZINGTORONTO.COM/wp-content/script.php
+/wp-content/plugins/wysija-newsletters/readme.txt 1 -
+/phpmyadmin/ 1 -
+/Organizing-blog.html 2 http://go.mail.ru/search_images
+/TPmkZ/ 1 http://cottagecountryorganizers.com
+/adminer-4.3.1.php 14 -
+/wp-content/plugins/clode/yt.php 1 organizingtoronto.com
+/wp-config.php~ 19 -
+/Dducfj.php 1 -
+/blog/page/2+order+by+999+--+ 1 -
+/blog/2015/07/ 5 -
+/ProfessionalOrganizer.html 19 http://organizingtoronto.com/ProfessionalOrganizer.html
+/YorkSimcoeProfessionalOrganizer.html 1 http://go.mail.ru/search_images
+/wp-content/themes/twentyfourteen/404.php 1 http://organizingtoronto.com/wp-content/themes/twentyfourteen/404.php
+/beta/wp-admin/setup-config.php 1 -
+/i0.wp.com 1 -
+/sidebar-widescreen.php 1 organizingtoronto.com
+/wp-content/uploader.php 1 http://organizingtoronto.com/wp-content/uploader.php
+/DeclutteringYourCloset.html 1 -
+/wp-content/plugins/user-photo/admin.css 4 -
+/wp-content/plugins/seo-spy-google-wordpress-plugin/readme.txt 3 -
+/cgi-bin/temp.php 2 organizingtoronto.com
+/cgi-bin/db_model.php 1 organizingtoronto.com
+/how-to-install-flashchat-free/temp/error.php 1 -
+/thumbnail.php 2 -
+/wp-content/plugins/nmedia-user-file-uploader/readme.txt 7 -
+/LockerOrganizationTips.html 1 -
+/cgi-bin/rnnvhs.php 1 organizingtoronto.com
+/wp-content/plugins/wp-symposium/server/php/yvFIHkIuIdbefH.php 1 -
+/EstateClearing.html 1 http://go.mail.ru/search_images
+/readme.html 1 -
+/xmlrpc/header_img.php.suspected 2 http://organizingtoronto.com/xmlrpc/header_img.php.suspected
+/ClosetOrganizingCompany.html 1 -
+/apple-touch-icon-152x152.png 1 -
+/gasetui.php 3 -
+/wp-content/plugins/ninja-forms/ninja_forms.php 4 -
+/organizingideas.html 2 -
+/inde.php 8 http://ORGANIZINGTORONTO.COM/inde.php
+/wp-content/plugins/developer-tools/readme.txt 3 -
+/as.php 1 -
+/wp-content/plugins/wpstorecart/lgpl.txt 3 -
+/gcheckout/popup-pomo.php 1 http://organizingtoronto.com/gcheckout/popup-pomo.php
+/wp-content/plugins/zen-mobile-app-native/readme.txt 2 -
+/OrganizingContainers.html 1 -
+/Boyces.php 2 -
+/wp-content/wordpress_cache.php.suspected 2 http://organizingtoronto.com/wp-content/wordpress_cache.php.suspected
+/wp-admin/system_cache.php 1 http://organizingtoronto.com/wp-admin/system_cache.php
+/site/wp-admin/setup-config.php 2 -
+/force-download.php 5 -
+/wp-content/indexx.php 1 -
+/wp-content/plugins/adminer/inc/editor/ 12 -
+/BathroomOrganization.html 2 http://go.mail.ru/search_images
+/wp-content/wp-content/logo_img.php.suspected 1 http://organizingtoronto.com/wp-content/wp-content/logo_img.php.suspected
+/temp.php 2 organizingtoronto.com
+/igz.php 2 -
+/ClosetOrganizing.html 2 http://go.mail.ru/search_images
+/McijZ/wp-config.php~ 1 http://organizingontario.com/McijZ/wp-config.php~
+/ProfessionalOrganizerCompanies.html 1 -
+/zoo.php 2 -
+/wp-content/themes/Avada/js/ 1 -
+/HowtoMakeaWebsite.html 1 -
+/wp-includes/css/maink.php 2 http://organizingtoronto.com/wp-includes/css/maink.php
+/wp-content/xmlrpc.php 1 organizingtoronto.com
+/HowtoOrganizeYourHouse.html 1 -
+/blog/page/2+and+3>4 1 -
+/wp-content/plugins/contact-form-maker/ 1 -
+/wp-includes/pomo/.dbmsc.php 3 http://organizingtoronto.com/wp-includes/pomo/.dbmsc.php
+/TipsforOrganizing.html 1 -
+/wologin.php 1 organizingtoronto.com
+/LockerOrganizers.html 1 -
+/Uncdsx.php 1 -
+/azra.php 1 -
+/wp-content/uploads/ 1 http://organizingtoronto.com/wp-content/uploads/
+/organizingonabudget.html 1 -
+/TorontoOrganizer.html 1 -
+/wp-content/uploads/_input_99_cache.php. 1 -
+/wp-content/plugins/another-wordpress-classifieds-plugin/AWPCP.po 4 -
+/wp-content/plugins/website-contact-form-with-file-upload/readme.txt 3 -
+/ProfessionalOrganizing.html 3 -
+/wp-content/themes/platform/admin/js/type.cufon.js 3 -
+/wp-content/plugins/zingiri-web-shop/admin.css 5 -
+/an$$99.php 2 -
+/wp-content/plugins/wp-homepage-slideshow/functions.php 5 -
+/Nex.php 2 -
+/language.php 1 -
+/LockerOrganization.html 2 -
+/MoveOrganizing.html 2 http://go.mail.ru/search_images
+/component/users/ 1 -
+/wp-content/plugins/disable-comments/logo_img.php.suspected 1 http://organizingtoronto.com/wp-content/plugins/disable-comments/logo_img.php.suspected
+/wp-content/themes/infocus/lib/scripts/dl-skin.php 5 -
+/ONpWZ/ 1 -
+/wp-admin/indsustem.php 6 -
+/wordpress/beta/wp-admin/setup-config.php 1 -
+/administrator/ 23 http://ORGANIZINGTORONTO.COM/administrator/
+/wp-init.php 1 -
+/HowtoOrganizeaCloset.html 1 -
+/WORDPRESS 8 -
+/network/popup-pomo.php 1 http://organizingtoronto.com/network/popup-pomo.php
+/.wp-config.php.swp 16 -
+/LockerOrganizer.html 2 -
+/wp-content/plugins/libravatar-replace/libravatar-replace.php 1 organizingtoronto.com
+/term/popup-pomo.php 2 http://organizingtoronto.com/term/popup-pomo.php
+/wp-content/plugins/custom-content-type-manager/index.html 5 -
+/Hyugfes.php 3 -
+/jingyan/temp/error.php 1 -
+/i2.wp.com 2 -
+/MjddZ/wp-content/plugins/premium-seo-pack/readme.txt 1 -
+/Tobeys.php 2 -
+/OrganizeHouse.html 1 http://go.mail.ru/search_images
+/wp-content/plugins/wptf-image-gallery/lib-mbox/ajax_load.php 5 -
+/wp-content/themes/avada/js/respond.min.js 1 -
+/ProfessionalOrganizerTraining.html 1 -
+/OrganizingPro.html 1 -
+/wp-content/uploads/news_parser.class.php 1 organizingtoronto.com
+/ONboZ/ 3 http://www.canadaone.com/business/index.html/CanadaOne/directory/map/p/1
+/blog/wp-admin/admin-ajax.php 4 -
+/themesa/popup-pomo.php 1 http://organizingtoronto.com/themesa/popup-pomo.php
+/blog/author/tony/ 3 http://go.mail.ru/search_images
+/sell.php 1 organizingtoronto.com
+/wp-content/plugins/woocommerce-catalog-enquiry/assets/frontend/js/chosen.js 9 -
+/wp-admin/js/system.php 2 http://organizingtoronto.com/wp-admin/js/system.php
+/statslive/popup-pomo.php 1 http://organizingtoronto.com/statslive/popup-pomo.php
+/wp-content/plugins/spamtask/readme.txt 3 -
+/wp-content/plugins/news_parser.class.php 1 organizingtoronto.com
+/assets/modules/evogallery/js/uploadify/uploadify.css 1 http://organizingtoronto.com/assets/modules/evogallery/js/uploadify/uploadify.css
+/wp-custom.php 1 organizingtoronto.com
+/wp-content/uploads/2015/09/new_up.php 9 http://www.google.com/
+/HomeOrganizer.html 1 -
+/wp-content/themes/twentytwelve/inc/main.php 1 http://organizingtoronto.com/wp-content/themes/twentytwelve/inc/main.php
+/bcvnmx.php 1 -
+/OrganizingCompany.html 1 -
+/wp-content/logo_img.php 2 http://organizingtoronto.com/wp-content/logo_img.php
+/Gshdva.php 3 -
+/mide.php 2 -
+/wp-content/plugins/premium-seo-pack/readme.txt 11 -
+/ProfessionalOrsionalOrganizing.html 1 -
+/ClosetOrganizationIdeas.html 1 -
+/OrganizingaGarage.html 1 -
+/HomeGarageOrganizer.html 3 http://organizingtoronto.com/HomeGarageOrganizer.html
+/TipstoGetOrganized.html 1 -
+/ 469 -
+/ClosetStorageSystem.html 1 -
+/wp/logo_img.php 1 http://organizingtoronto.com/wp/logo_img.php
+/wp-includes/admin_login.php.suspected 4 http://organizingtoronto.com/wp-includes/admin_login.php.suspected
+/HomeClosetOrganizer.html 1 -
+/wp-content/plugins/resume-submissions-job-postings/installer.php 4 -
+/mm5/admin.mvc 24 organizing-canada.com
+/wp-content/themes/construct/lib/scripts/dl-skin.php 5 -
+/wordpress 8 -
+/wp-content/themes/persuasion/lib/scripts/dl-skin.php 5 -
+/wp-content/plugins/webapp-builder/readme.txt 2 -
+/blog/author/tony/page/2/ 1 -
+/apple-touch-icon-precomposed.png 1 -
+/blog/2014/11/ 7 -
+/xmlrpc/system_infos.php.suspected 1 http://organizingtoronto.com/xmlrpc/system_infos.php.suspected
+/blog/page/2'+order+by+999+--+ 1 -
+/managera/popup-pomo.php 2 http://organizingtoronto.com/managera/popup-pomo.php
+/wp-content/plugins/wp-mobile-detector/cache/db.php 1 -
+/wp-includes/js/tinymce/langs/main.php 1 http://organizingtoronto.com/wp-includes/js/tinymce/langs/main.php
+/wp-includes/js/tinymce/themes/advanced/skins/default/class.php 2 http://organizingtoronto.com/wp-includes/js/tinymce/themes/advanced/skins/default/class.php
+/RZOUZ/GladiatorGarageworks.html 2 http://organizingtoronto.com/RZOUZ/GladiatorGarageworks.html
+/index.php/wp-json/wp/v2/posts 1 -
+/wp-content/uploads/yt.php 1 organizingtoronto.com
+/manager/popup-pomo.php 2 http://organizingtoronto.com/manager/popup-pomo.php
+/wp-content/themes/echelon/lib/scripts/dl-skin.php 5 -
+/wp-admin/logo_img.php 5 http://organizingtoronto.com/wp-admin/logo_img.php
+/OrganizeCloset.html 1 http://go.mail.ru/search_images
+/wp-content/themes/Melos_Pro/lib/scripts/dl-skin.php 5 -
+/ProfessionalOrganizerBusiness.html 2 -
+/wp-content/plugins/wp-mobile-detector/admin/css/style.css 1 http://cottagecountryorganizers.com/wp-content/plugins/wp-mobile-detector/admin/css/style.css
+/searchreplacedb2.php 16 http://torontohomeorganizers.com/searchreplacedb2.php
+/Oxcdnv.php 2 -
+/professionalorganizer.html 1 -
+/wp-content/plugins/formcraft/file-upload/server/php/upload.php 1 -
+/wp-includes/Text/Tiff.php 2 http://organizingtoronto.com/wp-includes/Text/Tiff.php
+/wp-includes/logo_img.php.suspected 1 http://organizingtoronto.com/wp-includes/logo_img.php.suspected
+/customizer.php 1 organizingtoronto.com
+/lol.php 1 -
+/wp-config.php.tmp 12 -
+/wp-content/uploads/sidebar-widescreen.php 1 organizingtoronto.com
+/wp-content/themes/versatile/lib/scripts/dl-skin.php 5 -
+/error-logs.php 14 http://ORGANIZINGTORONTO.COM/error-logs.php
+/wp-content/plugins/wp-e-commerce/license.txt 5 -
+/wp-content/plugins/asgaros-forum/skin/style.css 3 -
+/cgi-bin/yt.php 1 organizingtoronto.com
+/optionsa/popup-pomo.php 2 http://organizingtoronto.com/optionsa/popup-pomo.php
+/torontogarageorganization.html 1 -
+/wp-content/plugins/db_model.php 1 organizingtoronto.com
+/blog/beta/wp-admin/setup-config.php 1 -
+/wp-includes/js/tinymce/utils/main.php 1 http://organizingtoronto.com/wp-includes/js/tinymce/utils/main.php
+/wp-includes/js/tinymce/themes/advanced/skins/highcontrast/class.php 3 http://organizingtoronto.com/wp-includes/js/tinymce/themes/advanced/skins/highcontrast/class.php
+/wp-post.php 3 organizingtoronto.com
+/WKifZ/ 1 -
+/HomeOrganizationTips.html 3 -
+/Media.html 1 -
+/options/popup-pomo.php 3 http://organizingtoronto.com/options/popup-pomo.php
+/includesa.php 2 -
+/Matsn.php 1 -
+/used.php 1 -
+/OrganizingIdeas.html 1 -
+/dep.php 1 -
+/wp-content/themes/twentyfourteen/4sdfd04.php 1 http://organizingtoronto.com/wp-content/themes/twentyfourteen/4sdfd04.php
+/wp-content/plugins/wp-property/action_hooks.php 5 -
+/db_model.php 1 organizingtoronto.com
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 2499
+192.186.201.198 13121 13123 62754 20170831235529
+67.70.37.17 109 317 5491391 20170806202100
+158.69.118.70 99 99 6132891 20170823071823
+46.161.9.39 97 97 3926048 20170827144804
+188.165.234.52 94 94 6590240 20170823001130
+188.165.233.34 94 94 6590247 20170809032534
+108.63.115.85 69 174 3734366 20170806095133
+76.67.134.157 65 253 2622271 20170828190414
+37.17.172.122 58 58 769221 20170801072228
+46.119.63.158 54 54 2180689 20170822030252
+84.109.137.242 52 52 799039 20170814074628
+158.69.228.184 49 1301 6076712 20170818222658
+58.97.8.10 47 58 3138042 20170831120614
+99.225.129.220 47 279 6359007 20170820124141
+46.118.153.31 45 45 2983029 20170828124749
+46.161.9.57 41 41 2691012 20170816051532
+178.159.37.56 38 38 2774449 20170831072955
+70.35.170.4 38 134 3220057 20170815122742
+54.241.155.9 38 38 199714 20170816065214
+185.93.183.215 36 36 2745586 20170806225431
+149.202.157.216 33 33 464475 20170831100734
+195.225.231.222 32 32 1308291 20170819231014
+173.230.190.5 30 123 3274469 20170829204548
+5.104.241.128 28 28 197018 20170827060712
+118.211.101.208 27 124 3542847 20170820163055
+188.226.168.93 1 1 1 20170830121222
+174.119.11.78 10 99 2841388 20170815133932
+114.125.59.187 0 1 138949 
+52.71.64.37 1 1 61976 20170802074428
+14.192.214.64 2 2 9140 20170825074309
+37.115.196.168 4 4 292018 20170809195229
+216.218.222.12 1 1 448 20170812001314
+91.210.147.70 1 1 14122 20170807063433
+67.141.131.18 0 1 140050 
+174.117.51.163 1 1 14120 20170805102922
+54.219.78.89 5 5 70395 20170809160556
+41.215.2.98 1 1 445 20170818174109
+90.230.97.32 1 1 446 20170802043546
+46.242.63.61 2 2 146008 20170827075052
+54.200.204.159 1 1 14120 20170805045646
+47.63.126.229 1 1 61938 20170815225516
+54.172.3.143 4 4 56488 20170808021505
+162.158.64.231 0 1 59620 
+54.219.221.236 1 1 14035 20170802223153
+202.142.67.157 2 2 9141 20170817064510
+107.179.151.5 9 95 2818489 20170826191130
+157.49.7.235 2 2 9141 20170811220857
+95.78.80.124 1 1 14120 20170816115522
+91.210.146.0 2 2 16876 20170820222627
+194.28.115.228 10 10 13772 20170816112216
+69.58.178.57 12 12 725607 20170802164146
+129.56.10.18 2 2 9140 20170809124605
+179.43.159.242 2 2 146010 20170806031110
+148.251.90.10 1 1 14141 20170803082518
+91.200.12.60 1 1 21 20170801221149
+185.70.186.146 1 1 14120 20170828222811
+76.9.206.254 8 96 2805499 20170830093851
+54.67.68.230 8 8 115372 20170815123601
+187.53.252.156 1 1 448 20170805190541
+197.38.179.164 1 1 448 20170813214323
+192.0.91.155 0 14 597630 
+85.138.232.71 2 2 70364 20170807203845
+191.7.82.2 1 1 444 20170805141259
+114.221.125.80 1 1 14120 20170831081849
+173.209.212.148 0 11 112886 
+105.226.124.84 1 1 14140 20170803143713
+80.214.69.96 1 1 446 20170823132537
+192.3.151.132 1 1 61938 20170809233049
+219.64.178.229 2 2 9140 20170807232028
+54.237.216.222 3 3 42361 20170807020415
+204.79.180.2 2 44 228616 20170816135958
+209.59.186.17 3 3 28448 20170810121208
+89.37.118.181 1 1 447 20170817105804
+107.150.80.72 3 85 543467 20170812082646
+123.126.113.161 6 6 84745 20170827215559
+103.255.7.2 1 1 445 20170818092709
+178.17.170.194 2 2 146081 20170829105151
+52.21.173.16 1 1 16333 20170804180513
+41.59.81.75 2 2 9140 20170824062619
+195.22.126.22 4 4 292115 20170830021705
+54.215.52.2 2 2 28158 20170810143809
+186.77.147.115 2 2 9140 20170801053639
+149.248.178.107 13 117 878506 20170819110722
+192.0.85.89 0 7 491612 
+216.158.215.202 1 1 14122 20170808190911
+54.174.217.21 1 1 14139 20170801014752
+192.0.88.49 0 3 128886 
+192.0.102.50 0 16 602333 
+94.226.156.76 1 1 447 20170803091413
+173.205.33.23 1 1 71107 20170804203605
+117.198.87.86 1 1 447 20170819131527
+209.150.144.10 4 4 18280 20170816115932
+204.79.180.15 0 34 91362 
+41.45.136.70 1 1 61938 20170809070530
+199.7.157.13 11 96 2828191 20170808141815
+109.175.97.118 2 2 9140 20170812124509
+117.214.39.16 1 1 447 20170811092155
+192.0.118.114 0 1 32682 
+156.199.152.32 2 2 9140 20170824132006
+204.13.201.137 2 2 123876 20170826101436
+109.62.187.14 1 1 447 20170825121119
+192.0.102.52 0 12 1121641 
+79.151.162.211 2 2 70364 20170830044854
+46.139.87.221 1 1 447 20170824235623
+220.181.108.118 0 1 4502 
+174.93.114.230 1 1 16333 20170804182124
+83.220.45.3 1 1 2789 20170828202700
+66.135.110.242 6 91 2758488 20170823101410
+185.164.104.75 3 3 17878 20170818040952
+173.20.177.208 0 1 55924 
+76.224.168.150 0 1 120734 
+89.144.15.126 1 1 61938 20170822194859
+34.203.204.58 1 1 14120 20170806013955
+62.4.180.220 2 2 9140 20170803091337
+94.93.163.22 1 1 61938 20170822174214
+99.225.92.68 15 111 2925920 20170822162226
+189.156.114.163 0 1 120734 
+78.166.71.88 1 1 446 20170807023114
+168.194.160.89 1 1 448 20170817215950
+168.194.161.29 2 2 9140 20170801174501
+8.21.198.221 2 2 26753 20170819005332
+166.170.14.126 0 3 138949 
+78.129.221.44 2 2 9140 20170813024420
+154.16.49.26 4 4 292198 20170828190603
+95.168.196.25 1 1 61938 20170823124813
+193.10.72.211 0 1 138949 
+8.21.198.47 1 1 16576 20170809132545
+119.156.104.159 1 1 449 20170811040337
+35.199.153.93 6 258 8122633 20170822212109
+49.203.248.6 2 2 9140 20170805091641
+100.0.166.73 5 87 569668 20170808051348
+27.34.90.152 2 2 9140 20170803043840
+78.160.124.78 1 1 447 20170816054113
+54.177.222.158 11 11 154693 20170811022259
+63.92.230.41 1 2 36435 20170831140545
+52.71.155.178 5 6 326737 20170823092348
+54.89.45.183 1 1 14121 20170807214133
+198.208.72.11 0 1 55924 
+92.4.161.109 2 2 9141 20170821054229
+85.201.128.159 1 1 448 20170815144527
+185.36.102.114 18 18 1324063 20170831074820
+131.253.25.92 0 1 3730 
+84.92.103.42 1 1 446 20170823033444
+151.68.17.243 2 2 9140 20170824105213
+54.241.215.106 1 1 14035 20170802072049
+36.78.169.36 1 1 14120 20170816003345
+84.126.210.24 1 1 447 20170825152327
+34.229.245.132 1 1 14142 20170802014025
+96.46.21.123 3 90 2713471 20170829221036
+27.62.17.150 2 2 9140 20170808034642
+192.3.145.102 1 1 61938 20170815184354
+52.10.93.85 2 2 28243 20170821143823
+118.70.185.198 2 2 9140 20170822000748
+24.137.195.243 1 1 16335 20170805062427
+99.228.224.83 4 77 531184 20170807160442
+41.210.223.10 1 1 14121 20170831070902
+54.89.132.112 1 1 14122 20170808020131
+74.73.172.115 1 1 61976 20170804165909
+180.191.150.62 3 3 17877 20170819035909
+194.187.170.130 2 2 30742 20170831201548
+99.236.82.152 6 90 600555 20170805043143
+112.5.238.251 1 1 14085 20170808061853
+8.29.198.26 12 12 168860 20170828095440
+189.27.53.39 2 2 9140 20170822144028
+75.83.38.24 2 2 9140 20170814220335
+88.27.230.250 1 1 447 20170807003723
+54.205.29.59 1 1 14079 20170821181922
+52.3.242.110 1 1 14122 20170808015621
+122.56.4.8 0 1 55924 
+37.228.251.88 1 1 447 20170822151049
+80.14.91.141 3 5 29272 20170802171703
+54.191.127.118 6 6 84717 20170805013933
+162.247.72.199 1 1 14118 20170818083701
+204.79.180.8 2 47 231497 20170831005743
+203.87.133.147 1 1 8737 20170814071249
+167.92.67.10 3 46 1984251 20170817081657
+2.60.73.171 1 1 2792 20170829112102
+81.204.188.53 1 1 447 20170803213006
+173.209.212.149 1 28 732091 20170824054727
+51.254.168.33 14 14 197106 20170831050547
+173.34.134.93 15 102 2884576 20170820162333
+34.207.170.99 1 1 16675 20170812032453
+209.171.44.8 1 1 14120 20170807145232
+109.252.68.175 1 1 2788 20170828082638
+41.47.91.31 2 2 9140 20170821210759
+206.41.183.139 1 1 61938 20170824122003
+196.221.34.177 2 2 9140 20170804031713
+192.0.118.212 0 5 308031 
+118.101.223.65 2 2 9140 20170804064504
+223.72.75.31 0 1 55924 
+184.151.179.79 7 86 2746044 20170805132226
+123.125.67.206 0 1 172 
+220.181.108.149 0 1 9802 
+205.210.132.6 8 93 2780323 20170816085410
+76.71.112.70 5 87 574878 20170804052025
+154.16.49.29 4 4 292125 20170824233641
+54.149.152.72 9 9 119617 20170811054144
+52.11.203.152 16 16 654144 20170811054655
+84.115.65.0 2 2 9140 20170821153538
+52.210.126.111 1 1 14119 20170830182739
+117.201.33.0 1 1 446 20170818203628
+31.209.98.191 1 1 447 20170818003532
+92.97.85.211 1 1 446 20170819010203
+84.117.247.61 1 1 447 20170817065003
+104.227.54.158 1 1 11873 20170807114826
+160.120.30.251 1 1 448 20170804094010
+190.202.175.44 2 2 9141 20170809202135
+66.43.52.88 1 1 0 20170820182753
+157.49.2.217 2 2 9140 20170823103059
+107.152.203.58 1 1 11871 20170831105800
+2.93.180.135 18 18 726893 20170825140017
+106.76.208.196 1 1 448 20170810073527
+24.44.75.85 3 87 2700023 20170809182613
+46.0.193.130 7 7 98834 20170816065205
+117.246.59.222 1 1 14118 20170816003440
+112.203.177.81 2 2 9140 20170818181351
+113.203.206.182 2 2 9140 20170822090352
+86.142.111.200 1 1 206 20170831123823
+138.197.111.85 2 45 231515 20170804090528
+178.184.0.90 1 1 2791 20170828221754
+122.180.85.131 1 1 448 20170816195017
+219.91.166.152 1 1 448 20170815120826
+174.118.97.56 3 82 2676046 20170814062930
+195.22.126.21 4 4 292285 20170818195223
+106.67.90.163 3 3 17877 20170812112811
+138.197.96.215 4 90 462945 20170823082240
+52.206.255.254 1 1 14142 20170802113726
+186.2.186.167 1 1 447 20170802235155
+177.125.74.113 1 1 448 20170824045518
+209.213.251.153 1 1 16334 20170805212056
+192.0.91.101 0 2 61778 
+49.228.225.60 2 2 146009 20170824041424
+76.102.53.102 1 1 447 20170816073005
+54.84.177.170 1 1 15264 20170810183125
+192.0.86.143 0 4 228846 
+173.34.23.185 5 84 2704278 20170827200001
+93.116.230.66 1 1 447 20170814115542
+109.188.124.0 1 1 2790 20170829031257
+76.71.140.68 8 92 2796163 20170813094002
+50.100.91.164 3 82 2676044 20170824004238
+81.213.184.188 2 2 9140 20170823045832
+85.143.218.11 6 6 84712 20170818184156
+108.249.36.23 5 87 575476 20170803180115
+176.126.252.12 2 2 87198 20170824200515
+54.205.43.185 1 1 14121 20170805014240
+192.0.112.18 0 1 73807 
+46.189.151.222 1 1 61938 20170822034248
+46.191.210.105 1 1 2789 20170828211619
+61.0.70.24 1 1 444 20170811214253
+105.103.23.231 1 1 448 20170824025259
+156.210.181.130 1 1 403 20170811064713
+8.21.198.52 1 1 15164 20170806104319
+34.228.197.185 1 1 60106 20170808235655
+166.62.85.146 10 10 0 20170830001654
+112.200.96.248 1 1 448 20170808080645
+185.8.107.161 18 18 726893 20170816202625
+194.187.170.141 13 13 189738 20170816065435
+39.46.90.60 1 1 445 20170809100854
+112.134.66.35 1 1 447 20170816173752
+189.216.73.65 0 1 120734 
+200.111.157.242 3 5 29228 20170817041007
+188.82.236.99 1 1 447 20170818092910
+112.134.45.64 2 2 9140 20170813020915
+119.152.85.180 2 2 9140 20170825002949
+122.171.177.134 1 1 449 20170807102121
+54.227.122.134 3 3 42424 20170803014228
+91.211.57.13 1 1 2789 20170828220615
+192.0.114.18 0 6 343097 
+181.112.110.147 2 2 16854 20170801121551
+103.40.132.18 1 1 61976 20170801134326
+131.253.25.91 2 2 827 20170803043819
+117.196.133.43 2 2 9140 20170803214332
+99.250.55.32 6 92 607091 20170805083143
+109.184.152.112 1 1 2791 20170829005915
+213.248.211.194 2 2 14141 20170801060110
+197.249.198.233 1 1 449 20170824215439
+192.0.86.187 0 14 685338 
+193.125.6.53 1 1 446 20170820001229
+41.142.197.113 1 1 8738 20170814135539
+54.157.180.90 1 1 14086 20170810081647
+192.0.118.209 0 7 413501 
+118.140.38.2 2 2 28262 20170814154246
+78.109.24.135 2 2 28243 20170809054957
+31.5.209.6 2 2 9140 20170818104656
+54.90.45.71 2 2 28174 20170822034738
+177.58.238.79 1 1 447 20170804141431
+213.203.223.224 3 3 28448 20170810151740
+69.171.209.182 1 1 14120 20170828163357
+138.197.207.243 3 3 42354 20170816185138
+120.29.100.153 1 1 448 20170823084029
+110.36.237.218 1 1 448 20170818030321
+41.138.39.137 1 1 447 20170817152811
+5.104.241.123 20 20 140746 20170828060734
+151.26.1.216 1 1 446 20170824001559
+123.231.107.151 2 2 9140 20170811024730
+72.44.22.99 2 2 9140 20170824160719
+92.246.211.233 1 1 2789 20170828203613
+89.249.64.179 18 18 1372792 20170819024746
+188.187.44.113 1 1 2791 20170829032808
+174.112.138.103 3 87 2700013 20170816071945
+180.246.242.99 2 2 9140 20170822124549
+34.212.126.203 1 1 14122 20170812075612
+138.197.88.79 1 1 61938 20170814194241
+188.132.244.229 2 2 498 20170823024256
+192.0.112.82 0 3 339324 
+99.224.97.133 4 77 523353 20170813170638
+141.117.7.147 25 136 3244806 20170824113336
+154.242.245.91 1 1 448 20170812080124
+198.240.69.83 1 1 61938 20170819105128
+49.144.198.216 1 1 448 20170820083006
+34.230.77.28 7 7 113020 20170810183123
+38.145.87.67 1 1 14119 20170817045218
+151.53.21.56 1 1 446 20170824144452
+72.52.75.27 2 2 73486 20170817073238
+213.87.159.109 1 1 14139 20170803143708
+99.249.157.70 10 10 114872 20170801081948
+131.170.239.15 2 2 9140 20170813020916
+195.154.178.215 2 2 146101 20170802035047
+69.165.148.29 1 1 16334 20170804195825
+66.70.191.5 18 18 726891 20170827054343
+52.51.180.204 12 12 83850 20170831122528
+106.51.153.249 1 1 448 20170814084350
+39.40.243.189 2 2 9140 20170823095740
+8.21.198.207 1 1 13185 20170831213352
+192.0.116.210 0 2 239709 
+27.2.89.209 1 1 445 20170807203344
+66.249.80.62 1 4 72026 20170804181517
+24.114.76.57 3 84 2714728 20170818183231
+79.25.130.215 1 1 447 20170806021512
+95.32.20.28 0 1 103228 
+110.55.235.27 2 2 9141 20170820043554
+194.44.128.155 1 1 2792 20170828124744
+103.78.180.36 1 1 447 20170809205530
+31.11.128.140 1 1 447 20170803140902
+142.114.218.133 11 96 2816932 20170812080604
+47.153.190.78 4 4 292019 20170822202705
+199.167.110.10 13 103 2905827 20170823185826
+65.94.96.38 3 82 2675975 20170823201114
+1.52.190.166 2 2 9141 20170822233357
+39.50.249.196 1 1 447 20170810123224
+45.249.252.39 2 2 9140 20170804011222
+45.64.239.159 2 2 9140 20170803063644
+192.0.118.180 0 8 101688 
+189.217.99.71 1 1 447 20170811095538
+65.92.152.98 8 93 2785297 20170823072905
+109.121.162.251 7 7 57439 20170801200737
+192.0.99.227 0 20 1651378 
+193.107.85.62 1 1 447 20170824070722
+192.0.102.68 0 12 2977889 
+192.0.99.179 0 15 753732 
+192.0.102.72 0 19 599831 
+99.229.205.77 15 101 2868051 20170831090133
+86.110.116.119 5 5 70605 20170830223706
+66.249.80.60 0 3 9309 
+54.237.194.25 2 2 28284 20170802014205
+38.131.152.67 1 1 14119 20170818205639
+41.248.139.93 2 2 9140 20170815112656
+5.169.37.255 2 2 9140 20170818072826
+52.8.68.197 2 2 123876 20170809214839
+24.114.64.101 0 1 22351 
+192.0.86.104 0 2 178890 
+192.0.100.179 0 27 1066381 
+217.24.160.50 1 1 73005 20170822143245
+69.159.21.69 3 86 2698961 20170808112418
+191.101.96.243 1 1 14122 20170812144238
+51.254.140.35 2 2 123876 20170813002443
+52.4.244.57 2 2 123952 20170802084432
+70.182.248.142 0 1 55924 
+99.248.23.69 22 110 3043521 20170807180520
+176.126.252.11 1 1 448 20170819190510
+105.104.70.218 2 2 9140 20170801052229
+192.0.113.52 0 6 415994 
+80.252.171.67 1 1 14079 20170814210139
+95.76.0.91 1 1 444 20170817224411
+204.79.180.19 1 20 95630 20170829001758
+104.200.39.58 1 1 14119 20170817204403
+204.79.180.3 3 36 171431 20170831005753
+204.79.180.20 0 15 72503 
+95.87.154.242 20 20 144746 20170831232729
+203.160.112.155 1 1 449 20170808012938
+90.92.69.149 1 1 446 20170813052351
+173.35.72.148 16 109 2945151 20170829140827
+192.0.118.148 0 2 500562 
+45.72.254.192 16 110 2965093 20170802203619
+217.155.205.251 20 20 1305852 20170818113913
+80.252.171.70 1 1 14079 20170828114359
+201.18.18.173 2 2 62983 20170818160654
+180.178.179.56 1 1 61976 20170801200514
+177.80.156.69 1 1 447 20170822084535
+65.95.222.26 3 84 2714721 20170814194008
+99.249.113.2 1 1 16332 20170804182435
+185.175.158.223 1 1 8738 20170824004955
+85.97.19.106 2 2 9140 20170806015515
+175.138.156.222 2 2 9140 20170825001755
+54.90.16.226 1 1 14086 20170825112210
+173.252.108.115 0 13 59845 
+186.67.210.119 1 1 448 20170802083811
+172.58.111.213 0 1 55924 
+43.250.40.6 2 2 9140 20170810030308
+35.167.16.241 1 1 61938 20170814142204
+54.177.167.221 2 2 28158 20170816141505
+54.175.91.34 1 1 0 20170814124214
+66.240.236.119 1 1 61938 20170827135820
+181.74.131.17 1 1 447 20170817060514
+31.173.85.108 1 1 2788 20170828230728
+54.145.93.115 2 2 28240 20170805014215
+34.203.247.81 1 1 14122 20170809140232
+54.90.27.246 1 1 14079 20170807023610
+8.21.198.93 2 2 33223 20170809132613
+185.38.14.215 1 1 73004 20170808213249
+173.252.92.117 1 14 49263 20170811174418
+79.75.162.210 2 2 9140 20170822031828
+104.153.227.133 10 217 7927555 20170831132520
+106.208.187.109 2 2 9140 20170801115610
+54.165.80.58 3 3 42361 20170809132329
+103.220.33.20 2 2 9140 20170825014330
+88.150.210.64 1 1 16775 20170827235414
+41.13.116.148 6 93 624404 20170821002714
+178.212.75.138 1 1 2791 20170829044413
+69.159.22.125 3 3 28161 20170823145249
+54.82.44.18 3 3 42253 20170824161115
+41.75.222.248 1 1 447 20170804204230
+5.248.249.73 3 3 221894 20170801213045
+99.236.115.163 9 96 2801617 20170806131923
+190.78.20.125 1 1 206 20170828131056
+112.5.238.28 1 1 14119 20170813234033
+216.239.90.19 2 2 146079 20170812150337
+191.112.130.9 1 1 447 20170825084304
+202.213.183.1 1 1 447 20170810053040
+99.228.179.166 11 96 2808407 20170830202905
+41.98.97.110 2 2 9140 20170808132239
+178.79.57.73 2 2 9140 20170806034822
+8.29.198.27 13 13 183027 20170831095512
+173.238.168.71 6 90 600559 20170805045230
+138.197.111.49 2 45 231475 20170826171344
+180.87.245.224 2 2 114806 20170823082549
+37.59.35.90 3 3 185814 20170827053440
+173.33.162.213 7 90 2758634 20170802124059
+54.219.207.214 5 5 70395 20170811145039
+99.232.93.144 6 68 367619 20170830163333
+95.57.27.184 1 1 2792 20170828204621
+54.208.248.175 6 258 8122633 20170822141654
+213.242.16.66 4 4 292020 20170826005801
+212.129.16.248 4 4 65664 20170814035545
+122.176.39.89 1 1 447 20170809235511
+35.192.217.81 5 5 72421 20170815054548
+144.217.33.52 1 1 73004 20170814045910
+112.5.234.90 1 1 14142 20170802100451
+179.180.208.84 1 1 448 20170803134249
+123.125.71.42 0 1 56484 
+31.1.187.149 1 1 61938 20170811184706
+49.144.180.235 2 2 9140 20170812023856
+192.0.117.242 0 7 442001 
+54.219.71.131 1 1 14035 20170801024309
+65.95.161.2 6 90 2732575 20170810100513
+41.96.113.75 2 2 9140 20170822072938
+76.64.36.222 3 87 2726162 20170828142032
+190.13.54.189 0 1 120734 
+213.111.213.2 4 4 292017 20170820043039
+93.34.234.127 1 1 447 20170813145314
+203.192.236.85 7 90 2747283 20170829004743
+54.90.64.204 3 69 344294 20170831181005
+187.182.89.169 1 1 448 20170811111835
+45.79.177.198 1 1 14139 20170803143709
+35.163.58.250 1 1 61938 20170808040250
+106.51.64.29 3 5 29232 20170820180301
+185.30.91.128 2 2 9140 20170824112802
+112.5.236.31 1 1 14085 20170810010136
+46.161.9.56 2 2 146009 20170813033934
+187.212.196.75 1 1 2589 20170813200559
+186.176.90.245 1 1 448 20170812045856
+54.176.212.147 3 3 42237 20170827032707
+36.73.195.219 2 2 9140 20170822195927
+171.99.190.30 1 1 8117 20170801121443
+189.166.5.40 2 2 9141 20170814183909
+46.175.134.238 1 1 2786 20170828081236
+84.15.33.126 2 2 9140 20170807071858
+174.223.3.152 2 2 9140 20170825085837
+43.251.91.49 2 2 9140 20170822003150
+37.46.41.80 1 1 445 20170813082328
+99.234.46.173 1 1 13200 20170806102544
+188.213.134.136 1 1 14117 20170815014454
+34.210.208.108 2 2 123876 20170814144801
+40.124.14.162 12 12 159905 20170824061419
+160.176.40.207 1 1 448 20170824155423
+197.157.145.109 2 2 70364 20170829002324
+99.255.9.29 3 87 2682420 20170829033101
+139.59.149.99 1 1 14121 20170826101916
+99.229.92.52 7 86 2746042 20170822135948
+62.210.138.75 2 45 231474 20170823222452
+31.185.104.19 2 2 28242 20170805015241
+135.23.90.206 12 100 2859167 20170811144827
+8.21.198.225 4 4 61055 20170828165904
+192.0.100.74 4 4 734 20170815153527
+173.33.110.110 1 1 16337 20170807201137
+123.0.16.10 1 1 403 20170811064035
+105.108.147.43 2 2 9140 20170803060629
+88.99.141.3 1 1 14123 20170807160447
+109.252.73.86 1 1 2790 20170829024313
+49.44.51.173 2 2 9140 20170805023300
+5.12.85.216 1 1 445 20170813212647
+197.44.25.29 1 1 446 20170821073117
+27.67.46.7 2 2 9140 20170825073910
+176.14.225.146 1 1 2789 20170828233240
+41.226.195.38 1 1 447 20170823152704
+27.57.187.139 2 2 9140 20170817104225
+54.218.94.28 2 2 28282 20170802174640
+90.89.192.226 1 1 447 20170822080851
+175.158.232.112 1 1 449 20170806085757
+192.0.102.24 0 15 705257 
+192.0.99.178 0 11 920033 
+103.57.134.20 2 2 9140 20170816073550
+66.249.85.22 0 1 120734 
+85.248.227.163 1 1 73073 20170831023357
+120.92.32.141 1 3 51709 20170831231418
+54.242.121.88 2 2 28245 20170809142414
+192.0.113.18 0 1 156909 
+196.75.195.41 2 2 9140 20170809082558
+209.99.133.128 1 1 61976 20170802121458
+54.236.17.3 1 1 14119 20170806013930
+199.249.223.68 1 1 448 20170803194344
+192.0.85.91 0 15 1481836 
+54.172.175.182 2 2 28284 20170803014800
+188.165.197.58 4 4 56479 20170829145216
+212.178.246.36 1 1 448 20170805175639
+65.19.167.132 1 1 73086 20170823131809
+34.224.29.26 1 1 57005 20170809070512
+52.201.94.156 1 1 14122 20170809142240
+62.113.208.201 2 2 496 20170828015805
+54.146.187.20 1 1 14044 20170802142834
+131.253.25.70 2 50 250119 20170812014045
+54.88.7.105 1 1 14141 20170803013600
+137.97.9.76 2 2 70364 20170827192304
+173.34.78.63 4 81 570210 20170816203722
+174.115.131.93 4 89 2715338 20170830075530
+31.46.229.129 1 1 14118 20170815043628
+43.241.195.91 2 2 9141 20170820202844
+8.21.198.49 3 3 49245 20170819212219
+124.124.238.41 1 1 448 20170807213343
+95.79.13.99 4 4 292106 20170815235429
+103.215.55.84 2 2 9141 20170821042853
+36.255.84.131 2 2 70675 20170804235255
+99.228.185.230 1 74 453298 20170814073958
+34.229.223.165 1 1 14121 20170806004710
+162.158.65.21 0 1 59620 
+192.0.113.49 0 4 786861 
+85.1.113.193 1 1 446 20170810074944
+46.99.18.250 2 2 8829 20170805113402
+181.91.30.255 1 1 447 20170811071339
+173.33.189.121 3 79 2671812 20170830221151
+47.8.10.62 2 2 9140 20170821110853
+146.185.223.151 20 20 1460093 20170821131728
+79.110.130.127 2 2 146009 20170830170233
+189.111.205.188 2 2 9141 20170810070646
+51.254.168.34 18 18 253248 20170830085924
+162.158.64.68 0 1 59620 
+192.0.99.34 0 44 1179351 
+157.50.13.104 2 2 9140 20170816080717
+192.0.118.81 0 11 671255 
+192.0.116.50 0 6 84585 
+156.205.219.177 1 1 449 20170817033454
+204.79.180.16 2 33 149663 20170829230644
+54.89.6.109 1 1 14142 20170803015500
+106.209.201.19 1 1 448 20170808003622
+93.120.249.240 4 4 279055 20170824015221
+8.40.206.1 0 1 120734 
+192.0.101.238 0 16 2101016 
+162.244.35.14 14 14 205683 20170830191912
+46.39.230.108 22 22 1249716 20170805131620
+39.60.160.30 2 2 9140 20170818120139
+173.252.108.112 0 22 67854 
+192.0.86.164 0 5 433471 
+223.29.226.138 1 1 61976 20170801095406
+70.24.48.54 7 92 2867850 20170803103441
+92.27.74.204 1 1 446 20170812173438
+88.108.89.192 0 1 55924 
+93.72.51.208 1 1 73005 20170817072341
+37.59.4.151 1 1 14122 20170810124149
+123.143.201.76 0 1 59620 
+91.235.128.20 8 8 112969 20170823063020
+192.0.84.123 0 7 780381 
+52.91.237.109 1 1 14121 20170808015655
+192.0.99.203 0 30 2684985 
+70.29.101.242 8 82 600589 20170822163804
+147.135.137.81 2 2 28243 20170825213245
+192.0.102.96 0 19 2130376 
+87.117.14.216 1 1 2792 20170828113006
+94.253.12.194 1 1 2792 20170828074243
+109.255.238.67 2 2 9140 20170805004700
+103.213.130.41 1 1 448 20170823201742
+179.180.58.106 1 1 448 20170814222016
+185.162.1.43 2 2 9140 20170812064815
+46.32.121.35 2 2 9141 20170816212940
+37.220.35.202 1 1 14142 20170802213159
+185.80.166.88 1 1 447 20170825050411
+192.0.116.212 0 11 1188849 
+193.201.225.139 3 3 216352 20170821203848
+104.207.150.177 1 1 61938 20170831234204
+54.201.143.242 1 1 71107 20170804180510
+115.134.228.113 1 1 449 20170820163548
+54.242.3.221 2 63 294134 20170831181329
+182.74.243.43 1 1 61938 20170825044339
+192.160.102.170 3 3 146637 20170803122720
+106.38.35.130 0 1 55924 
+204.236.157.249 5 5 70219 20170819200341
+179.42.240.57 1 1 447 20170814212646
+131.253.25.77 0 17 66895 
+45.127.165.41 5 88 570857 20170819192336
+112.204.44.159 2 2 9140 20170816195356
+54.234.226.228 2 2 28172 20170827140218
+54.91.92.15 1 1 14118 20170817092751
+34.229.133.154 3 3 42364 20170807015736
+41.109.70.98 1 1 446 20170815090641
+49.146.40.126 2 2 9140 20170824092044
+52.90.210.46 6 258 8122638 20170822224554
+66.249.82.82 1 30 214740 20170810192505
+80.62.116.102 2 2 9140 20170823065238
+128.71.214.101 2 2 146010 20170808001400
+200.30.250.108 1 1 448 20170811082007
+99.236.254.191 3 88 2701260 20170803055342
+34.207.182.149 0 1 49701 
+99.255.168.215 17 114 2941926 20170817012259
+37.59.55.128 1 1 61938 20170815010327
+5.254.79.66 3 3 42360 20170826020230
+99.230.191.192 3 88 2708740 20170807090547
+195.154.211.207 4 4 292248 20170821021203
+68.56.219.118 0 1 55924 
+41.82.220.161 1 1 14121 20170829073900
+112.169.14.24 2 2 9140 20170801154948
+197.3.148.173 1 1 447 20170817152158
+149.140.224.49 1 1 14141 20170803143707
+103.56.253.136 1 1 8738 20170812110644
+186.1.81.71 1 1 445 20170802181504
+99.247.140.106 3 82 2676083 20170802221642
+220.181.108.180 0 1 6188 
+206.174.3.99 0 1 55924 
+125.209.72.252 0 1 55924 
+213.175.45.7 1 1 446 20170809023016
+8.21.198.13 1 1 13309 20170820180743
+93.188.37.174 6 6 438213 20170813040338
+185.128.37.211 1 1 448 20170812110552
+192.0.102.94 0 26 1193330 
+171.50.144.79 2 2 9140 20170810113225
+212.252.164.149 2 2 9141 20170812012819
+52.53.225.202 0 2 44702 
+131.253.25.71 2 2 829 20170815233708
+192.0.116.113 0 3 368056 
+201.230.248.193 2 2 9140 20170820074505
+79.111.136.216 2 2 146009 20170806234323
+112.200.200.145 5 87 569666 20170824060603
+103.54.97.11 2 2 9141 20170825143314
+51.37.30.127 1 1 446 20170823080057
+1.32.22.59 1 1 444 20170804081215
+35.166.243.204 1 1 14123 20170812194025
+182.185.91.113 2 2 9140 20170809035859
+60.241.202.114 1 1 448 20170818001424
+54.211.1.166 1 1 14079 20170818014654
+41.204.94.155 1 1 0 20170824015551
+139.167.6.115 2 2 9140 20170817095851
+54.173.87.137 1 1 14122 20170807221712
+103.51.150.168 2 2 9140 20170819024432
+23.233.68.208 0 1 647601 
+46.0.193.127 1 1 14121 20170810195002
+34.229.57.236 1 1 14141 20170803014052
+192.0.86.123 0 11 395962 
+8.21.199.27 13 13 200329 20170829223556
+173.255.209.202 1 1 14139 20170803143707
+109.160.106.250 1 1 449 20170813043930
+213.145.105.39 1 1 448 20170805011001
+70.50.209.147 9 134 3112061 20170829203003
+24.114.93.194 9 83 640392 20170830123656
+49.44.51.225 2 2 9140 20170823021204
+1.9.2.162 1 1 8737 20170813185049
+162.158.64.99 0 1 59620 
+160.20.35.27 2 2 9140 20170825080714
+204.236.243.237 1 1 14120 20170809142208
+192.0.114.116 0 4 268615 
+179.7.107.73 0 1 120734 
+156.223.67.89 1 1 61938 20170816134919
+54.226.54.30 2 63 291844 20170831180020
+103.201.143.66 1 1 61938 20170804211600
+45.41.60.168 1 1 61938 20170822185241
+41.207.197.14 2 2 9140 20170804144720
+179.61.149.194 1 1 14121 20170830183940
+99.237.242.97 1 1 16333 20170805033424
+118.103.232.191 1 1 449 20170820035055
+173.209.212.147 1 12 501051 20170830071514
+75.134.169.244 1 1 448 20170816094446
+78.175.90.228 1 1 61938 20170815041239
+73.148.179.170 0 1 360761 
+192.0.114.113 0 4 412716 
+46.242.112.219 3 79 501376 20170827200548
+86.124.152.198 1 1 448 20170810160817
+113.203.192.198 2 2 9141 20170815111731
+47.30.54.68 2 2 70675 20170821081917
+91.232.140.122 1 1 448 20170820071713
+192.0.118.178 0 4 391948 
+150.107.207.82 1 1 448 20170817220053
+45.32.129.200 1 1 61938 20170823224254
+66.249.88.92 0 55 2837671 
+103.199.113.144 1 1 61976 20170801095425
+85.140.3.193 1 1 2790 20170829095408
+119.155.40.103 2 2 8829 20170814015449
+92.176.138.206 1 1 448 20170809224004
+122.15.156.143 1 1 61938 20170824135558
+203.109.85.141 2 2 9140 20170816083428
+101.53.225.252 2 2 9140 20170806102325
+46.161.9.51 16 16 751605 20170804085051
+37.55.183.77 2 2 9140 20170819204856
+207.210.203.199 1 1 1 20170831142054
+99.245.80.11 3 85 2700904 20170808094925
+106.120.173.121 6 6 84748 20170827095529
+181.175.139.163 0 1 120734 
+54.157.219.212 2 2 28165 20170821205046
+130.0.26.122 1 1 446 20170813120916
+90.195.80.212 2 2 9140 20170807031512
+49.150.255.200 1 1 448 20170802220733
+110.136.14.188 3 3 17878 20170816174756
+107.21.164.98 1 1 11871 20170831184127
+192.3.195.118 1 1 11881 20170802114442
+103.69.115.37 2 2 9140 20170806010107
+188.239.32.94 2 2 146009 20170818024749
+77.106.130.254 1 1 448 20170822234946
+192.0.113.146 0 11 799788 
+37.248.159.72 2 2 5142 20170828235743
+192.0.91.97 0 17 1116272 
+54.164.96.31 1 1 16337 20170811063214
+109.226.23.26 1 1 14121 20170831071136
+99.57.16.64 0 1 138949 
+195.154.250.49 3 3 50106 20170831145949
+131.161.8.232 1 1 14141 20170801013244
+154.16.49.22 4 4 292222 20170825204028
+192.0.100.226 0 22 2600461 
+86.99.159.91 1 1 61938 20170822131457
+173.209.212.145 0 22 624976 
+162.158.65.147 0 1 59620 
+176.218.7.20 1 1 446 20170810031257
+70.49.121.25 7 91 2771584 20170811142945
+89.240.85.149 1 1 447 20170821164602
+37.157.97.213 1 1 447 20170821225344
+180.191.115.9 1 1 61938 20170805065800
+72.49.1.159 1 1 445 20170815111221
+178.204.192.75 4 4 292180 20170825133441
+79.50.223.190 1 1 447 20170825072436
+101.99.69.2 3 3 28447 20170810122222
+204.79.180.0 3 39 196857 20170830193858
+178.70.59.43 1 1 446 20170812230708
+159.203.99.125 21 41 661954 20170826200436
+149.202.157.217 16 16 225264 20170831201108
+59.93.220.98 2 2 9140 20170823080912
+95.79.118.91 1 1 73005 20170805142400
+131.253.25.89 1 21 105447 20170803043742
+162.213.37.217 15 15 211853 20170830023658
+178.63.101.134 2 2 0 20170809033537
+65.94.54.59 3 87 2700155 20170814075409
+38.145.85.122 1 1 14121 20170812152016
+104.193.88.244 24 24 1486626 20170829074923
+117.207.141.170 1 1 449 20170808115352
+221.214.208.226 2 2 146009 20170827185824
+192.0.100.83 0 15 1401194 
+111.94.21.104 1 1 14139 20170802221251
+195.94.238.50 1 1 2791 20170828224502
+109.184.103.129 21 21 1601866 20170829172825
+54.226.191.55 1 1 14120 20170805202137
+109.8.255.169 1 1 447 20170807222846
+5.104.241.125 22 22 154825 20170829060753
+37.238.32.45 2 2 9141 20170817133422
+90.46.128.78 1 1 446 20170821005007
+177.98.59.136 1 1 447 20170804093743
+183.82.184.50 1 1 447 20170808104235
+66.249.88.152 0 28 306174 
+191.101.108.69 1 1 14121 20170810054602
+184.151.190.106 2 81 2676041 20170828073132
+88.198.44.2 1 1 0 20170831053610
+204.79.180.23 5 79 367316 20170829230734
+98.223.89.21 5 90 2728566 20170802130904
+178.59.54.155 2 2 9140 20170815221730
+83.11.119.86 1 1 446 20170805072005
+173.252.108.114 2 25 124768 20170814155559
+89.111.176.222 2 2 496 20170823014138
+74.12.9.26 3 88 2701254 20170801202148
+86.57.139.144 1 1 61938 20170809070526
+220.181.108.110 0 1 210 
+54.188.92.38 1 1 14079 20170825125749
+35.199.148.68 6 258 8122631 20170823135239
+115.29.192.194 2 2 146087 20170822195741
+112.134.82.87 2 2 9140 20170809085413
+182.75.233.142 1 1 448 20170802061702
+128.69.152.12 4 70 334216 20170819203916
+116.72.14.56 1 1 446 20170809215222
+212.92.115.77 2 2 146043 20170823143646
+84.53.225.118 1 1 73075 20170827204532
+5.141.193.184 1 1 2790 20170828221336
+137.74.169.241 2 2 146094 20170808161036
+93.172.213.69 1 1 447 20170806124330
+66.70.177.218 1 1 16623 20170822030256
+73.223.33.66 1 1 446 20170822200636
+61.1.61.110 2 2 9140 20170809193243
+204.79.180.18 1 27 143015 20170813064942
+192.0.101.190 0 10 321433 
+195.66.156.46 1 1 16334 20170805141743
+49.176.108.183 1 1 448 20170802063516
+156.209.12.157 2 2 9140 20170817001317
+45.40.121.141 1 1 14119 20170817024728
+54.193.243.231 2 2 28158 20170806001613
+178.159.37.105 4 4 292112 20170810100204
+154.118.36.103 3 3 17877 20170819082532
+190.252.140.81 2 2 9140 20170802074941
+193.254.36.157 2 2 9140 20170812015748
+2.95.151.73 4 4 292018 20170811212845
+195.244.203.183 1 1 2790 20170829000205
+180.190.47.218 1 1 403 20170823073851
+107.23.119.69 1 1 14141 20170804015414
+131.253.25.73 2 37 174353 20170816184102
+34.207.117.94 1 1 16334 20170805084016
+62.210.129.246 1 1 61938 20170826101540
+66.249.88.66 1 62 3327210 20170831015528
+52.43.119.3 1 1 14122 20170813050444
+115.72.247.108 2 2 9141 20170807083342
+104.130.207.142 2 2 25991 20170815222921
+149.202.72.198 4 4 56485 20170826161445
+112.5.237.92 1 1 14120 20170819082451
+216.69.191.97 15 15 929070 20170825130955
+87.198.47.141 3 3 24971 20170801080817
+65.95.1.83 2 87 2708737 20170806120359
+158.255.152.196 1 1 61976 20170804112308
+181.53.26.181 1 1 447 20170801081250
+174.223.134.246 0 1 360761 
+212.83.150.224 4 4 292019 20170805060223
+27.62.10.246 2 2 9141 20170815092030
+138.197.7.56 21 41 661921 20170814105405
+196.75.38.167 1 1 447 20170815065915
+95.28.211.224 1 1 2790 20170829075637
+103.56.253.132 1 1 403 20170812110630
+5.164.198.246 4 4 292106 20170814101351
+62.210.75.104 2 45 231475 20170812055843
+198.150.162.12 5 87 569658 20170802113730
+99.230.71.197 4 89 2744014 20170830212628
+189.191.189.223 0 1 120734 
+137.74.167.96 1 1 14119 20170811063601
+153.170.133.101 1 1 449 20170815024004
+62.210.151.76 1 1 13115 20170826224143
+120.89.76.17 1 1 446 20170814030414
+154.127.170.166 1 1 449 20170822094558
+89.111.176.190 1 1 248 20170828231408
+89.34.237.101 2 2 28235 20170805015348
+185.203.118.147 7 7 98846 20170822134107
+66.207.213.106 3 86 2681231 20170821081053
+184.169.200.176 3 3 42105 20170804045650
+66.181.160.1 1 1 61938 20170807165453
+114.36.87.235 7 7 57439 20170801134546
+217.118.79.29 1 1 2791 20170828192132
+204.79.180.12 2 45 169645 20170828171006
+24.141.211.41 13 107 2898250 20170801185409
+204.12.194.42 2 2 123952 20170802033834
+89.136.46.114 1 1 447 20170812123443
+204.40.194.133 16 192 3136795 20170804130524
+197.83.210.112 1 1 448 20170825120253
+54.144.65.198 1 1 14142 20170801003903
+103.196.161.42 2 2 9140 20170802025821
+99.228.94.30 4 70 418203 20170823130125
+54.151.80.197 3 3 42193 20170810114622
+188.17.125.4 0 1 73807 
+47.8.11.96 1 1 444 20170803033701
+178.152.64.176 2 2 70364 20170815094818
+88.207.141.134 1 1 448 20170805203756
+142.160.173.198 1 1 14142 20170802080935
+37.252.92.38 1 1 61976 20170801114313
+125.164.44.129 0 1 360761 
+41.87.12.100 1 1 61976 20170801121454
+159.33.10.155 1 40 2533371 20170812173933
+88.175.171.41 2 2 9140 20170815062817
+103.211.53.188 1 1 448 20170812221632
+45.40.123.111 1 1 14119 20170818215608
+207.164.2.174 9 89 2773880 20170830031654
+131.253.25.69 1 48 172356 20170815233657
+117.242.255.187 1 1 449 20170819183504
+178.140.129.39 1 1 2788 20170829010041
+99.224.41.17 3 82 2676044 20170815173222
+194.187.170.123 18 18 263652 20170817071537
+192.0.86.185 0 5 150806 
+91.223.82.156 1 1 73086 20170805025246
+91.235.128.15 6 6 84726 20170822134224
+183.82.208.146 2 2 8829 20170807102115
+93.115.95.201 1 1 14143 20170802213439
+179.61.158.70 1 1 14122 20170812143954
+69.158.25.207 6 243 8028061 20170830205939
+195.22.126.37 6 6 299035 20170819070240
+197.149.46.24 2 2 9140 20170821082357
+112.134.46.70 2 2 9140 20170824082045
+99.225.66.3 3 86 2702138 20170802113934
+162.212.173.58 2 2 123914 20170815223608
+185.201.9.163 1 1 14122 20170811214214
+172.58.23.243 1 1 447 20170803151758
+99.246.163.186 3 87 2707538 20170829164423
+99.225.33.253 1 77 474076 20170801123548
+178.91.160.54 2 2 9140 20170819013443
+52.53.235.160 1 1 14120 20170813202844
+209.171.88.136 3 82 2676047 20170829150711
+191.250.251.42 1 1 448 20170824040727
+98.3.38.116 0 1 138949 
+52.55.193.113 1 1 14121 20170809121628
+54.197.124.225 9 9 126677 20170822204616
+88.245.111.246 2 2 9140 20170823230636
+59.96.160.69 2 2 9140 20170808181716
+92.233.95.242 1 1 447 20170823110007
+54.90.16.74 3 3 42253 20170816055408
+37.20.130.67 18 18 726895 20170818151718
+103.47.132.11 1 1 447 20170809092503
+202.142.191.122 1 1 449 20170806071558
+38.145.70.150 1 1 14120 20170827191820
+191.101.96.181 1 1 14121 20170812151036
+189.63.160.218 1 1 448 20170825065906
+8.21.199.82 1 1 13246 20170810003407
+218.250.83.96 5 88 570859 20170830082135
+178.159.37.111 3 3 149495 20170811092902
+70.35.170.43 2 40 299618 20170817132102
+156.196.57.139 1 1 448 20170824025408
+95.139.23.218 16 16 654146 20170819094153
+109.107.73.141 2 2 9140 20170820100722
+66.43.60.49 1 1 0 20170810182729
+34.229.218.242 3 3 42359 20170805014706
+94.141.62.66 1 1 2791 20170828223315
+188.165.233.228 1 1 61938 20170828193538
+93.169.5.41 1 1 445 20170823234854
+154.68.22.237 1 1 447 20170805025642
+107.77.249.12 3 3 17877 20170819115221
+179.97.252.5 2 2 9140 20170812080346
+110.23.141.138 0 1 55924 
+181.214.168.135 1 1 14121 20170824182117
+52.212.78.160 1 1 14120 20170831195501
+202.12.82.193 3 3 9587 20170820204926
+54.193.197.218 3 3 42149 20170821192330
+88.106.215.94 3 3 17877 20170805043157
+95.85.45.81 2 2 146072 20170823150914
+122.2.230.220 1 1 447 20170809125241
+99.246.164.177 1 1 14121 20170830101743
+59.167.172.147 1 1 448 20170824154847
+54.146.87.216 4 4 56288 20170816003858
+186.130.119.15 1 1 448 20170825053630
+198.50.200.129 1 1 14119 20170818131751
+66.102.6.124 4 55 2320326 20170831030155
+174.116.209.140 7 90 2772094 20170809210711
+8.21.198.111 5 5 69059 20170823024727
+178.221.234.9 1 1 14139 20170803143711
+217.25.213.209 1 1 2788 20170828104037
+75.126.58.43 2 2 28238 20170816113332
+176.123.30.230 1 1 14120 20170806042807
+8.21.198.159 3 3 46042 20170828170036
+46.99.79.131 1 1 446 20170805014955
+104.144.249.31 1 1 11873 20170811112139
+66.102.6.154 0 8 685925 
+2.123.214.42 1 1 446 20170822223241
+31.15.174.47 1 1 446 20170822014739
+138.197.88.50 1 1 61938 20170821045223
+54.204.181.131 3 3 42424 20170804021407
+52.73.39.127 1 1 14120 20170805204958
+204.236.172.75 2 2 28158 20170809015957
+69.58.104.32 3 87 2689946 20170815063417
+172.12.74.27 0 1 120734 
+54.235.194.241 4 4 56487 20170807014535
+69.158.100.57 15 100 693429 20170814203055
+192.0.100.35 0 37 4530809 
+37.204.83.253 3 82 490483 20170827200548
+159.203.98.63 1 1 14121 20170811035957
+8.21.198.59 2 2 29242 20170819005150
+201.33.170.182 2 82 2680652 20170802174026
+85.140.80.79 1 1 73005 20170820080144
+142.163.161.202 1 1 16336 20170805050405
+66.249.82.80 1 29 144959 20170810192514
+95.86.160.10 1 1 446 20170811034319
+54.208.178.17 2 2 28241 20170805004847
+39.51.112.126 2 2 9140 20170811023843
+170.247.108.3 1 1 447 20170806165004
+103.41.97.134 1 1 447 20170810021440
+197.15.254.199 2 2 9140 20170817011849
+69.196.152.110 4 75 486531 20170814174001
+209.95.165.187 1 1 61938 20170813235926
+197.210.227.90 1 1 8737 20170819100258
+38.145.86.144 1 1 14120 20170831150024
+117.215.114.128 2 2 9140 20170816070830
+37.238.171.18 1 1 16641 20170816141804
+138.197.111.102 2 45 231477 20170807180526
+86.110.118.142 1 1 14120 20170829114028
+103.47.132.123 1 1 448 20170805074008
+39.42.121.221 2 2 9140 20170811090804
+34.224.84.222 3 3 47487 20170810183403
+94.156.189.213 1 1 14121 20170822165054
+192.0.116.241 0 17 1424932 
+39.50.23.20 1 1 61938 20170813003846
+94.41.149.141 2 2 146131 20170804175739
+45.41.60.122 1 1 71385 20170822180427
+70.49.44.139 13 171 5459521 20170808064824
+90.64.127.193 1 1 447 20170806211651
+204.79.180.22 2 59 368758 20170830193825
+192.0.113.113 0 3 410916 
+83.198.32.153 2 2 9140 20170810224252
+192.0.100.203 0 23 3301449 
+208.90.57.196 1 1 61938 20170829104546
+45.41.60.57 1 1 71386 20170830093853
+220.181.108.178 0 1 72398 
+145.255.2.93 1 1 2788 20170829000533
+78.85.249.142 1 1 61938 20170807022218
+54.147.233.18 1 1 14122 20170809142034
+79.136.1.241 1 1 446 20170803204202
+8.21.199.42 4 4 50816 20170829214227
+208.114.129.98 5 103 2754463 20170816073659
+156.196.172.166 2 2 9140 20170817145322
+187.189.90.96 1 1 447 20170810213934
+175.141.132.1 1 1 447 20170812202249
+54.219.43.83 1 1 14079 20170808144451
+45.72.152.254 3 34 173364 20170815124425
+38.145.77.156 1 1 14119 20170818212026
+104.155.11.142 2 2 2 20170831042709
+92.45.99.164 2 2 70675 20170830005624
+54.193.155.255 2 2 28114 20170810085518
+193.70.39.41 1 1 446 20170831164824
+54.82.215.139 3 3 42383 20170805014849
+163.172.4.153 5 5 70625 20170827190343
+123.26.204.125 1 1 448 20170812134544
+131.253.25.86 0 28 121428 
+77.174.53.62 2 2 9140 20170818073827
+45.32.129.1 3 3 185814 20170827050242
+99.227.51.135 6 88 558401 20170815141015
+174.116.98.76 1 1 16334 20170804225815
+70.30.24.90 6 90 600556 20170804190507
+195.22.126.23 4 4 292214 20170819001239
+93.115.95.207 2 2 28234 20170813231215
+50.18.41.203 5 5 70351 20170811082621
+54.215.163.243 1 1 14119 20170816064433
+179.61.176.49 1 1 14120 20170827191451
+64.228.157.238 3 80 519089 20170810185251
+192.0.86.166 0 5 1466495 
+201.6.142.107 1 1 447 20170818073848
+88.198.22.8 6 11 445349 20170804214418
+5.36.109.40 2 2 70364 20170813205536
+220.181.108.119 0 2 5595 
+67.70.151.156 14 194 3425557 20170807073939
+54.151.59.48 1 1 14079 20170808173521
+185.66.193.33 2 2 9140 20170816123153
+52.90.125.174 2 2 28234 20170806014606
+41.87.14.18 1 1 61976 20170801185009
+192.0.86.147 0 3 211101 
+47.31.10.213 2 2 9142 20170813030415
+91.236.74.90 2 2 76535 20170802151519
+91.217.202.118 1 1 2791 20170828171111
+99.224.105.229 17 109 2944327 20170813194432
+146.241.243.53 2 2 9140 20170825115034
+82.154.246.136 1 1 448 20170819082000
+54.87.171.142 1 1 14120 20170804232542
+157.49.3.147 1 1 446 20170806091205
+200.161.185.251 1 1 449 20170809071923
+34.207.249.75 1 1 0 20170804181639
+174.112.71.3 11 91 626955 20170829102702
+184.147.46.126 10 95 2820681 20170801075754
+37.200.254.177 2 2 70364 20170806031459
+99.232.77.215 22 115 2978080 20170817095756
+185.153.197.44 2 2 146009 20170828014145
+99.225.68.38 4 79 529068 20170819214640
+176.126.83.19 2 2 64678 20170813112423
+89.120.66.71 1 1 446 20170822223452
+91.219.237.244 1 1 14119 20170818052934
+173.177.113.178 5 89 569699 20170818080420
+104.144.230.38 2 2 32910 20170812214045
+1.23.47.204 2 2 9140 20170822193313
+192.0.86.127 0 6 665091 
+12.7.54.130 5 86 533283 20170810110023
+58.10.65.115 1 1 446 20170817014540
+175.158.218.28 1 1 448 20170817080329
+95.180.57.160 3 3 9587 20170813081312
+82.80.249.211 1 1 14121 20170809165522
+35.160.156.203 1 1 73004 20170814142329
+39.52.231.245 1 1 447 20170823063346
+204.237.81.106 0 1 55924 
+192.0.116.82 0 3 167772 
+207.210.203.59 6 6 6 20170831034615
+154.16.123.78 1 1 14122 20170811213940
+189.101.246.50 2 69 308110 20170807032029
+83.99.112.65 2 2 70364 20170825124836
+85.71.72.22 1 1 445 20170805010014
+80.8.252.131 2 2 9141 20170823071118
+82.202.226.107 2 3 28748 20170801190919
+41.78.100.82 2 2 9140 20170809014214
+176.123.6.123 4 4 293518 20170819161208
+109.188.126.86 1 1 73005 20170808224849
+109.75.42.145 2 2 9140 20170822000917
+67.70.14.34 3 87 2700020 20170828204117
+216.69.191.98 4 4 247752 20170823154317
+154.16.49.23 4 4 292128 20170825193610
+54.237.249.70 3 3 42246 20170831012739
+91.209.229.78 3 5 29233 20170813163109
+54.164.18.228 1 1 14118 20170806015804
+223.29.232.254 2 2 70364 20170817075317
+198.50.200.147 1 1 73005 20170813044250
+67.70.62.45 5 90 603360 20170805040150
+154.16.49.28 4 4 292210 20170831110403
+173.34.49.85 6 90 600443 20170804182012
+188.54.124.134 1 1 448 20170810124103
+54.210.235.100 1 1 14120 20170806205215
+54.68.49.114 1 1 14079 20170820070919
+154.16.49.25 2 2 146113 20170825204100
+91.236.74.119 2 2 146206 20170803014118
+112.208.195.98 2 2 9140 20170802034403
+5.187.78.115 0 1 103228 
+184.147.177.162 0 1 55924 
+204.79.180.1 3 25 117945 20170830035339
+191.112.158.63 0 1 120734 
+66.102.8.60 1 26 114429 20170814163541
+69.163.155.54 1 1 61938 20170820085434
+175.157.231.188 2 2 9141 20170819013743
+107.178.195.217 1 1 14120 20170814114943
+107.20.108.167 5 132 633270 20170831181945
+2.28.88.115 2 2 9140 20170809114246
+181.214.1.229 1 1 14120 20170812041202
+51.15.134.120 5 5 188446 20170824052410
+192.0.85.147 0 2 60303 
+181.20.169.197 0 1 120734 
+185.104.120.4 2 2 28236 20170816185053
+27.77.224.122 1 1 14138 20170803143711
+202.125.136.162 1 1 449 20170810212552
+43.225.167.74 1 1 447 20170811221708
+192.0.151.209 12 187 1145927 20170831132650
+76.178.219.6 1 1 446 20170816173747
+79.98.72.227 1 1 446 20170802032712
+131.253.25.65 1 3 26402 20170812154538
+88.251.205.172 1 1 448 20170813205859
+105.235.188.119 2 2 9140 20170825081420
+54.156.147.125 3 3 42262 20170831072233
+88.242.29.78 2 2 9140 20170815125142
+173.238.187.186 5 91 585532 20170813121536
+192.0.112.244 0 11 884480 
+204.236.136.170 8 8 112500 20170811172343
+213.44.235.61 1 1 447 20170804231259
+24.165.147.251 0 1 19805 
+38.131.155.71 1 1 14121 20170828170645
+176.193.235.225 2 64 310339 20170825154928
+179.90.56.173 1 1 8117 20170801121439
+176.88.36.236 1 1 447 20170823091446
+192.0.116.148 0 10 554985 
+75.34.165.194 2 2 9140 20170811235930
+204.79.180.14 5 48 212034 20170829230734
+197.218.92.230 2 2 9140 20170810081958
+178.148.246.171 1 1 449 20170825080141
+192.0.112.113 0 13 1396924 
+69.197.162.106 2 2 109230 20170816225411
+124.29.217.57 1 1 447 20170817030026
+122.177.191.94 2 2 9140 20170806221841
+192.0.99.155 0 17 1441543 
+112.205.99.78 1 1 447 20170806193758
+149.202.43.226 1 1 14123 20170808104333
+202.137.255.83 1 1 403 20170813185046
+98.195.233.248 0 1 55924 
+198.96.155.3 2 2 87121 20170831023336
+99.230.197.11 3 87 2726160 20170805185540
+189.81.216.65 1 1 447 20170821061512
+207.245.239.186 5 87 2715847 20170821114301
+66.249.84.222 0 3 209009 
+60.49.83.46 1 1 445 20170803014234
+167.114.65.240 13 13 741322 20170812045405
+181.214.173.14 1 1 14120 20170828173724
+112.198.103.11 2 2 9140 20170812050643
+104.236.7.116 2 2 146009 20170818085927
+74.85.220.42 1 1 61938 20170813020650
+5.78.218.224 3 3 17877 20170813102851
+202.137.113.146 1 1 449 20170803181812
+82.200.40.174 18 18 726892 20170813050809
+192.0.112.83 4 4 734 20170831152957
+187.207.19.175 0 1 120734 
+198.46.81.15 3 3 28448 20170809065246
+184.151.179.0 4 129 4620568 20170811072418
+54.159.218.103 1 1 14142 20170801212534
+162.158.64.173 0 1 59620 
+192.0.102.90 0 18 1521575 
+58.65.144.255 1 1 447 20170811142004
+192.0.99.11 0 20 2856693 
+67.71.98.230 1 1 14120 20170826063311
+98.139.190.57 0 1 19805 
+104.204.21.50 3 87 2726158 20170827194403
+41.73.197.118 1 1 447 20170802230642
+192.0.102.22 0 9 630627 
+2.94.166.23 2 2 146008 20170815234455
+103.93.12.202 1 1 447 20170809155917
+66.102.8.34 2 26 660474 20170814163545
+178.155.4.248 1 1 447 20170823111838
+66.209.61.22 10 98 2823683 20170805062539
+176.10.99.209 1 1 14121 20170829042228
+49.207.52.89 2 2 9141 20170821211539
+54.209.126.15 1 1 14142 20170802013530
+202.120.62.60 1 1 447 20170816020426
+194.187.170.116 11 11 152613 20170825081315
+104.192.0.58 1 1 14120 20170822082443
+189.93.179.89 1 1 403 20170810060607
+95.108.225.229 0 1 103228 
+174.89.7.16 8 92 2791172 20170829160236
+196.249.98.81 2 2 9141 20170825010821
+79.122.168.14 1 1 2792 20170828212957
+66.102.6.152 0 15 1204982 
+34.229.254.42 3 3 42361 20170806015128
+71.175.2.253 1 1 446 20170821085024
+176.181.195.138 2 2 9140 20170825120240
+220.181.108.97 0 1 36556 
+178.44.229.156 0 1 103228 
+54.210.108.177 3 3 42424 20170804020057
+185.103.110.72 2 2 146009 20170828111903
+176.53.23.243 6 6 84789 20170813005610
+52.5.220.220 2 2 14121 20170809155310
+31.173.86.34 1 1 2791 20170828132141
+13.124.71.14 2 2 123952 20170802002230
+192.0.88.55 0 5 473442 
+186.188.0.70 0 1 120734 
+103.231.162.71 1 1 448 20170822034825
+159.203.162.107 22 65 525465 20170823125929
+131.253.25.67 2 31 100294 20170812014059
+39.55.248.242 1 1 8738 20170823102044
+27.147.247.60 1 1 14142 20170803221419
+149.202.157.218 16 16 225176 20170831151042
+8.21.198.56 9 9 133304 20170829182448
+38.131.159.99 1 1 14120 20170828123541
+62.76.75.179 18 18 726895 20170821110440
+34.228.80.194 1 1 14143 20170801013439
+192.121.168.22 1 66 2611124 20170817092632
+198.58.107.53 1 1 447 20170801061710
+143.208.114.42 1 1 61976 20170801114302
+54.174.238.200 1 1 14122 20170807174030
+146.185.147.150 4 4 3798 20170824085059
+54.213.191.100 4 4 56477 20170830171028
+213.21.30.95 4 4 292018 20170831075438
+117.194.93.109 2 2 9140 20170820033013
+178.62.99.175 2 2 30665 20170824061943
+110.36.231.198 2 2 851 20170825135322
+95.29.223.181 4 4 292020 20170831030532
+185.170.42.18 1 1 447 20170814023256
+52.10.217.109 1 1 14079 20170811091325
+66.249.82.78 3 33 248299 20170810192514
+54.157.161.163 3 3 42202 20170813152214
+52.25.187.43 1 1 14122 20170812075612
+123.14.123.207 1 1 14120 20170831165908
+103.213.35.38 1 1 61938 20170826091005
+206.248.137.1 3 87 2700021 20170814062612
+122.175.236.200 1 1 449 20170817201634
+111.68.103.86 1 1 447 20170804024144
+154.16.163.90 1 1 14120 20170827062953
+54.158.222.163 1 1 61938 20170809065806
+54.193.212.84 1 1 14079 20170806223412
+50.28.8.223 5 88 2723552 20170826022907
+34.253.16.185 1 1 14120 20170831155521
+67.22.227.162 6 92 2759147 20170820164204
+2.88.195.143 2 2 9140 20170801035152
+142.4.216.11 3 3 38693 20170816070345
+84.53.192.243 1 1 14122 20170809184053
+104.193.88.243 6 6 371628 20170822235903
+101.50.87.1 1 1 445 20170816005037
+123.125.71.31 0 1 2134 
+195.225.231.210 1 1 73050 20170803104100
+67.224.105.18 3 87 2700020 20170808114331
+191.101.97.254 1 1 14120 20170831171155
+204.187.67.26 13 98 2837762 20170828111522
+220.181.108.160 0 2 40186 
+192.0.118.145 0 1 73807 
+178.17.174.32 1 1 14122 20170806134430
+70.49.130.93 7 87 2754394 20170822041954
+178.137.195.91 1 1 448 20170825142140
+187.183.32.85 1 1 447 20170821035252
+8.21.199.19 2 2 27252 20170831095126
+54.237.113.22 2 2 28174 20170829150458
+70.29.139.27 0 1 120734 
+145.255.176.89 1 1 2790 20170829020130
+85.143.217.209 1 1 14120 20170817012851
+192.0.99.83 0 25 1713333 
+144.76.23.233 1 1 16333 20170804180510
+34.230.58.102 2 2 28282 20170801013001
+192.0.86.149 0 4 377114 
+8.21.199.99 2 2 31052 20170806191853
+188.24.138.190 2 2 9140 20170823141836
+99.243.108.252 9 97 2827732 20170806125614
+82.211.30.109 1 1 14122 20170823062145
+192.0.102.114 0 14 1424591 
+125.161.223.178 1 1 449 20170818074809
+79.164.89.39 1 1 2787 20170828083125
+188.226.129.55 3 3 42355 20170818050712
+37.105.55.217 1 1 447 20170820015219
+197.89.216.191 2 2 9140 20170806225533
+34.213.219.243 2 2 28244 20170822064615
+174.113.169.241 5 88 2729444 20170803135048
+54.210.79.90 1 1 14121 20170805014208
+197.48.101.89 2 2 9141 20170814165330
+185.200.214.38 2 2 9140 20170817022559
+194.187.170.103 11 11 152609 20170826044903
+51.39.165.35 2 2 9140 20170823062945
+122.164.37.65 1 1 447 20170812010339
+50.100.64.204 5 87 2712272 20170831161158
+82.151.208.76 1 1 61976 20170801114310
+124.106.253.16 1 1 448 20170815031835
+131.253.25.74 0 13 25632 
+110.93.214.234 1 1 448 20170804021815
+195.208.220.183 18 18 726892 20170819060102
+192.0.100.11 0 19 1813173 
+138.197.111.67 2 45 231473 20170829230939
+185.135.69.85 2 2 9140 20170819003741
+99.230.33.41 5 89 2753430 20170826103946
+185.156.172.132 9 9 686395 20170811052045
+176.116.141.62 1 1 2789 20170829004643
+176.233.149.35 1 1 448 20170810082416
+188.210.214.120 2 2 33404 20170830184221
+101.186.168.206 1 1 449 20170812020003
+54.176.200.86 1 1 14079 20170805130741
+92.53.47.122 1 1 446 20170814122801
+185.129.148.181 2 2 28158 20170831210110
+194.126.182.30 2 2 146009 20170809013157
+192.0.100.82 0 37 1869266 
+50.100.71.42 1 1 16331 20170804210100
+89.169.219.31 16 16 654145 20170827070922
+192.0.114.49 0 4 360507 
+106.37.187.136 1 1 0 20170816003125
+156.216.150.139 1 1 449 20170809215137
+64.228.95.31 15 100 2925802 20170807194713
+206.41.177.51 1 1 61938 20170808085138
+80.252.171.66 2 2 30415 20170804180503
+197.1.115.66 2 2 9140 20170821011231
+142.166.16.162 1 1 16332 20170804183009
+192.0.113.82 0 6 271353 
+174.118.113.221 9 258 8053683 20170828061609
+191.101.83.177 1 1 14122 20170811150504
+61.93.209.90 1 1 8117 20170801114428
+39.49.162.5 1 1 445 20170824230238
+8.21.198.164 1 1 13248 20170815134122
+41.66.14.79 1 2 17942 20170817015446
+94.45.140.186 2 2 28232 20170816093519
+74.96.179.62 0 1 55924 
+68.147.139.200 1 12 51669 20170830141828
+70.48.161.222 4 83 2692395 20170816225710
+112.200.197.188 6 92 620686 20170807065334
+184.170.26.95 1 1 61938 20170805101953
+117.62.196.144 1 1 448 20170804081343
+182.65.45.19 1 1 446 20170814001133
+52.32.171.247 9 9 591730 20170814160006
+138.197.7.64 21 41 661958 20170823121200
+84.235.90.61 1 1 446 20170802102007
+46.146.112.119 1 1 2789 20170829074056
+34.204.99.189 1 1 14141 20170804174809
+66.191.108.110 3 3 28446 20170815122852
+162.244.160.234 1 1 449 20170808155742
+66.249.88.153 0 28 90330 
+54.91.47.24 1 1 14079 20170818005516
+38.131.144.72 1 1 14120 20170830190845
+54.224.68.167 1 1 16675 20170810183410
+41.85.161.179 2 2 9140 20170814154338
+192.0.91.103 0 5 418237 
+181.214.165.19 1 1 14121 20170828062139
+192.0.118.17 0 6 590120 
+92.31.3.63 1 1 2788 20170829093020
+91.236.75.116 2 2 146109 20170811164852
+118.100.110.75 2 2 9140 20170824032831
+98.234.226.19 3 86 2696294 20170809032616
+178.61.208.206 1 1 448 20170805015907
+54.205.95.153 4 4 56296 20170813182428
+220.235.224.13 1 1 448 20170812063232
+204.79.180.21 3 75 353515 20170819073111
+41.202.80.196 2 2 9140 20170803032918
+114.134.185.233 2 2 8829 20170818222842
+46.161.9.14 2 2 146009 20170811232228
+204.194.29.4 2 2 28240 20170806090315
+89.153.107.116 1 1 448 20170823022710
+52.25.28.48 1 1 14122 20170812200410
+50.203.216.14 8 9 133320 20170829204636
+192.0.85.145 0 22 4932307 
+49.144.47.71 2 2 9140 20170810215238
+62.198.102.190 1 1 448 20170818231517
+69.46.36.20 4 4 44 20170824152758
+54.90.22.40 2 2 28174 20170820101922
+54.153.57.24 1 1 14123 20170810220004
+138.197.111.48 2 45 231469 20170817074202
+49.151.113.11 2 2 9140 20170815005314
+103.56.253.137 1 1 8737 20170812110637
+8.21.198.107 8 8 159380 20170829155902
+212.34.136.19 3 3 28449 20170810121012
+47.88.6.238 1 1 14142 20170802194320
+192.0.100.43 4 4 734 20170824114052
+131.253.25.83 1 1 0 20170812154612
+34.224.165.109 3 3 42425 20170802013530
+41.105.23.85 1 1 446 20170801075823
+199.249.223.40 2 2 146009 20170821015956
+5.196.66.162 2 2 146088 20170820231550
+138.197.3.124 22 65 525460 20170826204324
+178.161.165.208 1 1 2791 20170828191944
+76.176.111.163 6 80 545168 20170816105621
+195.154.44.62 1 1 73003 20170828030432
+52.70.48.63 2 2 123952 20170802083927
+144.217.68.229 1 1 61938 20170830091032
+106.208.28.144 2 2 9140 20170820094035
+99.229.42.228 3 85 2685018 20170823125403
+176.9.0.228 1 1 61938 20170818033754
+176.41.210.145 2 2 9141 20170823143933
+162.158.64.166 0 1 59620 
+208.92.168.136 0 1 138949 
+192.0.102.144 0 6 1515710 
+192.0.85.93 0 1 33669 
+41.162.131.72 1 1 447 20170815223625
+173.209.212.144 0 13 677928 
+222.5.221.20 1 1 446 20170813161831
+104.171.61.115 14 101 2889828 20170812141104
+74.6.66.146 1 1 16690 20170804175104
+206.47.170.237 3 82 2676043 20170817130104
+82.167.241.41 1 1 447 20170820083354
+185.107.81.233 2 2 14570 20170831195011
+138.197.6.2 22 65 525440 20170830113644
+123.125.71.69 0 1 8097 
+173.33.176.18 3 82 2676045 20170821185835
+54.208.148.189 2 2 28241 20170809142040
+162.158.64.102 0 1 59620 
+23.94.151.60 1 1 11868 20170817115057
+191.101.80.168 1 1 14119 20170818212941
+23.94.68.254 1 1 11872 20170821115734
+192.0.102.66 0 19 1429999 
+123.125.67.154 0 1 97184 
+65.95.118.161 1 1 16335 20170805191236
+179.198.116.138 1 1 449 20170825062413
+109.69.67.17 1 1 73005 20170823135552
+54.160.220.198 2 63 287343 20170831182042
+192.0.114.52 0 7 991805 
+158.69.252.228 1 1 61938 20170811172218
+176.205.143.25 2 2 9140 20170821100727
+41.107.169.145 1 1 448 20170804020007
+103.10.23.173 4 4 17970 20170820210455
+52.201.220.67 2 2 28282 20170802212429
+115.187.33.101 1 1 448 20170813153648
+212.74.202.103 2 2 146010 20170827125949
+193.126.142.148 4 4 18280 20170823141036
+103.217.104.242 2 2 9140 20170807100738
+112.5.243.186 1 1 14083 20170826223708
+85.29.248.249 2 2 9140 20170809075606
+113.199.255.195 1 1 403 20170802205648
+54.219.224.194 3 3 42193 20170805213617
+154.76.243.152 4 83 514089 20170827130058
+98.204.207.61 0 1 138949 
+24.150.87.187 7 90 554139 20170828115301
+37.59.119.196 1 1 73073 20170825121216
+181.215.151.82 1 1 14119 20170816211854
+123.231.125.201 2 2 9141 20170821232937
+62.57.65.186 2 2 9141 20170803102312
+173.33.25.92 12 100 2871271 20170812075600
+54.156.111.25 1 1 14079 20170808042750
+178.17.170.196 3 3 87572 20170830230250
+37.110.150.20 3 65 319731 20170825154928
+192.0.99.107 0 17 1533359 
+122.168.201.240 2 2 9140 20170813204711
+103.55.63.99 2 2 70364 20170824020400
+173.238.137.157 10 112 2864725 20170809172849
+36.72.230.27 1 1 14120 20170824143646
+176.10.99.201 2 2 146087 20170828081351
+34.202.161.212 1 1 14122 20170807175030
+182.188.230.101 2 2 9140 20170824070952
+77.162.88.202 1 1 447 20170814124005
+24.114.67.122 5 84 2703303 20170821114938
+34.204.82.222 2 2 28281 20170802204537
+65.95.204.166 16 106 3430176 20170819184829
+54.204.69.66 1 1 14122 20170822154641
+54.85.94.21 1 1 14143 20170804020655
+71.226.159.44 1 1 2792 20170828105725
+99.228.69.55 4 78 545717 20170810151843
+46.229.170.193 1 1 61976 20170803133839
+177.130.31.75 1 1 447 20170824083539
+138.197.6.76 22 65 525466 20170811023548
+62.210.215.115 24 24 296859 20170831231534
+34.228.13.191 1 1 14119 20170804220208
+52.205.21.11 1 1 14121 20170807005126
+192.0.113.241 0 1 34103 
+151.49.177.29 2 2 9140 20170812123734
+54.160.32.231 1 1 73005 20170808145913
+176.10.107.180 2 2 28239 20170816040705
+80.51.174.162 1 1 61976 20170804105107
+180.151.105.231 0 1 138949 
+54.147.211.0 1 1 14120 20170806173904
+211.28.43.138 1 1 447 20170807022722
+43.231.22.62 1 1 446 20170806004434
+103.19.253.194 1 1 448 20170805103853
+85.25.202.18 1 1 61938 20170830081706
+91.140.90.97 2 2 9141 20170825023056
+138.197.96.235 2 45 231474 20170810193301
+93.72.59.193 18 18 726894 20170822055312
+177.11.123.239 1 1 448 20170809141100
+98.122.136.90 4 84 540960 20170804070247
+155.4.230.97 1 1 14142 20170803133142
+181.214.170.188 1 1 14122 20170812143943
+103.217.243.136 1 1 449 20170808110732
+223.204.193.34 2 2 70364 20170828042232
+149.202.93.127 4 4 247752 20170824103701
+65.92.74.80 1 1 445 20170807200744
+77.243.183.75 4 4 292017 20170825130056
+192.0.101.83 0 80 6288586 
+54.243.53.148 2 2 28158 20170826160706
+2.24.53.70 1 1 16332 20170805064306
+8.21.198.97 4 4 56483 20170827152006
+193.169.135.171 3 3 42424 20170804044650
+117.96.0.218 2 2 9140 20170818091248
+52.90.15.72 1 1 14141 20170802201802
+94.156.189.230 1 1 14121 20170822133139
+50.18.244.212 1 1 14035 20170802021100
+94.100.51.16 2 2 9140 20170817232210
+68.148.62.117 2 2 70364 20170812025418
+213.230.95.18 1 1 447 20170818081457
+220.181.108.163 0 1 3854 
+34.207.212.91 1 1 14122 20170809142615
+203.59.74.222 3 5 29272 20170801111552
+178.137.131.2 6 6 438027 20170818091230
+24.114.72.231 3 82 2690157 20170828132535
+39.33.171.240 2 2 9140 20170825090806
+204.124.67.250 0 1 55924 
+186.78.81.151 1 1 447 20170807015828
+51.255.202.66 1 1 14119 20170818232556
+54.146.94.176 1 1 14079 20170826192304
+45.40.127.141 1 1 14119 20170818205413
+192.0.101.192 0 24 3582106 
+152.251.94.168 7 7 57439 20170801095632
+188.17.124.108 0 1 73807 
+64.228.244.246 3 82 2676045 20170814201300
+203.8.118.10 1 1 61938 20170819204947
+123.125.71.80 0 1 12699 
+104.156.230.231 3 3 185814 20170829002125
+94.130.11.17 2 2 71107 20170804180541
+159.233.200.94 0 1 55924 
+46.119.117.165 1 1 73003 20170830194226
+8.21.199.86 6 6 77227 20170819005135
+99.241.221.74 0 1 2799 
+35.194.33.243 5 5 72421 20170828153030
+8.21.198.141 2 2 29886 20170814214454
+174.91.106.21 17 101 2865424 20170823043117
+199.87.154.255 2 2 146083 20170823162617
+91.221.66.2 2 2 146010 20170828111905
+45.56.100.34 1 1 14139 20170803143708
+117.228.76.79 2 2 9140 20170816231924
+150.242.175.226 1 1 449 20170816193525
+52.90.243.161 1 1 14140 20170803013620
+110.37.225.163 1 1 8426 20170813043829
+194.187.170.113 1 1 14122 20170808204434
+188.226.129.242 6 6 6 20170830192607
+185.201.11.234 1 1 14120 20170828161103
+89.185.197.100 1 1 448 20170815013724
+187.189.148.41 2 2 9140 20170802185327
+179.61.157.209 1 1 14121 20170810212014
+83.208.220.2 1 1 446 20170814104058
+201.131.164.8 1 1 447 20170811092005
+24.36.77.81 1 1 16332 20170804192346
+34.229.188.95 1 1 14121 20170806232937
+156.57.59.216 1 1 16338 20170806184751
+115.78.14.150 1 1 447 20170812054500
+197.35.100.113 3 3 17877 20170811124735
+185.104.120.7 1 1 73004 20170805025217
+61.16.138.38 14 100 2868279 20170821132824
+91.79.17.191 5 5 365155 20170825023230
+217.182.78.177 1 1 448 20170802090021
+174.112.96.207 16 112 2906342 20170828150204
+45.62.239.77 2 2 28240 20170824081356
+104.131.49.232 1 1 61938 20170819155225
+179.254.203.45 2 82 2680653 20170804070337
+96.91.192.233 0 1 80101 
+184.147.90.166 12 93 2820410 20170805080341
+88.241.42.185 1 1 14139 20170803143712
+105.110.213.90 2 2 9141 20170804032409
+49.146.206.220 1 1 448 20170804170032
+103.88.77.92 1 1 446 20170808123025
+149.56.143.168 1 1 14122 20170810153746
+88.99.65.98 1 1 14119 20170830032105
+49.146.251.116 2 2 9140 20170818172407
+5.9.17.118 1 1 64678 20170814024219
+54.173.74.124 7 7 113015 20170824054148
+49.145.8.247 2 2 9140 20170823153917
+112.5.237.150 1 1 14120 20170817140337
+173.252.108.119 2 3 1530 20170814155609
+108.233.222.182 0 1 55924 
+41.162.30.125 1 1 447 20170804043748
+195.154.240.217 2 2 146009 20170817133341
+123.125.67.228 1 1 14120 20170806051916
+14.228.0.194 1 1 446 20170805215702
+181.214.190.49 1 1 14119 20170818222936
+52.72.29.60 1 1 14119 20170805020043
+1.186.181.98 2 2 9140 20170820020642
+204.79.180.6 2 37 205162 20170813064952
+192.0.101.216 0 17 1007511 
+216.249.57.64 2 2 159080 20170807055359
+70.55.217.53 20 111 788472 20170814155556
+162.226.198.187 0 2 111848 
+93.43.193.18 2 2 70675 20170822020815
+51.15.8.198 2 2 28242 20170821062016
+35.164.58.144 2 2 123876 20170808042912
+118.70.109.19 1 1 447 20170816090012
+106.67.100.179 2 2 9141 20170820020426
+54.91.121.93 0 1 12244 
+93.185.28.197 1 1 2788 20170828104621
+52.39.8.33 2 2 28245 20170811151238
+173.32.89.180 1 1 447 20170825161156
+82.24.179.188 0 1 55924 
+112.135.2.232 1 1 447 20170818234833
+162.158.65.7 0 1 59620 
+54.145.40.87 2 2 28244 20170808020313
+54.226.225.227 3 3 42219 20170811174839
+192.0.100.107 0 16 1637620 
+135.84.131.254 0 1 55924 
+192.0.113.177 0 2 44674 
+142.169.78.8 1 1 16333 20170805040022
+179.236.42.28 1 1 447 20170814142746
+46.72.7.93 2 2 146009 20170807005526
+38.145.94.102 1 1 14120 20170827192724
+154.73.87.2 3 3 17877 20170816192945
+124.76.89.80 2 2 9140 20170817205101
+83.103.196.49 2 2 123876 20170822085145
+106.208.194.42 2 2 9140 20170825111437
+166.70.207.2 1 1 14118 20170813231421
+5.104.241.126 12 12 84474 20170831060832
+173.34.120.6 2 2 9140 20170805163550
+162.158.64.165 0 1 59620 
+189.27.89.59 2 2 9140 20170811213426
+105.108.51.54 1 1 447 20170810090421
+112.134.5.41 2 2 9140 20170817192417
+146.185.39.112 2 2 8829 20170806140156
+71.241.133.59 0 1 55924 
+199.168.78.88 0 1 55924 
+154.100.203.208 2 2 9140 20170804180818
+213.60.132.62 2 2 70364 20170827064235
+43.247.145.208 2 2 9141 20170803235824
+37.110.246.219 1 1 2791 20170828231146
+46.73.117.113 2 2 146100 20170802223234
+123.23.39.210 1 1 61976 20170801082749
+184.146.144.50 3 85 2695235 20170825040236
+180.151.200.18 0 1 138949 
+194.187.170.136 1 1 14122 20170829030205
+64.125.195.98 0 1 138949 
+38.131.155.163 1 1 14121 20170824165009
+138.197.7.44 21 41 661947 20170804184554
+35.160.29.241 1 1 14122 20170812075624
+206.188.69.45 16 105 2916977 20170813202044
+99.248.23.160 2 81 2676052 20170802080630
+184.148.69.114 10 95 2807883 20170807101415
+210.18.149.214 2 2 9140 20170816013748
+54.210.189.181 2 2 133676 20170809235028
+63.250.31.231 1 1 61938 20170830142200
+66.102.6.126 1 56 559951 20170831015525
+99.252.125.28 7 92 2756222 20170819165136
+206.47.9.227 7 90 2767922 20170804084942
+95.165.60.204 2 2 146010 20170820222857
+144.76.80.151 5 9 364620 20170804194651
+54.163.197.161 3 3 42262 20170816074056
+51.254.168.38 13 13 183027 20170823105116
+41.42.253.33 2 2 9140 20170822184745
+204.11.50.131 1 1 73004 20170830062722
+8.29.198.25 6 6 84386 20170830095454
+217.69.143.217 4 24 471177 20170826031837
+163.172.136.101 1 1 449 20170822015941
+78.85.28.81 1 1 2789 20170828202603
+23.229.105.198 4 4 66815 20170828000445
+46.50.129.43 1 1 73005 20170821135307
+181.66.100.10 0 1 120734 
+43.245.9.242 1 1 446 20170823042842
+61.3.239.84 2 2 9140 20170806072136
+123.143.201.78 2 85 2671625 20170824002758
+188.187.82.198 1 1 2786 20170828111745
+176.156.47.55 2 2 9140 20170823054325
+134.249.142.142 4 4 292179 20170814065301
+118.96.224.25 1 1 447 20170814001715
+185.203.240.139 1 1 73004 20170808080452
+81.2.57.186 1 1 2789 20170829011413
+89.205.92.72 1 1 446 20170821050257
+110.37.226.186 2 2 9140 20170813043824
+79.114.224.236 1 1 448 20170809233639
+179.111.10.119 1 1 448 20170801120133
+123.125.67.160 1 1 14121 20170805050246
+41.83.232.107 2 2 9140 20170810011207
+108.168.57.165 24 197 5778242 20170806174231
+54.92.225.76 1 1 14079 20170828164408
+109.198.187.38 1 1 2790 20170828222635
+81.35.167.162 2 2 9140 20170823014237
+173.209.212.146 0 28 1320936 
+54.152.69.144 1 1 14121 20170809123618
+168.195.182.43 1 1 448 20170817054733
+8.21.198.33 1 1 16533 20170813215807
+162.247.72.27 1 1 14120 20170830150240
+31.173.240.175 1 1 2789 20170828184917
+123.125.71.111 1 1 61938 20170810194325
+174.89.153.4 3 82 2676039 20170831193034
+24.182.146.106 0 1 55924 
+108.162.16.186 0 1 140050 
+94.242.246.23 2 2 14567 20170814023232
+54.167.97.213 1 1 14117 20170831174539
+112.210.0.33 1 1 446 20170807165814
+99.249.126.17 1 1 16332 20170804190001
+52.201.253.226 1 1 14123 20170810183408
+34.229.56.23 2 2 28245 20170806220444
+84.94.90.197 4 4 292203 20170804001349
+194.152.6.102 1 1 447 20170813021734
+83.110.221.90 1 1 447 20170815143741
+138.197.2.75 22 65 525416 20170817073753
+190.167.243.74 3 87 2726168 20170808091849
+213.147.67.26 1 1 447 20170816000929
+217.12.221.11 1 1 14121 20170821205802
+180.190.51.167 1 1 448 20170805180702
+54.219.57.105 2 2 28070 20170803163518
+83.165.14.166 0 1 360761 
+192.99.232.71 2 2 31713 20170817164048
+88.99.2.222 1 1 61938 20170821090541
+99.238.248.23 24 120 3019124 20170831195818
+177.21.96.194 1 1 447 20170816184426
+104.237.93.34 1 1 447 20170825033044
+219.65.71.114 5 87 569667 20170807230559
+52.90.133.123 1 1 14121 20170809114019
+138.197.13.94 21 41 661903 20170820093611
+192.0.100.154 0 67 18331066 
+78.46.156.169 1 1 55971 20170831204914
+162.158.64.174 0 1 59620 
+39.42.197.7 2 2 9141 20170823082355
+8.21.198.75 4 4 56372 20170827165247
+36.252.134.56 1 1 61938 20170808042148
+180.191.61.7 1 1 8737 20170821085952
+192.0.116.244 0 4 434509 
+39.45.98.251 2 2 9140 20170807142816
+180.245.81.156 3 3 17877 20170819011029
+204.187.67.27 16 112 2936664 20170809112343
+173.252.108.113 1 12 220696 20170814155600
+212.129.9.202 1 1 61938 20170807175159
+192.0.102.70 0 5 418790 
+203.210.131.172 1 1 61938 20170804211612
+220.181.108.103 0 1 837 
+72.14.199.95 2 2 32668 20170804181531
+138.197.96.99 2 45 231515 20170801041619
+34.229.252.122 1 1 14121 20170807015216
+115.21.179.222 1 1 448 20170817073501
+42.115.90.138 1 1 61976 20170801095428
+74.198.131.163 13 13 147901 20170805151822
+217.182.93.87 1 1 14118 20170828005424
+24.48.175.226 0 1 456773 
+186.92.171.146 0 1 120734 
+187.74.188.190 1 1 448 20170803095514
+188.123.101.16 1 1 0 20170821024916
+34.228.17.24 1 1 14119 20170805015408
+192.0.118.116 0 3 187650 
+103.209.198.84 1 1 448 20170813012306
+188.221.91.85 2 2 9140 20170821132354
+112.210.78.192 9 91 602498 20170825032755
+85.155.150.71 1 1 447 20170821044240
+195.110.32.55 1 1 14119 20170816003349
+112.210.247.193 1 1 449 20170807050747
+46.252.245.170 1 1 2787 20170828231322
+43.245.122.110 2 2 9140 20170804023728
+180.191.143.175 2 2 9140 20170803005317
+139.5.255.183 1 1 403 20170817085657
+52.213.170.87 1 1 14121 20170831145545
+41.107.8.97 1 1 14140 20170803143710
+70.39.246.37 1 1 14081 20170804180302
+66.249.88.94 3 53 841469 20170831015526
+195.123.212.193 6 6 84726 20170823063136
+49.35.12.66 2 2 9140 20170811204241
+90.220.231.74 1 1 447 20170822052510
+185.38.14.171 1 1 14119 20170815014428
+99.245.82.199 12 257 1809032 20170801091307
+123.125.71.102 0 1 12585 
+87.18.13.107 1 1 446 20170810022553
+112.203.242.99 1 1 448 20170803225230
+202.51.76.90 1 1 446 20170802201548
+24.114.77.218 5 82 584266 20170824220014
+93.65.199.112 1 1 2788 20170829012019
+184.151.179.216 3 87 2726165 20170830174017
+5.137.215.21 2 2 146009 20170827145839
+130.105.235.38 1 1 448 20170819212232
+204.79.180.17 1 34 162481 20170831005728
+146.185.144.64 2 2 28237 20170818132232
+66.102.8.62 0 35 1907521 
+105.101.47.105 1 1 14139 20170803143708
+193.124.177.62 12 12 906653 20170831020404
+58.142.202.35 1 1 447 20170801055919
+107.178.195.218 1 1 16545 20170812071011
+70.55.109.253 3 82 2676039 20170828204002
+223.176.98.74 2 2 9140 20170822195521
+54.173.63.211 2 2 28284 20170802013555
+27.38.251.21 2 2 9140 20170808052703
+107.170.96.6 1 1 1064 20170808181721
+41.222.181.75 6 93 624405 20170820112442
+174.110.48.37 0 1 138949 
+89.248.166.157 1 1 14120 20170824184622
+155.94.141.209 1 1 14117 20170815233725
+107.77.90.119 3 82 2678776 20170822130832
+99.228.146.79 4 83 2690161 20170827103327
+5.16.104.114 1 1 2792 20170829104604
+34.227.111.232 1 1 14123 20170809050723
+105.102.95.52 2 2 9140 20170822093714
+41.87.179.199 2 2 9140 20170815174609
+34.228.13.167 3 3 42427 20170802014745
+178.17.170.156 2 2 146090 20170825103022
+112.133.244.117 2 2 9140 20170819213350
+65.181.113.61 1 1 73090 20170805064047
+38.145.66.135 1 1 14121 20170828164227
+41.103.196.239 2 2 9140 20170804182244
+79.110.130.24 22 22 1018914 20170820033643
+180.191.135.108 2 2 9140 20170825154522
+204.79.180.11 1 28 110870 20170803235917
+98.114.131.201 1 1 61938 20170804222013
+200.93.2.210 1 1 446 20170824215043
+178.233.134.105 0 1 120734 
+131.253.25.90 0 18 115939 
+34.213.134.198 1 1 14120 20170811075124
+138.197.13.208 21 41 662331 20170801070842
+45.33.79.64 1 1 14119 20170816003409
+54.146.67.236 1 1 14086 20170829152836
+38.145.71.162 1 1 14122 20170827095530
+99.47.61.46 0 1 19805 
+31.173.242.44 1 1 2790 20170828231847
+34.227.162.138 1 1 14140 20170803212726
+185.120.124.190 1 1 449 20170817064009
+54.156.146.241 1 1 14088 20170829012115
+220.181.51.110 0 1 32204 
+185.202.213.30 1 1 448 20170810025501
+192.0.100.59 0 14 561636 
+195.22.126.40 4 4 222588 20170830105552
+77.41.66.238 4 4 292017 20170824124518
+34.202.166.148 1 1 14120 20170819041259
+192.0.100.227 0 11 4466036 
+162.158.65.75 0 1 59620 
+210.187.145.229 2 2 9140 20170817154212
+8.21.198.71 1 1 16409 20170825044327
+192.187.108.186 1 1 14121 20170820203901
+95.9.146.129 2 2 70364 20170831000456
+38.121.93.193 1 9 43037 20170823110715
+99.225.129.128 21 110 820232 20170822211911
+192.0.86.162 0 2 103049 
+112.201.30.96 1 1 447 20170804234529
+156.194.153.134 2 2 9140 20170802040147
+54.161.255.23 2 2 28242 20170808015629
+78.58.141.241 2 2 9140 20170820095345
+213.14.28.194 0 1 156909 
+99.135.129.150 0 1 90088 
+95.129.234.58 1 1 2792 20170829000923
+203.205.123.83 1 1 448 20170812210122
+188.54.128.200 1 1 448 20170818132947
+192.0.86.129 0 1 64924 
+83.149.19.254 0 1 103228 
+178.152.106.191 2 2 9140 20170803014208
+23.96.208.137 1 1 16333 20170804180515
+185.82.216.250 1 1 14118 20170831170053
+75.130.254.35 1 1 447 20170816192807
+91.210.146.101 1 1 14121 20170822085842
+5.22.109.105 3 3 17877 20170810111142
+95.103.55.223 1 1 447 20170803114941
+78.46.56.32 2 2 16333 20170804181807
+37.115.184.31 18 18 1314080 20170823160746
+130.105.228.117 1 1 449 20170806041733
+162.158.65.39 0 1 59620 
+45.123.221.166 1 1 61976 20170801185003
+128.71.163.60 10 10 730046 20170825115447
+103.245.90.246 12 82 3499004 20170821170553
+192.0.101.218 0 14 1588882 
+145.239.74.47 2 2 14523 20170812231448
+61.163.39.70 1 1 16702 20170829150629
+68.179.110.169 4 83 539737 20170808121629
+192.0.112.212 0 3 278395 
+192.0.102.116 0 38 1691694 
+173.255.192.54 1 1 14120 20170816003348
+50.16.22.141 3 3 42246 20170831004706
+146.185.223.124 20 20 1460091 20170817030713
+5.188.211.26 14 14 802351 20170828183804
+183.83.209.99 2 2 9140 20170809042944
+74.114.100.197 2 81 2676012 20170809204006
+95.86.5.227 1 1 445 20170817063839
+140.0.123.30 2 2 9140 20170801145620
+192.0.114.82 0 6 500041 
+103.240.194.75 1 1 448 20170816000222
+46.0.193.131 2 2 28238 20170823021118
+192.0.99.106 0 47 1548932 
+192.0.84.119 0 4 360516 
+194.169.1.99 3 87 2700023 20170821091528
+194.54.148.8 0 1 250281 
+45.123.220.15 1 1 8428 20170801114440
+38.86.66.27 0 1 120734 
+189.4.74.143 2 2 9140 20170817054244
+188.50.210.186 1 1 2589 20170815150313
+188.240.215.74 1 1 448 20170816022021
+162.158.64.7 0 2 119240 
+159.203.62.171 1 1 61938 20170829111106
+194.187.170.142 1 1 14121 20170808123101
+95.57.133.194 2 2 70364 20170820025011
+37.19.109.140 2 2 9140 20170811050723
+52.87.203.206 1 1 14120 20170805212931
+192.0.84.125 0 8 540520 
+103.192.65.127 2 2 9140 20170824214744
+180.102.118.106 2 2 9141 20170802062303
+154.16.50.155 1 1 14123 20170810052330
+209.195.105.226 3 89 2749783 20170806192400
+89.155.93.117 2 2 9141 20170810042838
+91.236.75.103 2 2 146109 20170817173439
+34.229.170.197 2 2 28280 20170802015447
+173.252.108.116 0 12 94924 
+91.193.130.66 1 1 2788 20170828081524
+99.224.239.189 3 68 335502 20170823194214
+95.91.226.150 1 1 447 20170804141025
+66.102.6.153 0 4 325500 
+192.0.114.84 0 1 104049 
+51.15.146.243 20 20 872901 20170813011907
+119.152.53.170 2 2 9140 20170811064904
+117.211.170.96 1 1 448 20170807082731
+74.85.208.250 1 1 61938 20170806200331
+131.253.25.82 1 34 194868 20170815233641
+54.176.40.68 5 5 70307 20170810031116
+192.40.95.28 2 2 146010 20170827210437
+202.83.28.53 5 87 534691 20170826042028
+54.156.96.122 1 1 14088 20170813221505
+188.92.75.244 4 4 292018 20170813170548
+41.42.196.208 1 1 447 20170802054708
+177.93.146.81 2 2 9140 20170816092354
+95.81.252.118 18 18 726893 20170822213000
+46.193.65.164 1 1 447 20170819162526
+192.0.99.131 0 29 3603078 
+38.131.150.178 1 1 14119 20170818052231
+173.252.92.118 0 33 172621 
+103.47.168.145 2 2 9141 20170817092356
+52.170.39.71 8 8 363379 20170823033636
+99.250.133.1 3 88 2729895 20170830092314
+93.89.144.14 1 1 14139 20170803143708
+89.161.6.247 1 1 446 20170824064913
+184.21.32.63 1 1 2784 20170828080958
+136.243.67.234 1 1 0 20170817162954
+94.52.182.135 2 2 9141 20170806010813
+146.185.223.71 7 7 494976 20170831042623
+157.50.10.103 1 1 447 20170819013336
+39.88.179.129 21 21 231911 20170831031306
+41.207.211.236 1 1 448 20170811171849
+109.92.144.185 1 1 448 20170804122524
+79.114.245.255 2 2 9141 20170814010208
+72.192.200.119 0 1 55924 
+176.31.45.3 1 1 14122 20170813015048
+23.253.160.244 2 2 25991 20170820114723
+41.76.157.26 1 1 446 20170803003140
+213.22.133.157 3 3 17878 20170806150740
+95.42.137.128 1 1 447 20170804004054
+182.74.243.44 2 2 123876 20170824041333
+95.180.245.153 2 2 70675 20170821105913
+71.19.146.228 2 2 123876 20170819005111
+159.118.147.36 2 2 9141 20170806034803
+131.161.10.211 1 1 14121 20170808211933
+76.218.249.129 2 2 9141 20170805134616
+51.15.76.86 1 1 14119 20170816082458
+175.136.22.218 2 2 9140 20170813023307
+123.125.67.222 2 2 28240 20170806050716
+39.35.48.198 1 1 446 20170825015005
+66.43.61.106 1 1 0 20170830182700
+156.220.162.241 1 1 449 20170805175456
+163.172.142.15 1 1 14121 20170811091145
+99.252.129.72 8 95 2804478 20170823201013
+179.61.164.216 1 1 14119 20170818171837
+96.82.32.74 0 1 55924 
+54.146.93.96 1 1 14079 20170811114939
+192.0.91.153 0 4 184035 
+113.210.141.233 0 1 116869 
+90.154.70.202 18 18 726895 20170810013700
+104.204.29.14 5 145 4246492 20170827212312
+93.104.215.125 1 1 61938 20170822050845
+8.21.198.34 1 1 13413 20170806191620
+110.36.230.194 1 1 8737 20170825135325
+175.144.194.2 1 1 447 20170811053427
+176.31.64.186 6 6 94354 20170829230513
+79.106.209.26 2 2 9141 20170806051700
+178.33.187.91 1 1 16334 20170805035853
+192.0.101.35 0 7 428878 
+201.7.9.133 1 1 445 20170822033533
+34.203.206.48 1 1 14121 20170809110726
+69.17.188.41 3 85 2684949 20170822135913
+190.80.60.69 1 1 446 20170803083055
+123.125.71.44 0 2 85048 
+73.236.63.76 0 1 55924 
+195.22.126.33 6 6 438445 20170819070124
+119.155.39.253 1 1 8426 20170814015458
+106.51.129.79 2 2 9140 20170823035811
+174.115.90.181 3 82 2676044 20170820060535
+179.180.61.9 2 2 9140 20170802175738
+183.83.84.241 2 2 9141 20170820015812
+112.198.71.232 6 94 646083 20170823051118
+162.136.192.1 0 1 55924 
+217.10.241.151 1 1 448 20170820064709
+37.115.191.239 2 2 123876 20170810083133
+103.28.118.18 3 3 28446 20170810121547
+39.42.107.121 1 1 447 20170816122003
+109.200.186.102 1 1 449 20170802224358
+121.244.91.13 1 1 61938 20170825042424
+46.201.214.56 1 1 14119 20170816003348
+192.0.101.166 0 17 600923 
+201.253.163.127 1 1 61938 20170824224606
+212.142.166.135 2 2 9140 20170816073213
+115.177.9.27 1 1 14121 20170811144305
+185.44.230.6 1 1 8738 20170822000913
+111.88.25.56 1 1 446 20170805073253
+51.15.70.177 1 1 14119 20170814104416
+46.211.11.183 2 2 146008 20170810013518
+176.59.36.73 2 2 5139 20170829072352
+51.15.70.226 2 2 87127 20170827204505
+159.203.196.79 1 1 61938 20170808181720
+110.36.235.114 2 2 9142 20170823102049
+177.89.139.240 1 1 448 20170820065906
+173.209.212.157 2 33 1256986 20170830071512
+46.173.1.213 1 1 2788 20170828113920
+191.102.245.150 1 1 17074 20170825211802
+45.79.156.179 1 1 0 20170824015550
+23.22.173.180 1 1 16623 20170831175202
+91.244.215.105 1 1 448 20170809003302
+69.196.151.38 3 82 2676012 20170807152510
+37.187.129.166 3 3 158640 20170815014315
+192.0.101.59 0 8 749195 
+192.0.100.155 0 20 1454471 
+38.145.67.164 1 1 14117 20170817230615
+82.80.249.192 1 1 14123 20170809165529
+41.210.27.49 2 2 9140 20170818032947
+24.114.73.10 20 120 3035318 20170813093618
+195.22.126.26 2 2 146007 20170827220050
+218.241.251.147 1 1 449 20170822202743
+59.94.250.4 1 1 445 20170816070320
+203.87.171.111 2 2 9140 20170812005511
+66.102.6.98 0 61 3305323 
+66.249.84.192 0 2 155377 
+62.176.4.10 2 2 73531 20170812084314
+54.211.216.13 1 1 14079 20170828194613
+138.0.23.166 1 1 446 20170815193647
+52.23.192.237 3 3 47481 20170831165849
+62.212.37.69 1 1 61938 20170826035043
+194.187.170.129 1 1 14119 20170830001731
+188.163.109.0 8 8 584039 20170819170530
+154.16.49.30 4 4 292222 20170823141727
+194.187.170.124 2 2 29282 20170830211330
+119.153.49.146 1 1 403 20170812114006
+99.227.231.126 13 205 5695962 20170810095906
+178.159.37.15 1 1 73050 20170804031029
+97.82.63.130 1 1 61976 20170804170710
+105.186.99.15 1 1 447 20170808025351
+223.17.125.110 2 2 9140 20170816073733
+192.0.102.92 0 21 923282 
+121.54.54.178 2 2 9140 20170815082917
+41.144.218.1 1 1 446 20170803162947
+180.211.162.22 1 1 14118 20170816003402
+62.82.76.94 1 1 445 20170822102008
+46.161.9.25 16 16 1168812 20170804020631
+34.210.127.209 9 9 591730 20170808060031
+201.249.204.196 2 2 16854 20170801185145
+47.199.16.67 1 1 206 20170821195518
+192.0.112.50 0 1 35040 
+123.126.113.250 3 3 185814 20170812095601
+159.203.62.29 2 2 114806 20170811121008
+192.0.86.145 0 6 400562 
+78.15.100.180 2 2 9140 20170804075938
+54.224.115.149 3 3 42361 20170806014424
+217.182.76.240 1 1 14120 20170805015317
+124.83.49.244 2 2 9141 20170803074034
+111.92.25.189 2 2 9140 20170808221138
+41.96.217.59 1 1 446 20170821055606
+202.91.65.22 1 1 446 20170808212129
+105.184.17.23 1 1 447 20170802215051
+89.216.182.17 1 1 447 20170823020806
+148.101.236.82 2 2 9140 20170809233257
+157.50.11.126 2 2 9140 20170808050205
+131.161.8.198 1 1 14142 20170803082449
+180.190.167.27 2 2 9140 20170825051000
+70.30.105.51 2 86 2726200 20170801181725
+209.59.112.78 1 1 61976 20170801080712
+95.105.30.11 2 2 146038 20170808093235
+149.56.17.223 1 1 14120 20170816122648
+43.241.252.31 1 1 447 20170810084645
+46.4.17.139 1 1 14120 20170811180738
+52.34.106.161 1 1 14122 20170812075621
+103.27.140.130 2 2 9140 20170822123306
+54.159.216.42 4 4 56334 20170822001228
+114.29.225.230 2 2 8829 20170822214132
+220.181.108.109 0 1 16917 
+76.70.95.25 10 94 2809198 20170814113333
+192.0.114.20 0 6 884556 
+54.201.104.76 1 1 14119 20170831051645
+200.120.118.232 1 1 449 20170816135919
+131.253.25.68 1 1 0 20170816184111
+115.31.148.235 1 1 448 20170824183756
+192.0.102.138 0 27 1706449 
+185.86.5.251 1 1 8737 20170821084344
+180.253.71.120 1 1 448 20170814091048
+130.105.14.73 2 2 9140 20170821030729
+103.30.140.114 2 2 9140 20170811125412
+213.87.155.156 1 1 2791 20170828233746
+41.242.138.45 2 2 9140 20170807161351
+174.119.56.126 21 121 3023492 20170811133116
+199.249.223.79 1 1 73004 20170825121206
+45.41.60.208 1 1 61938 20170830121323
+99.16.253.134 0 1 138949 
+142.177.130.25 1 1 16333 20170805032349
+188.209.49.34 1 1 14121 20170828030017
+196.75.240.86 1 1 447 20170812102139
+170.178.182.194 2 2 76500 20170829034903
+113.172.118.152 2 2 16543 20170801114418
+190.11.26.206 2 2 9140 20170810080322
+142.134.223.127 1 1 16334 20170805061727
+192.0.101.168 0 5 225458 
+94.66.42.31 1 1 445 20170808051536
+103.86.109.117 2 2 8829 20170801194405
+192.0.99.35 0 18 1112857 
+54.91.40.123 1 1 15262 20170831175251
+104.168.145.69 1 1 14121 20170824114048
+177.248.171.50 1 1 14139 20170803143715
+122.20.62.50 0 1 55924 
+142.163.83.221 2 3 55984 20170802104207
+99.234.46.182 3 80 547823 20170816073221
+52.211.129.77 1 1 14120 20170831130025
+85.248.227.165 1 1 14122 20170811022114
+84.92.66.39 1 1 16334 20170805093949
+85.114.183.188 1 1 2791 20170828084419
+156.208.5.139 1 1 447 20170817061008
+39.60.21.6 2 2 9140 20170815024838
+213.225.1.5 1 1 445 20170806031709
+209.95.166.221 1 1 61938 20170818143841
+54.237.90.217 1 1 14035 20170804035054
+174.117.200.132 1 1 16333 20170804181322
+177.240.226.46 2 2 9140 20170815134316
+74.6.66.10 1 1 16703 20170827121822
+62.106.101.45 1 1 2790 20170829065014
+84.53.198.70 1 1 73005 20170811000452
+54.211.112.148 2 2 28130 20170814114404
+192.0.118.50 0 21 979383 
+75.149.221.170 1 1 61938 20170814070203
+91.121.140.176 3 3 28449 20170810121852
+94.254.163.221 2 2 8829 20170823145833
+171.25.193.78 1 1 447 20170816062317
+203.115.113.178 2 2 9140 20170803020854
+189.62.157.110 1 1 448 20170816023926
+192.0.116.146 0 1 88238 
+104.223.123.98 2 2 28240 20170826020217
+185.119.81.63 1 1 8737 20170821085951
+154.16.56.176 1 1 14120 20170828160929
+35.166.211.92 1 1 14121 20170811174020
+46.29.248.238 3 3 42358 20170815004032
+209.171.88.64 3 86 2688747 20170828103552
+103.14.199.181 2 2 9140 20170823031813
+103.214.62.209 1 1 61938 20170811083602
+162.158.65.22 0 1 59620 
+54.237.36.230 2 2 28172 20170820130955
+54.147.18.80 1 1 14086 20170818193033
+91.227.180.228 18 18 726891 20170831182940
+60.228.177.207 2 2 9141 20170818172334
+14.230.83.28 1 1 14120 20170816003353
+188.95.60.4 1 1 445 20170801072656
+39.51.5.225 2 2 9140 20170824083241
+81.162.224.132 16 16 873972 20170825004645
+110.54.135.102 2 2 9141 20170824231012
+112.5.234.64 1 1 14123 20170822010448
+111.250.67.27 1 1 447 20170812065012
+185.104.248.83 1 1 14122 20170822203438
+192.0.116.180 0 3 147129 
+54.174.98.180 3 3 42427 20170803004234
+87.118.122.50 1 1 14121 20170822082639
+66.207.201.90 9 94 2778268 20170824073551
+192.0.84.121 0 11 361410 
+104.198.54.140 5 5 72433 20170806224640
+112.215.240.80 2 2 9140 20170805054952
+70.51.154.151 3 82 2675970 20170822140327
+176.214.50.239 1 1 61938 20170813181818
+217.114.184.170 1 1 2787 20170828212832
+52.90.58.62 2 2 28243 20170808205531
+192.0.99.59 0 9 702569 
+209.195.85.145 2 2 16543 20170801121443
+38.131.143.137 1 1 14120 20170831090913
+192.0.102.142 0 27 2487630 
+179.107.8.21 2 2 9140 20170808072859
+195.22.126.27 4 4 292229 20170820213631
+192.0.91.157 0 4 58757 
+193.91.230.172 2 2 9140 20170820172653
+204.79.180.5 3 47 262247 20170824052833
+54.85.156.173 2 2 28284 20170803233049
+8.21.198.10 1 1 16412 20170813134837
+183.82.201.60 1 1 447 20170812234021
+218.72.49.11 1 1 14119 20170831144528
+192.0.112.148 4 4 734 20170807114832
+39.42.145.240 1 1 447 20170811051446
+207.188.66.213 12 99 2856320 20170817180108
+178.90.9.49 1 1 0 20170824015550
+151.249.164.95 20 20 1359203 20170831050849
+27.147.206.35 1 1 447 20170823061028
+179.179.96.108 2 2 9140 20170812101658
+167.60.25.198 1 1 447 20170805224043
+8.21.198.106 1 1 13314 20170815134906
+192.0.102.140 0 7 645174 
+49.228.248.234 2 2 146010 20170810174113
+122.53.51.115 1 1 447 20170825073326
+106.193.196.156 2 2 9140 20170804011835
+113.203.132.241 2 2 9140 20170825121428
+114.33.249.108 1 1 14120 20170831071305
+120.41.67.16 1 1 14140 20170803031812
+185.85.238.244 1 1 8737 20170821093933
+24.114.73.217 4 69 1981581 20170815163136
+8.21.198.83 5 5 68297 20170824135347
+99.245.176.228 11 95 664213 20170814124248
+141.255.49.150 1 1 448 20170803225848
+189.170.73.234 1 1 448 20170812090603
+82.160.125.169 1 1 2652 20170824145932
+204.101.161.159 2 85 2681231 20170829084757
+77.242.95.103 1 1 447 20170810230423
+5.39.218.214 1 1 0 20170816224937
+72.255.58.86 1 1 446 20170820030545
+188.26.241.144 2 2 9140 20170814043312
+54.215.98.172 3 3 42193 20170809214345
+54.201.16.29 1 1 14120 20170805133909
+192.0.116.18 0 4 335563 
+123.136.196.98 2 2 9140 20170810222238
+154.16.49.21 4 4 292196 20170824204117
+176.203.153.153 1 1 8737 20170815063005
+198.58.100.240 1 1 14121 20170828194348
+54.236.45.210 1 1 14142 20170801013023
+5.135.158.101 2 2 14566 20170821152028
+121.127.34.238 2 2 8829 20170823205545
+192.0.86.125 0 3 211101 
+95.220.73.147 2 64 291939 20170830143323
+189.74.59.98 2 2 8829 20170823204739
+83.110.72.206 1 1 447 20170805011018
+146.185.223.105 2 2 146125 20170811014753
+147.69.5.79 2 2 9140 20170801204753
+54.205.37.126 1 1 14088 20170824214527
+204.79.180.13 0 31 113936 
+86.253.76.228 1 1 447 20170818234743
+47.148.103.141 5 5 299456 20170828122905
+154.16.49.27 4 4 222580 20170822234802
+154.69.21.116 2 2 9140 20170817061832
+99.237.226.172 1 1 16333 20170805081123
+112.201.66.24 1 1 447 20170808025247
+198.27.85.233 3 3 185852 20170824085303
+157.50.15.180 2 2 9140 20170821082639
+23.129.64.12 2 2 146091 20170808162705
+81.138.72.149 1 1 14119 20170821052321
+39.37.191.230 1 1 447 20170820022654
+90.253.250.192 2 2 9140 20170818040903
+192.0.86.151 0 5 81590 
+204.79.180.10 2 46 236939 20170829230724
+195.22.126.25 4 4 292110 20170830072754
+36.85.17.226 1 1 0 20170817141827
+60.240.178.50 2 2 9140 20170806000928
+184.163.213.82 1 1 448 20170819115518
+188.240.227.119 1 1 449 20170818124758
+103.203.144.9 2 2 9140 20170821110238
+109.99.29.122 1 1 61938 20170804181614
+89.120.55.232 1 1 447 20170801215929
+175.157.203.192 2 2 70402 20170804155816
+204.79.180.7 3 50 222175 20170831005753
+192.0.101.142 0 14 247962 
+123.125.71.30 0 1 37085 
+112.211.120.151 1 1 449 20170813195440
+192.0.85.149 0 3 256203 
+103.55.145.173 1 1 448 20170823082212
+27.59.80.130 2 2 9141 20170805033833
+54.219.89.152 5 5 70307 20170811054053
+108.32.49.20 1 1 14119 20170818213617
+213.159.254.106 1 1 14120 20170816003351
+31.184.236.104 18 18 726896 20170815171745
+39.48.43.136 2 2 9140 20170808102942
+172.56.20.238 2 2 9141 20170815114640
+45.32.128.51 2 2 123876 20170815005341
+109.173.81.162 2 2 146008 20170817231028
+182.182.46.14 3 3 17878 20170805045816
+42.200.244.206 1 1 0 20170824015551
+117.221.210.251 2 2 9140 20170824211002
+105.101.247.9 1 1 447 20170816234441
+210.187.243.23 3 87 2700018 20170819050544
+208.114.155.21 4 91 2704206 20170810122530
+192.0.91.99 0 4 235303 
+188.209.52.9 1 1 446 20170808191446
+110.55.234.23 1 1 447 20170825161321
+198.199.91.120 1 1 16676 20170805105142
+99.247.12.78 14 100 2892972 20170820073357
+195.216.244.14 1 1 2790 20170828083252
+192.0.112.210 0 16 962764 
+151.48.75.210 1 1 61938 20170810042454
+66.249.88.154 0 19 63437 
+54.197.91.121 2 2 28174 20170808141025
+90.60.0.73 1 1 444 20170802010517
+95.79.234.249 4 4 292104 20170817040328
+195.22.126.193 24 24 1752386 20170818114509
+204.79.180.4 0 37 123810 
+78.158.11.226 1 1 61938 20170822122106
+117.98.186.8 1 1 446 20170818224215
+91.200.12.91 3 3 42366 20170808023118
+93.115.95.206 1 1 73004 20170805064017
+1.32.70.216 2 2 9140 20170807063821
+54.204.120.198 1 1 16416 20170824140120
+123.231.123.17 2 2 9140 20170814102403
+197.165.216.137 2 2 9140 20170818010151
+194.187.170.114 2 2 32719 20170824045306
+158.69.225.33 13 13 741322 20170825041806
+5.18.99.60 1 1 2788 20170828100946
+204.236.154.247 6 6 84430 20170811052154
+192.42.116.16 1 1 73005 20170824200456
+173.208.146.2 1 1 53719 20170828063453
+54.89.249.179 2 2 28283 20170801014135
+188.214.50.179 1 1 61938 20170817060910
+78.63.161.0 1 1 14120 20170822204353
+43.231.211.105 1 1 8117 20170801121510
+66.249.80.34 0 2 6203 
+92.108.161.229 2 2 9140 20170805011800
+37.115.215.125 4 4 292019 20170824045606
+191.101.201.12 1 1 61938 20170818010033
+192.0.101.240 0 12 1859076 
+110.164.189.146 1 1 449 20170807122519
+173.252.92.114 0 17 56995 
+196.75.149.83 2 2 9140 20170805024801
+192.151.159.2 1 1 14121 20170828100819
+24.114.79.217 7 50 366323 20170820142912
+110.36.20.67 1 1 8737 20170827095528
+8.21.198.9 1 1 16189 20170815015641
+38.131.139.84 1 1 14121 20170830200133
+213.172.154.123 2 2 8829 20170816122733
+46.101.139.248 1 1 14119 20170813231427
+123.24.65.189 1 1 61976 20170804142741
+209.88.198.82 1 1 14122 20170808042803
+202.90.133.210 1 1 61938 20170816003353
+108.63.170.251 8 83 588432 20170803183341
+5.188.211.72 1 1 14120 20170825032649
+185.153.197.46 14 14 1022157 20170830222941
+8.21.198.103 1 1 16564 20170831213341
+54.219.209.213 2 2 28114 20170805042232
+54.227.44.136 2 2 28114 20170809115920
+188.138.214.122 1 1 449 20170823234446
+198.240.102.148 1 1 61976 20170801172409
+222.252.17.99 1 1 61976 20170804105114
+192.0.113.20 0 2 197433 
+54.234.218.55 2 2 28122 20170809092249
+54.177.94.251 3 3 42193 20170806084358
+93.170.187.48 7 7 511032 20170825094126
+185.201.8.180 1 1 14121 20170827150302
+86.0.106.13 1 1 445 20170801130035
+213.239.205.118 11 16 821751 20170804214331
+198.50.158.140 1 1 448 20170808224220
+54.212.193.245 1 1 14120 20170830202240
+164.132.51.91 3 3 42355 20170815004115
+88.99.68.199 3 3 42362 20170825145420
+34.228.82.143 1 1 16338 20170812092852
+46.4.84.167 1 1 93042 20170828164412
+41.69.132.84 1 1 446 20170824054840
+207.166.54.97 14 96 667863 20170824140237
+158.69.229.69 4 4 247866 20170822064246
+37.187.7.74 1 1 445 20170822015948
+42.110.150.109 2 2 9140 20170820060638
+41.169.89.116 1 1 14120 20170831070902
+99.231.97.201 8 89 2776045 20170802153505
+39.50.63.224 2 2 9140 20170824103026
+24.114.73.174 3 82 2676049 20170822164917
+65.93.28.112 1 1 16334 20170805141302
+5.8.241.13 2 2 9140 20170824105619
+136.145.227.205 6 92 602047 20170802062228
+8.21.199.94 4 4 81335 20170824191246
+186.230.20.243 1 1 448 20170813195905
+209.52.88.138 5 89 569714 20170813121314
+43.249.39.230 2 2 70675 20170822170637
+24.49.247.244 3 87 2700023 20170822073257
+105.235.134.94 3 3 17877 20170817122405
+76.76.189.41 1 1 446 20170816144738
+24.114.53.184 7 86 2746040 20170831083128
+167.114.228.206 1 1 61938 20170824175418
+62.210.25.197 2 2 33405 20170825043109
+36.83.26.142 3 3 17877 20170823164830
+192.0.101.144 0 24 2776107 
+185.66.253.82 2 2 9141 20170819074801
+72.14.199.94 3 3 49001 20170804181534
+52.88.156.52 1 1 14079 20170805010026
+174.228.129.228 0 1 55924 
+188.139.176.34 2 2 9140 20170809152318
+89.26.248.3 20 20 1460094 20170831025118
+181.30.46.162 2 2 9140 20170811054300
+110.55.232.232 1 1 448 20170804151830
+60.48.246.161 2 2 9140 20170820062655
+118.96.250.165 2 2 9140 20170813183335
+197.186.240.39 1 1 448 20170806161006
+81.61.92.109 1 1 446 20170823134019
+54.160.100.65 2 2 28131 20170807054406
+39.33.0.164 2 2 9140 20170808202801
+99.246.154.250 1 1 16334 20170805113924
+70.24.8.99 4 77 523360 20170804194315
+8.21.198.180 3 3 50049 20170826052915
+162.217.31.133 3 3 17877 20170804044139
+131.161.11.239 1 1 14119 20170817032513
+34.232.65.62 2 2 28286 20170804005735
+149.202.157.215 16 16 225088 20170829225750
+196.54.55.18 2 2 146010 20170828122328
+46.118.119.191 3 3 214024 20170820193630
+8.21.199.54 4 4 52808 20170828141631
+195.22.126.38 8 8 445327 20170819072858
+54.176.131.22 3 3 42193 20170808144409
+213.87.240.68 1 1 2789 20170829015516
+204.138.111.18 12 99 2840310 20170828080559
+177.23.200.214 1 1 448 20170824142709
+110.54.173.166 2 77 507590 20170827202612
+138.197.65.190 2 45 231475 20170807180415
+174.118.77.28 17 99 2915930 20170809161807
+106.37.78.183 2 2 9141 20170822060910
+5.9.112.6 1 1 55591 20170831204914
+43.229.202.166 1 1 448 20170820222108
+173.252.92.115 0 12 83598 
+8.21.198.186 5 5 59363 20170829063258
+198.240.124.238 1 1 61938 20170825093024
+197.210.226.56 1 1 448 20170819100256
+66.255.249.158 0 1 55924 
+54.243.20.250 7 7 113013 20170831165853
+54.167.51.79 1 1 14088 20170831081313
+192.0.99.250 0 25 1842977 
+113.254.107.142 1 1 449 20170819214230
+138.201.134.223 2 2 28240 20170829030806
+191.101.95.246 1 1 14121 20170810052856
+5.2.136.188 2 2 9140 20170816060423
+131.253.25.94 1 33 178712 20170812154557
+188.17.124.99 0 1 73807 
+85.246.154.243 1 1 448 20170815045446
+90.206.122.126 4 91 576400 20170807153649
+71.17.126.213 2 84 2675490 20170826110342
+178.159.37.61 20 20 872993 20170805140334
+200.90.224.25 1 1 447 20170825082534
+181.215.50.135 1 1 14120 20170831022708
+203.123.46.242 1 1 448 20170808210415
+179.107.123.239 1 1 449 20170810153115
+181.215.51.170 1 1 14120 20170831122047
+54.157.137.105 1 1 14079 20170806033026
+54.177.103.144 2 2 28114 20170804194650
+54.205.121.52 1 1 14088 20170824230636
+89.111.179.52 2 2 14370 20170810121428
+61.6.230.172 2 2 70364 20170812214336
+204.79.180.9 1 38 157357 20170808065311
+192.0.113.210 0 9 504500 
+34.203.31.90 3 3 47482 20170824054405
+195.191.104.85 1 1 16703 20170830031139
+173.252.92.116 0 1 111599 
+89.205.125.178 2 2 9140 20170824224535
+103.208.220.136 1 1 449 20170825083620
+91.69.238.140 2 2 9141 20170820055208
+46.161.9.20 4 4 292127 20170827224059
+101.60.51.27 2 2 8829 20170801092754
+124.104.225.105 5 87 569664 20170820035212
+163.172.67.180 2 2 146009 20170830163152
+99.234.105.121 1 1 16335 20170805092455
+112.5.234.131 1 1 14118 20170816165009
+192.0.112.241 0 5 589079 
+110.54.223.150 5 86 565936 20170814065123
+115.133.111.209 0 1 55924 
+192.0.102.120 0 37 5132837 
+192.0.102.118 0 51 3484473 
+112.211.88.176 4 86 569665 20170814122428
+93.115.95.216 1 1 14142 20170801230319
+82.80.230.228 0 2 122694 
+99.255.49.83 1 13 37170 20170830171146
+74.6.67.205 1 1 16704 20170827121825
+54.202.253.143 9 9 119617 20170811091752
+125.239.187.47 1 1 448 20170805221816
+192.0.101.11 0 14 2030582 
+192.0.88.51 0 7 869035 
+148.251.179.145 1 1 0 20170811231554
+107.170.166.118 8 93 2786341 20170829100549
+31.18.253.23 2 2 9140 20170815170232
+149.202.173.144 0 8 172856 
+83.196.219.82 1 1 447 20170824004941
+60.53.171.222 1 1 447 20170819100235
+207.219.3.250 21 185 3432114 20170810075059
+81.129.1.57 2 2 9141 20170806191223
+223.190.122.123 2 2 9140 20170809083433
+192.0.100.131 0 21 1683487 
+192.0.112.147 0 16 1480579 
+101.109.78.45 1 1 14118 20170816003355
+200.125.74.130 1 1 448 20170816073411
+82.144.139.19 1 1 61938 20170818012238
+151.251.20.81 1 1 447 20170804232021
+87.60.72.167 1 1 446 20170804103103
+61.2.172.179 2 2 8829 20170819040127
+163.172.162.106 1 1 401 20170821173904
+183.211.196.198 1 1 449 20170815230755
+68.151.34.114 1 1 16331 20170804214420
+79.201.124.77 1 1 447 20170805234502
+41.96.160.136 2 2 9140 20170821004613
+99.227.57.49 11 95 2791045 20170831082439
+192.226.213.119 1 1 449 20170811091507
+202.9.42.244 2 2 70364 20170807084146
+149.202.157.219 17 17 239167 20170821134343
+39.42.26.139 1 1 446 20170803080200
+188.164.217.182 2 2 9140 20170803060551
+188.65.135.26 1 1 73005 20170812151143
+192.0.116.177 0 8 149944 
+45.220.15.218 1 1 61976 20170801121048
+185.9.184.210 1 1 2790 20170828102056
+131.161.10.241 1 1 14120 20170805221900
+54.90.83.164 2 2 29227 20170831175355
+191.96.249.110 2 2 146089 20170809105537
+52.23.217.169 1 1 14141 20170804015416
+176.123.6.122 2 2 118038 20170820052504
+85.110.52.158 2 2 9141 20170811064525
+110.77.198.182 1 1 61938 20170805043154
+94.75.9.102 1 1 2787 20170829083413
+178.221.133.107 1 1 449 20170822140858
+8.21.198.48 5 5 64538 20170830020342
+91.210.145.215 1 1 14121 20170820211533
+99.228.49.92 4 77 523363 20170810151950
+99.230.45.244 12 170 3289228 20170818091815
+85.74.237.34 1 1 446 20170802144004
+185.129.62.62 1 1 14122 20170812054634
+178.64.183.215 1 1 2787 20170829115551
+185.201.11.217 1 1 14120 20170828160913
+173.209.212.156 2 16 181175 20170824054715
+192.0.101.58 0 14 819092 
+70.50.22.174 6 94 2763042 20170827181102
+118.97.88.34 1 1 8737 20170801083002
+175.143.166.58 2 2 9141 20170807204238
+173.35.64.148 2 81 2676046 20170831064502
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20170801 817 1687 26025398 116
+20170802 646 1767 37272911 115
+20170803 520 1155 19314037 120
+20170804 877 2064 33840215 143
+20170805 762 1497 28510299 132
+20170806 710 1433 39979588 107
+20170807 626 1707 26569955 93
+20170808 552 1410 27049743 101
+20170809 800 1616 38388263 110
+20170810 537 1587 22315004 102
+20170811 762 1419 29121123 103
+20170812 582 1174 18027062 104
+20170813 602 1366 26772920 94
+20170814 643 2033 41309399 97
+20170815 627 1361 24897057 98
+20170816 799 1619 24782738 118
+20170817 669 1428 28732364 95
+20170818 576 2164 19969281 91
+20170819 665 1336 23164915 87
+20170820 633 1526 28568279 84
+20170821 625 1393 26943353 75
+20170822 825 2549 62111104 111
+20170823 990 2340 54538388 111
+20170824 685 1598 33973299 125
+20170825 737 1132 15063513 92
+20170826 484 953 14814902 45
+20170827 457 1421 27369157 62
+20170828 684 1871 44796544 112
+20170829 525 1777 41476389 82
+20170830 512 1842 37103226 74
+20170831 747 2237 45854668 102
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+0s-30s 2847
+30mn-1h 13
+2mn-5mn 43
+30s-2mn 91
+15mn-30mn 22
+5mn-15mn 44
+1h+ 41
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 153
+/wp-cron.php 12428 2963 30 30
+/ 2159 36149749 995 947
+/xmlrpc.php 778 326505 763 424
+/blog/carpentry-technique-organize-your-kitchen/ 651 46411667 316 269
+/wp-login.php 511 3943540 131 437
+/feed/ 500 6811086 420 430
+/wp-admin/admin-ajax.php 381 9224 12 12
+/organizing-decluttering/ 212 3468656 13 23
+/frequently-asked-questions/ 161 4761078 26 26
+/blog/making-the-most-of-your-garage-space/ 127 2959136 6 12
+/blog/get-better-use-of-your-basement/ 127 2546699 56 56
+/custom-closets/ 125 2500673 13 10
+/contact/ 116 2080771 16 32
+/wp-content/themes/Avada/fonts/fontawesome-webfont.woff 114 3626460 1 14
+/blog/ 98 3333829 10 17
+/blog/the-advantages-of-having-storage-lockers/ 93 1277663 40 26
+/organizing-toronto-team/join-the-team/ 87 1790340 6 12
+/organizing-toronto-team/teresa/ 85 1747794 6 7
+/organizing-toronto-team/ 79 1515096 5 7
+/testimonials/ 69 2201432 10 9
+/organizing-toronto-team/maria/ 67 1745792 12 6
+/blog/time-saving-tips-for-organizing-your-home/ 63 1341615 10 10
+/donation-coordination/ 60 1263314 3 6
+/staging-design/ 58 1291367 6 4
+/blog/enhance-your-living-space-with-basement-remodels/ 54 3313751 13 20
+/wp-comments-post.php 15 52352 0 12
+/sitemap.xml 4 6064 2 2
+/blog/making-the-most-out-of-your-bathroom/ 2 143148 0 0
+/blog/page/3/ 20 1307551 0 1
+/blog/stop-the-clutter-in-your-bedroom-dresser-and-closet/ 3 164074 0 0
+/blog/types-of-storage-lockers-you-can-choose-from/ 8 281442 1 1
+/wp-admin/admin.php 6 12251 0 0
+/blog/hire-professionals-for-your-estate-clearance-needs/ 53 2750693 9 6
+/sitemap_index.xml 2 766 1 1
+//wp-admin/admin-ajax.php 1 1 1 1
+/blog/why-choose-climate-controlled-storage-facilities/ 5 179187 0 1
+/blog/closet-organizing-ideas-for-small-spaces/ 9 231562 2 0
+/wp-admin/post.php 6 270554 0 0
+/organizing-toronto-team/feed/ 2 411 0 0
+/blog/category/bathrooms/ 14 434491 1 1
+/wp-includes/js/tinymce/wp-tinymce.php 1 168459 0 0
+/blog/5-creative-strategies-for-downsizing-your-home/ 3 160697 1 1
+/blog/category/garages/ 8 319717 0 0
+/blog/spring-home-maintenance-tips/ 13 160338 10 10
+/testimonials/feed/ 1 429 0 0
+/blog/feed/ 29 408420 29 29
+/blog/category/closets/ 13 425007 1 1
+/blog/dont-you-wish-that-guys-home-was-yours/ 4 236979 0 1
+/1/ 2 124854 0 0
+/home-2/trudibrooks/ 1 55971 1 1
+/organizing-toronto-team/andrew-neary/ 41 1166483 2 5
+/blog/affordable-solutions-to-organize-your-closet/ 31 2176159 1 1
+/search/temp/error.php 1 53719 1 1
+/blog/tips-for-downsizing-your-home/ 3 159024 0 0
+/blog/4-ways-to-get-more-bathroom-space/ 5 304644 0 1
+/professional-organizing-services/ 2 113604 2 2
+/blog/sources-of-clutter-in-your-bedroom/ 32 2200892 0 0
+/blog/page/6/ 5 115206 1 1
+/blog/space-saving-tips-to-brighten-up-your-laundry-room/ 27 627034 9 7
+/blog/page/2/ 25 1569409 1 1
+/organizing-toronto-team/teresa-laucis-2/ 8 96656 3 2
+/wp-json/oembed/1.0/embed 6 8620 0 0
+/blog/the-benefits-of-being-organized-at-home/ 2 144061 0 0
+/organizing-toronto-team/andrew-neary/feed/ 1 0 0 0
+/blog/how-to-hire-the-right-estate-clearing-service/ 2 144818 0 0
+/blog/bathroom-space-saving-tips/ 3 162687 0 0
+/blog/positioning-your-kitchen-cabinets/feed/ 28 22372 0 0
+/index.php 18 254415 15 15
+/blog/category/from-andrew/ 16 553278 4 2
+/blog/category/home-organizing/ 10 409655 2 1
+/blog/the-benefits-of-an-estate-clearing-service/ 16 557714 4 4
+/blog/wall-mount-solutions-for-your-kitchen/ 2 145223 0 0
+/blog/smart-tips-to-organize-your-kitchen/ 16 345782 0 7
+/blog/cleaning-after-renting/ 23 898179 2 1
+/blog/category/estate-clearing/ 11 393983 1 3
+/contact/feed/ 2 403 0 1
+/blog/a-guide-to-organize-your-garage/ 20 433133 10 10
+/organizing-toronto-team/join-the-team/feed/ 1 0 0 0
+/blog/category/from-andrew/page/3/ 2 162578 0 0
+/blog/determining-the-right-storage-locker/feed/ 30 24240 0 0
+/blog/why-stage/feed/ 1 411 0 0
+/blog/solutions-to-reduce-clutter-in-bathrooms/ 2 145079 0 0
+/blog/9-steps-to-help-seniors-stay-at-home-longer/ 34 2405829 0 0
+/blog/laundry-room-aesthetics-for-a-pleasant-laundry-experience/ 11 320088 6 5
+/blog/reorganize-your-closet-on-a-budget/ 15 308856 4 4
+/blog/importance-of-waterproofing-your-basement/ 4 177693 1 1
+/organizing-toronto-team/trudi/ 54 1320217 7 7
+/wp-admin/edit.php 4 85756 0 0
+/wp-admin/load-scripts.php 11 767086 0 0
+/blog/how-to-save-money-while-maintaining-your-home/ 3 160986 0 0
+/blog/organizing-your-home-a-process/ 11 261241 1 3
+/blog/positioning-your-kitchen-cabinets/ 33 2312656 0 1
+/blog/3-things-to-consider-while-organizing-your-home/ 5 178272 0 0
+/contact/thank-you/ 7 80419 1 3
+/blog/5-quick-tips-to-organize-your-laundry-room/ 3 163024 0 0
+/wp-content/plugins/ 1 0 1 1
+/relocation-services/ 51 1320290 5 10
+/blog/professional-organizer-for-your-move/feed/ 23 18584 0 0
+/wp-content/plugins/jetpack/_inc/genericons/genericons/Genericons.eot 6 83670 0 0
+/wp-admin/ 3 62194 0 0
+/blog/page/4/ 18 1178175 1 1
+/blog/hire-professionals-for-your-estate-clearance-needs/feed/ 32 27200 0 1
+/blog/checklist-for-your-garage-door-maintenance/feed/ 1 826 0 0
+/blog/essential-tools-for-maintaining-your-home/ 3 162650 0 0
+/wp-content/themes/Avada/fonts/fontawesome-webfont.eot 9 250596 0 2
+/blog/category/storage-lockers/ 9 362364 0 3
+/blog/category/downsizing/ 8 352603 0 1
+/blog/category/articles-of-interest/ 23 541121 1 2
+/blog/category/basements/ 14 440344 1 1
+/wp-content/plugins/jetpack/_inc/fonts/jetpack/jetpack.woff 1 1106 0 0
+/blog/category/maintenance/ 6 306075 0 0
+/wp-json/ 5 3187 1 1
+/blog/the-upside-of-downsizing/ 3 160076 0 0
+/blog/use-the-walls-for-space-in-your-small-bedroom/ 11 261614 2 2
+/blog/9-steps-to-help-seniors-stay-at-home-longer/feed/ 32 26528 0 0
+/blog/author/andrew/ 12 568259 1 1
+/blog/checklist-for-your-garage-door-maintenance/ 3 216224 0 0
+/wp-includes/wlwmanifest.xml 3 2550 0 1
+/blog/sources-of-clutter-in-your-bedroom/feed/ 28 22456 0 0
+/wp-admin/users.php 3 36440 0 0
+/blog/category/bedrooms/ 16 461628 1 1
+/blog/transform-your-messy-garage-into-a-multipurpose-storage-space/ 10 259123 1 2
+/blog/why-stage/ 5 188993 1 1
+/blog/explore-your-selling-options-while-downsizing-your-home/ 12 275649 2 4
+/blog/author/andrew/page/3/ 2 164746 0 0
+/blog/tips-to-organize-your-bedroom/ 16 507703 3 5
+/blog/category/kitchens/ 6 273825 1 0
+/blog/affordable-solutions-to-organize-your-closet/feed/ 28 23296 0 0
+/blog/custom-solutions-for-a-neat-garage/ 3 160589 0 0
+/wp-admin/load-styles.php 5 237260 0 0
+/blog/category/laundry-rooms/ 4 255252 0 0
+/wp-content/plugins/index.php 1 0 1 1
+/frequently-asked-questions/feed/ 1 419 0 0
+/blog/carpentry-technique-organize-your-kitchen/feed/ 32 26368 0 0
+/wp-content/plugins/jetpack/class.jetpack-ixr-client.php 5 225 0 3
+/home-2/feed/ 17 7098 11 10
+/blog/steps-to-declutter-your-laundry-room/ 25 1798515 0 23
+/wp-content/ 1 0 1 1
+/wp-admin/post-new.php 1 33065 0 0
+/organizing-toronto-team/maria/feed/ 1 0 0 0
+/blog/fight-your-clutter-nightmare-and-organize-your-basement/ 10 243661 2 3
+/blog/category/from-andrew/page/2/ 2 162366 0 0
+/blog/professional-organizer-for-your-move/ 31 2162051 0 5
+/organizing-toronto-team/trudi/feed/ 1 0 0 0
+/organizing-toronto-team/teresa/feed/ 1 0 0 0
+/organizing-toronto-team/leslie/ 50 1340296 2 3
+/blog/closet-organizing-ideas-for-your-childs-bedroom/ 2 144832 0 0
+/blog/determining-the-right-storage-locker/ 36 2402826 0 1
+/blog/author/andrew/page/2/ 2 163176 0 0
+/wp-content/themes/index.php 3 0 3 3
+/blog/types-of-storage-lockers-you-can-choose-from/feed/ 1 832 0 0
+/blog/top-5-home-staging-tips/ 5 195115 2 1
+/blog/page/5/ 18 1192736 1 3
+END_SIDER

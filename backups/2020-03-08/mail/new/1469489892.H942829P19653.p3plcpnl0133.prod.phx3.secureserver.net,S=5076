@@ -1,0 +1,96 @@
+Return-path: <>
+Envelope-to: andrewn29@p3plcpnl0133.prod.phx3.secureserver.net
+Delivery-date: Mon, 25 Jul 2016 16:38:12 -0700
+Received: from mailnull by p3plcpnl0133.prod.phx3.secureserver.net with local (Exim 4.87)
+	id 1bRpRs-00056u-RW
+	for andrewn29@p3plcpnl0133.prod.phx3.secureserver.net; Mon, 25 Jul 2016 16:38:12 -0700
+X-Failed-Recipients: andrew@organizingtoronto.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plcpnl0133.prod.phx3.secureserver.net>
+To: andrewn29@p3plcpnl0133.prod.phx3.secureserver.net
+Content-Type: multipart/report; report-type=delivery-status; boundary=1469489892-eximdsn-367862786
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1bRpRs-00056u-RW@p3plcpnl0133.prod.phx3.secureserver.net>
+Date: Mon, 25 Jul 2016 16:38:12 -0700
+
+--1469489892-eximdsn-367862786
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  andrew@organizingtoronto.com
+    host p3nlsmtpcp-v01.prod.phx3.gdg [72.167.191.78]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 RpRsbn2jnIdOw :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.1 cv=E+5t3fpl c=1 sm=1 tr=0 p=Oh6mO-C3YiEA:10 a=fn+xUPpQb2K/N1D8mmsCjA==:117 a=L9H7d07YOLsA:10 a=9cW_t1CCXrUA:10 a=s5jvgZ67dGcA:10 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=IkcTkHD0fZMA:10 a=wZOtAKPjcqYA:10 a=Kj_eRqPmDKkA:10 a=cAmyUtKerLwA:10 a=Uvl13jLDqV0A:10 a=pGLkceISAAAA:8 a=epY3dyrHAAAA:8 a=ZVlXeTDwAuhKZRQ5i4MA:9 a=t3V2b55GDpuf3Xd_:21 a=fNUVtbTNLrVAK7-J:21 a=bGuq0fRUCTPqRvj1:21 a=QEXdDO2ut3YA:10 a=gIiv_RBqPJAA:10 a=tbKErgX7K8MA:10 a=3JDr4lrrFAUA:10 a=6kGIvZw6iX1k4Y-7sg4_:22 a=s4ehmqDCAOLaHabZEpmW:22 ::
+    100.00
+
+--1469489892-eximdsn-367862786
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; p3plcpnl0133.prod.phx3.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;andrew@organizingtoronto.com
+Status: 5.0.0
+Remote-MTA: dns; p3nlsmtpcp-v01.prod.phx3.gdg
+Diagnostic-Code: smtp; 552 5.2.0 RpRsbn2jnIdOw :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.1 cv=E+5t3fpl c=1 sm=1 tr=0 p=Oh6mO-C3YiEA:10 a=fn+xUPpQb2K/N1D8mmsCjA==:117 a=L9H7d07YOLsA:10 a=9cW_t1CCXrUA:10 a=s5jvgZ67dGcA:10 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=IkcTkHD0fZMA:10 a=wZOtAKPjcqYA:10 a=Kj_eRqPmDKkA:10 a=cAmyUtKerLwA:10 a=Uvl13jLDqV0A:10 a=pGLkceISAAAA:8 a=epY3dyrHAAAA:8 a=ZVlXeTDwAuhKZRQ5i4MA:9 a=t3V2b55GDpuf3Xd_:21 a=fNUVtbTNLrVAK7-J:21 a=bGuq0fRUCTPqRvj1:21 a=QEXdDO2ut3YA:10 a=gIiv_RBqPJAA:10 a=tbKErgX7K8MA:10 a=3JDr4lrrFAUA:10 a=6kGIvZw6iX1k4Y-7sg4_:22 a=s4ehmqDCAOLaHabZEpmW:22 :: 100.00
+
+--1469489892-eximdsn-367862786
+Content-type: message/rfc822
+
+Return-path: <andrewn29@p3plcpnl0133.prod.phx3.secureserver.net>
+Received: from andrewn29 by p3plcpnl0133.prod.phx3.secureserver.net with local (Exim 4.87)
+	(envelope-from <andrewn29@p3plcpnl0133.prod.phx3.secureserver.net>)
+	id 1bRpRs-00056i-MP
+	for andrew@organizingtoronto.com; Mon, 25 Jul 2016 16:38:12 -0700
+To: andrew@organizingtoronto.com
+Subject: OrganizingToronto Consulting Request
+X-PHP-Script: organizingtoronto.com/index.php for 182.69.247.76
+Date: Mon, 25 Jul 2016 23:38:12 +0000
+From: 'Consulting Request' <janicevergara.smartertactics@gmail.com>
+Message-ID: <e170fa2a3acec951f99247413f7fbb5a@organizingtoronto.com>
+X-Mailer: PHPMailer 5.2.14 (https://github.com/PHPMailer/PHPMailer)
+Reply-To: <janicevergara.smartertactics@gmail.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+<p><table border="1" cellpadding="3" cellspacing="0"
+style="width:600px;"><tr valign="top"><td >Name:</td><td >Janice
+Vergara</td></tr><tr valign="top"><td >E-mail:</td><td
+>janicevergara.smartertactics@gmail.com</td></tr><tr valign="top"><td
+>Phone:</td><td >1 8772281545</td></tr><tr valign="top"><td
+>Message:</td><td>"Hi,
+
+From what I can tell, you are doing a lot of great marketing, but
+around 98 per cent of leads to your website are leaving without taking
+any action on your site. I can show you how, through reverse IP
+lookup, we can identify the companies and individuals visiting your
+site. I can also provide you with the contact info - including names,
+emails and phone numbers - of these visitors, effectively doubling or
+tripling the number of leads that can be harvested from your existing
+web traffic.
+
+My team has over twelve years of experience driving results for our
+clients, and we want you to be a part of their long reputation for
+success. We're based in Los Angeles, we're Google partners, and
+we've received accolades from Inc Magazine and the LA Business
+Journal. 
+
+Is there a time this week that works best to set up a call?
+
+Best,
+
+Janice Vergara
+Digital Marketing Manager
+(877) 228-1545
+smartertactics.com</td></tr></table></p>
+
+
+--1469489892-eximdsn-367862786--

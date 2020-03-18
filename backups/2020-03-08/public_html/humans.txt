@@ -1,0 +1,19 @@
+/* the humans responsible & colophon */
+/* humanstxt.org */
+
+/* TEAM */
+	Laird Farquharson
+	@lairdf
+
+/* THANKS */
+
+/* SITE */
+	Standards: HTML5, CSS3
+	CMS: WordPress 4.1 (running PHP 5.4.35)
+	Language: English
+	Theme Name: Organizing-Toronto
+	Theme Description: Child theme for Organizing-Toronto.com
+	Theme Author: Laird Farquharson
+	Theme Author URL: 
+	Theme Version: 
+	Theme Parent: Avada

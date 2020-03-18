@@ -1,0 +1,1 @@
+[25-Jan-2020 01:04:17 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/andrewn29/public_html/wp-content/themes/twentynineteen/404.php on line 12

@@ -1,0 +1,63 @@
+Return-path: <>
+Envelope-to: andrewn29@p3plcpnl0133.prod.phx3.secureserver.net
+Delivery-date: Fri, 16 Jan 2015 16:28:30 -0700
+Received: from mailnull by p3plcpnl0133.prod.phx3.secureserver.net with local (Exim 4.84)
+	id 1YCGJZ-0000EJ-Tp
+	for andrewn29@p3plcpnl0133.prod.phx3.secureserver.net; Fri, 16 Jan 2015 16:28:29 -0700
+X-Failed-Recipients: laird@palladio.ca
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plcpnl0133.prod.phx3.secureserver.net>
+To: andrewn29@p3plcpnl0133.prod.phx3.secureserver.net
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1YCGJZ-0000EJ-Tp@p3plcpnl0133.prod.phx3.secureserver.net>
+Date: Fri, 16 Jan 2015 16:28:29 -0700
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  laird@palladio.ca
+    SMTP error from remote mail server after end of data:
+    host p3nlsmtpcp-v01.prod.phx3.gdg [72.167.191.78]:
+    552 5.2.0 gnS01p02l2KXp1k01 :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.1 cv=O7y3vXNW c=1 sm=1 tr=0 p=Bd9zfFVDmPUA:10 a=fn+xUPpQb2K/N1D8mmsCjA==:117 a=fn+xUPpQb2K/N1D8mmsCjA==:17 a=TZb1taSUAAAA:8 a=gpBxX8G3hTgA:10 a=IkcTkHD0fZMA:10 a=wZOtAKPjcqYA:10 a=jEaYF2ggwCsA:10 a=K6Bx_ss5AAAA:8 a=YNv0rlydsVwA:10 a=nVByMUSPAAAA:8 a=pGLkceISAAAA:8 a=tQEMNegIAAAA:8 a=wiYxLJy5AAAA:8 a=IusX6tPzK5AXNlKdY1kA:9 a=QEXdDO2ut3YA:10 a=1Qd62SDVI6wA:10 a=G6e2wOo_Z_AA:10 a=MYRlYhBk-usA:10 a=6bmBJMze8g4A:10 ::
+    100.00
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <andrewn29@p3plcpnl0133.prod.phx3.secureserver.net>
+Received: from andrewn29 by p3plcpnl0133.prod.phx3.secureserver.net with local (Exim 4.84)
+	(envelope-from <andrewn29@p3plcpnl0133.prod.phx3.secureserver.net>)
+	id 1YCGJZ-0000Dw-PB
+	for laird@palladio.ca; Fri, 16 Jan 2015 16:28:29 -0700
+To: laird@palladio.ca
+Subject: [OrganizingToronto.com] Please moderate: "Use the Walls for Space in your Small Bedroom"
+X-PHP-Script: organizingtoronto.com/wp-comments-post.php for 110.89.40.214
+Date: Fri, 16 Jan 2015 23:28:29 +0000
+From: WordPress <wordpress@organizingtoronto.com>
+Message-ID: <546ce58109a0c32ce5681e8f45c8f9d2@organizingtoronto.com>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.7 (https://github.com/PHPMailer/PHPMailer/)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+A new comment on the post "Use the Walls for Space in your Small Bedroom" is waiting for your approval
+http://organizingtoronto.com/blog/use-the-walls-for-space-in-your-small-bedroom/
+
+Author : &#25163;&#12372;&#12429;&#12394;&#12362;&#20516;&#27573;&#12467;&#12540;&#12481; &#12513;&#12531;&#12474; &#38263;&#36001;&#24067; &#20154;&#27671;&#12495;&#12525;&#12454;&#12451;&#12531;&#160;&#12450;&#12454;&#12488;&#12524;&#12483;&#12488; (IP: 110.89.40.214 , 214.40.89.110.broad.pt.fj.dynamic.163data.com.cn)
+E-mail : bbewjfomx@gmail.com
+URL    : http://www.owensconsulting.biz/news.asp?23/fgvbmlgc/qksaaamw/ysl-coachyoeexecz.html
+Whois  : http://whois.arin.net/rest/ip/110.89.40.214
+Comment: 
+Gossips which experts state earphone attracts to a end, let me reveal the follow-up
+&#25163;&#12372;&#12429;&#12394;&#12362;&#20516;&#27573;&#12467;&#12540;&#12481; &#12513;&#12531;&#12474; &#38263;&#36001;&#24067; &#20154;&#27671;&#12495;&#12525;&#12454;&#12451;&#12531;&#160;&#12450;&#12454;&#12488;&#12524;&#12483;&#12488; http://www.owensconsulting.biz/news.asp?23/fgvbmlgc/qksaaamw/ysl-coachyoeexecz.html
+
+Approve it: http://organizingtoronto.com/wp-admin/comment.php?action=approve&c=5050
+Trash it: http://organizingtoronto.com/wp-admin/comment.php?action=trash&c=5050
+Spam it: http://organizingtoronto.com/wp-admin/comment.php?action=spam&c=5050
+Currently 13 comments are waiting for approval. Please visit the moderation panel:
+http://organizingtoronto.com/wp-admin/edit-comments.php?comment_status=moderated
+

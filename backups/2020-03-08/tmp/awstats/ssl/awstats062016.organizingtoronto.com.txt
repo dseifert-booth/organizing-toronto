@@ -1,0 +1,304 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201606 will be lost/reset.
+# Last config file used to build this data file was /home/andrewn29/tmp/awstats/ssl/awstats.organizingtoronto.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2023                
+POS_TIME 2688                
+POS_VISITOR 7289                
+POS_DAY 7484                
+POS_DOMAIN 3459                
+POS_LOGIN 3689                
+POS_ROBOT 3844                
+POS_WORMS 4164                
+POS_EMAILSENDER 4295                
+POS_EMAILRECEIVER 4438                
+POS_SESSION 8172                
+POS_SIDER 8381                
+POS_FILETYPES 4573                
+POS_DOWNLOADS 4673                
+POS_OS 5173                
+POS_BROWSER 5279                
+POS_SCREENSIZE 5395                
+POS_UNKNOWNREFERER 5469                
+POS_UNKNOWNREFERERBROWSER 5741                
+POS_ORIGIN 6008                
+POS_SEREFERRALS 6142                
+POS_PAGEREFS 6286                
+POS_SEARCHWORDS 6434                
+POS_KEYWORDS 6586                
+POS_MISC 2352                
+POS_ERRORS 6645                
+POS_CLUSTER 3545                
+POS_SIDER_404 6761                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20160701020142 17 3066 10512458513461
+FirstTime 0
+LastTime 20160630234014
+LastUpdate 20160701051215 17 0 16 0 0
+TotalVisits 181                 
+TotalUnique 3                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 3                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 6 6 0 14 40 255135
+1 19 19 0 28 48 445850
+2 22 22 207520 31 91 477181
+3 11 11 103760 20 27 243121
+4 27 27 103760 52 111 805543
+5 10 10 0 28 43 327386
+6 25 25 0 44 87 580530
+7 18 18 21213 34 150 729585
+8 26 26 311286 42 77 577128
+9 22 22 311282 40 63 706621
+10 9 9 0 30 42 268061
+11 20 20 103760 26 50 274027
+12 19 19 207522 34 37 269108
+13 19 19 103760 27 51 346557
+14 12 12 0 22 43 280147
+15 13 13 0 23 70 408821
+16 52 52 207872 36 114 699344
+17 19 19 207520 22 107 525054
+18 16 16 207520 21 91 501986
+19 18 18 103760 24 63 449339
+20 22 22 103760 30 55 402164
+21 9 9 0 16 102 485080
+22 14 14 103760 23 69 410982
+23 14 14 207520 16 36 242693
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+us 442 442 2615575
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 5
+googlebot 1537 8398281 20160630234013 39
+googlebot\-image 10 792028 20160618055114 0
+no_user_agent 6 488327 20160623190730 0
+checker 2 0 20160619061210 2
+netcraft 1 62139 20160614072238 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 2
+php 416 352 0 0
+html 26 2615223 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 13
+/sitemap_avada_faq.xml.gz 8 0 9642
+/sitemap_page.xml.gz 7 0 6484
+/sitemap_post_tag.xml.gz 5 0 2519
+/sitemap_portfolio_category.xml.gz 5 0 2210
+/sitemap_slide-page.xml.gz 5 0 1979
+/sitemap.xml.gz 5 0 2242
+/sitemap_post.xml.gz 5 0 9476
+/sitemap_faq_category.xml.gz 5 0 2181
+/sitemap_attachment.xml.gz 5 0 19768
+/sitemap_avada_portfolio.xml.gz 5 0 2162
+/sitemap_addl.xml.gz 5 0 2015
+/sitemap_category.xml.gz 5 0 2603
+/sitemap_testimonial.xml.gz 5 0 2179
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 3
+macosx 1 1
+macosx9 25 25
+Unknown 416 416
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 3
+chrome33.0.1750.152 25 25
+Unknown 416 416
+chrome50.0.2661.102 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+WordPress/4.5.3;_http://organizingtoronto.com 20160622163230
+WordPress/4.5.2;_https://organizingtoronto.com 20160621173507
+WordPress/4.5.3;_https://organizingtoronto.com 20160630234014
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+WordPress/4.5.3;_http://organizingtoronto.com 20160622163230
+WordPress/4.5.2;_https://organizingtoronto.com 20160621173507
+WordPress/4.5.3;_https://organizingtoronto.com 20160630234014
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 442 442
+From1 0 0
+From2 0 0
+From3 0 0
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+400 2 96
+500 4 0
+301 14 0
+404 91 970572
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 7
+/images/star.png 2 -
+/ 8 -
+/.well-known/assetlinks.json 7 -
+/.well-known/apple-app-site-association 26 -
+/professional-organizing-services/prices/credit-cards/ 1 -
+/success-stories/ 1 -
+/apple-app-site-association 46 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 3
+192.186.201.198 416 416 352 20160630234014
+69.46.36.7 25 25 2594010 20160630122902
+184.73.124.174 1 1 21213 20160618073317
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20160601 4 4 0 2
+20160602 3 3 0 2
+20160603 3 3 0 3
+20160604 3 3 0 3
+20160605 1 1 0 1
+20160606 6 6 0 5
+20160607 7 7 0 7
+20160608 4 4 0 4
+20160609 6 6 0 5
+20160610 10 10 0 8
+20160611 18 18 0 6
+20160612 7 7 0 5
+20160613 119 119 0 2
+20160614 42 42 311282 11
+20160615 10 10 103760 7
+20160616 10 10 103760 7
+20160617 14 14 103760 10
+20160618 30 30 228733 8
+20160619 16 16 207520 13
+20160620 11 11 103760 7
+20160621 10 10 103760 8
+20160622 38 38 207872 11
+20160623 11 11 207520 7
+20160624 15 15 103760 7
+20160625 8 8 207520 7
+20160626 14 14 103760 8
+20160627 5 5 103760 4
+20160628 6 6 103762 4
+20160629 4 4 103762 4
+20160630 7 7 207524 5
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 12
+5mn-15mn 9
+15mn-30mn 7
+2mn-5mn 1
+30s-2mn 3
+0s-30s 134
+30mn-1h 15
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 3
+/wp-cron.php 394 0 155 155
+/ 26 2615223 26 26
+/wp-admin/admin-ajax.php 22 352 0 0
+END_SIDER

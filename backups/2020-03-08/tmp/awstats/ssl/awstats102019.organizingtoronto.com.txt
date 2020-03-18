@@ -1,0 +1,3066 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 201910 will be lost/reset.
+# Last config file used to build this data file was /home/andrewn29/tmp/awstats/ssl/awstats.organizingtoronto.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2023                
+POS_TIME 2710                
+POS_VISITOR 40336               
+POS_DAY 94224               
+POS_DOMAIN 3759                
+POS_LOGIN 4871                
+POS_ROBOT 5026                
+POS_WORMS 7009                
+POS_EMAILSENDER 7140                
+POS_EMAILRECEIVER 7283                
+POS_SESSION 95238               
+POS_SIDER 95455               
+POS_FILETYPES 7418                
+POS_DOWNLOADS 7747                
+POS_OS 8345                
+POS_BROWSER 8774                
+POS_SCREENSIZE 13473               
+POS_UNKNOWNREFERER 13547               
+POS_UNKNOWNREFERERBROWSER 15345               
+POS_ORIGIN 16249               
+POS_SEREFERRALS 16403               
+POS_PAGEREFS 16724               
+POS_SEARCHWORDS 17628               
+POS_KEYWORDS 18059               
+POS_MISC 2373                
+POS_ERRORS 18399               
+POS_CLUSTER 4727                
+POS_SIDER_404 18621               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20191101000628 2300 647145 11016525182469
+FirstTime 20191001000123
+LastTime 20191031235954
+LastUpdate 20191101050907 2300 0 2299 0 0
+TotalVisits 4238                
+TotalUnique 1268                
+MonthHostsKnown 0                   
+MonthHostsUnknown 1393                
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+PDFSupport 0 0 0
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+JavaEnabled 0 0 0
+FlashSupport 0 0 0
+TotalMisc 0 0 0
+QuickTimeSupport 0 0 0
+JavascriptDisabled 0 0 0
+AddToFavourites 0 82 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 896 3025 44097479 503 1411 9040789
+1 935 2036 50868163 540 1259 8051413
+2 1157 1808 32846198 638 1076 13672217
+3 955 1559 39246855 713 2306 23810282
+4 906 1261 28437015 572 1430 11770857
+5 1116 1853 31492761 612 1301 10431793
+6 947 2268 49684011 656 3754 22540190
+7 1022 2016 48562163 593 1074 6923217
+8 895 2088 46284224 579 1727 17104926
+9 947 2004 42408815 553 1107 7886124
+10 1178 2877 68002689 680 1203 10484514
+11 893 1989 46666877 650 1150 11664068
+12 950 1777 36508725 882 1474 11337435
+13 883 2351 52325376 543 1063 9245304
+14 859 1772 46967446 557 1011 10836401
+15 996 2424 55552897 498 1103 10168760
+16 951 2561 51360428 491 846 8860709
+17 1061 2117 49295214 607 1002 8176517
+18 1120 2467 52620320 872 1550 12478621
+19 1084 2141 42248024 1258 1733 15464471
+20 882 2044 34530084 807 1289 11438956
+21 771 2071 46446097 586 942 9498077
+22 808 1620 33004034 520 908 8268035
+23 872 1420 29251764 551 1434 15822563
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 57
+us 16000 20861 146419275
+ru 4137 4590 303736620
+ca 1486 19379 483329403
+ua 365 445 23301068
+gb 153 475 16819171
+cn 108 300 3373228
+se 108 108 7517671
+fr 107 140 3900759
+de 71 784 30699310
+it 54 132 2262505
+ro 45 131 4104606
+in 42 540 6175537
+gh 38 38 261875
+ph 31 534 3514378
+pl 31 31 1959044
+by 26 26 1843913
+cz 25 25 1133992
+tw 25 108 4324491
+hu 24 24 343557
+gr 19 19 271997
+nl 19 22 880101
+au 18 104 1339622
+md 16 16 1204487
+kz 14 14 723414
+br 13 98 817707
+ng 2 2 28662
+no 2 2 147447
+es 5 20 286553
+kr 7 50 239593
+nz 2 2 147234
+ch 4 4 294759
+dm 1 1 14312
+lt 8 8 616221
+dk 2 2 147285
+lu 1 1 9023
+ar 1 1 16594
+th 9 90 637075
+pk 1 1 14317
+bw 5 88 571613
+tr 1 1 14312
+sg 4 4 1786
+rs 1 1 14317
+vn 3 3 90789
+ie 8 160 3233414
+sk 1 1 2860
+lv 1 1 14319
+at 3 3 220922
+il 5 5 114365
+bz 4 4 53539
+si 4 4 115306
+zz 3 3 221015
+bg 2 63 292667
+eu 5 66 513518
+cl 8 8 118914
+sc 4 4 177846
+pt 1 1 16654
+za 1 1 62697
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 45
+bot[\s_+:,\.\;\/\\-] 7794 55062265 20191031234019 217
+AdsBot\-Google[\x20]\( 2610 11738934 20191031160036 0
+Googlebot/ 2266 20238552 20191031225826 73
+bingbot/ 1942 31033537 20191031233036 206
+YandexBot/ 1598 10244046 20191031235951 322
+msnbot/ 1519 5524343 20191024152437 30
+bingpreview 1258 17890207 20191031004017 0
+MJ12bot/ 1104 9889970 20191031004908 86
+baidu 896 19299621 20191031234802 0
+SeznamBot/ 629 10062412 20191031110152 290
+SemrushBot/ 562 4655024 20191031213634 242
+crawl 478 10654046 20191021153350 4
+AhrefsBot/ 462 4673373 20191031034941 81
+unknown 296 39791 20191031145210 296
+Feedfetcher\-Google 247 3482262 20191031214336 0
+BLEXBot/ 171 2303694 20191030020732 6
+Applebot/ 166 5529880 20191031150248 27
+feed 159 1502241 20191031194242 0
+DotBot/ 147 2290743 20191031145526 99
+GrapeshotCrawler/ 122 1524124 20191031151940 21
+Mail\.RU_Bot/ 117 143164 20191030163350 54
+no_user_agent 96 4660640 20191031171647 2
+Baiduspider/ 94 4719050 20191031234748 0
+(firefox/)([0-9]\.|[0-1][0]\.) 84 3912548 20191031121535 1
+Sogou[\x20]web[\x20]spider/ 82 966208 20191031113640 4
+YandexMobileBot/ 3 28459 20191010160820 0
+facebookexternalhit/ 59 3295156 20191031140813 0
+CCBot/ 59 418956 20191016083012 6
+DomainStatsBot/ 21 1284171 20191021150702 0
+Python\-urllib/ 43 2634796 20191030185629 1
+DuckDuckGo\-Favicons\-Bot/ 20 331045 20191029163303 0
+Googlebot\-Image/ 3 666392 20191025181613 0
+java 8 100226 20191022004648 0
+curl 2 125430 20191006150128 0
+Mediatoolkitbot 2 16741 20191003175812 1
+YandexImages/ 37 3803884 20191030192521 0
+[\s_+:,\.\;\/\\-]bot 2 242 20191025152427 2
+360Spider 23 329305 20191030231834 0
+fetcher 4 57256 20191022080325 0
+nbot 1 121 20191028010315 1
+CFNetwork 7 156457 20191028182405 0
+link 74 465205 20191031231550 2
+Firefox/1\.5 12 295449 20191012030403 0
+perl 1 16567 20191003174638 0
+robot 13 58930 20191030204152 7
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 13
+woff 103 3215172 0 0
+php 14708 2498512 0 0
+html 8202 414014683 0 0
+Unknown 59 114774 0 0
+jpg 457 21506274 0 0
+gif 1059 2797124 0 0
+eot 7 167110 0 0
+svg 22 329795 0 0
+css 5972 20689877 0 0
+png 4686 523065556 0 0
+ttf 1 31867 0 0
+xml 4 3978 0 0
+js 14269 70272937 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 15
+/sitemap.xml.gz 40 0 17882
+/sitemap_post.xml.gz 23 0 45236
+/sitemap_addl.xml.gz 21 0 8452
+/sitemap_faq_category.xml.gz 20 0 8698
+/sitemap_attachment.xml.gz 20 0 77762
+/sitemap_avada_faq.xml.gz 20 0 24039
+/sitemap_avada_portfolio.xml.gz 19 0 8195
+/sitemap_slide-page.xml.gz 18 0 7102
+/sitemap_category.xml.gz 16 0 8316
+/sitemap_page.xml.gz 15 0 13443
+/sitemap_portfolio_category.xml.gz 15 0 6613
+/sitemap_testimonial.xml.gz 15 0 6516
+/sitemap_post_tag.xml.gz 13 0 6541
+/sitemap-pt-page-2014-02.xml.gz 2 0 1109
+/sitemap-pt-post-2014-01.xml.gz 1 0 407
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 24
+ios_iphone 4646 314
+win2000 3 3
+win7 4161 2482
+macosx8 95 14
+macosx9 103 12
+ios_ipad 2333 196
+macosx7 92 9
+win8.1 832 657
+linux 1760 421
+win8 128 128
+unix 173 9
+macosx 2432 301
+win10 10836 2889
+winnt 4 0
+winlong 155 54
+linuxandroid 5243 376
+macosx12 188 30
+Unknown 15271 14839
+linuxubuntu 74 3
+os/2 93 7
+macosx6 2 2
+macosx11 402 190
+macosx10 116 32
+winxp 407 116
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 215
+firefox46.0 1 1
+chrome77.0.3865.120 2175 123
+chrome40.0.2214.93 1 1
+firefox24.0 1 1
+chrome76.0.3809.87 300 32
+chrome77.0.3865.92 1166 53
+chrome64.0.3282.39 1 1
+opera53.0.2907.68 184 184
+chrome77.0.3865.90 2508 212
+msie9.0 6 2
+chrome58.0.1145.75 6 6
+chrome78.0.3882.0 48 1
+firefox64.0 17 16
+netscape5.0 21 6
+opera54.0.2952.51 185 185
+chrome64.0.3282.119 1 1
+safari5.1.8 1 1
+firefox52.6.0 1 1
+chrome49.0.2623.112 219 92
+chrome68.0.3440.106 610 610
+chrome67.0.3396.99 591 591
+opera40.0.2308.81 1 1
+chrome66.0.3359.130 1 1
+chrome77.0.3844.0 44 1
+edge17 493 108
+firefox39.0 7 7
+chrome74.0.3729.169 19 19
+msie7.0 87 20
+chrome45.0.2454.94 2 2
+chrome69.0.3452.0 3 3
+firefox45.0 5 5
+chrome53.0.2785.104 4 4
+chrome78.0.3904.50 145 40
+chrome76.0.3809.111 180 11
+safari13.0.2 532 81
+firefox31.0 2 2
+chrome61.0.3163.98 92 5
+chrome77.0.3865.105 173 9
+chrome58.0.3029.110 21 21
+chrome51.0.2704.106 1 1
+chrome67.0.3396.79 295 295
+edge16 98 98
+chrome67.0.3396.87 409 392
+chrome53.5.0289.5916 6 6
+chrome63.0.3239.84 527 28
+chrome65.0.3314.0 1 1
+chrome53.0.2785.49 11 10
+opera54.0.2952.64 275 275
+chrome65.0.3325.162 2 2
+chrome49.0.2623.75 8 4
+safari12.0.3 170 4
+firefox61.0 26 26
+chrome46.0.2754.75 5 5
+chrome75.0.3770.142 81 16
+netscape 1 1
+opera11.01 2 2
+firefox21.0 14 14
+chrome68.0.3440.7 9 9
+safari9.0 178 12
+chrome30.0.1599.66 23 23
+opera54.0.2952.54 216 216
+chrome53.0.2785.143 2 2
+chrome65.0.3325.52 3 3
+safari13.0.3 80 7
+chrome64.0.3282.186 3 3
+opera52.0.2871.99 1 1
+chrome36.0.1985.143 99 19
+chrome67.0.3396.62 86 86
+chrome66.0.3359.30 67 1
+chrome64.0.3282.167 1 1
+chrome66.0.3359.139 1 1
+safari12.0 233 16
+iphone 419 21
+firefox48.0 266 16
+chrome66.0.3359.117 12 12
+opera54.0.2952.71 169 169
+opera53.0.2907.106 96 96
+firefox42.0 1 1
+firefox43.0 2 2
+firefox40.1 4 4
+msie10.0 2 2
+msie6.0 7 7
+opera52.0.2871.64 1 1
+chrome5.0.375.99 2 2
+chrome22.0.1207.1 1 1
+chrome26.0.1410.43 1 1
+chrome71.0.3578.98 583 52
+chrome68.0.3440.84 289 289
+chrome62.0.3202.94 3 3
+chrome77.0.3865.116 1947 158
+chrome65.0.3315.3 1 1
+chrome50.0.2661.102 38 38
+chrome63.0.3239.132 89 8
+firefox34.0 25 25
+opera8.50 3 3
+chrome67.0.3393.4 2 2
+safari12.1.2 2111 169
+chrome45.0.2454.101 9 9
+chrome75.0.3770.100 30 30
+firefox17.0 168 4
+Unknown 15015 14764
+chrome65.0.3325.183 5 5
+chrome38.0.1025.166 320 16
+edge18 750 65
+chrome77.0.3835.0 63 2
+chrome16.0.912.75 36 2
+safari11.0.1 137 4
+firefox59.0.2 3 3
+chrome69.0.3451.0 4 4
+chrome66.0.3359.181 806 642
+chrome67.0.3381.1 3 3
+chrome65.0.3298.4 5 5
+chrome78.0.3904.70 260 10
+chrome62.0.3202.75 15 15
+firefox69.0 439 27
+chrome63.0.3239.26 1 1
+firefox47.0 87 87
+chrome74.0.3729.136 93 7
+firefox70.0 101 11
+safari12.1 86 3
+chrome70.0.3538.102 704 32
+chrome26.0.1410.65 7 7
+firefox62.0 20 20
+firefox63.0 650 25
+msie11.0 790 53
+chrome52.0.2743.116 4 4
+safari5.1 1 1
+firefox36.0 1 1
+chrome16.0.912.36 1 1
+chrome66.0.3359.170 6 6
+safari11.1.2 90 9
+chrome31.0.1650.63 1 1
+chrome65.0.3325.181 601 331
+firefox53.0 1 1
+firefox52.0 155 109
+chrome70.0.3538.77 4 4
+firefox57.0 2 2
+chrome80.0.3950.0 1 1
+chrome71.0.3578.62 1 1
+firefox49.0 23 23
+firefox67.0 6 6
+chrome40.0.2214.89 11 10
+safari 1553 100
+chrome73.0.3683.86 189 6
+safari11.0.2 1 1
+chrome67.0.3396.10 4 4
+chrome17.0.963.66 1 1
+chrome53.0.2787.94 1 1
+firefox52.9 6 6
+opera53.0.2907.99 286 286
+safari12.1.1 529 44
+opera52.0.2871.40 3 3
+chrome60.0.3112.113 58 58
+firefox58.0 1 1
+chrome66.0.3359.126 8 8
+chrome55.0.2883.87 14 14
+chrome77.0.3865.75 1 1
+chrome76.0.3809.132 685 33
+chrome21.0.1180.82 4 4
+safari11.0 170 10
+android 5 5
+chrome64.0.3282.15 7 7
+chrome48.0.2564.116 3 3
+chrome35.0.1916.47 2 2
+firefox68.0 3 3
+firefox65.0 3 3
+chrome72.0.3626.119 60 60
+chrome66.0.3359.66 4 4
+chrome72.0.3626.109 7 7
+chrome59.0.3071.114 2 2
+chrome75.0.3770.80 1 1
+chrome68.0.3440.75 96 96
+opera55.0.2994.44 190 190
+netscape5.7 2 2
+opera12.17 2 2
+firefox55.0 10 10
+opera62.0.3331.99 7 7
+firefox60.0 25 25
+chrome78.0.3904.62 349 21
+chrome27.0.1453.94 23 23
+chrome71.0.3578.99 415 30
+safari10.0 354 23
+firefox38.0 1 1
+mozilla 333 84
+chrome74.0.3729.157 1 1
+chrome79.0.3936.0 39 1
+firefox20.0 1 1
+firefox50.0 537 9
+chrome53.6.0969.5697 3 3
+chrome74.0.3729.131 2 2
+chrome79.0.3939.0 22 1
+firefox33.0 1 1
+chrome56.0.2924.51 1 1
+chrome9.0.597.84 1 1
+chrome70.0.3538.110 55 36
+chrome69.0.3497.100 2 2
+chrome75.0.3770.143 87 3
+safari7.0.3 2 2
+chrome76.0.3809.100 198 22
+chrome41.0.2272.89 1 1
+firefox26.0 1 1
+firefox56.0 8 8
+chrome65.0.3325.146 76 76
+chrome34.0.1847.131 6 6
+chrome79.0.3942.0 3 1
+chrome40.0.2214.85 7 7
+chrome68.0.3416.0 1 1
+opera53.0.2907.57 1 1
+msie8.0 89 4
+chrome77.0.3865.73 78 6
+chrome74.0.3694.0 90 6
+chrome63.0.3239.111 67 1
+chrome63.0.3238.0 3 3
+chrome39.0.2171.95 11 11
+safari13.0.1 2359 183
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 33
+Mozilla/5.0_zgrab/0.x 20191011071929
+Google-Test 20191030010445
+Photon/1.0 20191031164407
+Mozilla/5.7 20191018001736
+AddThis.com_(http://support.addthis.com/) 20191031145213
+Mozilla/5.0_(compatible;_Qwantify/2.4w;__https://www.qwant.com/)/2.4w 20191023100542
+HubSpot_Connect_2.0_(http://dev.hubspot.com/)_-_BizOpsCompanies-Tq2-BizCoDomainValidationAudit 20191028051749
+Python/3.6_aiohttp/3.6.0 20191003023951
+Firefox 20191023050649
+Mozilla/5.0_(compatible;_Twingly_Recon;_twingly.com) 20191024071354
+8LEGS 20191020062729
+WordPress/4.5.18;_https://organizingtoronto.com 20191014152413
+Mozilla 20191003101741
+Mozilla/5.0 20191018021248
+WordPress/4.5.19;_https://organizingtoronto.com 20191031235954
+Go-http-client/2.0 20191014015216
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t13rl;__http://researchscan.comsys.rwth-aachen.de) 20191027205621
+Ruby 20191012175846
+Mozilla/5.0_(compatible;_tracemyfile/1.0) 20191029125841
+python-requests/2.22.0 20191030151811
+Jetpack_by_WordPress.com 20191016210934
+WordPress.com;_https://organizingtoronto.com 20191016210933
+Mozilla/5.0_(compatible;_evc-batch/2.0) 20191017035059
+Mozilla/5.0_(compatible;_Dataprovider.com) 20191023113507
+Rome_Client_(http://tinyurl.com/64t5n)_Ver:_UNKNOWN 20191026165119
+Mozilla/5.0_(compatible;_GroupHigh/1.1;__http://www.grouphigh.com/) 20191008215247
+python-requests/2.9.1 20191030084347
+Mozilla/5.0_(compatible;_Daum/4.1;__http://cs.daum.net/faq/15/4118.html?faqId=28966) 20191006002158
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20191008190048
+Mozilla/5.0_(compatible;_Prlog/1.0;__http://prlog.ru/) 20191027230518
+Go-http-client/1.1 20191031003517
+Tumblr/14.0.835.186 20191014084723
+SEMrushBot 20191013090502
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 19
+Photon/1.0 20191031164407
+AddThis.com_(http://support.addthis.com/) 20191031145213
+HubSpot_Connect_2.0_(http://dev.hubspot.com/)_-_BizOpsCompanies-Tq2-BizCoDomainValidationAudit 20191028051749
+Google-Test 20191030010445
+Jetpack_by_WordPress.com 20191016210934
+WordPress.com;_https://organizingtoronto.com 20191016210933
+WordPress/4.5.18;_https://organizingtoronto.com 20191014152413
+Rome_Client_(http://tinyurl.com/64t5n)_Ver:_UNKNOWN 20191026165119
+Python/3.6_aiohttp/3.6.0 20191003023951
+Firefox 20191023050649
+8LEGS 20191020062729
+Go-http-client/2.0 20191014015216
+python-requests/2.9.1 20191030084347
+WordPress/4.5.19;_https://organizingtoronto.com 20191031235954
+Go-http-client/1.1 20191031003517
+Ruby 20191012175846
+python-requests/2.22.0 20191030151811
+Tumblr/14.0.835.186 20191014084723
+SEMrushBot 20191013090502
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 16232 17698
+From1 16 16
+From2 165 178
+From3 94 101
+From4 6577 31556
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 11
+www_google_com 108 112
+live 0 1
+duckduckgo 4 4
+yandexcom 1 2
+google_com 0 1
+msn 1 1
+bing 11 11
+yandexru 0 1
+int_search_myway_com 1 1
+r_search_yahoo_com 2 2
+www_google_ca 37 42
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 23
+https://%20organizingtoronto.com 24 24
+https://brandnewblogs.com 23 23
+https://www.gutterguardgreenville.com 10 10
+http://pacificair.com 7 7
+https://192.186.201.198:443 5 5
+https://www.facebook.com 4 4
+http://prlog.ru/analysis/organizingtoronto.com 2 2
+http://site.ru 2 2
+http://192.186.201.198:80 2 2
+https://t.co/utXXPSiCeb 2 2
+https://googleads.g.doubleclick.net 2 2
+http://m.facebook.com 1 1
+https://brandnewblogs.com 1 1
+https://lm.facebook.com 1 1
+http://webspress.xyz/article/3338993/the-ultimate-guide-on-how-to-get-more-blog-traffic/ 1 1
+https://m.yelp.ca 1 1
+http://sucuri.net 1 2
+http://progressive-seo.com 1 1
+https://t.co 1 1
+http://m.facebook.com 1 1
+https://goctoronto.ca/sponsors 1 1
+http://l.facebook.com/l.php 1 1
+https://sucuri.net 0 6
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 11
+organizing+toronto 2
+benefits+of+organizaion+at+home 1
+amazon 1
+toronto+organized+city 1
+bing 1
+detailv2 1
+783a8b10 1
+professional+organizer+toronto 1
+false 1
+canadian+creative+names+for+decluttering+organizing+and+staging+homes 1
+advantage+and+disadvatage+of+having+a+locker 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 29
+toronto 4
+organizing 3
+of 2
+and 2
+professional 1
+false 1
+at 1
+creative 1
+decluttering 1
+organizaion 1
+benefits 1
+city 1
+staging 1
+a 1
+bing 1
+detailv2 1
+amazon 1
+locker 1
+advantage 1
+having 1
+home 1
+names 1
+for 1
+organizer 1
+disadvatage 1
+783a8b10 1
+organized 1
+canadian 1
+homes 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 12
+400 1 115
+409 28 96180
+206 180 3155335
+302 4877 0
+500 14 37217
+404 1424 25311027
+421 1 322
+429 1 3405
+503 3 0
+403 75 247073
+405 4 102
+301 1170 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 781
+/.well-known/apple-app-site-association 7 -
+/TipstoGetOrganized.html 4 -
+/2012.sql 1 -
+/araicapital.tar.gz 1 -
+/src.tar.gz 1 -
+/file.7z 2 -
+/backup2012.zip 1 -
+/2010.tar.gz 1 -
+/admin.s7z 1 -
+/include/taglib/jr.lib.php 1 http://organizingtoronto.com//include/taglib/jr.lib.php
+/vBulletin/js/ajax.js 1 organizingtoronto.ca
+/zip.tar.gz 1 -
+/wordpress/wp-login.php 2 -
+/the-benefits-of-being-organized-at-home/ 4 -
+/db.tar.gz 1 -
+/wp-content/themes/sketch/404.php 3 http://site.ru
+/).live( 1 -
+/master.tar 1 -
+/555.sql 1 -
+/user.tar.gz 2 -
+/archive.7z 1 -
+/LockerOrganizing.html 2 -
+/organizingtoronto.com/blog/the-benefits-of-being-organized-at-home/ 1 -
+/ftp.tar.gz 2 -
+/2019.sql 1 -
+/DownsizingYourHome.html 1 -
+/ProfessionalOrganizerHome.html 4 -
+/bak.tar.gz 1 -
+/click.prettyphoto 1 -
+/vb//index.php 1 -
+/wp-content/themes/dulcet/footer1.php 2 http://site.ru
+/portal/ 1 -
+/origin.7z 1 -
+/OrganizingConsultant.html 1 -
+/backup2010.tar 1 -
+/TorontoGarageOrganization.html 4 -
+/backup2011.zip 1 -
+/JunkRemovalServices.html 1 -
+/www.tar.gz 2 -
+/wp-content/plugins/profile-builder/readme.txt 1 -
+/2018.tar.gz 1 -
+/script.tar.gz 1 -
+/wp-content/plugins/easyrotator-for-wordpress/indox.php 3 http://site.ru
+/HomeOrganization.html 1 -
+/2015.zip 1 -
+/index2.php 2 https://ORGANIZINGTORONTO.COM/index2.php
+/2014.tar.gz 1 -
+/catalog/view/indess.php 4 organizing-toronto.com
+/vendor/phpunit/phpunit/phpunit.xsd 1 -
+/OrganizerProfessional.html 1 -
+/adm.php 4 http://organizingtoronto.com/adm.php
+/archive.tar.gz 1 -
+/backup2010.sql 1 -
+/backup2011.tar.gz 1 -
+/wp-content/uploads/2013/06/photodune-4947079-cleaning-supplies-xs.jpg%3Ffit%3D300%252C199%26ssl%3D1 1 -
+/professionalorganizers.html 1 -
+/importance-of-organizing-comment-form.html 1 -
+/LockerShelves.html 1 -
+/adminbackup.zip 2 -
+/js/admin-sbpanel-style.js 1 -
+/apple-touch-icon-120x120-precomposed.png 4 -
+/uploads/flink/index.html 2 -
+/wp-xml.php 3 http://site.ru
+/wp-content/uploads/2019/03/content-post.php 1 http://site.ru
+/2012.tar 1 -
+/backup.7z 2 -
+/blog/author/tony/ 1 -
+/upload.7z 1 -
+/backup2011.7z 1 -
+/dev/ 1 -
+/OrganizeYourGarage.html 1 -
+/files.sql 2 -
+/HowtoOrganizeaGarage.html 1 -
+/backup2012.7z 1 -
+/system.7z 1 -
+/development/js/mage/cookies.js 1 -
+/organizingtoronto.com/blog/types-of-storage-lockers-you-can-choose-from/ 1 -
+/demo/js/mage/cookies.js 1 -
+/a.php 1 -
+/site/ 1 -
+/dump.tar.gz 2 -
+/admin.tar.bz2 1 -
+/source.tar.gz 1 -
+/bkup.7z 1 -
+/backup2012.tar.gz 1 -
+/boards//ajax/render/widget_php 1 -
+/tmp.tar 1 -
+/2019.tar 1 -
+/OrganizingaGarage.html 1 -
+/files.tar.gz 2 -
+/wp-includes/upgrade/theme-compat/popup-pomo.php 1 http://site.ru
+/blog/2013/09/ 9 -
+/header.php 2 http://site.ru
+/wp-json/wp/v2/users 1 https://organizingtoronto.com/wp-json/wp/v2/users
+/loja/js/mage/cookies.js 1 -
+/araicapital.7z 1 -
+/HomeOrganizer.html 1 -
+/wp-admin/user/Mhbgf.php 1 http://site.ru
+/organizingideas.html 1 -
+/source.tar 1 -
+/ProfessionalOrganizersToronto.html 1 -
+/blog/2013/04/ 1 -
+/2.zip 1 -
+/backup.php 2 http://site.ru
+/backups.tar 1 -
+/arch.sql 1 -
+/forums//index.php 1 -
+/x.tar 2 -
+/uploads.tar 1 -
+/).appendTo( 1 -
+/temp/ 1 -
+/ldskflks 2 http://ORGANIZINGTORONTO.COM/ldskflks
+/ClosetOrganizing.html 1 -
+/forum/ 1 -
+/lpfi8.php 1 -
+/wp.zip 2 -
+/wp-content/a.php 1 http://site.ru
+/HowtoOrganizeYourHouse.html 1 -
+/old.7z 1 -
+/1.php 2 http://site.ru
+/old.zip 1 -
+/wp-content/themes/photozoom/customizer/sections/Meuhy.php 2 http://site.ru
+/HomeClosetOrganizer.html 2 -
+/bkup.zip 1 -
+/XUmgZ/ 1 http://ORGANIZINGTORONTO.COM/XUmgZ/
+/0g4/mini-shell-backdoor-download.php 1 http://site.ru
+/123456.sql 1 -
+/2013.sql 1 -
+/MPROZ/YWQkZ/UlKmZ/SbYhZ/PpUiZ/ 1 http://ORGANIZINGTORONTO.COM/MPROZ/YWQkZ/UlKmZ/SbYhZ/PpUiZ/
+/scripts.tar.gz 1 -
+/organizingtoronto.com/blog/a-guide-to-organize-your-garage/ 2 -
+/boards/ 1 -
+/UfknZ/ProfessionalOrganizer.html 1 -
+/.git/INDEX 1 -
+/wp-content/plugins/wordpress-database-reset/assets/css/bsmselect.css 2 torontohomeorganizers.com
+/backup2014.zip 1 -
+/www.tar.bz2 1 -
+/new.7z 1 -
+/wp-includes/wp-caches.php 1 http://site.ru
+/HomeImprovementOrganizer.html 1 -
+/wp-includes/LICENSE.php 1 -
+/backup2015.tar 1 -
+/new.zip 1 -
+/user.xz 1 -
+/main/ 1 -
+/ThcXW/BathroomOrganizing.html 1 -
+/2.7z 1 -
+/f/ 1 -
+/araicapitalbackup.tar 1 -
+/php.tar 1 -
+/backup2014.tar.gz 1 -
+/backups.sql 1 -
+/wp-config.php.back 1 -
+/wp-includes/SimplePie/Content/Type/px.php 1 http://site.ru
+/uploads.sql 2 -
+/script.tar 1 -
+/blog/author/tony/page/2/ 1 -
+/backup2015.sql 1 -
+/vb//ajax/render/widget_php 1 -
+/include/taglib/xt.lib.php 1 http://organizingtoronto.com//include/taglib/xt.lib.php
+/2011.tar.gz 1 -
+/Organizing-blog.html 2 -
+/2015.7z 1 -
+/GarageOrganizingTip.html 1 -
+/arch.tar 1 -
+/rdpl.php 1 -
+/wp-json/wp/v2/users/ 3 https://organizingmaniacs.com/wp-json/wp/v2/users/
+/wp-content/plugins/ithemes-sync/js/settings-page.js 11 http://organizingtoronto.com/wp-content/plugins/ithemes-sync/js/settings-page.js
+/o22opo.php 1 -
+/inc/config.asp 1 http://organizingtoronto.com//inc/config.asp
+/old/ 2 -
+/WorkFromHomeIdeas.html 4 -
+/ProfessionalOrganizerBusiness.html 4 -
+/js/mage/cookies.js 1 -
+/backup2014.7z 1 -
+/OrganizingTips.html 2 -
+/bkp.7z 1 -
+/database.tar.bz2 1 -
+/).is( 1 -
+/web.sql 1 -
+/file.zip 2 -
+/wp-content/plugins/background-image-cropper/content-post.php 2 http://site.ru
+/vb5/js/ajax.js 2 torontohomeorganizers.ca
+/o.php 10 http://site.ru
+/404javascript.js 2 http://ORGANIZINGTORONTO.COM/404javascript.js
+/blog/author/trudi/ 1 -
+/HomeOrganizingBusiness.html 1 -
+/apple-touch-icon-precomposed.png 10 -
+/user.s7z 1 -
+/sys.sql 1 -
+/sql.sql 2 -
+/gtm.start 1 -
+/master.tar.gz 1 -
+/bkp.zip 1 -
+/LWnYk/URljZ/TorontoGarageOrganization.html 1 -
+/OTkLZ/ 1 http://ORGANIZINGTORONTO.COM/OTkLZ/
+/upl.7z 1 -
+/orig.tar.gz 1 -
+/admin.7z 5 -
+/araicapitalbackup.zip 1 -
+/.log.phtml 1 -
+/scripts.7z 1 -
+/blog/2013/11/ 5 -
+/ 96 -
+/concon.asp 1 http://organizingtoronto.com//concon.asp
+/wp-content/themes/materialis/footer1.php 2 http://site.ru
+/git.sql 1 -
+/organizingtoronto.com/blog/the-advantages-of-having-storage-lockers/ 1 -
+/new/ 2 -
+/2013.tar 1 -
+/magento/js/mage/cookies.js 1 -
+/wp.s7z 1 -
+/upl.zip 1 -
+/LockerOrganizer.html 1 -
+/database.zip 2 -
+/wp-content/themes/photozoom/customizer/sections/Mhbgf.php 1 http://site.ru
+/LockerShelvesandOrganizers.html 1 -
+/origin.tar 1 -
+/www.sql 2 -
+/backup2010.7z 1 -
+/HowtoBeOrganized.html 1 -
+/2017.7z 1 -
+/upl.tar 1 -
+/uploads.tar.gz 1 -
+/ftp.sql 2 -
+/backup2011.sql 1 -
+/ClosetOrganizingSystems.html 1 -
+/blog/2014/11/ 1 -
+/store/js/mage/cookies.js 1 -
+/backups.tar.gz 1 -
+/DeclutteringYourCloset.html 1 -
+/TorontoOrganizer.html 4 -
+/orig.sql 1 -
+/bkp.tar 1 -
+/bak.sql 1 -
+/media.php 1 http://site.ru
+/backup2010.tar.gz 1 -
+/wp-content/uploads/2018/12/content-post.php.suspected 1 http://site.ru
+/TipsforOrganizingClosets.html 4 -
+/mysqldump.sql 1 -
+//ajax/render/widget_php 1 -
+/wp-includes/pomo/wp-info.php 2 http://site.ru
+/f//index.php 1 -
+/wp-content/themes/Organizing-Toronto/ 1 http://sucuri.net
+/zip.sql 1 -
+/forum//index.php 1 -
+/wp-json/wp/v2/users/2 1 -
+/imdex.php 2 https://ORGANIZINGTORONTO.COM/imdex.php
+/wp-content/plugins/jekyll-exporter/vendor/phpunit/phpunit/phpunit.xsd 1 -
+/VOUPf/URljZ/TorontoGarageOrganization.html 1 -
+/555.tar.gz 1 -
+/backup2012.sql 1 -
+/master.7z 1 -
+/wp-admin/wp-info.php 2 http://site.ru
+/php.zip 1 -
+/wpp-5.3.3 1 -
+/wp-admin/css/colors/coffee/wp-console.php 1 http://site.ru
+/scripts.tar 1 -
+/apple-touch-icon-152x152-precomposed.png 4 -
+/vbforum/js/ajax.js 2 torontohomeorganizers.ca
+/ceYYY/BathroomOrganizing.html 1 -
+/123456.zip 1 -
+/database.s7z 1 -
+/php.7z 1 -
+/src.sql 1 -
+/2011.sql 1 -
+/apple-touch-icon-152x152.png 4 -
+/orig.tar 2 -
+/main.7z 1 -
+/wordpress.zip 2 -
+/wp-content/themes/photozoom/customizer/sections/Meuhy.php.suspected 4 http://site.ru
+/wp-content/themes/twentysixteen/inc/css/css/css/css/css/simple.php5 2 http://site.ru
+/x.7z 2 -
+/new.tar 1 -
+/Include/Functionl.asp 1 http://organizingtoronto.com//Include/Functionl.asp
+/backups.7z 1 -
+/2013.tar.gz 1 -
+/system.tar 1 -
+/uploads.7z 1 -
+/apple-app-site-association 3 -
+/data/cache/flye.php 1 http://organizingtoronto.com//data/cache/flye.php
+/OrganizingClosetSpace.html 1 -
+/a 1 -
+/backup2012.tar 1 -
+/no.php 1 https://organizingtoronto.com/no.php
+/wp-content/plugins/wp-e-commerce/wpsc-components/marketplace-core-v1/static/sputnik.js 6 torontohomeorganizers.com
+/wp-content/wp-side.php 6 http://site.ru
+/ClosetOrganizingSolutions.html 1 -
+/news/wp-login.php 1 http://organizingtoronto.com/news/wp-login.php
+/adminbackup.sql 2 -
+/2011.tar 1 -
+/organizingtoronto.com.zip 1 http://organizingtoronto.com/organizingtoronto.com.zip
+/wp.bz2 1 -
+/arch.tar.gz 1 -
+/backup2011.tar 1 -
+/backup2010.zip 1 -
+/3.tar.gz 1 -
+/old.tar 1 -
+/organizingtoronto.com/blog/9-steps-to-help-seniors-stay-at-home-longer/ 3 -
+/blog/author/maria/ 1 -
+/HomeGarageOrganizer.html 1 -
+/home/ 1 -
+/temp.7z 1 -
+/wp-content/x.php 1 -
+/restore.zip 1 -
+/backup.tar 2 -
+/OrganizingYourGarage.html 1 -
+/wordpress.7z 1 -
+/2.tar 1 -
+/upload.tar 1 -
+/scripts.sql 1 -
+/site.zip 1 -
+/2016.7z 1 -
+/admin/ 1 -
+/SKKTh/permalink/popup-pomo.php 1 http://site.ru
+/files.bz2 1 -
+/x.zip 2 -
+/upload.tar.gz 1 -
+/temp.zip 1 -
+/backup2015.7z 1 -
+/backup.tar.gz 2 -
+/dump.sql 2 -
+/tmp.zip 1 -
+/LockerOrganizingTips.html 1 -
+/database.tar 2 -
+/2018.tar 1 -
+/tmp.7z 1 -
+/wp-content/uploads/2014/01/Prepare.jpg%3Fresize%3D630%252C405%26ssl%3D1 1 -
+/2014.tar 1 -
+/wp-content/logs/logs.php 1 -
+/backup2014.sql 1 -
+/KitchenOrganization.html 2 -
+/ads.txt 7 -
+/wp-content/uploads/2018/11/content-post.php 4 http://site.ru
+/backup2015.tar.gz 1 -
+/site.7z 1 -
+/archive.sql 1 -
+/blog/2014/09/ 5 -
+/2016.zip 1 -
+/test/js/mage/cookies.js 1 -
+/dump.bz2 1 -
+/adminbackup.bz2 1 -
+/OrganizingYourLocker.html 1 -
+/xmlrpc.php 48 -
+/zaz.php 1 -
+/LockerOrganization.html 1 -
+/HouseholdOrganization.html 1 -
+/wp.7z 2 -
+/user.tar 2 -
+/wp-content/plugins/solid_best_corp/sys.php 6 torontohomeorganizers.ca
+/main.zip 1 -
+/source.7z 1 -
+/OrganizingaCloset.html 1 -
+/db.sql 1 -
+/wp-admin/wp-trc.php 1 http://site.ru
+/wp-includes/pomo/info.php 2 http://site.ru
+/ClosetOrganizingIdea.html 1 -
+/wp-includes/theme-compat/sidebar-embed.php 2 http://site.ru
+/2010.tar 1 -
+/system.tar.gz 1 -
+/js/ajax.js 1 organizingtoronto.ca
+/wp-admin/maint/Mhbgf.php 2 http://site.ru
+/OQpiZ/wp-admin 1 http://ORGANIZINGTORONTO.COM/OQpiZ/wp-admin
+/tmp/ 1 -
+/wp/ 3 -
+/x.xz 1 -
+/2019.tar.gz 1 -
+/git.tar.gz 1 -
+/wp-content/uploads/2018/09/content-post.php 1 http://site.ru
+/ProfessionalOrganizer.html 10 -
+/BathroomOrganizing.html 3 -
+/2014.sql 1 -
+/www.xz 1 -
+/2018.sql 1 -
+/web.tar.gz 1 -
+/123.tar.gz 1 -
+/blog/wp-login.php 2 -
+/ClosetStorageSystem.html 2 -
+/sql.tar.gz 2 -
+/archive.tar 1 -
+/dump.tar 2 -
+/sys.tar.gz 1 -
+/db.tar 2 -
+/3.sql 1 -
+/).has( 1 -
+/OrganizingContainers.html 1 -
+/register/ 1 -
+/2010.sql 1 -
+/files.zip 2 -
+/wp/wp-login.php 1 http://organizingtoronto.com/wp/wp-login.php
+/2017.zip 1 -
+/readme.php 1 http://site.ru
+/content-post.php.suspected 5 http://site.ru
+/script.7z 1 -
+/backup2014.tar 1 -
+/2012.tar.gz 1 -
+/swin.php 1 -
+/text/css 1 -
+/user.bz2 1 -
+/backup2015.zip 1 -
+/wp-content/feal.php 1 -
+/wp-content/plugins/profile-builder/assets/css/style-front-end.css 1 -
+/origin.tar.gz 1 -
+/araicapital.tar 1 -
+/index.html 1 -
+/author/andrew/blog/carpentry-technique-organize-your-kitchen/ 3 https://organizingtoronto.com/author/andrew/blog/carpentry-technique-organize-your-kitchen/
+/user.sql 2 -
+/database.bz2 1 -
+/teresa/ 1 -
+/wp-includes/Text/Diff/Engine/meta.php 2 http://site.ru
+/x.tar.bz2 1 -
+/ProfessionalOrganizing.html 5 -
+/araicapitalbackup.sql 1 -
+/admin.tar 5 -
+/2014.zip 1 -
+/2011.7z 1 -
+/2015.tar.gz 2 -
+/inc/md5.asp 3 http://organizingtoronto.com//inc/md5.asp
+/ProfessionalOrganizerTraining.html 4 -
+/2018.zip 1 -
+/source.zip 1 -
+/cart.json 1 -
+/wp-config.php6 1 -
+/database.xz 1 -
+/backup2013.zip 1 -
+/OlkpZ/wp-admin/admin-post.php 1 http://ORGANIZINGTORONTO.COM/OlkpZ/wp-admin/admin-post.php
+/WRmUQ/ 1 -
+/ClutterOrganizer.html 1 -
+/4.5.18 1 -
+/temp.tar 1 -
+/kiKQj/ 1 -
+/2016.tar 1 -
+/wp-content/wp-content.php 2 http://site.ru
+/forum/js/ajax.js 1 organizingtoronto.ca
+/origin.sql 1 -
+/mysql.zip 1 -
+/HomeOrganizationTips.html 3 -
+/555.tar 1 -
+/admin-backup.tar 2 -
+/wp-content/plugins/ithemes-sync/api.txt 1 -
+/orig.7z 1 -
+/main.tar 1 -
+///wp-json/wp/v2/users/ 7 http://organizingtoronto.com///wp-json/wp/v2/users/
+/wp.tar.gz 2 -
+/user.zip 2 -
+/HowtoMakeaWebsite.html 1 -
+/dev/js/mage/cookies.js 1 -
+/MoveOrganizing.html 2 -
+/HouseholdOrganizingTips.html 1 -
+/wp-content/plugins/job-board-manager/assets/front/css/registration-form.css 1 -
+/bkp.tar.gz 1 -
+/indexe.php 1 http://site.ru
+/wp-includes/js/include.php 3 http://site.ru
+/blog/2013/03/ 2 -
+/files.7z 2 -
+/organizingtoronto.com 1 -
+/admin-backup.7z 2 -
+/2010.zip 1 -
+/archive.zip 1 -
+/2017.sql 1 -
+/apple-touch-icon.png 10 -
+/upl.tar.gz 1 -
+/adminbackup.7z 2 -
+/DownsizingServices.html 1 -
+/backup2016.zip 1 -
+/include/taglib/cheng.lib.php 1 http://organizingtoronto.com//include/taglib/cheng.lib.php
+/wp-json/wpshopify/v1/settings 2 http://ORGANIZINGTORONTO.COM/wp-json/wpshopify/v1/settings
+/2016.sql 1 -
+/script.zip 1 -
+/m.php 3 http://site.ru
+/wp-content/plugins/inc/jm.php 1 -
+/plus/read.php 1 http://organizingtoronto.com//plus/read.php
+/temp.sql 1 -
+/2.sql 1 -
+/dump.zip 2 -
+/system.sql 1 -
+/wp-config.php4 1 -
+/uploads.php 2 http://site.ru
+/HowtoOrganizeaCloset.html 1 -
+/old.tar.gz 1 -
+/ZSXTa/vBulletin/js/ajax.js 1 torontohomeorganizers.ca
+/js.php 2 http://site.ru
+/wp-includes/classkit_method_add.php 3 http://site.ru
+/admin/login.php 1 -
+/.well-known/feal.php 2 http://site.ru
+/backup2013.7z 1 -
+/install.php 1 -
+/apple-touch-icon-120x120.png 4 -
+/ProfessionalOrganizerCompanies.html 5 -
+/blog/2013/12/ 4 -
+/upload.sql 1 -
+/backup.sql 2 -
+/trudi/ 2 -
+/HowtoOrganizeaLocker.html 1 -
+/2017.tar 1 -
+/1:4.0.4 1 -
+/backup2013.tar.gz 1 -
+/HomeOrganizerStorageSolutions.html 1 -
+/connect.php 4 http://organizingtoronto.com/connect.php
+/tmp.sql 1 -
+/araicapital-backup.tar.gz 2 -
+/new.tar.gz 1 -
+/wp.tar.bz2 1 -
+/wp-json/wp/v2/users/3 1 -
+/wp-json/wp/v2/users/1 1 -
+/main.sql 1 -
+/forums/ 1 -
+/LockerOrganizationIdeas.html 1 -
+/restore.tar 1 -
+/database.sql 2 -
+/araicapitalbackup.tar.gz 1 -
+/SNdKc/QmONZ/ProfessionalOrganizer.html 1 -
+/blog/2013/08/ 7 -
+/wp-content/plugins/easyrotator-for-wordpress/c.php 1 -
+/SBIforProfessionalOrganizers.html 5 -
+/wp-content/js.php 3 http://site.ru
+/123456.7z 1 -
+/mini.php 3 http://site.ru
+/wp-content/wp-arth.php 1 -
+/master.zip 1 -
+/isev.tar 1 -
+/wp-includes/Text/Diff/ 2 -
+/araicapitalbackup.7z 1 -
+/admin.tar.gz 7 -
+/db.zip 1 -
+/HomeOrganizerConsultant.html 1 -
+/blog/author/andrew/blog/carpentry-technique-organize-your-kitchen/ 3 https://organizingtoronto.com/blog/carpentry-technique-organize-your-kitchen/
+/bkup.tar.gz 1 -
+/boards//index.php 1 -
+/ClosetOrganizingIdeas.html 1 -
+/.well-known/acme-challenge/rlbkj2kd/content-post.php.suspected 2 http://site.ru
+/wp-content/uploads/2019/07/w.php 4 http://site.ru
+/site.sql 1 -
+/test/ 2 -
+/DeclutteringServices.html 1 -
+/administrator/ 5 https://organizingtoronto.com/administrator/
+/OrganizingCloset.html 2 -
+/wp-includes/wp-info.php 1 http://site.ru
+/HomeOrganizerProfessional.html 1 -
+/adminbackup.tar.gz 2 -
+/board/ 1 -
+/templates/templates1.php 1 -
+/dump.7z 2 -
+/wp-includes/css/ 1 -
+/wp-comments-post.php 2 https://organizingtoronto.com/blog/carpentry-technique-organize-your-kitchen/
+/admin.sql 5 -
+/database.7z 2 -
+/php.sql 1 -
+/restore.sql 1 -
+/src.7z 1 -
+/blog/2013/07/ 7 -
+/Organizing.xml 18 -
+/src.zip 1 -
+/wp.xz 1 -
+/user.7z 2 -
+/Include/base64.asp 1 http://organizingtoronto.com//Include/base64.asp
+/orig.zip 1 -
+/zip.zip 1 -
+/.git/config 1 -
+/isev-backup.zip 1 -
+/wp-content/plugins/solid_best_corp/info.php 6 torontohomeorganizers.ca
+/login.php 1 -
+/zip.7z 1 -
+/scripts.zip 1 -
+/file.tar.gz 2 -
+/2010.7z 1 -
+/wp-admin/network/404.php 2 http://site.ru
+/Profes 3 -
+/ftp.zip 2 -
+/123.tar 1 -
+/bak.7z 1 -
+/web.tar 1 -
+/sql.tar 2 -
+/sys.tar 1 -
+/bak.zip 1 -
+/2018.7z 1 -
+/2.tar.gz 1 -
+/wp-content/uploads/2014/01/clip-art-bob-the-builder-545908.jpgturlhttp:/tse3.mm.bing.net/th 3 -
+/ftp.7z 2 -
+/araicapital.zip 1 -
+/OrganizingConsultants.html 1 -
+/2011.zip 1 -
+/2014.7z 1 -
+/wp-content/uploads/2015/05/organize-your-life.png%3Ffit%3D300%252C24%26ssl%3D1 1 -
+/shop/js/mage/cookies.js 1 -
+/market/js/mage/cookies.js 1 -
+/www.zip 2 -
+/adminer.php 4 http://organizingtoronto.com/adminer.php
+/Inc/md5.asp 1 http://organizingtoronto.com//Inc/md5.asp
+/OrganizingCompany.html 2 -
+/forums//ajax/render/widget_php 1 -
+/3.tar 1 -
+/sql.bz2 1 -
+/site.tar 1 -
+/OrganizingIdeas.html 1 -
+/vbulletin/ 1 -
+/git.tar 1 -
+/vb/js/ajax.js 1 organizingtoronto.ca
+/www.7z 2 -
+/board//index.php 1 -
+/git.7z 1 -
+/www.tar 2 -
+/OrganizerPro.html 2 -
+/ftp.bz2 1 -
+/master.sql 1 -
+/permalink/popup-pomo.php 2 http://site.ru
+/3.zip 1 -
+/upl.sql 1 -
+/wp-admin/img.php 3 http://site.ru
+/thfncjyhea.php 1 -
+/wp-admin/user/ma.php 3 http://site.ru
+/GladiatorGarageworks.html 2 -
+/xfwpnyukyv.php 1 -
+/git.zip 1 -
+/www.bz2 1 -
+/x.tar.gz 2 -
+/Mhbgf.php 2 http://site.ru
+/bkup.tar 1 -
+/wp-includes/ID3/module.audio-video.riff-advanced.php.suspected 2 http://site.ru
+/123.zip 1 -
+/web.zip 1 -
+/sys.7z 1 -
+/sql.7z 2 -
+/araicapital-backup.tar 1 -
+/ftp.tar 2 -
+/backup2016.tar 1 -
+/2019.7z 1 -
+/bkp.sql 2 -
+/user.tar.bz2 1 -
+/restore.tar.gz 1 -
+/OrganizingYourHome.html 1 -
+/XLYVL/URljZ/TorontoGarageOrganization.html 1 -
+/sql.zip 2 -
+/sys.zip 1 -
+/web.7z 1 -
+/bak.tar 1 -
+/123.7z 1 -
+/zip.tar 1 -
+/files.tar 2 -
+/database.tar.gz 2 -
+/wp-config.php2 1 -
+/wp-blog.php 2 http://site.ru
+/backup2013.sql 1 -
+/2016/wp-login.php 1 http://organizingtoronto.com/2016/wp-login.php
+/Adminer.php 4 http://organizingtoronto.com/Adminer.php
+/file.bz2 1 -
+/phpmyadmin 1 https://ORGANIZINGTORONTO.COM//phpmyadmin
+/nobody.php 2 https://ORGANIZINGTORONTO.COM/nobody.php
+/3.7z 1 -
+/organizingtoronto.com/blog/checklist-for-your-garage-door-maintenance/ 1 -
+/wp-config.php9 1 -
+/file.sql 2 -
+/LockerOrganizers.html 1 -
+/cSjYS/SXmRm/ 1 -
+/f//ajax/render/widget_php 1 -
+/src.tar 1 -
+/wp-admin/a.php 6 http://site.ru
+/2012.7z 1 -
+/admin.zip 5 -
+/blog/2014/01/ 5 -
+/wp-content/themes/aemi1/footer1.php 1 http://site.ru
+/blog/2013/06/ 8 -
+/public/js/cookie.js 5 -
+/backup.tar.bz2 1 -
+/tmp.tar.gz 1 -
+/ZUnLn/forums/js/ajax.js 1 torontohomeorganizers.ca
+/restore.7z 1 -
+/site.tar.gz 1 -
+/wp-includes/theme-compat/images.php 1 http://site.ru
+/new.sql 1 -
+/123456.tar.gz 1 -
+/adminbackup.tar 2 -
+/bkup.sql 1 -
+/Media.html 1 -
+/2017/wp-login.php 3 http://ORGANIZINGTORONTO.COM/2017/wp-login.php
+/wordpress.tar.gz 1 -
+/web/ 1 -
+/tt.php 1 http://site.ru
+/demo/ 1 -
+/arch.zip 1 -
+/).unbind( 1 -
+/backup2013.tar 1 -
+/backups.zip 1 -
+/uploads.zip 2 -
+/wp-config.php.save.2 1 -
+/old.sql 1 -
+/file.tar 2 -
+/2013.zip 1 -
+/wp-content/bees.php 1 -
+/wp.sql 2 -
+/ProfessionalOganizer.html 1 -
+/origin.zip 1 -
+/admin-backup.bz2 1 -
+/organizingtips.html 1 -
+/www.s7z 1 -
+/wp-admin/css/colors/blue/theme.php 2 http://site.ru
+/blog/2014/12/ 4 -
+/cms/ 1 -
+/wp-includes/licensed.php 3 http://site.ru
+/.user.ini 10 -
+/wordpress.tar 1 -
+/board//ajax/render/widget_php 1 -
+/main.tar.gz 1 -
+/wordpress.sql 1 -
+/organizingtoronto.zip 1 http://organizingtoronto.com/organizingtoronto.zip
+/source.sql 1 -
+/cms/wp-login.php 1 http://organizingtoronto.com/cms/wp-login.php
+/forums/js/ajax.js 1 organizingtoronto.ca
+/jvel/mini-shell-deface.php 1 http://site.ru
+/TipsforOrganizing.html 4 -
+/2013.7z 1 -
+/mysql.sql 1 -
+/wordpress/ 3 -
+/admin.xz 1 -
+/db.7z 1 -
+/ProfessionalOrganizing 4 -
+/OrganizingPro.html 1 -
+/mag/js/mage/cookies.js 1 -
+/2016.tar.gz 1 -
+/404.php.suspected 4 http://site.ru
+/admin.bz2 2 -
+/wp-content/uploads/2018/11/content-post.php.suspected 2 http://site.ru
+/wp-admin/css/colors/light/images.php 2 http://site.ru
+/x.sql 2 -
+/RubbermaidClosetSystems.html 5 -
+/x.bz2 1 -
+/_adminer.php 4 http://organizingtoronto.com/_adminer.php
+/murikha.php 1 -
+/wp-admin/includes/images.php 3 http://site.ru
+/2015.tar 1 -
+/ad.php 4 http://organizingtoronto.com/ad.php
+/arch.7z 1 -
+/magento_version 1 -
+/123456.tar 1 -
+/6y8rwmg/mini-shell-uploader.php 2 http://site.ru
+/temp.tar.gz 1 -
+/admin-backup.tar.gz 2 -
+/EstateClearing.html 1 -
+/util/login.aspx 1 -
+/wp-admin/ob.php 2 http://site.ru
+/wp-content/themes/dulcet/footer.php 2 http://site.ru
+/wp-content/plugins/html404/xccc.php 1 http://site.ru
+/blog/2014/03/ 4 -
+/system.zip 1 -
+/wp-content/plugins/woocommerce/readme.txt 1 -
+/ClosetOrganizationIdeas.html 1 -
+/admin-backup.zip 2 -
+/script.sql 1 -
+/phpMyAdmin 1 http://ORGANIZINGTORONTO.COM/phpMyAdmin
+/2012.zip 1 -
+/mod.php 5 http://site.ru
+/HomeOrganizingExpert.html 1 -
+/general/popup-pomo.php 1 http://site.ru
+/wp-content/uploads/2018/12/content-post.php 2 http://site.ru
+/2017.tar.gz 2 -
+/errors/default/css/styles.css 1 -
+/555.7z 1 -
+/shops/js/mage/cookies.js 1 -
+/araicapital.sql 1 -
+/alf.php 1 http://site.ru
+/vb/ 1 -
+/mbSWW/QlopZ/ProfessionalOrganizerBusiness.html 1 -
+/x.s7z 1 -
+/admin-backup.sql 2 -
+/ambYO/QmONZ/ProfessionalOrganizer.html 1 -
+/wp.tar 2 -
+/2015.sql 1 -
+/555.zip 1 -
+/blog/2013/05/ 6 -
+/php.tar.gz 1 -
+/forum//ajax/render/widget_php 1 -
+/backup/ 1 -
+/backup.zip 2 -
+/upload.zip 2 -
+/wp-includes/js/dist/list-reusable-blocks.js 1 http://sucuri.net
+/mysqldump.zip 1 -
+/2019.zip 1 -
+/content-post.php 1 http://site.ru
+/wp-json/wp/v2/posts 7 http://ORGANIZINGTORONTO.COM/wp-json/wp/v2/posts
+/CustomClosetOrganizers.html 6 https://organizingtoronto.com/CustomClosetOrganizers.html
+/3-things-to-consider-while-organizing-your-home/ 3 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 1393
+192.186.201.198 14548 14548 4533 20191031235954
+5.188.84.55 487 487 35856633 20191031235951
+5.188.84.75 483 483 35562060 20191031224056
+5.188.84.45 467 467 34384078 20191031230945
+5.188.84.15 466 466 34310567 20191031234413
+5.188.84.65 459 459 33795233 20191031231158
+5.188.84.80 448 448 32985351 20191031225528
+5.188.84.35 447 447 32911917 20191031235924
+5.188.84.25 381 381 28052969 20191031194511
+35.195.178.76 109 155 1933995 20191003023951
+69.158.150.231 83 453 10524594 20191028182358
+178.159.37.155 79 79 1330708 20191028093734
+159.137.48.5 60 60 794001 20191031205510
+192.99.225.97 56 1655 15064956 20191022004637
+216.221.42.191 44 222 8278184 20191031143859
+51.158.100.91 41 41 2716090 20191005015225
+51.158.101.78 41 41 2716093 20191026075055
+185.136.159.30 40 40 2993053 20191030210937
+74.14.78.98 40 145 3341346 20191017153747
+197.251.183.115 38 38 261875 20191019022301
+13.52.75.117 38 38 201250 20191017204245
+167.114.103.130 34 34 439514 20191020062729
+74.12.173.197 32 134 3235008 20191027160154
+205.189.94.13 31 299 8451575 20191031080051
+129.146.158.17 31 31 472705 20191031145213
+35.168.239.160 1 1 14317 20191016221305
+172.245.64.249 1 1 62715 20191012072314
+24.212.225.179 3 86 2682060 20191015032515
+54.224.216.39 9 9 128910 20191025114003
+69.158.246.41 3 83 2695658 20191009163651
+35.160.191.120 1 1 62715 20191015061416
+207.192.240.130 5 86 533978 20191011092745
+54.191.79.91 2 2 28629 20191023035234
+18.236.203.234 2 2 28623 20191008074427
+23.249.228.163 2 2 28792 20191018165618
+157.39.56.189 5 88 571614 20191029063600
+109.242.80.66 1 1 14315 20191026015301
+46.246.65.174 5 5 376241 20191010082144
+123.232.225.174 1 1 14312 20191009171740
+176.31.210.96 2 2 894 20191004091315
+92.63.111.27 3 3 42939 20191030172757
+46.246.65.211 10 10 752153 20191019074744
+107.150.96.128 1 1 14312 20191029172918
+18.191.31.58 1 1 14317 20191019055242
+34.68.166.4 1 1 13207 20191011014632
+17.58.59.20 1 1 14314 20191030224551
+52.222.27.79 1 1 62715 20191009095740
+24.150.208.55 1 1 14270 20191010051643
+89.208.29.220 4 122 1335187 20191008023046
+139.59.64.148 1 1 14316 20191030151811
+34.221.99.70 1 1 14346 20191003161059
+216.154.33.175 13 96 2881304 20191016170133
+31.23.43.125 2 2 147287 20191027022031
+137.226.113.27 1 1 14314 20191027205621
+70.48.245.168 4 84 549202 20191012191523
+223.166.74.49 1 1 14316 20191024171729
+192.0.113.20 0 3 615738 
+164.132.51.5 7 7 117865 20191009202451
+195.234.109.64 0 2 244806 
+184.150.183.136 2 86 2700842 20191031114325
+76.9.217.20 3 86 2704633 20191008140139
+107.150.127.36 2 2 28634 20191016104652
+34.209.117.78 2 2 28629 20191005041445
+128.14.224.82 1 1 14312 20191010071536
+157.52.11.235 8 94 2801648 20191023145119
+178.159.37.85 19 19 1423866 20191024074746
+192.0.91.97 0 2 280100 
+159.69.154.78 1 1 62789 20191002225030
+24.156.131.74 2 85 2682051 20191027212528
+47.244.9.129 4 4 294471 20191022195313
+8.37.71.43 4 4 57288 20191022013612
+8.37.70.106 6 6 80754 20191022013046
+112.114.102.140 1 1 14314 20191004175652
+178.254.160.77 1 1 14317 20191017104615
+69.156.20.188 7 93 2771383 20191007182016
+38.99.62.94 4 4 57258 20191017035059
+51.68.152.26 7 7 100299 20191005023311
+46.118.235.10 5 5 376563 20191001184745
+37.115.205.210 15 15 1129690 20191003105425
+104.197.205.235 1 1 14316 20191024220448
+194.28.115.251 6 6 441767 20191031110536
+192.0.112.244 0 3 36624 
+65.92.2.117 5 84 580817 20191027111908
+104.243.201.194 1 1 13206 20191010223224
+69.4.94.111 2 2 125430 20191020182817
+65.155.30.101 2 87 3752309 20191012063035
+198.98.183.61 5 5 376073 20191028071205
+213.159.38.90 6 6 468987 20191017022130
+46.56.67.180 3 3 150708 20191005231416
+67.205.174.150 1 1 16573 20191014005244
+34.214.160.232 1 1 14316 20191025201218
+137.226.113.26 3 3 42978 20191017163635
+67.227.34.46 1 1 14316 20191022223759
+151.0.7.192 4 4 224325 20191031020333
+110.39.162.53 1 1 14317 20191016120540
+199.7.157.55 5 84 2704456 20191008102901
+20.190.59.196 0 1 716 
+31.23.68.117 2 2 147292 20191011085607
+23.226.211.12 0 1 18791 
+54.203.14.148 2 2 28636 20191019061955
+54.201.33.91 1 1 62715 20191021105528
+66.130.90.133 2 86 2700841 20191031115909
+123.191.136.56 1 1 14312 20191011224604
+104.134.27.3 5 89 2721152 20191020193857
+167.99.64.161 1 1 2860 20191022220546
+99.227.96.21 4 83 2676867 20191026135610
+192.0.101.192 0 6 459585 
+110.177.79.142 1 1 14313 20191007212826
+52.12.76.197 1 1 14317 20191018190621
+47.31.112.99 0 2 44702 
+99.233.1.133 3 86 2682043 20191001120642
+148.66.133.15 1 1 247 20191015172004
+67.195.177.218 1 1 14685 20191014084723
+91.140.105.166 4 4 57266 20191021030349
+159.138.148.169 1 1 15032 20191023124437
+35.224.33.55 1 1 12384 20191011014635
+192.0.88.51 0 2 1295202 
+185.232.21.147 4 4 294742 20191008031317
+138.201.31.160 2 2 16566 20191003175034
+54.212.205.139 2 2 28625 20191008214928
+195.234.109.72 0 1 101879 
+99.224.17.167 3 83 2695664 20191028114407
+37.45.172.42 3 3 220854 20191004141538
+45.57.153.61 2 2 125430 20191031020335
+52.33.86.86 1 1 14314 20191006022229
+8.37.70.208 3 3 61088 20191022013337
+64.233.172.210 0 1 18791 
+103.98.16.192 1 1 14313 20191004120848
+47.31.183.232 0 1 22351 
+66.249.83.52 2 28 264214 20191016054630
+98.124.44.197 3 75 510008 20191031164411
+104.238.32.53 3 82 753682 20191008023110
+221.213.75.209 1 1 14313 20191012171547
+54.201.183.201 1 1 14319 20191015202650
+192.0.113.82 0 8 2636432 
+128.1.43.152 1 1 14312 20191011224550
+192.0.91.99 0 3 248490 
+108.170.164.38 1 1 12552 20191023050711
+8.37.70.92 1 1 13404 20191022185018
+8.37.70.90 3 3 38394 20191022013513
+199.249.230.88 1 1 73702 20191018004716
+165.227.183.176 21 41 806653 20191003161318
+52.89.52.223 1 1 14318 20191016202035
+104.237.244.84 1 1 12801 20191018165629
+151.106.8.37 2 2 115838 20191027183219
+66.102.7.7 1 27 238885 20191001162947
+192.241.141.182 2 2 125412 20191011055901
+69.46.36.20 4 4 44 20191029053021
+54.191.104.168 1 1 14318 20191019172829
+99.230.33.251 3 84 2676874 20191022210512
+50.7.184.99 8 94 2756428 20191013224140
+221.13.12.226 1 1 14316 20191023002034
+162.247.74.202 1 1 73687 20191022135102
+52.12.71.60 1 1 14311 20191008152104
+54.36.114.149 1 1 15317 20191003095116
+54.212.186.90 1 1 14318 20191015203954
+54.243.53.148 3 3 42420 20191026165119
+171.34.177.189 1 1 14345 20191001115537
+132.148.82.204 2 2 896 20191004091639
+173.252.87.13 2 37 1319854 20191026030816
+54.227.113.175 1 1 16708 20191021140352
+181.215.74.150 1 1 14318 20191017044545
+54.187.163.231 2 2 28627 20191004081559
+176.115.93.211 5 5 376076 20191030061852
+18.236.128.22 1 1 14311 20191006225544
+86.120.154.145 10 96 2816132 20191010100227
+217.15.128.66 1 1 73618 20191031043350
+37.120.217.12 16 16 563416 20191006225807
+221.13.12.208 1 1 14278 20191024171653
+195.234.109.26 0 1 104014 
+142.93.73.175 21 41 806598 20191021111126
+99.234.201.47 3 86 2723991 20191009210244
+8.37.71.83 3 3 49705 20191022013456
+99.240.193.146 3 84 2682853 20191004010900
+149.154.157.135 2 63 292666 20191013162423
+5.62.41.149 1 1 14315 20191006134913
+195.201.161.25 2 2 147235 20191014140027
+54.244.149.225 1 1 14313 20191013191939
+52.183.7.220 2 77 500744 20191022092043
+138.197.2.113 22 66 984095 20191009020916
+184.148.52.197 9 97 2806445 20191020152724
+139.198.4.220 1 1 14316 20191022085348
+199.249.230.68 1 1 73617 20191007040924
+89.40.15.68 1 1 14315 20191025234730
+176.57.69.22 1 1 73618 20191026093718
+99.253.11.128 9 132 938822 20191031171952
+111.250.143.149 4 4 294470 20191025175243
+174.89.172.139 6 85 2704459 20191021110312
+82.102.18.61 1 1 16654 20191003135010
+209.171.88.219 5 80 588508 20191016152055
+103.86.50.211 1 1 2860 20191029000312
+35.167.146.155 1 1 0 20191006002842
+165.22.26.149 1 1 14140 20191013103412
+52.27.171.213 1 1 14317 20191019020139
+62.165.226.17 1 1 14318 20191017132215
+31.23.157.144 2 2 147234 20191029052612
+171.25.193.235 1 1 73713 20191018120648
+34.221.30.35 1 1 14314 20191005191553
+85.214.109.169 4 4 125430 20191018043136
+99.235.208.119 3 87 2726984 20191027212727
+91.208.99.2 2 2 890 20191004091536
+109.242.133.71 4 4 57262 20191023095841
+35.193.34.191 1 1 14315 20191031235047
+132.148.80.15 2 2 125394 20191021123628
+166.88.161.225 1 1 13480 20191018165620
+34.210.81.177 1 1 62789 20191001115521
+138.201.239.16 3 3 31487 20191007005506
+99.230.176.36 19 360 8830299 20191030165459
+104.171.148.37 1 2 33010 20191018165624
+185.14.193.2 4 4 294470 20191030231103
+181.177.81.229 1 1 14055 20191007173732
+54.184.254.138 2 2 28632 20191022040638
+35.226.112.183 1 1 12795 20191011014631
+99.240.5.161 3 79 500849 20191009073009
+52.90.126.20 9 9 150989 20191021140345
+54.201.162.25 1 1 14348 20191003160856
+109.172.78.66 2 2 147236 20191025140503
+78.46.94.83 2 2 142604 20191031030339
+188.138.188.34 6 6 469582 20191001224059
+51.15.37.97 2 2 147314 20191014113026
+31.13.115.18 0 1 613482 
+40.65.110.28 2 77 500744 20191017125423
+174.95.144.56 3 86 2697117 20191006155807
+35.226.100.150 1 1 14311 20191012175846
+72.39.149.246 3 87 2726987 20191004174334
+31.23.3.45 2 2 147295 20191013093649
+178.73.212.121 1 1 14140 20191009203945
+81.17.27.141 2 2 147320 20191011190859
+66.249.83.50 0 28 204908 
+104.202.234.175 3 64 322277 20191026220756
+109.242.151.163 1 1 14315 20191030081240
+95.216.14.217 4 4 224643 20191001230336
+84.17.47.175 8 8 281708 20191006075348
+114.100.103.3 2 2 147234 20191019153549
+5.8.47.2 8 8 588939 20191024234707
+70.67.36.181 4 80 568033 20191031223059
+185.232.21.190 4 4 294680 20191007143834
+144.76.120.23 1 1 0 20191011112131
+34.221.94.242 1 1 14312 20191006230207
+199.7.157.119 13 13 148971 20191025102757
+144.76.219.94 1 1 14140 20191025084614
+35.232.230.36 7 254 8037476 20191011014738
+94.130.167.84 1 1 16567 20191003174516
+54.187.33.6 1 1 14313 20191003205916
+123.139.56.238 1 1 16594 20191024041758
+175.176.5.64 5 92 608717 20191001225349
+192.0.85.145 0 4 401856 
+54.244.203.175 1 1 14316 20191014203926
+93.172.75.73 2 2 71427 20191015114417
+174.113.154.7 4 78 529989 20191014150327
+54.184.190.38 2 2 28623 20191009071543
+138.197.160.228 8 8 495250 20191024020611
+46.246.65.222 10 10 752148 20191006201339
+158.46.208.198 1 1 14349 20191003002031
+99.245.120.212 15 96 2861903 20191016101303
+84.51.222.59 4 4 294797 20191004152748
+198.23.172.191 2 2 125430 20191018083413
+52.40.21.130 1 1 14315 20191024201145
+23.82.166.244 1 1 14316 20191024235121
+54.174.53.77 1 1 0 20191018210444
+52.12.253.109 1 1 14313 20191006195618
+45.113.155.36 5 88 571622 20191015231726
+99.227.234.223 11 101 2897525 20191028130433
+188.163.97.83 4 4 224325 20191031075103
+185.229.144.22 3 3 188145 20191029032457
+148.66.142.18 1 1 2725 20191006193317
+106.45.0.10 1 1 14313 20191014121035
+45.55.152.56 1 1 62697 20191004224624
+77.74.177.113 10 268 1362572 20191008022702
+46.185.114.158 27 27 2027809 20191015183156
+8.37.70.204 1 1 13328 20191001065159
+188.191.161.23 2 2 147236 20191021011555
+99.234.65.191 16 104 822897 20191019181628
+77.120.113.64 2 2 147319 20191028155234
+23.229.75.24 1 1 62789 20191002105244
+69.158.246.196 3 82 2676867 20191013014813
+54.174.54.62 1 1 0 20191028051749
+192.0.100.82 0 1 99608 
+192.0.112.177 0 1 143045 
+5.153.178.92 1 1 0 20191006142814
+124.156.121.192 2 2 898 20191004091454
+159.138.156.34 1 1 13067 20191021010350
+35.197.68.151 2 2 125430 20191007014636
+109.61.225.83 5 5 376076 20191017023245
+193.25.101.187 2 63 292675 20191019195452
+138.246.253.5 2 2 0 20191023061713
+66.220.149.29 1 52 878363 20191001013314
+69.46.25.153 1 1 62715 20191011112205
+157.44.91.234 7 93 637657 20191004082436
+209.195.102.40 18 89 574550 20191008064537
+183.185.109.216 1 1 14349 20191002001431
+149.20.244.172 3 3 72533 20191013103408
+185.34.41.50 2 2 147285 20191023204850
+166.88.161.69 1 1 14312 20191012012100
+34.220.90.90 1 1 14316 20191023193357
+204.8.156.142 1 1 73618 20191006135257
+192.0.91.155 0 1 71898 
+38.79.209.203 1 1 12392 20191018165614
+99.229.164.223 12 105 2896348 20191027195637
+91.236.74.18 2 2 147300 20191014203711
+34.220.201.14 1 1 14315 20191025175855
+62.69.130.123 5 83 578311 20191028165657
+54.201.238.76 1 1 14313 20191004180655
+104.227.32.90 1 1 62715 20191018211219
+192.0.86.151 0 2 149930 
+192.0.91.153 0 1 67430 
+35.165.4.76 1 1 14315 20191004210554
+104.218.164.234 1 1 14314 20191014031805
+85.248.227.165 1 1 2860 20191001092353
+123.191.151.100 1 1 14310 20191007194741
+69.158.246.126 3 83 2695666 20191024204005
+104.155.136.198 1 39 374523 20191007205536
+161.117.10.46 2 2 147236 20191018101938
+173.252.87.48 0 6 625650 
+159.138.158.137 1 1 16636 20191025100700
+171.116.47.77 1 1 14318 20191014212917
+70.26.28.183 4 79 545559 20191007205008
+65.94.105.235 2 87 2730712 20191003201516
+34.214.121.235 1 1 62715 20191018035753
+18.236.166.187 1 1 14316 20191031185017
+163.172.37.251 4 4 294470 20191007223835
+96.59.182.214 3 86 2702929 20191019184902
+3.80.133.241 1 1 72328 20191003174627
+185.93.3.109 8 8 281708 20191019044543
+103.79.177.105 1 1 62715 20191015101440
+114.100.101.59 4 4 294471 20191029021435
+192.0.99.131 0 1 122403 
+195.69.170.10 3 3 221170 20191002140933
+137.226.113.34 7 469 18413871 20191027230015
+5.188.84.211 6 6 301413 20191031100222
+18.220.37.111 1 1 14312 20191008160204
+87.98.175.135 4 4 250824 20191011042728
+104.243.195.226 1 1 14316 20191022192405
+34.222.249.74 1 1 14313 20191007203550
+166.88.161.128 0 11 41614 
+193.138.1.61 3 3 42978 20191029221049
+70.24.95.242 7 170 1058493 20191029051634
+52.40.113.27 1 1 14315 20191020235111
+54.149.122.158 1 1 14313 20191009231941
+37.120.217.110 8 8 281708 20191025224501
+192.0.98.183 0 2 242630 
+134.209.81.0 1 1 14311 20191007190947
+20.190.40.98 0 1 562 
+190.1.97.49 1 1 16594 20191024065419
+37.120.142.167 8 8 281708 20191007215533
+99.248.46.205 2 132 5223521 20191019184620
+178.95.255.83 3 3 220930 20191015082134
+18.184.195.200 1 1 14316 20191024213603
+8.37.70.201 4 4 60981 20191022013216
+192.0.102.90 0 1 19805 
+99.224.60.102 3 83 2695667 20191024064009
+99.234.179.100 7 86 2746978 20191030184457
+185.206.224.217 28 28 2064156 20191005213412
+18.237.92.187 1 1 14312 20191009221639
+62.210.83.78 2 2 28629 20191016205907
+52.36.88.22 1 1 14313 20191009201731
+192.42.116.22 1 1 73618 20191017091542
+99.225.86.141 27 181 3525703 20191020101249
+50.62.177.140 2 2 894 20191004090800
+72.141.79.168 11 126 2995121 20191030184306
+159.138.150.216 1 1 14317 20191023124211
+5.135.230.129 1 1 62697 20191013140955
+198.52.172.88 3 84 2682854 20191014051551
+222.82.48.174 1 1 14312 20191007194757
+195.211.218.5 2 2 147446 20191001191501
+46.61.22.228 2 2 147288 20191007175819
+24.156.131.71 4 170 5364106 20191029122436
+99.254.185.10 10 95 2816305 20191016195854
+178.57.124.37 10 10 752151 20191016202759
+46.0.15.111 5 5 376076 20191004211538
+94.244.135.223 5 5 376073 20191026155954
+199.249.230.65 2 2 147305 20191030014733
+123.191.140.184 1 1 14311 20191009084929
+167.99.63.102 1 1 62715 20191007212627
+204.40.194.135 3 88 2702039 20191009111544
+46.246.65.169 20 20 1504297 20191024001106
+37.115.202.214 5 5 376074 20191019074827
+142.160.173.198 4 117 2820814 20191020094926
+82.80.244.59 1 1 14315 20191020223148
+99.245.69.131 3 87 2726980 20191011220516
+178.121.148.21 1 1 73617 20191024171359
+192.0.112.147 0 2 607328 
+148.66.147.23 2 2 894 20191004090525
+37.115.124.100 2 2 147302 20191006055733
+195.234.109.22 0 1 28922 
+31.23.98.46 4 4 294535 20191009101456
+37.115.216.65 21 21 1452699 20191025025536
+46.246.65.132 25 25 1881348 20191022084250
+195.154.182.89 5 5 376077 20191015104929
+199.192.31.217 2 2 17606 20191021114318
+99.245.204.27 29 112 3069883 20191008175747
+118.169.72.4 2 2 147235 20191030183024
+192.0.114.82 0 2 208028 
+8.37.70.242 4 4 55910 20191022013235
+64.6.231.76 1 1 62789 20191002225030
+111.250.134.252 2 2 147236 20191018171246
+182.50.132.85 2 2 894 20191004090708
+89.187.168.88 8 8 590390 20191002085922
+54.202.65.40 1 1 14315 20191030231320
+38.116.192.93 14 112 2912389 20191004063705
+52.13.49.58 1 1 14316 20191014231513
+193.187.112.116 1 1 14311 20191010005117
+46.249.171.139 2 2 147234 20191019161636
+137.226.113.28 1 1 14316 20191022052328
+192.0.85.93 0 4 47812 
+14.186.197.26 1 1 14312 20191009044823
+129.78.110.131 1 1 0 20191007081834
+195.154.168.193 2 2 30884 20191012172008
+212.80.202.97 1 1 14348 20191002181704
+23.229.25.84 3 3 188145 20191018221951
+52.14.193.151 12 77 450735 20191012181824
+176.10.99.200 1 1 73616 20191013024024
+94.228.207.1 30 30 2256939 20191027185103
+47.74.152.79 2 2 147236 20191017151620
+34.222.133.231 2 2 28624 20191013093522
+34.221.208.8 1 1 14315 20191030173643
+52.12.225.227 1 1 14313 20191005193459
+174.5.57.14 3 79 544659 20191003151302
+185.220.102.8 2 2 147318 20191030173924
+137.226.113.21 2 68 2644857 20191010132128
+51.38.162.225 1 1 62715 20191018001736
+3.120.105.55 1 1 2732 20191031021804
+34.221.215.39 1 1 14312 20191008232009
+113.128.105.43 1 1 14314 20191013224327
+221.13.12.213 1 1 14313 20191014031819
+195.234.109.16 0 7 732785 
+124.90.51.89 1 1 14347 20191002001404
+185.132.179.246 2 2 147286 20191031024201
+99.239.165.78 4 137 5262156 20191008105637
+72.141.48.100 7 85 593481 20191024131154
+52.53.188.60 1 1 62715 20191015195920
+109.70.100.26 1 1 73618 20191029043712
+175.184.166.185 1 1 14315 20191004120943
+136.243.17.161 1 1 62715 20191031030353
+35.161.238.28 1 1 14314 20191005232818
+99.244.34.119 4 88 2715171 20191019205137
+54.188.214.237 1 1 14348 20191001164510
+54.185.211.14 1 1 14316 20191026173259
+38.79.213.181 1 1 11911 20191018165610
+34.214.177.119 2 2 28695 20191002000817
+172.241.142.88 1 12 54605 20191012171151
+72.139.200.231 1 1 0 20191024095437
+34.221.153.159 1 1 14348 20191003113004
+69.158.246.75 6 91 2772126 20191015135717
+34.222.39.28 1 1 14311 20191012173434
+46.8.247.240 1 1 14317 20191020042510
+34.70.66.213 1 1 11902 20191011014634
+187.114.46.146 10 95 770200 20191018044102
+34.212.97.189 1 1 14317 20191023195400
+91.103.219.229 2 2 896 20191004091242
+221.213.75.107 1 1 14312 20191007194847
+192.0.99.155 0 5 172455 
+99.245.60.131 1 36 335894 20191005210743
+199.249.230.119 2 2 147303 20191008092130
+159.138.151.64 1 1 13195 20191020070100
+31.23.171.84 2 2 147292 20191006133014
+66.249.83.48 1 28 221830 20191016054626
+213.61.215.54 1 1 73617 20191022135050
+66.96.214.58 1 1 48879 20191006133845
+54.184.29.168 1 1 14315 20191017222500
+220.200.163.150 1 1 14318 20191020014720
+51.15.124.33 1 1 14316 20191031032533
+47.88.168.75 6 6 441707 20191025190635
+192.227.158.254 1 1 11908 20191028193340
+47.244.13.202 2 2 147236 20191015043754
+66.220.149.14 0 6 601194 
+99.232.147.136 6 90 600835 20191029143829
+107.150.127.154 1 1 14317 20191016171959
+192.0.99.227 0 5 537186 
+54.190.25.76 1 1 62715 20191009055045
+3.80.139.86 4 4 66894 20191021135516
+112.66.98.18 1 1 14311 20191005013953
+159.65.86.21 1 1 62715 20191023050649
+178.47.79.126 2 2 147235 20191004154101
+144.76.102.243 1 1 61713 20191001224430
+45.65.244.30 2 2 147234 20191019122314
+5.188.210.18 20 20 1472562 20191030052417
+159.138.157.139 1 1 13341 20191023123107
+185.21.65.253 1 1 14314 20191021120844
+109.206.188.87 3 3 220852 20191028013500
+45.55.44.61 1 1 62715 20191008190048
+192.0.91.201 2 2 14552 20191016210934
+199.7.157.122 4 81 570830 20191006163052
+185.253.96.5 6 6 468987 20191019185015
+47.31.121.125 7 89 628528 20191015063634
+138.128.13.63 2 2 125430 20191021130328
+181.214.183.137 1 1 14140 20191008215243
+34.223.254.8 1 1 14314 20191013175752
+18.236.68.224 1 1 14318 20191015200453
+149.3.145.25 1 1 9023 20191028002700
+5.101.156.100 1 1 2863 20191007090011
+46.45.185.174 1 1 14312 20191007141841
+62.210.89.11 5 5 71566 20191014125352
+104.165.75.222 1 1 14346 20191002011602
+159.138.152.18 1 1 13220 20191021170059
+107.174.33.153 2 2 125430 20191018213022
+65.95.187.146 2 8 72599 20191022023301
+66.102.7.9 0 20 95344 
+159.138.150.226 0 1 3102 
+24.114.52.19 10 93 2840778 20191022142345
+52.38.70.63 1 1 14317 20191016001751
+192.0.96.188 0 1 40754 
+54.212.159.88 8 8 130995 20191026102212
+91.106.199.104 6 6 87846 20191029125841
+192.0.113.210 0 3 1425660 
+192.0.99.178 0 2 164278 
+192.227.153.125 1 1 11905 20191008220038
+95.143.218.78 7 7 523310 20191027004058
+195.218.182.103 2 2 147236 20191012105057
+99.246.141.57 3 88 2730711 20191010211649
+99.227.217.54 3 87 2708368 20191004192024
+99.227.185.59 3 82 2676786 20191008131520
+192.0.116.82 0 1 1583364 
+99.230.145.128 4 88 2708432 20191002123523
+198.108.66.176 1 1 14312 20191011035440
+68.71.165.204 2 2 894 20191004090743
+34.221.25.140 1 1 14317 20191015083651
+89.187.168.83 2 2 147599 20191002232654
+52.12.38.191 1 1 14313 20191013225513
+36.5.144.219 1 1 73618 20191007051402
+142.252.77.21 1 1 13484 20191018165605
+83.242.108.72 13 13 980991 20191021024051
+112.114.105.239 1 1 14312 20191010155222
+54.189.121.151 1 1 14316 20191025154433
+160.153.153.30 2 2 896 20191004090450
+107.6.171.130 3 3 42948 20191025100347
+31.23.48.32 2 2 147294 20191017140531
+156.57.82.225 6 88 2754059 20191013172722
+172.58.137.18 5 90 2753252 20191018185826
+34.219.243.203 1 1 14312 20191007230629
+37.1.143.114 4 4 294472 20191031194719
+99.224.17.69 3 84 2682851 20191009032758
+111.250.136.25 2 2 147447 20191001141152
+192.0.100.83 0 3 32895 
+18.237.21.16 1 1 14313 20191012010005
+162.249.167.58 1 1 14312 20191012012106
+195.154.172.137 4 37 337574 20191003214211
+192.0.102.70 0 6 568560 
+72.143.195.209 3 83 2695656 20191029103117
+208.97.74.34 12 97 2842461 20191016134424
+18.236.68.124 2 2 28631 20191020173507
+77.68.64.31 2 2 890 20191004091315
+167.114.173.221 1 1 16565 20191004133509
+159.203.108.227 21 41 806522 20191008023708
+54.219.131.244 1 1 0 20191017200214
+166.62.122.244 1 1 2859 20191014033930
+115.51.112.54 4 85 551629 20191027233700
+104.131.205.144 2 2 14346 20191003101745
+35.165.217.178 1 1 14311 20191006173544
+23.94.20.157 1 1 62715 20191017155908
+104.243.195.220 1 1 16598 20191018165605
+92.249.191.221 5 5 71563 20191015054830
+54.191.212.82 1 1 14348 20191001195626
+178.137.18.185 6 6 441708 20191020225707
+34.221.16.48 2 2 28634 20191015053143
+35.178.16.1 1 1 2859 20191004083552
+135.23.80.6 3 88 2720653 20191012033058
+70.50.179.49 10 94 2831338 20191005192115
+54.245.210.130 1 1 14312 20191012014812
+5.8.45.2 4 4 294470 20191030025634
+178.71.186.105 5 5 376076 20191007071021
+198.20.103.242 1 1 14314 20191005011845
+199.229.232.249 2 63 310794 20191013103313
+195.154.168.88 2 2 30886 20191014055102
+18.237.137.164 1 1 62789 20191001092125
+192.0.99.35 0 1 54265 
+54.184.46.95 1 1 14314 20191004004625
+120.92.89.35 1 1 11896 20191008091053
+35.195.232.142 1 1 62715 20191010101047
+156.96.117.54 1 1 16838 20191021114959
+54.214.213.204 1 1 14315 20191024194935
+54.202.216.42 1 1 14318 20191018230912
+72.179.148.0 9 91 622016 20191001054624
+72.143.207.134 2 81 2676868 20191030135715
+104.158.144.210 5 88 608889 20191030024239
+104.200.138.43 3 87 2726991 20191004075943
+51.158.123.99 8 163 3046380 20191031070232
+84.17.62.143 8 8 281708 20191015155545
+70.73.15.36 2 86 2726995 20191027001220
+23.129.64.206 1 1 73697 20191019123449
+192.0.91.157 0 5 1104213 
+99.247.232.6 5 90 2730716 20191010190149
+23.249.228.199 1 1 14179 20191018165620
+159.203.88.194 21 41 806632 20191016231648
+139.162.39.36 2 2 894 20191004091340
+70.50.85.139 24 24 1390056 20191030190516
+88.16.35.17 1 16 256996 20191018021233
+52.34.118.82 1 1 14313 20191005224120
+99.246.130.181 5 81 565258 20191003133202
+198.108.67.16 1 1 14313 20191011035800
+99.227.217.179 5 90 2750773 20191014114508
+192.0.102.138 0 1 414255 
+8.37.70.109 4 4 59228 20191022013216
+99.246.14.24 3 83 2695664 20191018210410
+192.0.118.148 0 2 103283 
+72.140.13.141 7 91 2797102 20191023084353
+64.231.173.122 8 93 2759380 20191004145141
+52.11.94.217 7 14 138399 20191007002556
+47.74.186.195 4 4 294682 20191017033807
+216.197.242.199 6 78 532954 20191001162914
+5.34.181.35 1 1 73617 20191007032812
+189.70.126.25 1 1 14315 20191025190746
+192.81.130.23 1 1 62715 20191014235930
+195.234.109.116 0 3 34095 
+52.191.175.218 0 1 6332 
+128.14.224.114 2 2 28696 20191002154721
+69.158.246.141 3 83 2695668 20191014155350
+118.169.76.219 4 4 294525 20191028195947
+70.49.32.228 7 82 591297 20191015230010
+195.234.109.178 0 1 50418 
+193.70.2.138 4 4 250788 20191022080435
+74.14.5.5 3 83 2695666 20191020183358
+5.228.57.189 5 5 376076 20191020172853
+109.242.136.189 4 4 57259 20191029191420
+34.201.167.223 3 3 188145 20191024001406
+91.236.74.19 2 2 147302 20191023095433
+192.0.100.226 0 5 79360 
+54.184.157.139 2 2 28636 20191020061555
+104.41.41.14 1 1 2861 20191014051615
+52.35.118.37 1 1 14313 20191014014454
+192.0.101.240 0 3 173195 
+96.51.161.220 3 87 2708377 20191015195404
+66.102.8.89 0 8 16860 
+188.162.132.244 2 2 147235 20191017173457
+45.133.88.22 5 5 376076 20191011045415
+18.237.2.42 1 1 14314 20191021200214
+23.236.61.54 1 1 14140 20191011014627
+109.202.17.4 1 1 16594 20191024051031
+104.42.146.51 0 1 9964 
+54.174.54.59 1 1 0 20191019073536
+107.150.100.199 1 1 14314 20191014121026
+178.17.177.23 2 2 147235 20191027112651
+95.58.170.92 4 4 294470 20191008200449
+109.165.46.100 6 6 441877 20191016075815
+174.6.109.26 6 92 621594 20191022135436
+185.220.101.62 2 2 147305 20191026050801
+66.102.8.88 0 6 21575 
+198.55.103.88 2 2 147235 20191009200341
+46.172.18.132 2 2 147235 20191022172942
+185.62.194.163 1 1 14317 20191016085351
+93.100.153.184 1 1 62715 20191015152613
+23.27.147.104 1 1 13262 20191018165632
+165.22.54.236 1 1 2726 20191030013619
+54.202.8.193 1 1 14312 20191010224248
+107.150.97.206 1 1 14311 20191007212951
+34.213.55.72 1 1 14313 20191010195233
+89.238.154.243 15 15 1128226 20191029141547
+35.247.80.163 2 2 125430 20191030154026
+120.33.34.41 3 3 42944 20191004130703
+206.189.202.246 2 2 898 20191004091242
+171.25.193.78 2 2 147330 20191006223416
+70.54.129.16 3 85 2696064 20191018155930
+5.188.210.51 6 6 468987 20191020065242
+148.251.123.46 1 1 62715 20191019180302
+173.252.95.38 0 8 1315237 
+103.132.168.134 5 92 587594 20191026234737
+217.146.88.133 2 2 147236 20191013170230
+178.19.253.157 4 4 294470 20191026183749
+34.220.140.234 8 8 130966 20191010115808
+20.190.41.19 0 1 1842 
+69.158.246.98 3 88 2730726 20191018134926
+113.128.104.45 1 1 14317 20191017012423
+18.236.175.146 1 1 14316 20191025181214
+52.64.20.252 1 1 2859 20191023134026
+176.115.92.160 5 5 376076 20191015115611
+34.217.81.113 2 2 28628 20191030073719
+99.237.97.7 10 139 3058720 20191012154250
+213.159.213.137 1 1 14314 20191028003509
+109.201.133.100 1 1 73618 20191008064542
+50.117.47.88 2 2 147235 20191011131321
+54.244.195.140 1 1 14317 20191015081645
+173.211.82.135 1 1 14312 20191009193549
+66.102.6.148 4 46 167488 20191015063627
+34.218.242.0 1 1 14315 20191022200020
+191.101.215.243 2 2 33196 20191008215247
+93.159.230.28 4 37 217535 20191008022744
+5.135.138.188 1 1 62697 20191005063823
+51.38.233.93 2 2 147313 20191007010400
+192.0.101.58 0 2 102161 
+104.243.43.82 2 2 894 20191004091142
+199.249.230.114 1 1 73705 20191028205154
+34.67.64.119 2 2 29666 20191003091117
+99.247.212.32 1 1 0 20191015141105
+54.148.219.47 1 1 14312 20191007234109
+34.215.23.40 2 2 28695 20191003104630
+46.246.65.221 5 5 376075 20191026003339
+95.211.146.167 2 2 147234 20191014234147
+192.0.101.35 0 2 268288 
+24.226.16.137 2 86 2700907 20191002121811
+34.219.163.78 1 1 14312 20191013014727
+76.71.30.104 3 84 2718015 20191017081523
+99.225.74.55 2 67 2611758 20191030174218
+66.220.149.38 1 28 1221354 20191001013317
+192.0.114.18 0 3 35094 
+99.227.124.187 4 78 542770 20191023042601
+54.67.71.9 2 63 292676 20191017204149
+104.238.72.132 4 4 250824 20191011042656
+91.242.162.28 2 2 33445 20191023100542
+159.138.149.134 1 1 11911 20191018233252
+23.129.64.157 1 1 73617 20191018120640
+146.0.84.148 2 2 145387 20191016205330
+40.125.73.187 0 1 296 
+72.143.206.74 4 84 2695663 20191015232232
+70.27.138.166 3 84 2718012 20191025053113
+167.114.158.57 18 18 1054407 20191023113435
+54.174.54.254 1 1 0 20191023080941
+192.0.116.180 0 2 281902 
+184.150.183.72 2 85 2682050 20191006063451
+66.102.7.5 1 27 141324 20191001162949
+46.246.65.200 20 20 1504787 20191015171710
+192.0.113.52 0 8 420197 
+195.181.166.75 2 2 147285 20191012062302
+31.23.79.246 2 2 147265 20191012103000
+69.159.8.194 2 81 2676873 20191015225059
+180.232.120.146 5 87 570415 20191007004040
+198.154.83.50 1 1 15247 20191026003209
+176.249.80.169 1 1 14310 20191010182153
+45.61.167.73 1 1 14314 20191013175344
+18.236.128.85 1 1 14316 20191004033039
+54.189.116.36 2 2 28696 20191003104633
+66.102.7.160 1 8 306528 20191016100049
+104.144.21.63 1 1 11906 20191013213036
+216.173.68.99 1 1 13068 20191018165624
+35.185.242.234 2 2 125430 20191016132640
+66.249.88.84 2 23 103553 20191016054628
+192.3.27.183 3 3 188145 20191018204023
+107.158.141.164 1 1 14316 20191031135616
+192.0.101.190 0 3 34521 
+192.0.96.187 0 3 86766 
+42.108.252.246 6 92 621591 20191005022809
+104.32.66.43 12 172 1239942 20191007094305
+67.225.163.79 2 2 806 20191004091839
+81.177.141.161 2 2 17344 20191013151434
+24.114.82.194 13 95 2878505 20191014170331
+128.14.224.62 1 1 14315 20191030084347
+23.99.201.125 1 1 2859 20191015020200
+36.57.177.5 2 2 147236 20191011063905
+109.234.38.61 10 10 736389 20191027155329
+192.0.86.145 0 4 467356 
+35.164.33.16 1 1 14313 20191008175212
+49.79.194.119 0 1 2957 
+54.202.213.92 1 1 14316 20191026225341
+159.138.154.189 1 1 13335 20191021165802
+37.45.149.138 3 3 220852 20191008122834
+3.92.32.166 8 8 133307 20191024135017
+99.234.177.47 2 85 2704632 20191003201505
+104.244.73.189 2 2 147320 20191004170507
+34.218.51.49 1 1 14313 20191004030635
+93.124.66.67 6 6 468987 20191028012024
+99.239.18.185 8 99 664037 20191005213327
+139.180.224.59 2 63 292666 20191013103253
+3.220.53.231 1 1 16857 20191027003956
+217.160.60.234 22 22 1619587 20191031102203
+78.46.90.120 1 1 62789 20191001224441
+119.39.46.218 1 1 14276 20191011224539
+128.14.224.59 1 1 14347 20191001115542
+99.225.107.168 1 1 23381 20191018082259
+72.143.197.38 5 79 562991 20191028143016
+160.153.153.29 1 1 448 20191004091930
+34.220.158.97 2 2 28630 20191027065020
+89.231.65.6 12 12 937974 20191020131007
+116.110.44.128 1 1 2860 20191015123100
+198.98.50.201 2 2 147305 20191022114212
+185.220.102.4 2 2 147317 20191028122916
+204.40.130.130 4 86 538669 20191001082712
+107.155.48.246 2 2 28697 20191001020500
+103.79.177.196 1 1 62715 20191015101721
+185.183.96.122 1 1 14313 20191011072038
+192.0.85.91 0 7 415649 
+162.221.204.241 3 3 79196 20191023124716
+51.143.102.251 0 1 893 
+31.23.175.211 2 2 147235 20191023095629
+178.17.174.211 2 2 147309 20191009021004
+34.220.20.135 1 1 62715 20191006005418
+192.0.118.180 0 4 64242 
+34.214.79.97 1 1 14313 20191022195002
+34.208.174.178 2 2 28634 20191018080809
+24.150.30.92 22 116 3026100 20191017085741
+46.165.245.154 1 1 73617 20191015100512
+159.69.155.236 1 1 0 20191006191404
+178.47.72.180 4 4 294470 20191015182723
+36.57.179.207 2 2 147235 20191013121542
+178.176.113.195 2 2 77114 20191013030027
+24.57.195.2 5 84 577551 20191013132851
+159.138.128.233 1 1 12388 20191023123238
+52.34.27.193 2 2 28631 20191021083653
+99.228.135.167 1 1 0 20191005070649
+209.195.85.213 4 71 2648975 20191012045912
+216.173.68.70 1 1 16640 20191018165612
+178.73.212.124 2 2 30707 20191003174508
+107.150.102.160 2 2 28624 20191010171932
+54.244.96.76 1 1 14309 20191014022526
+70.51.205.147 8 93 2805485 20191009093225
+192.0.118.114 0 11 869219 
+123.148.243.48 1 1 14314 20191027145808
+54.67.96.238 2 2 0 20191014053516
+67.71.229.90 8 96 2794612 20191018075737
+99.230.32.196 3 87 2700850 20191025151357
+91.121.79.16 1 1 62697 20191018170215
+108.62.9.134 1 1 14316 20191021232324
+92.53.112.201 1 1 9024 20191030045246
+54.185.119.179 1 1 14312 20191009173536
+89.187.168.89 4 4 66672 20191002073851
+195.234.109.136 0 2 176476 
+99.244.247.74 4 79 545574 20191019060449
+181.214.248.123 1 1 14311 20191009192512
+66.102.8.90 0 8 59713 
+103.72.145.10 1 1 14313 20191011224649
+54.189.47.148 1 1 14317 20191015232203
+159.138.156.213 1 1 14809 20191022114955
+34.220.26.26 1 1 14314 20191004171118
+117.14.113.33 1 1 14311 20191007212851
+70.54.103.162 4 76 508746 20191029102227
+31.13.115.8 0 26 606352 
+124.89.89.148 1 1 14312 20191012171625
+34.219.151.199 1 1 14309 20191010021844
+104.129.158.35 4 77 506677 20191013051909
+192.0.86.104 0 10 962985 
+38.128.55.252 1 1 13478 20191018165629
+51.143.128.236 1 1 14317 20191016085343
+83.97.20.237 1 1 73618 20191028205145
+60.191.38.77 3 3 188145 20191024144930
+18.237.28.160 1 1 14317 20191014224623
+31.23.125.107 2 2 147236 20191027233910
+107.173.190.239 2 2 898 20191004091020
+46.166.142.215 2 2 145131 20191026135744
+8.37.71.32 3 3 39777 20191016111354
+151.237.176.7 1 1 16886 20191007181156
+8.37.71.30 7 7 105622 20191022013159
+139.162.7.42 2 2 5468 20191023124811
+180.190.175.67 5 88 571622 20191017064346
+52.26.211.110 2 2 28629 20191003210950
+178.150.125.88 5 5 368088 20191005184214
+199.7.157.123 3 87 2727051 20191001161328
+196.47.64.42 1 1 62697 20191004235943
+99.239.158.144 4 85 2697126 20191003195855
+142.116.188.126 10 90 2804039 20191008174628
+24.244.19.136 2 85 2682117 20191003165347
+178.127.161.203 5 5 368087 20191031165200
+31.13.115.9 0 14 33464 
+192.0.116.177 0 2 44266 
+195.154.23.218 1 1 14312 20191011195719
+175.176.71.60 6 92 621587 20191025184904
+65.93.18.120 7 87 2747973 20191013095841
+40.125.74.2 0 1 6285 
+67.227.237.7 2 2 806 20191004091353
+195.234.109.8 0 1 290064 
+50.7.235.2 17 17 1066155 20191031092203
+62.177.43.154 7 7 20264 20191023124705
+193.194.106.157 13 13 34514 20191001092331
+65.92.206.218 9 92 2792637 20191012070443
+199.7.157.86 1 37 367236 20191002151957
+90.188.255.142 4 4 294471 20191030214043
+124.235.138.252 1 1 14348 20191001223914
+181.215.6.232 1 1 14317 20191016172014
+183.163.36.94 1 1 16856 20191031230902
+24.156.131.7 2 85 2682051 20191022163325
+176.98.24.217 2 82 2681436 20191006083621
+138.128.4.142 3 64 322332 20191002204236
+128.14.224.93 1 1 14314 20191013171904
+216.211.90.8 4 85 566688 20191012122041
+203.133.169.111 7 50 239593 20191006002158
+185.136.159.26 15 15 1112462 20191029130605
+184.150.183.139 2 85 2682044 20191007201923
+192.0.100.179 0 1 73807 
+66.102.7.191 2 13 60790 20191024053653
+72.143.196.246 3 83 2695731 20191001072107
+92.244.96.108 1 1 71317 20191023211042
+158.69.121.179 5 5 376076 20191024145219
+47.31.79.209 0 1 22351 
+34.219.113.145 1 1 60501 20191004190627
+114.221.124.65 1 1 14316 20191023040118
+115.207.107.211 3 3 8576 20191013234956
+51.77.129.165 2 85 2682060 20191023113458
+107.181.177.133 5 88 571613 20191025022651
+70.31.156.235 14 96 691284 20191008130938
+36.32.3.106 1 1 14314 20191013171903
+212.83.147.249 1 1 62715 20191013182829
+67.70.95.13 14 109 2901193 20191015132722
+54.203.90.213 1 1 14311 20191004182700
+66.102.6.147 1 36 1333704 20191015063620
+68.57.176.249 1 77 498608 20191024163319
+70.48.11.102 4 88 2726990 20191018192627
+159.138.154.114 1 1 14140 20191025101141
+34.222.1.68 1 1 14318 20191016232902
+45.72.254.158 2 78 2672643 20191019025422
+171.34.178.254 1 1 14317 20191023035957
+178.121.122.253 3 3 220854 20191018154653
+54.174.54.221 1 1 0 20191021112246
+67.222.96.142 2 2 894 20191004090759
+195.234.109.6 0 1 647601 
+185.217.71.152 8 8 281708 20191020153809
+67.68.35.206 10 96 2871484 20191004020132
+54.149.219.78 1 1 14310 20191007013831
+52.12.59.10 1 1 14348 20191003130758
+62.149.145.13 1 1 9023 20191014142103
+195.234.109.62 0 3 36624 
+5.9.116.101 3 86 2682051 20191011194840
+192.0.91.103 0 4 749432 
+91.236.74.21 2 2 147296 20191023065658
+62.210.215.115 23 23 283540 20191029224804
+52.32.39.108 2 2 28631 20191025082244
+199.85.229.4 3 76 507236 20191031164433
+70.50.85.70 4 4 231676 20191029194254
+54.190.124.183 8 8 131003 20191026104448
+31.28.163.58 10 10 736176 20191024134017
+183.150.45.60 1 1 2859 20191008225804
+166.62.85.146 10 10 0 20191029202502
+175.152.110.134 1 1 14313 20191013171841
+67.205.174.139 2 2 30885 20191012020247
+198.108.66.161 1 1 14312 20191011071929
+54.172.115.250 1 1 93428 20191031101938
+109.70.100.29 1 1 73686 20191022195716
+176.214.79.191 1 1 16597 20191024035303
+212.103.50.78 8 8 281708 20191008135831
+23.250.36.89 1 1 11910 20191018205148
+154.118.72.207 1 1 14348 20191001034638
+34.210.205.70 1 1 14312 20191008201347
+51.75.95.185 2 2 29666 20191003105146
+70.31.174.8 3 12 2251226 20191002142053
+54.218.58.34 1 1 14315 20191014015216
+109.165.104.95 2 2 147287 20191021183103
+109.126.207.130 3 3 221170 20191003021941
+46.61.78.3 2 2 147235 20191031130329
+167.160.170.91 1 1 15247 20191024115546
+73.189.130.241 2 2 30913 20191024024400
+193.238.47.165 1 1 2861 20191021075758
+195.234.109.174 0 4 46792 
+34.222.143.14 2 2 28628 20191014064147
+35.164.143.143 1 1 14309 20191011182818
+113.128.104.13 1 1 14315 20191014031732
+199.255.159.254 2 2 898 20191004091101
+54.245.31.70 1 1 62715 20191026035350
+54.214.110.121 1 1 14312 20191012221809
+173.252.95.14 2 37 738168 20191016015811
+34.221.184.136 1 1 14319 20191015010446
+88.198.43.207 1 1 55969 20191025224010
+185.154.23.122 2 2 147446 20191001143820
+175.42.2.220 1 1 14311 20191009084858
+178.175.148.34 1 1 73618 20191019123439
+72.143.201.61 5 77 537642 20191018131256
+198.71.238.7 2 2 892 20191004091705
+34.219.42.101 2 2 28623 20191007074144
+107.164.137.130 1 1 14140 20191018165633
+99.241.113.105 21 132 4171297 20191029222523
+77.233.23.232 2 2 147282 20191015210727
+111.250.135.192 6 6 441706 20191008103414
+221.13.12.78 1 1 14348 20191001020614
+67.227.236.96 2 2 894 20191004090422
+37.115.218.208 15 15 1128224 20191027190630
+37.195.164.137 1 1 73617 20191029183138
+193.169.145.194 2 2 147327 20191004191704
+89.101.241.141 5 77 537635 20191030001301
+185.251.38.4 4 4 294470 20191028091308
+103.9.101.23 2 2 892 20191004091426
+84.17.62.136 8 8 281708 20191024141307
+54.71.188.115 1 1 14313 20191013200153
+192.243.53.51 1 1 14312 20191013090502
+50.101.26.228 5 92 2745074 20191007100117
+54.88.41.70 1 1 14316 20191020190726
+193.42.118.91 1 1 14313 20191014021454
+192.0.91.101 0 5 711781 
+209.171.44.8 8 8 114579 20191017060348
+34.220.234.254 2 2 28625 20191011012416
+107.150.0.157 1 1 15247 20191031054349
+192.0.86.185 0 5 315479 
+72.143.199.135 3 83 2695663 20191020084732
+99.231.67.253 4 87 2697116 20191013202600
+91.236.74.16 2 2 147298 20191015232014
+149.20.246.190 6 128 644547 20191016205654
+185.17.149.134 2 2 147335 20191007014702
+83.220.236.203 5 5 376077 20191013172720
+142.55.29.84 6 92 2766887 20191017114827
+94.240.189.121 2 2 147236 20191011110248
+108.162.186.123 3 82 2676870 20191027065715
+37.113.170.62 15 15 1128224 20191016154649
+31.13.115.21 1 1 14346 20191001003150
+109.184.134.189 2 2 147236 20191026125142
+69.13.39.34 7 7 505954 20191031202035
+124.89.90.55 1 1 14311 20191009085013
+99.230.207.0 27 131 3154839 20191024104201
+34.213.46.64 1 1 14318 20191016200143
+23.239.180.61 1 1 62715 20191010211220
+54.212.126.112 1 1 14314 20191004115200
+8.37.70.137 3 3 43062 20191017162605
+52.36.49.180 1 1 14314 20191004234558
+195.234.109.74 0 1 250281 
+148.251.50.77 2 2 112548 20191005152439
+192.227.161.21 1 1 14316 20191025033704
+66.102.7.162 1 10 744779 20191015063627
+109.74.21.10 1 4 67702 20191016174655
+178.171.2.149 1 1 14312 20191009185720
+105.112.56.215 1 1 14314 20191006081352
+175.42.87.29 2 2 77032 20191016073657
+8.37.70.195 5 5 110198 20191022190508
+198.98.55.119 2 2 147314 20191010094527
+34.217.85.114 1 1 62715 20191021111000
+195.234.109.68 0 1 99608 
+142.162.56.190 3 88 2702042 20191021162537
+178.171.22.128 2 2 28626 20191031033818
+50.62.177.49 2 2 892 20191004090850
+54.149.31.251 1 1 14314 20191029173518
+178.33.172.137 1 1 16565 20191005213735
+173.236.193.44 1 1 448 20191004091748
+138.68.28.46 1 1 62789 20191003051342
+69.87.219.123 1 1 14315 20191029103229
+51.91.35.37 1 1 62715 20191015232945
+35.222.149.95 1 1 13063 20191011014626
+142.166.22.98 3 198 7835271 20191028102839
+220.200.163.153 1 1 14313 20191005013944
+89.7.187.108 2 2 892 20191004090851
+193.29.62.123 2 63 292667 20191011085106
+128.1.46.246 1 1 14316 20191020181724
+51.77.246.200 2 85 2682052 20191007110602
+70.31.76.244 6 107 2765724 20191016183122
+178.159.37.17 25 25 1881167 20191024020124
+185.103.159.65 1 1 9023 20191010080605
+159.203.21.10 7 7 410827 20191016232224
+52.41.66.23 1 1 14313 20191012195848
+159.138.149.102 1 1 16600 20191017121011
+40.83.166.27 0 1 1481 
+181.214.16.77 1 1 14316 20191023185210
+159.65.175.214 21 41 806579 20191030162756
+64.233.172.208 2 3 47423 20191025210407
+104.211.58.247 1 1 14140 20191024071354
+104.165.75.165 2 2 31820 20191018165608
+99.237.54.239 18 143 3665430 20191017094720
+46.118.158.235 14 14 1030858 20191013043626
+46.118.155.201 4 4 294503 20191010091231
+161.117.10.233 4 4 294468 20191026121203
+87.228.52.83 2 2 147235 20191026213534
+109.254.87.108 5 5 376074 20191015044655
+174.88.20.3 1 1 14275 20191003181529
+212.103.50.73 10 10 752150 20191030140140
+77.234.68.49 12 12 171787 20191027052956
+192.0.102.114 0 1 77802 
+34.68.41.26 1 1 14172 20191011014636
+50.7.234.242 8 8 501868 20191008103634
+104.227.246.106 4 4 250860 20191016045155
+52.10.111.213 1 1 14347 20191001125539
+34.214.235.169 1 1 14314 20191028002446
+159.65.155.168 8 8 286572 20191002105919
+188.92.72.129 1 1 14319 20191015203343
+24.156.131.6 2 85 2682045 20191012003052
+181.177.82.251 1 1 13215 20191018165610
+5.137.154.22 5 5 376075 20191017180528
+54.184.172.245 2 2 28623 20191010074302
+171.232.62.85 1 1 73617 20191028075519
+107.6.183.162 1 1 14310 20191011203239
+69.159.52.109 3 82 2676867 20191024210639
+104.244.79.222 1 1 73617 20191018004708
+192.0.86.127 0 1 22337 
+111.224.220.230 1 1 14348 20191002154748
+52.183.69.249 0 1 2554 
+34.208.242.236 1 1 0 20191011020516
+35.228.147.246 1 1 73617 20191009170452
+5.139.79.169 2 2 147292 20191028071348
+178.137.84.122 8 8 588943 20191030035644
+18.212.42.148 1 1 62715 20191013052020
+221.13.12.167 1 1 14316 20191023002108
+24.156.131.5 4 170 5364103 20191020095008
+66.249.88.82 0 23 260119 
+185.103.110.204 3 3 221025 20191017073930
+123.233.53.89 1 1 14312 20191023002021
+167.99.121.5 1 1 62715 20191008013017
+5.139.157.248 2 2 147299 20191020170818
+54.149.100.46 1 1 14318 20191016194519
+181.177.80.98 1 1 13006 20191018165628
+109.61.255.87 5 5 376075 20191025005851
+87.101.94.69 8 8 281708 20191026040835
+138.68.227.120 1 1 16571 20191013075326
+104.155.162.35 1 1 13257 20191011014632
+51.68.95.22 1 1 14311 20191008081524
+139.59.75.43 1 1 2732 20191029070743
+188.163.109.153 8 8 588942 20191030131652
+69.158.246.40 7 90 2772857 20191031085053
+165.227.222.39 21 41 806599 20191025221005
+151.106.11.181 6 6 468987 20191021100328
+99.231.188.153 0 1 475220 
+192.0.118.145 0 1 103228 
+34.68.102.219 1 1 14311 20191011014627
+94.100.31.188 1 1 16595 20191024061534
+34.209.238.49 2 2 28635 20191017030559
+35.194.59.21 1 22 118075 20191010013312
+185.236.42.71 2 2 147286 20191025135010
+54.212.117.30 1 1 14347 20191003124716
+61.230.12.158 3 86 2704636 20191010072402
+72.52.238.79 2 2 28627 20191014132226
+64.188.3.214 2 2 147234 20191031184509
+27.109.7.227 2 79 2674473 20191009010156
+185.156.174.13 2 2 147235 20191028115546
+104.168.49.228 1 1 11906 20191003224259
+178.17.177.34 2 2 147236 20191031014900
+174.194.137.5 6 90 2767357 20191013062807
+184.22.38.59 6 87 585955 20191007082539
+184.150.152.6 2 85 2682051 20191004214936
+99.229.216.118 0 1 54 
+31.13.115.12 0 4 704757 
+192.0.118.209 0 4 1069160 
+104.254.93.162 4 4 294790 20191006095452
+89.187.168.68 2 2 33307 20191003034314
+173.252.95.29 0 40 628652 
+18.237.16.250 1 1 72328 20191003183724
+18.235.73.21 2 2 31095 20191007024826
+34.215.208.51 1 1 14312 20191008023453
+104.134.27.9 3 86 2697119 20191020213437
+220.200.158.239 1 1 14348 20191001223857
+70.54.104.198 9 100 5177903 20191016040937
+209.188.21.236 2 2 896 20191004091333
+37.187.198.246 1 1 62697 20191005092407
+202.28.154.103 8 89 622762 20191006203259
+195.234.109.130 0 3 32895 
+111.224.219.149 1 1 14316 20191020014807
+8.37.70.136 4 4 56701 20191022013321
+118.169.90.19 2 2 147236 20191014090413
+99.239.150.204 3 57 1628425 20191031025455
+192.0.82.254 0 4 535673 
+18.237.123.0 1 1 14314 20191021200036
+142.176.121.196 2 85 2682054 20191026050815
+35.231.98.99 1 48 2410633 20191030145732
+78.139.240.247 0 1 55924 
+167.71.45.228 1 1 14140 20191011083755
+121.57.225.206 1 1 14312 20191012171615
+212.80.200.121 1 1 14317 20191016175316
+91.140.8.163 4 4 57263 20191024082645
+161.117.5.252 4 4 294470 20191018032209
+84.17.58.50 8 8 281708 20191022070147
+87.236.20.96 1 1 2731 20191013233126
+99.244.135.5 21 116 2999761 20191022181816
+31.13.115.22 0 2 459318 
+8.37.71.47 2 2 26879 20191019191457
+194.249.231.98 1 1 72328 20191004035118
+37.99.89.170 2 2 147236 20191005034753
+34.219.145.6 2 2 28627 20191031083247
+217.170.192.245 2 2 147447 20191001061749
+20.36.23.170 0 1 465 
+8.37.70.71 3 3 40431 20191022013326
+35.161.233.51 1 1 62715 20191020122232
+159.138.150.117 1 1 14315 20191028123142
+99.232.72.67 3 87 2726982 20191006083157
+38.145.86.39 1 1 14315 20191031004125
+34.216.139.148 1 1 14312 20191008193444
+159.138.153.92 1 1 16576 20191019230655
+69.157.162.25 1 1 0 20191001105958
+54.201.40.92 1 1 14312 20191010193643
+99.237.55.58 9 95 679207 20191009173451
+23.129.64.162 1 1 73701 20191008064550
+50.101.205.137 10 95 2849669 20191031092059
+34.219.173.64 2 2 28630 20191024031547
+159.203.88.128 1 1 14315 20191022114023
+104.37.65.130 3 88 2709566 20191028113557
+130.149.80.199 2 2 147236 20191012020849
+70.50.87.230 2 2 115838 20191020144220
+119.17.49.238 5 91 586400 20191017153613
+123.160.172.196 1 1 14347 20191002052721
+62.149.145.144 1 1 9023 20191011062202
+103.75.160.108 6 89 571611 20191009000821
+72.141.250.142 3 86 2682043 20191002203459
+34.213.123.211 1 1 14311 20191014014457
+216.173.68.91 1 8 32671 20191018165623
+34.212.37.230 1 1 14317 20191025190453
+104.244.76.56 1 1 62715 20191024154419
+34.220.62.174 1 1 14315 20191024170947
+50.63.13.254 1 1 16595 20191024052244
+159.138.154.54 1 1 14140 20191017230316
+192.0.114.52 0 1 19805 
+50.207.248.122 5 86 566683 20191007115953
+46.61.120.177 4 4 294526 20191019155033
+159.224.93.3 2 2 33617 20191024024523
+31.23.94.183 2 2 147296 20191010092917
+187.102.16.70 1 1 16595 20191024064108
+165.227.72.153 21 41 806523 20191012123027
+221.13.12.117 1 1 14347 20191002154722
+149.202.191.30 14 14 213454 20191027150414
+192.0.86.147 0 2 22730 
+159.138.148.16 1 1 13978 20191021170205
+195.154.226.67 2 2 28356 20191013000641
+109.242.148.174 1 1 14317 20191018020439
+37.115.197.74 12 12 570148 20191029123706
+12.202.227.34 3 87 2700850 20191022071121
+195.234.109.60 0 5 667510 
+192.0.86.166 0 3 382626 
+124.104.171.45 5 88 571618 20191020032019
+157.245.98.121 1 1 2859 20191014005950
+36.57.177.89 2 2 77090 20191030183025
+178.121.125.102 2 2 147235 20191022223907
+222.82.56.64 1 1 14280 20191017012338
+196.17.30.238 2 2 30566 20191005074856
+66.159.33.6 2 86 2683253 20191024065414
+192.0.96.186 0 2 219568 
+157.131.223.20 4 84 2695628 20191024145125
+181.177.82.64 1 1 13263 20191018165628
+51.158.147.12 1 1 73706 20191015100541
+38.79.211.199 1 1 13982 20191018165628
+103.15.81.48 1 1 14319 20191016085506
+217.23.5.167 2 2 17344 20191022105643
+184.146.101.64 3 87 2726980 20191010183116
+128.14.224.57 1 1 14313 20191014120930
+124.89.118.5 1 1 14312 20191010171914
+34.217.31.112 1 1 14348 20191001161918
+171.116.81.122 1 1 14347 20191001115558
+144.217.73.217 13 13 746971 20191007102421
+159.138.148.48 1 1 13316 20191021170418
+68.144.20.149 1 1 14348 20191002221256
+124.107.104.138 5 87 570419 20191029184521
+108.62.3.45 8 8 281708 20191010160612
+3.133.157.14 1 1 14315 20191030025503
+99.239.51.85 20 108 3000090 20191006100424
+107.150.0.196 2 2 30493 20191029050805
+54.244.168.177 2 2 28629 20191028062421
+70.25.64.82 2 85 2733984 20191008100207
+54.212.33.65 1 1 14313 20191011225045
+52.229.36.68 0 1 147 
+72.140.114.71 1 67 2623567 20191013002321
+41.223.74.3 5 88 571613 20191014103743
+198.20.179.216 1 1 62715 20191018203850
+84.51.194.155 8 8 438653 20191019070903
+68.7.45.149 10 157 5377877 20191009131824
+35.184.26.35 1 3 16620 20191014022536
+176.109.115.219 9 9 600399 20191028231939
+198.71.238.23 2 2 894 20191004090710
+46.229.168.50 2 2 111594 20191027230518
+167.160.65.204 2 63 294528 20191013103335
+69.10.33.243 3 88 2702045 20191024205216
+144.76.168.111 1 1 56274 20191007070307
+192.0.88.49 0 8 717914 
+72.143.194.237 3 3 28625 20191029124628
+218.29.91.196 1 1 14312 20191011014954
+122.14.62.30 1 44 217557 20191030113740
+8.37.71.39 3 3 39193 20191022013337
+185.241.53.142 5 5 376073 20191010155636
+37.115.198.143 2 2 147236 20191014192603
+195.154.168.128 5 5 376075 20191008022107
+8.37.71.16 6 6 85501 20191017112445
+54.202.107.252 2 2 28634 20191016034727
+205.185.223.148 1 1 73617 20191015200515
+5.253.204.12 8 8 281708 20191025091437
+112.193.170.67 1 1 14314 20191023002009
+68.183.166.201 2 2 33179 20191012173605
+23.82.165.121 1 1 14348 20191001222909
+192.0.101.142 0 2 1295202 
+185.156.173.162 1 1 73618 20191025094532
+18.224.15.41 2 85 2682058 20191029030708
+123.126.113.121 14 81 385025 20191028134000
+64.188.3.213 1 1 73617 20191019184421
+163.172.33.155 2 2 28661 20191031054520
+188.17.157.238 2 2 147236 20191016185433
+162.244.94.132 2 2 896 20191004090825
+54.186.133.77 1 1 14316 20191021200037
+195.234.109.184 0 1 134144 
+159.65.162.186 1 1 62697 20191004232643
+13.52.78.11 1 1 0 20191018083904
+99.241.116.166 6 133 5195323 20191020145211
+185.93.3.114 1 1 14316 20191031070722
+167.160.170.7 1 1 15319 20191003103206
+107.150.112.114 1 1 14348 20191001115558
+99.237.195.230 9 83 588509 20191019185053
+34.215.144.98 1 1 14313 20191011225439
+51.15.183.122 1 1 62715 20191005000719
+34.219.114.200 1 1 14316 20191017172313
+112.114.104.149 1 1 14315 20191005103455
+34.209.88.18 2 2 28630 20191029053017
+99.238.244.166 3 86 2699790 20191029111948
+142.184.204.55 3 86 2697185 20191003160202
+185.17.149.179 6 6 468987 20191023084715
+85.26.233.4 2 2 147236 20191029024540
+24.244.14.165 2 85 2682057 20191015154642
+54.244.157.210 2 2 28625 20191012055229
+52.1.9.218 2 2 28634 20191023214239
+128.1.43.17 1 1 14313 20191010071516
+69.157.8.112 8 101 2847835 20191024121238
+165.227.45.253 1 1 0 20191014192707
+37.229.253.219 10 10 752147 20191017085300
+77.233.9.135 2 2 147488 20191003073151
+110.49.167.223 1 1 14313 20191008211839
+47.74.240.3 4 4 294470 20191029174111
+37.233.20.3 1 1 72211 20191024081259
+91.221.109.217 1 1 14312 20191009104157
+46.4.230.244 1 1 16917 20191006134908
+138.197.10.215 22 65 527379 20191029162131
+52.53.221.194 1 1 14317 20191019152040
+173.44.154.241 1 1 11907 20191013175346
+192.140.154.98 5 91 2735895 20191019030833
+99.252.130.98 3 83 2695590 20191030075409
+159.138.128.71 1 1 15249 20191018233134
+82.202.161.133 2 2 28630 20191018104732
+110.177.72.194 1 1 14311 20191009084910
+222.82.53.160 1 1 14348 20191001223941
+178.164.164.35 1 1 14314 20191004082236
+99.228.130.11 3 83 2695653 20191013133208
+142.252.77.200 2 2 37004 20191018165610
+91.236.74.17 2 2 147305 20191023151044
+99.234.142.239 4 88 2726986 20191022225336
+99.227.217.130 10 91 2796952 20191014082404
+54.186.44.167 1 1 14348 20191001131052
+36.57.177.111 2 2 147235 20191017075631
+54.196.195.204 1 1 16567 20191005105123
+34.67.63.57 1 1 13479 20191011014636
+199.21.113.251 1 1 62715 20191018191239
+8.37.70.116 4 4 63931 20191022143647
+185.189.115.29 2 2 147354 20191030163144
+62.210.111.61 5 5 84242 20191018050749
+195.234.109.80 0 3 36732 
+164.68.116.227 6 6 441915 20191010190504
+99.247.186.53 7 82 591286 20191028203427
+184.144.76.235 2 66 774983 20191001082628
+89.208.29.219 1 1 14311 20191007235938
+212.20.32.109 1 1 9023 20191025150623
+98.220.100.126 2 85 2667741 20191010185802
+175.184.164.53 1 1 14318 20191016104625
+192.0.86.187 0 1 101879 
+192.171.83.73 2 63 287850 20191013103354
+104.218.164.32 1 1 14314 20191013171837
+162.254.88.131 3 88 2702037 20191007090031
+92.249.191.43 5 5 71575 20191031100349
+178.123.51.31 5 5 368088 20191014093043
+18.237.0.119 1 1 62715 20191011221625
+34.221.173.167 1 1 14310 20191007173522
+82.80.230.228 2 2 28623 20191013135312
+104.171.148.244 1 1 13031 20191010232318
+69.158.55.175 8 92 2797111 20191017223140
+54.213.86.18 1 1 14318 20191016215817
+31.23.8.43 2 2 147296 20191030065741
+107.174.149.49 1 1 14311 20191007143105
+52.41.218.32 1 1 14348 20191003115810
+46.61.126.40 6 6 441882 20191026034849
+103.85.207.199 5 87 570423 20191016015439
+204.17.56.42 1 1 73617 20191022195658
+91.78.38.179 1 1 73724 20191001040512
+54.218.55.248 2 2 28627 20191006070652
+178.123.62.65 1 1 73618 20191015150520
+34.221.12.88 2 2 28624 20191011064049
+142.112.251.164 3 88 2702037 20191031090825
+165.231.161.4 2 2 147280 20191029095048
+54.218.44.193 1 1 14310 20191009224103
+158.46.212.233 1 1 14349 20191002200546
+107.164.94.119 1 1 23379 20191018165616
+178.239.176.73 2 2 147327 20191020190629
+69.28.91.249 1 1 14314 20191014133839
+185.236.42.27 2 2 147284 20191026084149
+34.218.227.56 1 1 14318 20191014173957
+54.37.158.139 7 7 331802 20191003051210
+185.220.101.45 2 2 147234 20191015081304
+52.183.14.13 0 1 3581 
+5.9.17.118 2 2 142678 20191014181014
+185.253.96.49 2 2 147406 20191006035304
+104.238.110.15 1 1 2870 20191022130700
+95.216.15.49 1 1 14310 20191010094254
+198.55.103.92 2 2 147446 20191002114654
+35.166.104.60 1 1 62789 20191001115709
+160.153.147.158 2 2 898 20191004091227
+192.0.112.82 0 4 846888 
+18.234.73.191 2 2 30491 20191021121600
+64.71.32.89 1 1 62715 20191030065309
+96.23.20.9 3 77 526078 20191001162916
+62.210.111.127 5 5 376075 20191022094907
+52.89.223.179 1 1 14314 20191031003517
+34.219.158.45 2 2 28632 20191026030054
+65.7.81.154 6 85 2690669 20191003210448
+8.37.70.40 2 2 26006 20191017163632
+204.44.86.194 1 1 14316 20191027013944
+191.6.135.86 1 1 16597 20191024030424
+173.252.87.21 0 43 755339 
+31.13.115.17 2 35 264060 20191004014353
+66.36.234.186 1 1 14316 20191030023552
+77.74.177.114 2 45 231867 20191008015705
+104.223.116.105 1 1 15247 20191020180957
+138.68.30.2 1 1 2859 20191023110540
+104.165.89.244 3 3 38841 20191018165622
+192.99.66.32 2 36 2471232 20191011235651
+66.102.6.146 3 44 707179 20191015063626
+34.216.128.212 1 1 14312 20191012204746
+192.0.86.164 0 4 740161 
+138.197.64.48 22 65 527438 20191019062717
+18.236.254.190 1 1 14316 20191027005234
+185.244.214.116 2 2 147234 20191024115919
+66.249.88.80 1 18 75955 20191016054630
+107.164.137.219 1 1 20368 20191018165626
+195.62.52.217 1 1 14314 20191006140107
+191.101.146.242 1 1 14316 20191024044317
+43.255.166.42 1 1 16595 20191024025216
+34.217.89.89 1 1 62789 20191001091932
+195.39.196.253 2 2 147448 20191001043020
+192.0.99.11 0 1 475220 
+103.98.16.144 1 1 14317 20191016171912
+109.70.100.27 1 1 73618 20191022133825
+192.186.175.180 1 1 11909 20191023201521
+69.158.246.205 3 11 2378596 20191007140723
+207.200.8.182 0 4 81322 
+123.139.42.22 1 1 14312 20191009171726
+81.17.27.131 1 1 73823 20191001044413
+52.183.42.27 0 1 811 
+128.14.224.65 1 1 14312 20191004120900
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20191001 732 1785 35836011 156
+20191002 652 1011 24731424 131
+20191003 999 2361 53390431 147
+20191004 601 1458 33130272 118
+20191005 494 799 13415977 61
+20191006 733 1388 32145182 128
+20191007 822 1985 38761837 166
+20191008 769 1996 34545488 103
+20191009 880 1709 31878245 125
+20191010 719 1398 37716345 127
+20191011 1068 1728 34155987 185
+20191012 745 1588 35346430 186
+20191013 801 2076 44898219 199
+20191014 789 1455 31153388 184
+20191015 609 1761 39312144 95
+20191016 678 1601 33172798 172
+20191017 777 1579 30717266 168
+20191018 715 1487 35977197 225
+20191019 557 1369 30619580 111
+20191020 750 1668 40084334 173
+20191021 841 1144 27128189 50
+20191022 1035 3393 43917230 75
+20191023 906 1242 31723297 71
+20191024 851 1780 45736471 119
+20191025 721 1161 25346251 123
+20191026 661 1065 26018225 174
+20191027 835 1740 37608399 148
+20191028 484 1222 25873730 105
+20191029 546 1435 27368351 126
+20191030 623 1310 34037030 118
+20191031 691 1855 42961931 169
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+15mn-30mn 129
+5mn-15mn 120
+0s-30s 3414
+2mn-5mn 80
+30s-2mn 95
+1h+ 93
+30mn-1h 307
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 130
+/wp-cron.php 14223 0 31 31
+/blog/carpentry-technique-organize-your-kitchen/ 4683 339416304 2871 2786
+/ 1531 26321303 855 779
+/wp-admin/admin-ajax.php 296 6983 0 1
+/contact/ 177 5199366 19 60
+/frequently-asked-questions/ 165 4385533 38 33
+/organizing-decluttering/ 129 1839157 13 16
+/blog/the-advantages-of-having-storage-lockers/ 117 1816102 40 28
+/wp-content/themes/Avada/fonts/fontawesome-webfont.woff 101 3212960 0 10
+/blog/author/andrew/ 96 7702301 2 85
+/blog/ 91 2168159 34 38
+/blog/3-things-to-consider-while-organizing-your-home/ 86 1304626 21 25
+/blog/the-upside-of-downsizing/ 83 1437292 22 22
+/wp-login.php 75 319720 37 36
+/custom-closets/ 75 1216287 12 12
+/organizing-toronto-team/andrew-neary/ 64 1092010 11 14
+/xmlrpc.php 60 26247 31 32
+/wp-json/oembed/1.0/embed 59 114774 2 4
+/feed/ 55 956447 34 37
+/organizing-toronto-team/maria/ 54 1024458 8 5
+/relocation-services/ 53 875302 5 5
+/testimonials/ 52 1349705 9 11
+/blog/a-guide-to-organize-your-garage/ 51 857132 8 19
+/organizing-toronto-team/trudi/ 49 832364 8 7
+/organizing-toronto-team/join-the-team/ 48 836971 9 7
+/organizing-toronto-team/maria/feed/ 1 0 0 0
+/blog/smart-tips-to-organize-your-kitchen/feed/ 2 1614 1 2
+/blog/steps-to-declutter-your-laundry-room/ 4 178550 2 3
+/wp-admin/upgrade.php 1 21 0 0
+/blog/category/from-andrew/page/3/ 1 15205 0 0
+/wp-admin/edit.php 3 63011 0 0
+/wp-json/ 2 1100 0 0
+/blog/5-creative-strategies-for-downsizing-your-home/ 2 33350 0 0
+/blog/page/4/ 9 735428 0 0
+/blog/get-better-use-of-your-basement/ 2 33135 0 0
+/blog/closet-organizing-ideas-for-small-spaces/ 4 67454 2 2
+/blog/category/home-organizing/ 3 176660 0 0
+/blog/custom-solutions-for-a-neat-garage/ 3 50246 0 1
+/organizing-toronto-team/leslie/ 35 627617 7 6
+/blog/faq-items/what-is-the-difference-between-decluttering-and-organizing/ 1 14685 1 1
+/wp-admin/admin-post.php 2 0 0 0
+/blog/how-to-save-money-while-maintaining-your-home/feed/ 1 837 1 1
+/index.php 10 576169 8 8
+/blog/hire-professionals-for-your-estate-clearance-needs/ 7 99976 2 2
+/blog/category/maintenance/ 3 154302 0 0
+/wp-admin/ 2 41837 0 0
+/2/ 1 63108 1 0
+/blog/category/closets/ 4 155640 1 1
+/blog/smart-tips-to-organize-your-kitchen/ 5 84141 2 2
+/blog/9-steps-to-help-seniors-stay-at-home-longer/ 3 103444 1 1
+/blog/the-benefits-of-an-estate-clearing-service/ 4 49754 1 0
+/blog/explore-your-selling-options-while-downsizing-your-home/ 2 33247 0 0
+/blog/4-ways-to-get-more-bathroom-space/ 3 106038 1 1
+/blog/determining-the-right-storage-locker/self_storage_units/ 4 42709 2 1
+/organizing-toronto-team/feed/ 1 0 0 0
+/blog/determining-the-right-storage-locker/ 2 33297 0 0
+/blog/making-the-most-of-your-garage-space/ 2 33398 0 0
+/blog/dont-you-wish-that-guys-home-was-yours/ 2 33994 0 0
+/blog/category/garages/ 3 147491 0 0
+/blog/fight-your-clutter-nightmare-and-organize-your-basement/ 2 33136 0 0
+/blog/category/bedrooms/ 3 141798 0 0
+/blog/page/2/ 10 743768 0 0
+/blog/importance-of-waterproofing-your-basement/ 2 33600 0 0
+/sitemap.xml 2 3058 0 0
+/blog/affordable-solutions-to-organize-your-closet/ 13 168704 5 5
+/donation-coordination/ 44 650636 6 7
+/blog/author/andrew/page/3/ 1 15718 0 0
+/blog/organizing-your-home-a-process/ 3 50184 1 1
+/blog/category/basements/ 10 235082 2 2
+/blog/category/from-andrew/page/2/ 1 15322 0 0
+/blog/category/kitchens/ 4 151234 1 1
+/organizing-toronto-team/teresa/feed/ 1 0 0 0
+/blog/sources-of-clutter-in-your-bedroom/ 1 16783 1 0
+/blog/5-quick-tips-to-organize-your-laundry-room/ 2 33463 0 0
+/blog/closet-organizing-ideas-for-your-childs-bedroom/ 2 33461 0 0
+/organizing-toronto-team/ 43 699969 5 6
+//index.php 1 62697 1 1
+/blog/category/bathrooms/ 7 193927 2 3
+/blog/how-to-save-money-while-maintaining-your-home/ 4 179181 0 0
+/blog/category/articles-of-interest/ 4 157231 0 0
+/organizing-toronto-team/about-stephen/ 1 13123 1 1
+/blog/cleaning-after-renting/ 3 105520 1 1
+/wp-includes/js/tinymce/wp-tinymce.php 1 168506 0 0
+/wp-includes/wlwmanifest.xml 2 920 0 0
+/blog/tips-for-downsizing-your-home/ 25 515596 3 3
+/organizing-toronto-team/andrew-neary/feed/ 1 0 0 0
+/organizing-toronto-team/teresa/ 48 817903 6 5
+/blog/the-upside-of-downsizing/feed/ 1 428 0 0
+/blog/page/5/ 9 738861 0 9
+/blog/category/downsizing/ 5 166506 1 1
+/blog/category/estate-clearing/ 7 193012 2 2
+/cloud2/ 1 14055 1 1
+/blog/essential-tools-for-maintaining-your-home/ 2 33675 0 0
+/frequently-asked-questions/feed/ 4 2647 0 0
+/blog/category/laundry-rooms/ 3 141798 0 0
+/blog/tips-for-downsizing-your-home/feed/ 1 435 0 0
+/organizing-toronto-team/join-the-team/feed/ 2 420 0 0
+/wp-admin/admin.php 4 8112 0 0
+/blog/page/3/ 11 818145 1 1
+/wp-content/plugins/jetpack/_inc/fonts/jetpack/jetpack.woff 2 2212 0 0
+/blog/category/from-andrew/ 6 286989 2 2
+/blog/category/storage-lockers/ 9 265242 3 2
+/wp-content/themes/Avada/fonts/fontawesome-webfont.eot 5 139220 0 2
+/wp-comments-post.php 12 34744 0 2
+/wp-content/themes/Avada/fonts/fontawesome-webfont.ttf 1 31867 0 0
+/blog/author/andrew/page/2/ 1 15721 0 0
+/blog/making-the-most-out-of-your-bathroom/ 2 33149 0 0
+/blog/spring-home-maintenance-tips/ 10 0 10 10
+/home-2/feed/ 3 1209 2 3
+/wp-admin/load-scripts.php 11 693756 0 0
+/blog/checklist-for-your-garage-door-maintenance/ 3 106198 1 1
+/yelp/ 10 433488 2 1
+/blog/enhance-your-living-space-with-basement-remodels/ 2 34572 0 0
+/blog/the-benefits-of-being-organized-at-home/ 10 175446 5 4
+/organizing-toronto-team/trudi/feed/ 1 0 0 0
+/wp-admin/load-styles.php 6 395999 0 0
+/blog/laundry-room-aesthetics-for-a-pleasant-laundry-experience/ 2 33733 0 0
+/staging-design/ 46 784207 10 9
+/blog/2014/05/ 1 12552 1 1
+/blog/a-guide-to-organize-your-garage/feed/ 1 439 0 0
+/blog/professional-organizer-for-your-move/ 1 72222 0 1
+/organizing-toronto-team/about-stephen/stephen-ilott/ 3 168822 2 2
+/blog/transform-your-messy-garage-into-a-multipurpose-storage-space/ 17 379093 4 6
+/blog/bathroom-space-saving-tips/ 3 50772 1 1
+/blog/how-to-hire-the-right-estate-clearing-service/ 2 33424 0 0
+/wp-admin/post.php 3 142547 0 0
+/blog/types-of-storage-lockers-you-can-choose-from/ 4 178277 0 2
+/contact/feed/ 2 406 0 1
+/wp-content/plugins/jetpack/_inc/genericons/genericons/Genericons.eot 2 27890 0 0
+/blog/space-saving-tips-to-brighten-up-your-laundry-room/ 5 84325 2 3
+END_SIDER

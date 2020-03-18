@@ -1,0 +1,27 @@
+Return-path: <>
+Envelope-to: andrewn29@p3plcpnl0133.prod.phx3.secureserver.net
+Delivery-date: Wed, 06 Jul 2016 13:34:13 -0700
+Received: from mailnull by p3plcpnl0133.prod.phx3.secureserver.net with local (Exim 4.85_1)
+	id 1bKtWP-0001Fo-3X
+	for andrewn29@p3plcpnl0133.prod.phx3.secureserver.net; Wed, 06 Jul 2016 13:34:13 -0700
+X-Failed-Recipients: andrew@organizingtoronto.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plcpnl0133.prod.phx3.secureserver.net>
+To: andrewn29@p3plcpnl0133.prod.phx3.secureserver.net
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1bKtWP-0001Fo-3X@p3plcpnl0133.prod.phx3.secureserver.net>
+Date: Wed, 06 Jul 2016 13:34:13 -0700
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  andrew@organizingtoronto.com
+    host p3nlsmtpcp-v01.prod.phx3.gdg [72.167.191.78]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 KtWObLfuQRD9p :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.1 cv=RLYTZ9W+ c=1 sm=1 tr=0 p=aDB1pz8yJe0A:10 a=fn+xUPpQb2K/N1D8mmsCjA==:117 a=L9H7d07YOLsA:10 a=9cW_t1CCXrUA:10 a=s5jvgZ67dGcA:10 a=r4i12pJ_EacA:10 a=ybZ3b2rVeygA:10 a=IkcTkHD0fZMA:10 a=wZOtAKPjcqYA:10 a=Kj_eRqPmDKkA:10 a=cAmyUtKerLwA:10 a=3n2cTwjgh28R_5p6YhMA:9 a=QEXdDO2ut3YA:10 a=If6smgRbfwIA:10 ::
+    100.00
+

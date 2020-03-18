@@ -1,0 +1,5352 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201504 will be lost/reset.
+# Last config file used to build this data file was /home/andrewn29/tmp/awstats/awstats.organizingtoronto.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2019                
+POS_TIME 2706                
+POS_VISITOR 69819               
+POS_DAY 177068              
+POS_DOMAIN 3765                
+POS_LOGIN 5666                
+POS_ROBOT 5821                
+POS_WORMS 6731                
+POS_EMAILSENDER 6862                
+POS_EMAILRECEIVER 7005                
+POS_SESSION 178038              
+POS_SIDER 178253              
+POS_FILETYPES 7140                
+POS_DOWNLOADS 7472                
+POS_OS 8849                
+POS_BROWSER 9351                
+POS_SCREENSIZE 15411               
+POS_UNKNOWNREFERER 15485               
+POS_UNKNOWNREFERERBROWSER 21016               
+POS_ORIGIN 24071               
+POS_SEREFERRALS 24224               
+POS_PAGEREFS 24439               
+POS_SEARCHWORDS 37559               
+POS_KEYWORDS 38649               
+POS_MISC 2368                
+POS_ERRORS 39255               
+POS_CLUSTER 5522                
+POS_SIDER_404 39445               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20150501000003 2379 611622 8525624208634
+FirstTime 20150401001243
+LastTime 20150430235733
+LastUpdate 20150501051817 2379 0 2378 0 0
+TotalVisits 3037                
+TotalUnique 1303                
+MonthHostsKnown 0                   
+MonthHostsUnknown 3406                
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 113 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 321 769 30453751 869 1055 15671976
+1 200 983 30356899 1071 1359 27868551
+2 170 757 24441108 834 1208 24272095
+3 296 1496 41079093 930 1358 27418389
+4 233 2504 68177645 897 1372 23280934
+5 488 3355 93616210 1266 1679 36673741
+6 366 4259 116463348 931 1144 19352873
+7 378 2985 88345892 919 1219 21831387
+8 393 4135 94798167 846 1076 18001175
+9 435 3420 107323924 1099 1379 26339175
+10 356 3385 91188686 1008 1377 28260626
+11 333 3162 89566536 941 1175 21190651
+12 413 3198 90396357 953 1313 24071201
+13 265 2647 76129552 1036 1322 26245046
+14 262 2510 62296402 837 1327 24915074
+15 229 2138 64893383 807 1378 30691664
+16 253 2048 58406617 815 1696 40271812
+17 320 2917 76904536 822 1433 31629630
+18 432 3132 80317450 964 1582 31086204
+19 330 2334 72227437 1099 1654 37901041
+20 271 1918 59032410 832 1421 27145679
+21 192 1504 46940273 1022 1868 36564043
+22 394 1516 52274946 819 1031 15446879
+23 262 949 37963749 1054 1522 24262720
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 110
+ca 2577 39036 954447648
+us 2351 9693 352121396
+fr 560 640 32757003
+de 379 699 33459205
+cn 370 613 24312100
+ua 358 395 13271437
+zz 152 716 23025106
+jp 98 145 1964369
+br 95 1553 36933761
+ru 91 649 31058448
+gb 62 283 15761907
+si 58 58 93150
+nl 42 121 4199449
+tr 41 120 2935869
+ch 36 42 2574549
+ve 33 96 1947604
+il 27 31 477712
+lv 26 26 404581
+it 26 382 10345421
+in 24 488 14280603
+pl 21 30 2065567
+cz 19 172 6696454
+cr 12 98 3231733
+eu 12 12 567811
+vn 11 14 937932
+bd 0 3 416847
+mm 0 1 90954
+rs 0 1 138949
+my 2 85 5009445
+mx 6 151 5765022
+ro 6 94 4218329
+dk 1 5 545038
+az 0 1 55924
+ec 3 3 15099
+sg 2 6 561947
+kh 0 2 238342
+lb 0 2 244980
+co 0 3 281207
+bz 0 1 138949
+kw 0 5 539181
+bo 0 4 277898
+al 0 2 277898
+ke 0 2 277898
+mo 0 1 138949
+uz 1 2 34080
+pr 0 3 416847
+ps 0 2 233738
+lr 3 3 112574
+gr 2 83 3072414
+ht 1 1 3030
+mp 0 1 138949
+bs 0 1 138949
+jm 0 1 116869
+bh 0 2 155317
+bg 0 1 116869
+sv 0 1 138949
+gy 0 2 277898
+za 3 80 2633879
+ly 0 1 116869
+se 5 6 394386
+sk 0 2 233738
+iq 0 1 138949
+pe 2 75 2016232
+lu 7 77 2042654
+pt 6 182 4524217
+eg 0 4 484105
+ba 2 74 1762777
+ph 7 184 8175467
+es 5 16 1324112
+pf 0 1 138949
+kr 0 7 568004
+no 0 8 989011
+tt 0 29 798315
+kz 0 10 548868
+sa 0 14 1624676
+id 7 105 3655899
+th 0 7 801298
+hk 7 145 3758735
+ie 0 6 723294
+et 0 1 138949
+me 0 1 116869
+om 0 1 116869
+mk 0 1 116869
+by 9 39 2241801
+fi 1 3 229149
+lt 2 5 293499
+ir 0 2 233738
+hr 0 3 394767
+qa 0 2 233738
+be 0 1 116869
+li 0 1 34754
+tz 0 1 138949
+sd 0 1 116869
+cl 0 1 116869
+tw 2 75 2161630
+pa 2 2 111029
+au 2 76 7011080
+bn 0 2 178577
+gh 0 1 55924
+at 7 88 1932415
+jo 0 3 342137
+dz 2 2 6060
+pk 0 6 504939
+cm 0 2 277898
+ar 6 55 1945455
+bw 0 1 138949
+mn 0 1 55924
+lk 0 2 111848
+nz 0 5 611720
+ae 0 16 1993640
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 19
+robot 9305 37909160 20150430235503 120
+bot[\s_+:,\.\;\/\\-] 6996 206204725 20150430234002 556
+googlebot 2727 86885446 20150430234521 136
+spider 1600 58138100 20150430234244 27
+no_user_agent 747 16694876 20150430151909 5
+google[_+\s]web[_+\s]preview 513 14425682 20150430083803 0
+slurp 363 15474021 20150430211927 43
+crawl 347 18400876 20150426055643 18
+bingpreview 340 8444574 20150430095337 0
+php 313 25473034 20150430200533 0
+googlebot\-image 292 3786712 20150430200340 0
+unknown 240 20640 20150430222605 240
+[\s_+:,\.\;\/\\-]bot 233 14074664 20150430124951 1
+msnbot\-media 115 10861872 20150429183142 5
+curl 46 223986 20150427141652 0
+msnbot 14 6951 20150425222809 7
+checker 14 780580 20150428020319 0
+ia_archiver 4 128752 20150414223027 2
+netcraft 1 55484 20150408173312 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 13
+eot 27 724854 0 0
+css 7115 126517941 0 0
+png 10817 314308812 0 0
+ttf 1 60296 0 0
+txt 17 313078 0 0
+woff 116 3661600 0 0
+php 920 10240434 0 0
+html 6484 318937742 0 0
+xml 20 73688 0 0
+jpg 10581 569655633 0 0
+js 19609 303420984 0 0
+Unknown 24 0 0 0
+gif 2290 5679309 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 33
+/wp-content/plugins/contact-form-7/license.txt 14 0 253288
+/sitemap-pt-page-2015-03.xml.gz 6 0 5377
+/sitemap-pt-post-2015-03.xml.gz 6 0 5482
+/sitemap-pt-post-2015-04.xml.gz 5 0 4660
+/sitemap.xml.gz 5 0 24602
+/sitemap-pt-post-2014-01.xml.gz 4 0 7050
+/sitemap-pt-post-2014-02.xml.gz 4 0 5476
+/sitemap-pt-post-2015-01.xml.gz 4 0 3733
+/sitemap-misc.xml.gz 4 0 3510
+/sitemap-pt-page-2013-05.xml.gz 4 0 4282
+/sitemap-pt-post-2013-05.xml.gz 4 0 4587
+/sitemap-pt-post-2014-11.xml.gz 4 0 3760
+/sitemap-pt-post-2013-04.xml.gz 3 0 3436
+/sitemap-pt-page-2014-02.xml.gz 3 0 3398
+/sitemap-pt-post-2013-06.xml.gz 3 0 3424
+/sitemap-pt-post-2014-06.xml.gz 3 0 3319
+/sitemap-pt-post-2013-10.xml.gz 3 0 4032
+/license.txt 3 0 59790
+/sitemap-pt-post-2013-09.xml.gz 3 0 3011
+/sitemap-pt-page-2013-03.xml.gz 3 0 10252
+/sitemap-pt-post-2013-08.xml.gz 3 0 3378
+/sitemap-pt-post-2014-04.xml.gz 3 0 4692
+/sitemap-pt-post-2013-03.xml.gz 3 0 2684
+/sitemap-pt-post-2014-07.xml.gz 3 0 2780
+/sitemap-pt-post-2014-09.xml.gz 3 0 2773
+/sitemap-pt-post-2014-03.xml.gz 3 0 4628
+/sitemap-pt-post-2015-02.xml.gz 3 0 2823
+/sitemap-pt-post-2013-11.xml.gz 3 0 4715
+/sitemap-pt-post-2013-07.xml.gz 3 0 3430
+/sitemap-pt-post-2013-12.xml.gz 3 0 3986
+/sitemap-pt-post-2014-08.xml.gz 3 0 2795
+/sitemap-pt-post-2014-12.xml.gz 3 0 2779
+/sitemap-pt-post-2014-05.xml.gz 3 0 4697
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 29
+blackberry 1 1
+linuxredhat 1 1
+linuxandroid 6941 304
+macosx6 477 54
+winlong 1216 97
+winxp 2392 833
+winphone 8 0
+ios_iphone 11394 525
+win2000 182 131
+win2003 101 27
+linuxdebian 1 1
+win8 514 320
+macosx9 1740 187
+bsdopenbsd 1 1
+ios_ipad 3864 337
+macosx7 490 36
+unix 141 6
+java 32 4
+winnt 4 4
+linuxubuntu 4 2
+win98 2 1
+macosx5 187 10
+linux 1959 645
+win7 14644 1480
+winme 3 3
+macosx 3147 283
+Unknown 2171 1718
+win8.1 6084 560
+macosx8 320 21
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 292
+chrome11.0.661.0 3 3
+safari7.0.3 7 7
+firefox28.0 175 73
+chrome12.0.742.100 128 128
+chrome41.0.2272.96 783 36
+chrome11.0.700.3 1 1
+alcatel 4 0
+safari6.1.4 1 0
+chrome24.0.1312.71 2 0
+msie8.0 536 33
+chrome39.0.2171.65 24 23
+chrome27.0.1453.93 6 5
+opera15.0.1147.153 1 1
+opera9.25 1 1
+chrome30.0.1599.69 74 1
+chrome32.0.1700.107 344 11
+chrome14.0.794.0 1 1
+chrome36.0.1985.143 3046 111
+chrome11.0.699.0 1 1
+firefox14.0.1 15 14
+chrome37.0.0.0 78 2
+chrome17.0.963.65 3 2
+chrome42.0.2311.50 1 0
+chrome42.0.2311.68 1 0
+opera8.50 8 8
+safari5.1.9 151 10
+safari8.0.3 303 13
+chrome36.0.1985.534 1 0
+safari7.0 1226 77
+firefox4.0.1 2 2
+safari2.0 1 1
+chrome38.0.2125.104 1 0
+chrome23.0.1271.6 14 14
+chrome22.0.1229.79 9 8
+firefox24.0 3 0
+firefox3.5.3 1 1
+opera29.0.1795.47 3 0
+iphone 7087 255
+chrome33.0.0.0 425 12
+chrome12.0.742.113 1 1
+chrome32.0.1700.102 1 0
+chrome13.0.782.32 1 1
+chrome19.0.1055.1 3 3
+chrome19.0.1084.9 9 0
+msie9.0 881 187
+chrome41.0.2272.102 140 6
+firefox1.5 1 1
+safari1.2.2 2 2
+chrome8.0.552.224 1 0
+blackberry 1 1
+chrome11.0.696.68 1 0
+chrome14.0.810.0 1 1
+chrome17.0.963.56 2 1
+chrome18.0.1025.166 69 2
+chrome30.0.1599.105 1 1
+safari7.1.2 3 0
+chrome35.0.1916.141 77 4
+chrome39.0.2171.59 1 0
+firefox30.0 1 0
+chrome28.0.1500.71 3 1
+msie5.5 5 5
+chrome36.0.1985.97 1 0
+firefox2.0.0.11 9 9
+opera26.0.1656.24 16 16
+chrome39.0.2171.99 3 1
+safari6.2.5 7 0
+firefox3.6.8 6 6
+opera7.50 1 1
+msie6.0 623 552
+chrome10.0.602.0 1 1
+firefox26.0 49 26
+chrome19.0.1062.0 1 0
+firefox18.0 13 7
+chrome38.0.2125.111 9 9
+opera26.0.1656.60 2 1
+firefox34.0 237 103
+chrome7.0.517.44 5 5
+chrome9.0.597.0 1 1
+firefox23.0 5 5
+chrome25.0.1364.152 1 1
+chrome11.0.652.0 1 1
+chrome37.0.2026.117 1 0
+chrome11.0.698.0 1 1
+chrome42.0.2311.108 157 6
+chrome34.0.1847.131 73 18
+chrome10.0.648.133 2 2
+chrome40.0.2214.109 218 9
+chrome44.0.2369.0 53 0
+safari7.1.4 435 26
+opera24.0.1558.61 1 0
+chrome14.0.803.0 3 2
+chrome10.0.648.0 1 1
+chrome18.0.1025.142 66 2
+chrome40.0.2214.89 1 0
+chrome42.0.2311.135 7 0
+chrome11.0.694.0 1 1
+firefox3.6.3 1 1
+chrome29.0.1547.57 52 51
+chrome29.0.1547.76 1 1
+chrome12.0.742.91 1 0
+chrome38.0.2125.101 1 0
+firefox8.0 5 5
+chrome12.0.742.112 1 1
+chrome28.0.1468.0 1 1
+chrome32.0.1709.125 1 0
+safari6.1.6 255 16
+opera12.14 1 0
+firefox31.0 164 82
+chrome15.0.874.121 1 0
+chrome12.0.706.0 1 0
+firefox3.6.19 53 3
+firefox6.0.2 20 16
+chrome41.0.2272.101 524 43
+firefox16.0 123 19
+chrome10.0.648.204 54 54
+chrome30.0.1599.66 19 19
+safari7.1.3 75 2
+chrome10.0.648.11 6 6
+chrome16.0.912.63 2 2
+chrome30.0.1599.101 4 2
+Unknown 1530 1455
+safari7.1 1 0
+chrome30.0.0.0 2214 99
+firefox10.0.12 10 10
+firefox17.0 145 5
+chrome44.0.2385.0 69 3
+libwww 4 4
+chrome34.0.1847.114 2 0
+chrome17.0.963.66 3 3
+chrome41.0.2272.118 3530 202
+chrome27.0.1453.110 1 0
+chrome42.0.2311.87 1 0
+opera28.0.1750.51 46 0
+safari5.1.7 72 6
+firefox3.0.3 4 4
+safari8.0.4 887 119
+chrome36.0.1985.135 2 0
+firefox1.0.7 3 3
+msie11.0 3543 276
+chrome18.0.1025.133 17 17
+safari10.3.1.2576 139 4
+firefox6.0 47 19
+chrome27.0.1453.116 39 3
+chrome13.0.764.0 1 0
+chrome37.0.2062.117 2 0
+safari10.3.1.2708 2 0
+chrome34.0.1847.137 73 46
+firefox2.0.0.1 25 25
+chrome22.0.1106.241 1 0
+chrome31.0.1650.57 73 2
+chrome31.0.1650.63 145 4
+lynx 4 3
+firefox2.0.0.13 19 19
+safari5.0.2 1 0
+opera7.51 2 2
+opera16.0.1212.65583 76 4
+chrome13.0.782.1 1 1
+msie7.0 80 32
+chrome40.0.0.0 626 23
+chrome27.0.1453 2 0
+chrome41.0.2272.89 7 0
+opera9.64 2 2
+safari7.0.5 69 5
+chrome12.0.742.53 2 2
+chrome44.0.2376.0 2 0
+chrome37.0.2049.0 1 1
+chrome13.0.782.24 2 1
+firefox7.0.1 7 7
+safari10.3.1.2267 110 4
+chrome35.0.1916.114 30 4
+firefox33.0 15 15
+netscape5.0 5 5
+chrome26.0.1410.64 3 2
+chrome10.0.601.0 1 0
+chrome13.0.782.41 7 7
+chrome41.0.2228.0 3 3
+chrome11.0.696.71 2 1
+firefox36.0 460 142
+prism 1 1
+safari 2168 169
+chrome27.1.0.0 1 0
+chrome34.0.1847.76 121 9
+firefox5.0 252 252
+chrome24.0.1309.0 12 12
+android 1010 38
+opera12.12 3 0
+chrome36.0.1985.125 177 27
+chrome14.0.815.0 1 1
+opera21.0.1432.57 1 0
+chrome26.0.1410.65 2 2
+chrome15.0.861.0 1 1
+chrome16.0.912.36 1 1
+chrome38.0.2125.122 4 0
+chrome42.0.2311.109 19 0
+opera28.0.1750.48 23 1
+chrome39.0.2171.139 2 0
+chrome10.0.648.127 2 1
+opera12.15 4 0
+firefox32.0 2 2
+chrome39.0.2171.93 6 0
+safari8.0.5 412 33
+samsung 1 0
+safari0.9 1 1
+chrome13.0.782.215 1 1
+chrome38.0.2125.102 1 0
+chrome23.0.1271.17 21 21
+chrome22.0.1104.222 1 0
+opera10.00 1 0
+firefox39.0 1 0
+chrome35.0.1916.153 350 14
+firefox22.0 89 17
+safari1.0b2 1 1
+firefox1.5.0.10 1 1
+chrome10.0.634.0 1 1
+chrome14.0.790.0 1 1
+chrome27.0.1453.94 1 0
+chrome40.0.2214.91 14 10
+chrome40.0.2214.115 92 2
+chrome18.0.1025.308 72 2
+ibrowse 1 0
+chrome28.0.1500.94 635 27
+chrome5.0.375.99 32 32
+safari10.3.0.1418 1 1
+chrome40.0.2214.111 13 5
+svn02001 87 7
+firefox3.0.14 1 1
+chrome39.0.2171.95 35 32
+firefox4.0 4 4
+safari5.0.6 74 2
+firefox1.5.0.1 1 1
+chrome42.0.2311.90 2820 178
+chrome24.0.1290.1 10 10
+chrome37.0.2062.120 13 11
+chrome41.0.2272.76 5 0
+chrome14.0.811.0 2 2
+wget 11 11
+chrome19.0.1041.0 2 2
+chrome29.0.1547.66 1 0
+chrome10.0.648.134 2 1
+chrome18.0.1025.151 2 2
+chrome44.0.2383.0 1 0
+chrome39.0.2171.71 165 30
+opera12.16 98 5
+safari6.2 1 0
+firefox21.0 38 12
+lg\- 5 0
+safari6.0 304 10
+firefox29.0 86 32
+chrome42.0.2311.129 220 6
+opera17.0.1241.45 1 0
+safari2.0.4 2 2
+firefox12.0 6 4
+safari7.0.6 7 2
+mozilla 1008 401
+chrome32.0.1700.76 773 48
+safari8.0.2 8 0
+firefox19.0 186 13
+firefox8.0.1 114 114
+firefox10.0.2 1 0
+chrome40.0.2214.93 68 2
+firefox15.0.1 8 8
+firefox35.0 10 6
+chrome37.0.2062.124 17 16
+opera12.17 48 37
+opera28.0.1750.40 1 0
+chrome19.0.1061.1 1 1
+chrome42.0.2311.111 1 0
+chrome26.0.1410.58 1 0
+opera29.0.1795.41 1 0
+chrome35.0.1916.122 1 0
+chrome40.0.2214.85 1 1
+safari8.0 5205 368
+safari7.1.5 368 27
+firefox27.0 255 255
+chrome14.0.813.0 3 3
+firefox11.0 213 2
+opera11.61 1 0
+chrome15.0.860.0 1 0
+chrome17.0.940.0 1 1
+chrome11.0.682.0 1 1
+chrome41.0.2272.104 125 15
+firefox3.0.5 2 2
+firefox1.0 7 7
+chrome10.0.649.0 2 2
+opera9.10 1 1
+firefox37.0 6256 344
+safari5.1.2 1 0
+chrome43.0.2351.3 1 0
+chrome30.0.1599.103 4 0
+msie10.0 461 53
+safari5.1 77 3
+firefox3.5 4 4
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 77
+Pinterest/0.1__http://pinterest.com/ 20150425094358
+WordPress/4.1.3;_http://organizingtoronto.com 20150427121040
+Mozilla/5.0_(compatible;_Lipperhey-Kaus-Australis/5.0;__https://www.lipperhey.com/en/about/) 20150430222628
+Hivemind 20150425152926
+Flipboard/3.2.5_CFNetwork/711.2.23_Darwin/14.0.0 20150414223818
+Opera/9.80_(Android;_Opera_Mini/7.6.40234/36.1867;_U;_en)_Presto/2.12.423_Version/12.16 20150430123219
+wordpress/2.1.1 20150426022511
+Mozilla/4.0_(compatible;_Synapse) 20150428161026
+Opera/9.80_(Android;_Opera_Mini/7.6.40234/36.1633;_U;_en)_Presto/2.12.423_Version/12.16 20150415204411
+HubSpot_Marketing_Grader 20150408053557
+facebookplatform/1.0_(_http://developers.facebook.com) 20150410195115
+ColdFusion 20150421201520
+Lynx/2.8.5rel.1_libwww-FM/2.14_SSL-MM/1.4.1_GNUTLS/1.2.9 20150406135256
+Opera/9.80_(Android;_Opera_Mini/7.5.33725/36.1649;_U;_en)_Presto/2.12.423_Version/12.16 20150419120134
+Lynx/2.8.5rel.1_libwww-FM/2.15FC_SSL-MM/1.4.1c_OpenSSL/0.9.7e-dev 20150404165216
+Mozilla/5.0_(compatible;_GWPImages/1.0) 20150428091750
+Go_1.1_package_http 20150421145147
+Rome_Client_(http://tinyurl.com/64t5n)_Ver:_UNKNOWN 20150418095226
+NerdyBot 20150430073737
+Opera/9.80_(Android;_Opera_Mini/6.5.27431/36.1719;_U;_en)_Presto/2.12.423_Version/12.16 20150423115132
+Mozilla/5.0_(compatible;_coccoc/1.0;__http://help.coccoc.com/) 20150430120046
+Mozilla/5.0_(en-US)_AppleWebKit/537.36_(KHTML,_like_Gecko;_Hound)_Chrome/27.0.1453_Safari/537.36 20150411032644
+Mozilla/5.0_Moreover/5.1_(_http://www.moreover.com;_webmaster@moreover.com) 20150403195216
+Firefox 20150425110524
+EventMachine_HttpClient 20150416195733
+panscient.com 20150411073906
+http://www.nominet.org.uk/privacypolicy 20150420223700
+Flipboard/3.2.5_CFNetwork/711.3.18_Darwin/14.0.0 20150414203955
+com.apple.WebKit.WebContent/10600.5.17_CFNetwork/720.3.13_Darwin/14.3.0_(x86_64) 20150425050321
+Mozilla/5.0_(BB10;_Touch)_AppleWebKit/537.35__(KHTML,_like_Gecko)_Version/10.3.1.2267_Mobile_Safari/537.35_ 20150404040807
+Mozilla/3.0_(compatible;_Indy_Library) 20150411184520
+LinkedIn/8.6.1_CFNetwork/711.2.23_Darwin/14.0.0 20150417194402
+Feedfetcher-Google;_(_http://www.google.com/feedfetcher.html;_1_subscribers;_feed-id=8933788954397888796) 20150430234832
+Mozilla/5.0_(BB10;_Touch)_AppleWebKit/537.35__(KHTML,_like_Gecko)_Version/10.3.1.2708_Mobile_Safari/537.35_ 20150427210048
+Mozilla/5.0_(BB10;_Kbd)_AppleWebKit/537.35__(KHTML,_like_Gecko)_Version/10.3.1.2267_Mobile_Safari/537.35_ 20150408041614
+Opera/9.80_(Android;_Opera_Mini/6.5.27452/36.1487;_U;_en)_Presto/2.12.423_Version/12.16 20150406101308
+Porkbun/Mustache_(Website_Analysis;_http://porkbun.com;_tech@porkbun.com) 20150406112919
+WordPress/4.1.1;_http://organizingtoronto.com 20150421085413
+LinkedIn/8.6_CFNetwork/711.2.23_Darwin/14.0.0 20150406194415
+CATExplorador/1.0beta_(sistemes_at_domini_dot_cat;_http://domini.cat/catexplorador.html) 20150413044337
+Mozilla/5.0_(compatible)_Feedfetcher-Google;(_http://www.google.com/feedfetcher.html) 20150414193748
+Mozilla/4.0_(compatible;) 20150430120017
+Jakarta_Commons-HttpClient/3.0.1 20150414192307
+LinkedIn/7.2.1_CFNetwork/672.0.8_Darwin/14.0.0 20150421211307
+Opera/9.80_(Android;_Opera_Mini/7.5.33725/36.1633;_U;_en)_Presto/2.12.423_Version/12.16 20150415031114
+Feedly/1.0_(_http://www.feedly.com/fetcher.html;_like_FeedFetcher-Google) 20150430232303
+lwp-request/5.834_libwww-perl/5.836 20150420153433
+WebIndex 20150427033325
+Xenu_Link_Sleuth/1.3.8 20150426104049
+Mediapartners-Google 20150430231924
+Crowsnest/0.5_(_http://www.crowsnest.tv/) 20150414192818
+Mozilla/5.0_() 20150414192105
+Mozilla/5.0_(BB10;_Kbd)_AppleWebKit/537.35__(KHTML,_like_Gecko)_Version/10.3.1.2576_Mobile_Safari/537.35_ 20150412104440
+WordPress/4.2.1;_http://organizingtoronto.com 20150430175414
+MobileSafari/600.1.4_CFNetwork/711.3.18_Darwin/14.0.0 20150424161044
+Mozilla/5.0_(BB10;_Touch)_AppleWebKit/537.35__(KHTML,_like_Gecko)_Version/10.3.1.2576_Mobile_Safari/537.35_ 20150406232454
+HubSpot_Image_Utils 20150430172804
+LinkedIn/8.6.1_CFNetwork/711.3.18_Darwin/14.0.0 20150423151354
+YahooCacheSystem;_YahooWebServiceClient 20150426202410
+Mozilla/5.0 20150422103331
+libwww-perl/6.04 20150413100807
+Educreations/1804_CFNetwork/672.1.14_Darwin/14.0.0 20150402071818
+nutch-1.4/Nutch-1.4 20150412234719
+Mozilla/5.0_(BB10;_Kbd)_AppleWebKit/537.35__(KHTML,_like_Gecko)_Version/10.3.0.1418_Mobile_Safari/537.35_ 20150401084326
+visionutils/0.2 20150420155958
+Mozilla/5.0_(compatible;_DomainAppender_/1.0;__http://www.profound.net/domainappender) 20150401162553
+Mozilla/5.0_(compatible)_Feedfetcher-Google;_(_http://www.google.com/feedfetcher.html) 20150415002122
+qingdao_bieshu_chushou_&#38738;_&#23707;_&#21035;_&#22661;_&#20986;_&#21806;_qingdao_villa_for_sale_http://www.dahoms.com 20150414081222
+SimplePie/1.1.3_(Feed_Parser;_http://simplepie.org;_Allow_like_Gecko)_Build/20081219 20150430223903
+Opera/9.80_(Android;_Opera_Mini/7.6.40234/36.1719;_U;_en)_Presto/2.12.423_Version/12.16 20150425022933
+Pinterest/0.2_(_http://www.pinterest.com/) 20150429231526
+Opera/9.80_(Android;_Opera_Mini/7.5.35188/36.1556;_U;_en)_Presto/2.12.423_Version/12.16 20150412105015
+WordPress/4.1.2;_http://organizingtoronto.com 20150423175526
+GigablastOpenSource/1.0 20150418212735
+com.apple.WebKit.WebContent/10600.4.10.7_CFNetwork/720.2.4_Darwin/14.1.0_(x86_64) 20150420180543
+UniversalFeedParser/5.1.3__https://code.google.com/p/feedparser/ 20150430221333
+WordPress/4.1.4;_http://organizingtoronto.com 20150427122802
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 52
+Pinterest/0.1__http://pinterest.com/ 20150425094358
+LinkedIn/7.2.1_CFNetwork/672.0.8_Darwin/14.0.0 20150421211307
+Java/1.7.0_51 20150414210128
+python-requests/2.2.1_CPython/2.7.6_Linux/3.16.0-31-generic 20150419163721
+Feedly/1.0_(_http://www.feedly.com/fetcher.html;_like_FeedFetcher-Google) 20150430232303
+WebIndex 20150427033325
+WordPress/4.1.3;_http://organizingtoronto.com 20150427121040
+Xenu_Link_Sleuth/1.3.8 20150426104049
+Hivemind 20150425152926
+Crowsnest/0.5_(_http://www.crowsnest.tv/) 20150414192818
+Mediapartners-Google 20150430231924
+Flipboard/3.2.5_CFNetwork/711.2.23_Darwin/14.0.0 20150414223818
+wordpress/2.1.1 20150426022511
+HubSpot_Marketing_Grader 20150408053557
+Java/1.7.0_09 20150423045016
+WordPress/4.2.1;_http://organizingtoronto.com 20150430175414
+facebookplatform/1.0_(_http://developers.facebook.com) 20150410195115
+Apache-HttpClient/4.3.5_(java_1.5) 20150424213915
+ColdFusion 20150421201520
+HubSpot_Image_Utils 20150430172804
+Go_1.1_package_http 20150421145147
+LinkedIn/8.6.1_CFNetwork/711.3.18_Darwin/14.0.0 20150423151354
+Airmail_2.0.3_rv:286_(Macintosh;_Mac_OS_X_10.9.5;_en_CA) 20150401044529
+YahooCacheSystem;_YahooWebServiceClient 20150426202410
+Rome_Client_(http://tinyurl.com/64t5n)_Ver:_UNKNOWN 20150418095226
+Educreations/1804_CFNetwork/672.1.14_Darwin/14.0.0 20150402071818
+Google-HTTP-Java-Client/1.17.0-rc_(gzip) 20150414191949
+nutch-1.4/Nutch-1.4 20150412234719
+NerdyBot 20150430073737
+visionutils/0.2 20150420155958
+Java/1.7.0_72 20150414192422
+Firefox 20150425110524
+EventMachine_HttpClient 20150416195733
+panscient.com 20150411073906
+qingdao_bieshu_chushou_&#38738;_&#23707;_&#21035;_&#22661;_&#20986;_&#21806;_qingdao_villa_for_sale_http://www.dahoms.com 20150414081222
+SimplePie/1.1.3_(Feed_Parser;_http://simplepie.org;_Allow_like_Gecko)_Build/20081219 20150430223903
+http://www.nominet.org.uk/privacypolicy 20150420223700
+Flipboard/3.2.5_CFNetwork/711.3.18_Darwin/14.0.0 20150414203955
+Pinterest/0.2_(_http://www.pinterest.com/) 20150429231526
+com.apple.WebKit.WebContent/10600.5.17_CFNetwork/720.3.13_Darwin/14.3.0_(x86_64) 20150425050321
+LinkedIn/8.6.1_CFNetwork/711.2.23_Darwin/14.0.0 20150417194402
+Feedfetcher-Google;_(_http://www.google.com/feedfetcher.html;_1_subscribers;_feed-id=8933788954397888796) 20150430234832
+Porkbun/Mustache_(Website_Analysis;_http://porkbun.com;_tech@porkbun.com) 20150406112919
+WordPress/4.1.2;_http://organizingtoronto.com 20150423175526
+WordPress/4.1.1;_http://organizingtoronto.com 20150421085413
+LinkedIn/8.6_CFNetwork/711.2.23_Darwin/14.0.0 20150406194415
+CATExplorador/1.0beta_(sistemes_at_domini_dot_cat;_http://domini.cat/catexplorador.html) 20150413044337
+GigablastOpenSource/1.0 20150418212735
+com.apple.WebKit.WebContent/10600.4.10.7_CFNetwork/720.2.4_Darwin/14.1.0_(x86_64) 20150420180543
+UniversalFeedParser/5.1.3__https://code.google.com/p/feedparser/ 20150430221333
+WordPress/4.1.4;_http://organizingtoronto.com 20150427122802
+Jakarta_Commons-HttpClient/3.0.1 20150414192307
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 4257 6064
+From1 9 83
+From2 249 1073
+From3 490 804
+From4 2587 49997
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 6
+google 214 1017
+baidu 17 17
+bing 6 19
+mamma 0 5
+yandex 2 2
+yahoo 10 13
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 219
+http://googleads.g.doubleclick.net/pagead/ads 136 136
+http://tpc.googlesyndication.com/safeframe/1-0-2/html/container.html 61 61
+http://best-seo-offer.com/try.php 26 26
+http://buttons-for-your-website.com 18 18
+http://www.gtawindows.com 14 14
+https://www.linkedin.com 10 10
+http://www.gutterguardgreenville.com 10 10
+http://www.organizersincanada.com/get-organized/find.php 9 9
+http://m.facebook.com 9 9
+http://best-seo-solution.com/try.php 9 9
+http://hvd-store.com 8 8
+http://www.homeeverafter.com 8 8
+http://gtawindows.com 6 6
+https://www.facebook.com 5 5
+http://bluerobot.info/nw2/frutyfofedoheku 5 5
+http://organizingvancouver.net 4 4
+http://buttons-for-website.com 4 4
+http://l.facebook.com/l.php 4 4
+http://cottagecountryorganizers.net 4 4
+http://ORGANIZINGVANCOUVER.com 3 3
+http://organizingcalgary.net 3 3
+http://cottagecountryorganizers.com 3 3
+http://organizing-toronto.ca 3 3
+http://organizingcalgary.ca 3 3
+http://organizingvancouver.ca 2 2
+http://chefboutiques.com/wp-content/force-download.php 1 1
+http://COTTAGECOUNTRYORGANIZERS.NET 1 1
+http://evolvlove.blogspot.in/2014/06/organizing-small-space-house-ideas.html 0 1
+http://housekeeping.about.com/od/timesavingideas/a/15MinuteClean.htm 1 1
+http://manuelcorreiaphotography.com/wp-admin/admin-ajax.php 1 1
+http://menopausalmusing.blogspot.com/2014/06/organizing-small-space-house-ideas.html 0 1
+http://frugalhomedesign.blogspot.com/2014/06/organizing-small-space-house-ideas.html 0 3
+http://notenoughmud.blogspot.com/2014/06/organizing-small-space-house-ideas.html 0 1
+http://organizingbrampton.com 1 1
+http://mwdi.blogspot.com/2014/12/organizing-small-space-house-ideas.html 0 20
+http://worldspacesatellites.blogspot.com.au/2014/06/organizing-small-space-house-ideas.html 0 3
+http://cottagecompany.net 1 1
+https://www.pinterest.com 0 1
+http://ORGANIZINGNEWFOUNDLAND.COM 1 1
+http://organizingvancouver.com 2 2
+http://christerical.blogspot.ie/2014/06/organizing-small-space-house-ideas.html 0 1
+http://kasiorkowyraj.blogspot.com.au/2014/06/organizing-small-space-house-ideas.html 0 1
+http://organizingcalgary.com 2 2
+http://organizingcalgary.com/wp-admin/ 2 2
+http://www.decohubs.com/wardrobes-for-small-spaces/16012 0 1
+http://ORGANIZINGONTARIO.COM 1 1
+http://organizingtoronto.ca 2 2
+http://organizingincanada.com 1 1
+http://brookestyle365.blogspot.ro/2014/06/organizing-small-space-house-ideas.html 0 1
+http://www.ic.gc.ca/app/ccc/srch/nvgt.do 1 1
+http://organizing-canada.com/wp-admin/admin-ajax.php 1 1
+http://mwdi.blogspot.it/2014/12/organizing-small-space-house-ideas.html 0 1
+http://www.shopincanada.com/Business-Services/Professional-Organizers/ 2 2
+http://organizingontario.ca 1 1
+http://mwhdi.blogspot.ca/2014/06/organizing-small-space-house-ideas.html 0 5
+http://organizingontario.com 2 2
+http://organizingvancouver.com/wp-admin/admin-ajax.php 1 1
+http://masporqueraiofuieufazerumblog.blogspot.com.au/2014/06/organizing-small-space-house-ideas.html 0 1
+http://ORGANIZINGVANCOUVER.NET 1 1
+http://galleryhip.com/home-remodeling-clip-art.html 0 1
+http://mwdi.blogspot.com.au/2014/12/organizing-small-space-house-ideas.html 0 1
+http://pixshark.com/complaint-department-clipart.htm 0 1
+http://t.co/bUnqj9UWZ7 1 1
+http://librarygeekwoes.blogspot.nl/2014/06/organizing-small-space-house-ideas.html 0 1
+http://silentfilmlegend.blogspot.in/2014/06/organizing-small-space-house-ideas.html 0 1
+http://sisterleocadia.blogspot.com/2014/06/organizing-small-space-house-ideas.html 0 2
+http://iemo.jp/articles/new 0 1
+http://sielankowedzierganie.blogspot.com/2014/06/organizing-small-space-house-ideas.html 0 1
+http://meilus-mingle-mangle.blogspot.com/2014/06/various-kitchen-splashback-designs.html 0 1
+http://organizingtorontoconcierge.com/wp-admin/admin-ajax.php 1 1
+http://burger-imperia.com 1 1
+http://organizingtorontoconcierge.com 1 1
+http://semalt.semalt.com/crawler.php 1 1
+http://ORGANIZINGONTARIO.com 2 2
+http://organizing-toronto.com/wp-admin/admin-ajax.php 1 1
+http://organizingnewfoundland.com/wp-admin/ 2 2
+http://christerical.blogspot.pt/2014/06/organizing-small-space-house-ideas.html 0 1
+http://www.amazon.ca/s/ref=nb_sb_noss 2 2
+http://m.wisegeek.com/what-is-a-pantry.htm 1 1
+http://christerical.blogspot.com/2014/06/organizing-small-space-house-ideas.html 0 3
+http://evolvlove.blogspot.com.au/2014/06/organizing-small-space-house-ideas.html 0 1
+http://ORGANIZINGLONDON.COM 1 1
+http://christerical.blogspot.com.au/2014/06/organizing-small-space-house-ideas.html 0 2
+http://mwhdi.blogspot.fr/2014/06/organizing-small-space-house-ideas.html 0 1
+http://tostekitispsonaras86.blogspot.gr/2015/01/ikea-small-bedroom.html 0 2
+http://worldspacesatellites.blogspot.ca/2014/06/organizing-small-space-house-ideas.html 0 1
+http://s251450733.onlinehome.us/IWP/ 1 1
+http://imgkid.com/home-remodel-clipart.shtml 0 1
+http://librarygeekwoes.blogspot.jp/2014/06/organizing-small-space-house-ideas.html 0 1
+http://ahlawy2211.blogspot.in/2014/06/organizing-small-space-house-ideas.html 0 1
+http://ORGANIZING-ONTARIO.com 1 1
+http://mwhdi.blogspot.com/2014/06/organizing-small-space-house-ideas.html 0 48
+http://crazyforjapan.com/wp-content/themes/infocus/lib/scripts/dl-skin.php 1 1
+http://mwhdi.blogspot.com.ar/2014/06/organizing-small-space-house-ideas.html 0 1
+http://librarygeekwoes.blogspot.com.au/2014/06/organizing-small-space-house-ideas.html 0 1
+http://brookestyle365.blogspot.in/2014/06/organizing-small-space-house-ideas.html 0 1
+http://organizing-ontario.com/wp-admin/ 2 2
+http://organizing-ontario.com 1 1
+http://laladexpress.blogspot.com.es/2014/06/organizing-small-space-house-ideas.html 0 1
+http://mwhdi.blogspot.com.au/2014/06/organizing-small-space-house-ideas.html 0 2
+http://capnganch.blogspot.com.au/2014/06/various-kitchen-splashback-designs.html 0 1
+http://www.starfashionstyle.com/wp-admin/admin-ajax.php 1 1
+http://organizingtorontoconcierge.com/wp-admin/ 2 2
+http://ORGANIZINGBRAMPTON.COM 1 1
+http://ORGANIZING-ONTARIO.COM 1 1
+http://laladexpress.blogspot.co.uk/2014/06/organizing-small-space-house-ideas.html 0 1
+http://organizingnewfoundland.com 1 1
+http://laladexpress.blogspot.in/2014/06/organizing-small-space-house-ideas.html 0 6
+http://waycoolmusic.blogspot.com/2014/06/organizing-small-space-house-ideas.html 0 1
+http://mwhdi.blogspot.in/2014/06/organizing-small-space-house-ideas.html 0 6
+http://mwhdi.blogspot.ro/2014/06/organizing-small-space-house-ideas.html 0 1
+http://COTTAGECOUNTRYORGANIZERS.net 1 1
+http://ORGANIZINGNEWFOUNDLAND.net 1 1
+http://organizing-canada.com/wp-admin/ 2 2
+http://kasiorkowyraj.blogspot.com/2014/06/organizing-small-space-house-ideas.html 0 2
+http://ORGANIZINGINCANADA.com 2 2
+http://organizingontario.com/importbuddy.txt 1 1
+http://pixshark.com/very-small-closet-ideas.htm 0 1
+http://mwhdi.blogspot.co.uk/2014/06/organizing-small-space-house-ideas.html 0 1
+http://ahlawy2211.blogspot.com.au/2014/06/organizing-small-space-house-ideas.html 0 1
+http://worldspacesatellites.blogspot.com/2014/06/organizing-small-space-house-ideas.html 0 2
+http://librarygeekwoes.blogspot.com/2014/06/organizing-small-space-house-ideas.html 0 49
+http://magentabolditalic.blogspot.in/2014/06/organizing-small-space-house-ideas.html 0 1
+http://t.co/IcauOqhPc2 2 2
+http://evolvingwithdarwin.blogspot.com/2014/06/organizing-small-space-house-ideas.html 0 1
+https://onlineleben.wordpress.com/wp-content/themes/authentic/includes/download.php 1 1
+http://laladexpress.blogspot.com/2014/06/organizing-small-space-house-ideas.html 0 21
+http://organizingontario.com/wp-admin/ 2 2
+http://cedartrailsnudistretreat.blogspot.co.nz/2014/06/various-kitchen-splashback-designs.html 0 1
+http://organizingbrampton.com/wp-admin/admin-ajax.php 1 1
+http://organizinglondon.com/wp-admin/admin-ajax.php 1 1
+http://aocuk.net 1 1
+http://organizinglondon.com 1 1
+http://ORGANIZINGNEWFOUNDLAND.NET 1 1
+http://ahlawy2211.blogspot.com/2014/06/organizing-small-space-house-ideas.html 0 6
+http://laladexpress.blogspot.ca/2014/06/organizing-small-space-house-ideas.html 0 3
+http://christerical.blogspot.co.uk/2014/06/organizing-small-space-house-ideas.html 0 1
+http://hdimagegallery.com 0 1
+http://flashgoirl.blogspot.in/2014/06/organizing-small-space-house-ideas.html 0 1
+http://burger-imperia.com 2 2
+http://organizingnewfoundland.net/wp-admin/ 2 2
+http://cedartrailsnudistretreat.blogspot.sg/2014/06/modern-purple-bedroom.html 0 1
+http://ahlawy2211.blogspot.co.uk/2014/06/various-kitchen-splashback-designs.html 0 11
+http://organizingontario.com/wp-admin/admin-ajax.php 1 1
+https://m.facebook.com 2 2
+http://ORGANIZINGNEWFOUNDLAND.com 1 1
+http://organisinglondon.com/wp-admin/admin-ajax.php 1 1
+http://ahlawy2211.blogspot.ca/2014/06/various-kitchen-splashback-designs.html 0 1
+http://worldspacesatellites.blogspot.de/2014/06/organizing-small-space-house-ideas.html 0 1
+http://organizingincanada.com/wp-admin/admin-ajax.php 1 1
+http://homeaccessories.about.com/od/Functional-Accessories/tp/Entryway-Essentials.htm 1 1
+http://organizingvancouver.com/blog 1 1
+http://ahlawy2211.blogspot.com.au/2014/06/various-kitchen-splashback-designs.html 0 1
+http://librarygeekwoes.blogspot.co.uk/2014/06/organizing-small-space-house-ideas.html 0 3
+http://laladexpress.blogspot.com.au/2014/06/organizing-small-space-house-ideas.html 0 3
+http://christerical.blogspot.co.il/2014/06/organizing-small-space-house-ideas.html 0 1
+http://andreatung.blogspot.mx/2014/06/organizing-small-space-house-ideas.html 0 1
+http://ORGANIZING-TORONTO.com 2 2
+http://www.companies-reviews.com/url.php 1 1
+http://namecheap.com/blah/ 0 7
+http://silentfilmlegend.blogspot.com/2014/06/organizing-small-space-house-ideas.html 0 1
+http://organizinghaiti.org 1 1
+http://tostekitispsonaras86.blogspot.com/2015/01/ikea-small-bedroom.html 0 2
+http://www.littlebigtrend.com/wp-content/themes/dejavu/lib/scripts/dl-skin.php 1 1
+http://organizing-ontario.com/wp-admin/admin-ajax.php 1 1
+http://tostekitispsonaras86.blogspot.it/2015/01/ikea-small-bedroom.html 0 1
+http://brookestyle365.blogspot.com/2014/06/organizing-small-space-house-ideas.html 0 2
+http://www.sandyboxes.net/wp-content/force-download.php 1 1
+http://kapten.ru 1 1
+http://flashgoirl.blogspot.com/2014/06/organizing-small-space-house-ideas.html 0 2
+http://mwdi.blogspot.in/2014/12/organizing-small-space-house-ideas.html 0 3
+http://t.co/x7SAQKTg6L 1 1
+http://bluerobot.info/info/frutyfofedoheku 1 1
+http://mwdi.blogspot.co.uk/2014/12/organizing-small-space-house-ideas.html 0 2
+http://librarygeekwoes.blogspot.in/2014/06/organizing-small-space-house-ideas.html 0 2
+http://laladexpress.blogspot.de/2014/06/organizing-small-space-house-ideas.html 0 1
+http://evolvingwithdarwin.blogspot.hk/2014/06/organizing-small-space-house-ideas.html 0 1
+http://hdimagelib.com 0 7
+http://www.decoist.com/2012-07-16/20-marvelous-makeup-storage-ideas/ 1 1
+http://yandex.com.tr/gorsel/ 0 1
+http://www.amazon.ca/s/ref=nb_sb_noss_1 1 1
+http://organizing-canada.com 1 1
+http://imgkid.com/not-enough-money-clipart.shtml 0 4
+http://organizing-ontario.ca 2 2
+http://njcaweb.org/wp-content/themes/dejavu/lib/scripts/dl-skin.php 1 1
+http://organizingnewfoundland.net 2 2
+http://organizingcalgary.net/wp-admin/ 2 2
+http://ORGANIZINGVANCOUVER.net 1 1
+http://organisinglondon.com 1 1
+http://mwhdi.blogspot.ae/2014/06/organizing-small-space-house-ideas.html 0 1
+http://librarygeekwoes.blogspot.ae/2014/06/organizing-small-space-house-ideas.html 0 2
+http://organizingincanada.com/wp-admin/ 2 2
+http://lnkd.in 1 1
+http://www.swagbucks.com 1 1
+http://cedartrailsnudistretreat.blogspot.com.au/2014/06/various-kitchen-splashback-designs.html 0 4
+http://evolvlove.blogspot.com/2014/06/organizing-small-space-house-ideas.html 0 1
+http://ORGANIZINGTORONTOCONCIERGE.com 2 2
+http://mwdi.blogspot.ae/2014/12/organizing-small-space-house-ideas.html 0 1
+http://anglaverkstan.blogspot.mx/2014/06/organizing-small-space-house-ideas.html 0 1
+http://organizingontario.com/blog 1 1
+http://organizing-toronto.com 2 2
+http://ahlawy2211.blogspot.it/2014/06/organizing-small-space-house-ideas.html 0 1
+http://librarygeekwoes.blogspot.ro/2014/06/organizing-small-space-house-ideas.html 0 1
+http://librarygeekwoes.blogspot.co.nz/2014/06/organizing-small-space-house-ideas.html 0 1
+http://neatly-packaged.blogspot.com/2014/06/organizing-small-space-house-ideas.html 0 1
+http://gaebby.blogspot.com/2015/04/organizing-small-space-house-ideas-32151.html 0 1
+http://bluerobot.info/nw2/frutyfoferomoly 1 1
+http://ORGANIZINGCALGARY.net 1 1
+http://www.acrepaircoralgables.net 1 1
+http://www.organizinghomelife.com 1 1
+http://pixgood.com/small-closet-storage-solutions.html 0 1
+http://andreatung.blogspot.com/2014/06/organizing-small-space-house-ideas.html 0 9
+http://ORGANIZINGTORONTOCONCIERGE.COM 1 1
+http://organizingnewfoundland.com/wp-admin/admin-ajax.php 1 1
+http://librarygeekwoes.blogspot.ca/2014/06/organizing-small-space-house-ideas.html 0 2
+http://ORGANIZING-CANADA.com 2 2
+http://librarygeekwoes.blogspot.de/2014/06/organizing-small-space-house-ideas.html 0 1
+http://COTTAGECOUNTRYORGANIZERS.com 2 2
+http://ORGANIZINGINCANADA.COM 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 29
+organizingtoronto--conquerclutter~regaincontrol 17
+professional+organizer+personal%2fprofessional+organizer 1
+organizational+ideas+for+small+spaces 1
+downsizing 1
+closet+design+for+very+small+space 1
+professional+organizers+ontario+jobs 1
+neary+toronto 1
+closet+organizers+toronto 1
+organizingtoronto.com 1
+solid+wood+closet+organizer+toronto 1
+professional+organizers+blog 1
+professional+home+organizers+toronto 1
+looking+for+a+a+house+organizer+in+pickering+ontario 1
+downsizing+companies+toronto 1
+toronto+home+organizer 1
+advantages+of+storage+lockers 1
+organizing 1
+toronto+organizers 1
+organizers+toronto 1
+clutter+organizers+ontario 1
+acrylic+compact+organizer 1
+clothes+organizer+technique 1
+professional+organizer+toronto+toronto+gta 1
+http+//organizingtoronto.com/blog/spring-home-maintenance-tips/ 1
+home+organizing+tips 1
+house+organizing+jobs 1
+organize+toronto 1
+small+spaces+closet+ideas 1
+acrylic+organizer+toronto+gta 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 45
+organizingtoronto--conquerclutter~regaincontrol 17
+toronto 12
+organizer 9
+organizers 7
+professional 5
+closet 4
+small 3
+ontario 3
+home 3
+organizing 3
+for 3
+a 2
+downsizing 2
+acrylic 2
+jobs 2
+house 2
+gta 2
+spaces 2
+ideas 2
+solid 1
+http 1
+//organizingtoronto.com/blog/spring-home-maintenance-tips/ 1
+in 1
+clothes 1
+compact 1
+personal%2fprofessional 1
+very 1
+lockers 1
+wood 1
+of 1
+technique 1
+advantages 1
+organizational 1
+design 1
+organizingtoronto.com 1
+clutter 1
+pickering 1
+organize 1
+looking 1
+blog 1
+companies 1
+space 1
+neary 1
+tips 1
+storage 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 8
+503 362 1090004
+206 163 2771040
+302 2087 0
+409 40 119680
+500 97 3756631
+508 8 58296
+301 2998 0
+404 2870 114606780
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 593
+/ProfessionalOrganizerBusiness.html 5 -
+/DeclutteringServices.html 15 -
+/OrganizeYourGarage.html 6 -
+/INC/GenericDB/assetmanager/assetmanager.asp 1 -
+/mysqladmin/ 22 -
+/TorontoGarageOrganization.html 7 -
+/Profes 5 -
+/fckeditor/fckeditor.js 1 http://organizingtoronto.com
+/wp-content/plugins/humans-dot-txt/js/jquery.autogrow.js 13 http://organizingtoronto.com/wp-admin/nav-menus.php
+/OrganizingArticles.html 7 -
+/packages/portal/includes/js/editor/editor/assetmanager/assetmanager.php 1 -
+/novice/FCKeditor/editor/fckeditor.html 1 -
+/wp-content/plugins/custom-content-type-manager/index.html 6 -
+/shop/yandex_market/ 4 -
+/FCKeditor/editor/filemanager/connectors/test.html 1 -
+/wp-content/plugins/simple-ads-manager/js/sam-layout.js 1 -
+/apps/ecms/scripts/Editor/assetmanager/assetmanager.php 1 -
+/HowtoOrganizeClosets.html 2 -
+/administrator/ 14 -
+/editor/filemanager/browser/default/connectors/test.html 1 -
+/OrganizerConsultant.html 4 -
+/HowtoOrganizeHome.html 4 -
+/Profes%E2%80%A6 4 -
+/closetorganizer.html 3 -
+/LockerOrganization.html 5 -
+/commun/Editor/assetmanager/assetmanager.php 1 -
+/wp-content/themes/itheme2/themify/js/scripts.js 1 http://organizingtoronto.com/wp-content/themes/itheme2/themify/js/scripts.js
+/site/mambots/editors/fckeditor/fckeditor.html 1 -
+/wp-content/plugins/reflex-gallery/admin/scripts/FileUploader/php.php 1 http://organizingtoronto.com/wp-content/plugins/reflex-gallery/admin/scripts/FileUploader/php.php
+/blog/why-choose-climate-controlled-storage-facilities/ 2 -
+/wp-content/plugins/xhlasfdflk5xd4/xal54x54sf.js 1 -
+/ClosetOrganizationTips.html 1 -
+/LockerOrganizer.html 9 -
+/rootadmin/assetmanager/assetmanager.php 1 -
+/ProfessionalOrganizing.html 6 -
+/wp-content/themes/avada/framework/plugins/layerslider/js/layerslider.kreaturamedia.jquery.js 4 http://organizingtoronto.com/
+/wp-content/plugins/wp-symposium/server/php/BHKbfmGgLmqjLO.php 1 -
+/adminsys/assetmanager/assetmanager.asp 1 -
+/BedroomOrganizing.html 5 -
+/GarageOrganizingTip.html 1 -
+/HouseholdOrganization.html 2 -
+/admin/editors/fckeditor/editor/filemanager/upload/test.html 1 -
+/OrganizingYourLocker.html 5 -
+/backup/bigdump/bigdump.php 1 -
+/BasicClass/Editor/assetmanager/assetmanager.asp 1 -
+/OrganizingClutterTips.html 2 -
+/wp-content/plugins/gravityforms/css/admin.css 20 -
+/blog-post-1/ 4 -
+/TipsforOrganizingClosets.html 5 -
+/HomeOrganizingExpert.html 4 -
+/wp-content/plugins/revslider/temp/update_extract/revslider/searcinfo.php 1 -
+/organizing.xml 22 -
+/wp-content/plugins/website-contact-form-with-file-upload/plugin.styles.css 1 http://organizingtoronto.com/wp-content/plugins/website-contact-form-with-file-upload/plugin.styles.css
+/OrganizingClutter.html 1 -
+/Gla 4 -
+/HowtoOrganizeaLocker.html 7 -
+/Admin/fCKeditor/editor/filemanager/connectors/test.html 1 -
+/StartingaSmallBusiness.html 3 -
+/administration/scripts/editor/assetmanager/assetmanager.php 1 -
+/lists/admin/FCKeditor/editor/fckeditor.html 1 -
+/DownsizingServices.html 2 -
+/db/ 22 -
+/HomeImprovementOrganizer.html 6 -
+/wp-content/themes/generas_settings.php 2 http://organizingtoronto.com/wp-content/themes/generas_settings.php
+/Organizers.html 4 -
+/wp-content/plugins/miwoftp/readme.txt 4 http://organizingtoronto.com/wp-content/plugins/miwoftp/readme.txt
+/LaundryRoomOrganization.html 3 -
+/WorkFromHomeIdeas.html 1 -
+/wp-content/plugins/wwc-amz-aff/modules/remote_support/app.class.js 1 -
+/HowtoOrganizeYourLocker.html 7 -
+/panel/FCKeditor/editor/fckeditor.html 1 -
+/wp-content/themes/awake/lib/scripts/dl-skin.php 1 http://organizingtoronto.com/wp-content/themes/persuasion/lib/scripts/dl-skin.php
+/bedroomorganizing.html 1 -
+/assetmanager.php 1 -
+/OrganizingaGarage.html 5 -
+/include/js/fckeditor/editor/fckeditor.html 1 -
+/plugins/editors/innova/assetmanager/assetmanager.php 1 -
+/phpmoadmin/moadmin.php 1 http://organizingtoronto.com
+/innova-assetmanager/assetmanager.php 1 -
+/websql/ 21 -
+/wp-content/plugins/revolution-slider/rs-plugin/js/jquery.themepunch.revolution.min.js 2 -
+/wp-content/plugins/simple-ads-manager/readme.txt 9 -
+/clientScript/InnovaStudio/assetmanager/assetmanager.aspx 1 -
+/wp-content/plugins/ckeditor-for-wordpress/ckeditor.config.js 5 -
+/wspro/html/js/editor/fckeditor/editor/fckeditor.html 1 -
+/TorontoOrganizer.html 2 -
+/admin/assetmanager/assetmanager.php 1 -
+/admin/is_editor/assetmanager/assetmanager.php 1 -
+/GarageOrganization.html 6 -
+/wp-content/plugins/showbiz/settings/generas_settings.php 2 http://organizingtoronto.com/wp-content/plugins/showbiz/settings/generas_settings.php
+/blog/dont-you-wish-that-guys-home-was-yours/wp-admin/admin-ajax.php 1 -
+/HomeOrganizerProfessional.html 4 -
+/wp-content/plugins/wp-mobile-edition/assets/js/admin.js 1 -
+/+ 3 -
+/_ee/_fslib/swfupload/Changelog.txt 1 -
+/portal/html/js/editor/fckeditor/editor/fckeditor.html 1 -
+/wp-admin/media-parse-new.php 1 -
+/budgetorganizing.html 2 -
+/wp-content/plugins/humans-dot-txt/css/main.css 13 http://organizingtoronto.com/wp-admin/nav-menus.php
+/ListsforHomeOrganization.html 4 -
+/moadmin/moadmin.php 1 http://organizingtoronto.com
+/Profes%C3%A2%E2%82%AC%C2%A6 9 -
+/professionalorganizingservices.html 5 -
+/organizingideas.html 5 -
+/apple-touch-icon.png 8 -
+/app/webroot/js/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/wp-content/plugins/wp-symposium/server/php/wkQKjnejVwqCSg.php 1 -
+/Lib/editor/assetmanager/assetmanager.php 1 -
+/ONTO.COM/contact.html 1 http://organizingtoronto.com/ONTO.COM/contact.html
+/OrganizingServicesforPeopleWithADD.html 4 -
+/wp-content/plugins/revslider/temp/update_extract/revslider/info.php 13 -
+/.git 10 -
+/js/assetmanager/assetmanager.php 1 -
+/wp-content/plugins/user-avatar/readme.txt 4 -
+/wp-content/themes/avada/js/respond.min.js 1 -
+/phpmyadmin1/ 22 -
+/.qawaka/helpers/editor/assetmanager/assetmanager.php 1 -
+/HouseholdOrganizers.html 2 -
+/wp-content/uploads/wpallimport/uploads/a69c2aca28377629ac3423a512edea52/info.php 1 -
+/GettingRidofClutter.html 3 -
+/wp-content/themes/elegance/lib/scripts/dl-skin.php 1 http://organizingtoronto.com/wp-content/themes/fusion/lib/scripts/dl-skin.php
+/wp-content/themes/avada/js/jquery.fitvids.js 4 http://organizingtoronto.com/
+/OrganizedCloset.html 2 -
+/wp-content/plugins/wp-symposium/server/php/XhbcCXcGcnNTiD.php 1 -
+/ClosetOrganizing.html 4 -
+/HomeOrganizerConsultant.html 9 -
+/apple-touch-icon-precomposed.png 7 -
+/core/model/phpthumb/fonts/readme.txt 10 -
+/HouseholdOrganizingTips.html 4 -
+/scripts/assetmanager/assetmanager.asp 1 -
+/wp-content/themes/Avada/js/%22+img_src+%22 2 http://organizingtoronto.com/wp-content/themes/Avada/js/jquery.prettyPhoto.js
+/EditorNEW/assetmanager/assetmanager.asp 1 -
+/public/js/fckeditor/editor/fckeditor.html 1 -
+/wp 8 http://organizing-toronto.com/wp
+/wp-content/plugins/category-grid-view-gallery/cat_grid.php 5 -
+/applications/JobListingManager/components/Editor/assetmanager/assetmanager.asp 1 -
+/wp-content/themes/Avada/js/%7Bpath%7D 2 http://organizingtoronto.com/wp-content/themes/Avada/js/jquery.prettyPhoto.js
+/include/editor/fckeditor.html 1 -
+/HomeOrganizationTips.html 4 -
+/organizingonabudget.html 2 -
+/OrganizedHome.html 7 -
+/wp-content/plugins/formcraft/file-upload/server/php/upload.php 1 -
+/OrganizeSmallSpaces.html 2 -
+/HomeOrganizer.html 8 -
+/OrganizingConsultants.html 3 -
+/OrganizingContainers.html 9 -
+/.templates/legacy_kfcp.html 4 -
+/upload/yandex.php 2 -
+/ 30 -
+/admin/templates/editor/fckeditor.html 1 -
+/wp-content/plugins/fcchat/default.png 5 -
+/ProOrganizers.html 4 -
+/ClosetStorageSystem.html 7 -
+/wp-content/plugins/humans-dot-txt/js/main.js 13 http://organizingtoronto.com/wp-admin/nav-menus.php
+/wp-content/plugins/revolution-slider/release_log.txt 2 -
+/wp-content/plugins/slideshow-gallery/readme.txt 1 -
+/scripts/tinymce/jscripts/tiny_mce/plugins/tinybrowser/readme.txt 1 -
+/blog/bathroom-space-saving-tips/ 2 -
+/wp-content/plugins/wp-social-invitations/README.txt 1 -
+/mailing/tools/fckeditor/editor/fckeditor.html 1 -
+/SBIforProfessionalOrganizers.html 4 -
+/DeclutteringYourCloset.html 1 -
+/Administrator/fckeditor/fckeditor.js 1 http://organizingtoronto.com
+/OrganizingYourGarage.html 4 -
+/admin/assetmanager/assetmanager.asp 1 -
+/gestion/FCKeditor/editor/fckeditor.html 1 -
+/mynews/admin/editor/assetmanager/assetmanager.asp 1 -
+/wp-admin/includes/feedback.php 2 http://organizingtoronto.com/wp-admin/includes/feedback.php
+/wp-content/uploads/contact_files/ 1 -
+/wp-update.php 3 http://organizingtoronto.com/wp-update.php
+/fckeditor/editor/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/wp-content/plugins/wp-e-commerce/license.txt 6 -
+/pebble/FCKeditor/editor/fckeditor.html 1 -
+/wp-content/plugins/wp-symposium/server/php/wqqUcOCGJiHsYJ.php 1 -
+/ProfessionalOrganizerTraining.html 1 -
+/BathroomOrganizing.html 3 -
+/editor/assetmanager/asset.asp 1 -
+/wysiwyg/assetmanager/assetmanager.php 1 -
+/professional-organizing-services/seasonal-specials/ 1 -
+/zenphoto/zp-core/plugins/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/LockerStorage.html 3 -
+/tinymce/jscripts/tiny_mce/plugins/tinybrowser/readme.txt 1 -
+/BedroomOrganization.html 4 -
+/js/fckeditor/fckeditor.js 1 http://organizingtoronto.com
+/blog/spring-home-maintenance-tips/ 2 -
+/importance-of-organizing-comment-form.html 5 -
+/wp-admin/edit-link-class.php 1 -
+/HowtoBeOrganized.html 4 -
+/wp-content/plugins/wp-all-import/static/js/pmxi.js 1 -
+/js/mage/cookies.js 1 http://organizingtoronto.com
+/blog-post-2/ 4 -
+/assetmanager/assetmanager.php 1 -
+/OrganizeCloset.html 1 -
+/PackingandUnpacking.html 1 -
+/ClosetOrganizingIdeas.html 13 -
+/wp-content/plugins/showbiz/css/settings.css 1 http://organizingtoronto.com/wp-content/plugins/showbiz/css/settings.css
+/editor/assetmanager/assetmanager.aspx 1 -
+/lib/editor3/assetmanager/assetmanager.asp 1 -
+/wp-content/plugins/premium-seo-pack/aa-framework/js/admin.js 21 -
+/wp-content/plugins/mp3-jplayer/remote/downloader.php 3 -
+/fckeditor.js 1 http://organizingtoronto.com
+/category/articles-of-interest/ 1 -
+/importance-of-organizing.html 4 -
+/CustomClosetCompanies.html 2 -
+/organizingtips.html 5 -
+/StartingaServiceBusiness.html 1 -
+/admin/WYSIWYGeditor/assetmanager/assetmanager.aspx 1 -
+/HomeOrganizingServices.html 2 -
+/wp-content/uploads/2015/03/ 1 http://organizingtoronto.com/wp-content/uploads/2015/03/
+/ProOrganizer.html 6 -
+/wp-content/plugins/wp-symposium/server/php/WOCZifUAgjBiQk.php 1 -
+/wp-content/plugins/wysija-newsletters/css/admin.css 1 http://organizingtoronto.com/wp-content/plugins/wysija-newsletters/css/admin.css
+/outils/fckeditor/editor/fckeditor.html 1 -
+/browserconfig.xml 3 -
+/administration/editor/assetmanager/assetmanager.php 1 -
+/admin/editor/filemanager/upload/test.html 1 -
+/include/fckeditor/fckeditor.js 1 http://organizingtoronto.com
+/OrganizingYourHome.html 2 -
+/HomeClosetOrganizer.html 6 -
+/OrganizingtheHome.html 4 -
+/mysql/ 22 -
+/ClosetOrganizingSystems.html 11 http://organizingtoronto.com/ClosetOrganizingSystems.html
+/er2dt2mo.xml 5 -
+/templates/us/admin-panel/HTML_Editor/assetmanager/assetmanager.php 1 -
+/editor/library/editor4_2_1/assetmanager/assetmanager.php 1 -
+/wp-content/themes/avada/js/jquery.easing.js 4 http://organizingtoronto.com/
+/src/azelastin/assetmanager/assetmanager.php 1 -
+/webyep-system/programm/opt/fckeditor/editor/fckeditor.html 1 -
+/images/Andrew_Neary34.jpg 1 -
+/wp-content/plugins/simple-dropbox-upload-form/ 4 -
+/plugins/wp-all-import/readme.txt 1 -
+/BasementOrganizing.html 3 -
+/artsconnect/newsite/mambots/editors/fckeditor/editor/fckeditor.html 1 -
+/OrganizingIdeas.html 2 -
+/wp-content/plugins/wp-all-import/readme.txt 2 -
+/FCKeditor/editor/filemanager/upload/test.html 1 -
+/HowtoOrganizeaCloset.html 2 -
+/admin/editor/fckeditor.js 1 http://organizingtoronto.com
+/wp-content/plugins/resume-submissions-job-postings/installer.php 6 -
+/misc/drupal.js 20 -
+/OrganizingClosetSpace.html 3 -
+/wp-content/plugins/wpshop/includes/ajax.php 1 organizingtoronto.com/wp-content/plugins/wpshop/includes/ajax.php
+/wp-content/plugins/wp-symposium/server/php/zJPUjaEjQfuXzK.php 1 -
+/fckeditor/fckeditor/editor/fckeditor.html 1 -
+/wp-content/plugins/wp-homepage-slideshow/functions.php 4 -
+/blog/closet-organizing-ideas-for-your-childs-bedroom/ 2 -
+/wp-content/plugins/mac-dock-gallery/bugslist.txt 5 -
+/fckeditor/editor/filemanager/connectors/test.html 1 -
+/site/fckeditor/editor/fckeditor.html 1 -
+/ClosetOrganizingTips.html 2 -
+/wp-content/plugins/gallery-plugin/gallery-plugin.php 7 -
+/assetmanager/asset.asp 1 -
+/DebrisRemoval.html 3 -
+/wp-content/plugins/nextgen-gallery/changelog.txt 5 -
+/wp-admin/includes/uploader.php 1 http://organizingtoronto.com/wp-admin/includes/uploader.php
+/OrganizingProfessional.html 1 -
+/wp-content/plugins/wp-symposium-pro/readme.txt 4 -
+/common/fckeditor/fckeditor.js 1 http://organizingtoronto.com
+/wp-content/plugins/cimy-user-extra-fields/README_OFFICIAL.txt 5 -
+/HomeOrganizationTips 3 -
+/wp-content/plugins/font-uploader/font-uploader-free.php 4 -
+/openserver/phpmyadmin/ 22 -
+/wp-content/plugins/formcraft/js/form.js 1 http://organizingtoronto.com/
+/includes/jscripts/tiny_mce/plugins/tinybrowser/readme.txt 1 -
+/setups.php 1 -
+/js/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/OrganizingCompany.html 1 -
+/sites/all/libraries/tinymce/jscripts/tiny_mce/plugins/tinybrowser/readme.txt 1 -
+/Organizing.xml 494 http://www.organizing-toronto.com/Organizing.xml
+/wp-content/plugins/aspose-cloud-ebook-generator/aspose_posts_exporter_download.php 4 -
+/system/templates/modules/admin/editor/assetmanager/assetmanager.php 1 -
+/BasementOrganization.html 2 -
+/OrganizingPro.html 1 -
+/library/fckeditor/editor/fckeditor.html 1 -
+/admin.php 14 -
+/Editor/assetmanager/assetmanager.asp 1 -
+/lib/uploadify/uploadify.swf 2 http://organizingtoronto.com/lib/uploadify/uploadify.swf
+/LockerOrganizers.html 6 -
+/organizing-toronto-team/testimonials/ 6 -
+/HowtoOrganizeYourHouse.html 5 -
+/ClutterOrganizer.html 2 -
+/web/ 21 -
+/PersonalOrganizingServices.html 6 -
+/bigdump.php 1 -
+/wp-content/plugins/revslider/temp/update_extract/revslider/wp-root.php 1 -
+/blog/author/andrew/page/5/ 1 -
+/KitchenOrganization.html 5 -
+/ftpmanager/Editor/assetmanager/assetmanager.asp 1 -
+/ProfessionalOganizer.html 3 -
+/wp-content/plugins/revslider/css/admin.css 1 http://organizingtoronto.com/wp-content/plugins/revslider/css/admin.css
+/fckeditor/editor/filemanager/browser/default/connectors/test.html 1 -
+/LockerOrganizingTips.html 7 -
+/editor/assetmanager/assetmanager.php 1 -
+/innovaeditor/assetmanager/assetmanager.php 1 -
+/includes/uploadify/uploadify.swf 2 http://organizingtoronto.com/includes/uploadify/uploadify.swf
+/ClosetOrganizingCompany.html 5 -
+/wp-content/plugins/user-meta/readme.txt 6 -
+/HouseholdOrganizingConsultantsinToronto.html 5 -
+/wp-content/themes/avada/framework/plugins/revslider/rs-plugin/js/jquery.themepunch.plugins.min.js 4 http://organizingtoronto.com/
+/_fckeditor/fckeditor.js 1 http://organizingtoronto.com
+/wp-content/plugins/reflex-gallery/readme.txt 29 http://organizingnewfoundland.net/wp-content/plugins/reflex-gallery/readme.txt
+/moadmin.php 1 http://organizingtoronto.com
+/wp-content/plugins/wp-symposium-pro/js/wp-symposium-pro-profile-widget/Readme.txt 4 -
+/wp-content/plugins/sexy-contact-form/includes/css/admin.css 1 http://organizingtoronto.com/wp-content/plugins/sexy-contact-form/includes/css/admin.css
+/myadmin/ 32 -
+/wp-content/plugins/front-end-upload/destination.php 11 -
+/GarageOrganizingIdeas.html 3 -
+/public_html/mambots/editors/fckeditor/editor/fckeditor.html 1 -
+/js/transport.js 1 http://organizingtoronto.com
+/wp-includes/Text/Tiff.php 2 http://organizingtoronto.com/wp-includes/Text/Tiff.php
+/HowtoOrganizeYourGarage.html 2 -
+/ClosetOrganization.html 1 -
+/wp-content/themes/qaengine/css/editor.css 1 -
+/admin/uploadify/uploadify.swf 2 http://organizingtoronto.com/admin/uploadify/uploadify.swf
+/wp-content/uploads/wpallimport/uploads/baf35c66d4c26fdcec76a305edb7f99d/info.php 1 -
+/householdorganizing.html 3 -
+/database/bigdump.php 1 -
+/wp-content/plugins/revslider/release_log.txt 3 http://organizingtoronto.com/wp-content/plugins/revslider/release_log.txt
+/LockerOrganizing.html 9 -
+/wp-content/uploads/_input__test.php5 4 -
+/inv/assetmanager/assetmanager.php 1 -
+/blog/xmlrpc.php 1 -
+/index.html 3 -
+/edit/assetmanager/assetmanager.asp 1 -
+/jscripts/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/force-download.php 1 http://organizingtoronto.com/wp-content/force-download.php
+/wp-content/themes/infocus/lib/scripts/dl-skin.php 1 http://organizingtoronto.com/
+/license.php 1 -
+/GetRidofClutter.html 2 -
+/wp-content/themes/avada/framework/plugins/layerslider/js/layerslider.transitions.js 4 http://organizingtoronto.com/
+/Innovastudio5.5/assetmanager/assetmanager.php 1 -
+/blog/solutions-to-reduce-clutter-in-bathrooms/ 1 -
+/ProfessionalOrganizersToronto.html 2 -
+/admin/fckeditor/fckeditor.js 1 http://organizingtoronto.com
+/wp-content/themes/avada/framework/plugins/layerslider/js/jquerytransit.js 4 http://organizingtoronto.com/
+/OrganizingProducts.html 3 -
+/wp-content/plugins/auto-attachments/a-a.css 6 -
+/GarageOrganizingIdea.html 6 -
+/wp-content/plugins/zingiri-web-shop/admin.css 6 -
+/importbuddy.php 32 http://cottagecountryorganizers.net/importbuddy.php
+/wp-admin/uploader.php 1 http://organizingtoronto.com/wp-admin/uploader.php
+/ShoeOrganizer.html 3 -
+/blog/rk=0/rs=ii2xuvsttsij1kpgkubymdc_fjo- 1 http://organizingtoronto.com/
+/plugins/htmleditor2/assetmanager/assetmanager.php 1 -
+/wp-content/plugins/revslider/temp/update_extract/revslider/cache.php 3 -
+/wp-content/uploads/ 5 -
+/RubbermaidClosetSystems.html 7 -
+/fckeditor/editor/filemanager/upload/test.html 1 -
+/professional-organizing-services/frequently-asked-questions/ 1 -
+/BusinessOrganizingServices.html 3 -
+/site/modules/fckeditor/fckeditor/editor/fckeditor.html 1 -
+/blog/the-benefits-of-being-organized-at-home/ 2 -
+/HomePersonalOrganizer.html 5 -
+/database/bigdump/bigdump.php 1 -
+/images/ShulteFreedomRailCustomCloset3.jpg 1 -
+/wp-content/plugins/reflex-gallery/styles/default.css 1 http://organizingtoronto.com/wp-content/plugins/reflex-gallery/styles/default.css
+/wp-content/plugins/wp-symposium/server/php/ 6 -
+/OrganizerPro.html 7 -
+/wp-content/plugins/wpstorecart/lgpl.txt 7 -
+/admin/common/editor/assetmanager/assetmanager.php 1 -
+/media/js/tiny_mce/plugins/tinybrowser/readme.txt 1 -
+/OrganizeHousehold.html 5 -
+/generator/assetmanager/assetmanager.php 1 -
+/wp-content/themes/avada/framework/plugins/layerslider/js/jquery-easing-1.3.js 4 http://organizingtoronto.com/
+/images/Andrew_Neary_200.jpg 1 -
+/GettingOrganized.html 2 -
+/GladiatorGa 3 -
+/FCKeditor/editor/filemanager/browser/default/connectors/test.html 1 -
+/yonetim/editor/assetmanager/assetmanager.php 1 -
+/beheer/editor/assetmanager/assetmanager.asp 1 -
+/OrganizingService.html 1 -
+/FCKeditor/fckeditor.js 1 http://organizingtoronto.com
+/bd/bigdump/bigdump.php 1 -
+/LockerOrganizationTips.html 2 -
+/HowtoMakeaWebsite.html 1 -
+/wp-content/themes/infocus2/lib/scripts/dl-skin.php 1 http://organizingtoronto.com/wp-content/themes/infocus/lib/scripts/dl-skin.php
+/www.googletagmanager.com/ns.html 4 -
+/blog/5-creative-strategies-for-downsizing-your-home/ 2 -
+/phpmyadmin2/ 22 -
+/wp-content/plugins/wpshop/readme.txt 16 http://organizingnewfoundland.net/wp-content/plugins/wpshop/readme.txt
+/ClosetMakeover.html 3 -
+/KitchenOrganizing.html 3 -
+/HomeOrganizingBusiness.html 12 -
+/YorkSimcoeProfessionalOrganizer.html 1 -
+/uploadify/uploadify.swf 2 http://organizingtoronto.com/uploadify/uploadify.swf
+/php/phpMyAdmin/ 22 -
+/hegn/assetmanager/assetmanager.asp 1 -
+/HomeOrganizing.html 2 -
+/php-my-admin/ 22 -
+/blog/carpentry-technique-organize-your-kitchen/ 1 -
+/admin/FCKeditor/editor/filemanager/browser/default/connectors/test.html 1 -
+/OrganizingTips.html 7 -
+/ProfessionalOrganizerHome.html 2 -
+/wp-content/plugins/simple-ads-manager/css/colorpicker.css 22 -
+/wp-content/uploads/_input__test.php. 4 -
+/wp-content/plugins/gravityforms/js/gravityforms.js 1 http://organizingtoronto.com/
+/OrganizeLocker.html 2 -
+/admin/panel/fckeditor/fckeditor.html 1 -
+/organizedhome.html 1 -
+/admin/editor/assetmanager/assetmanager.php 1 -
+/wp-content/plugins/wp-filemanager/fm.php 6 -
+/admin/templates/fckeditor/editor/fckeditor.html 1 -
+/Administrator/FCKeditor/fckeditor.js 1 http://organizingtoronto.com
+/wp-content/plugins/revslider/temp/update_extract/revslider/happy.php 2 -
+/beheer/novosite_editor/assetmanager/assetmanager.php 1 -
+/admin/dump/bigdump.php 1 -
+/LockerShelvesandOrganizers.html 14 -
+/modules/fckeditor/editor/fckeditor.html 1 -
+/edit/innoEdit/assetmanager/assetmanager.asp 1 -
+/Media.html 5 -
+/inc/uploadify/uploadify.swf 2 http://organizingtoronto.com/inc/uploadify/uploadify.swf
+/howtoorganize.html 2 -
+/wp-content/plugins/wp-symposium/server/php/aOKzJPfnLKTMrR.php 1 -
+/start/public/editor/assetmanager/assetmanager.php 1 -
+/wp-content/plugins/wpmarketplace/readme.txt 12 -
+/wp-content/plugins/revslider/temp/update_extract/revslider/ 1 -
+/phpMyAdmin/ 22 -
+/wp-content/plugins/aspose-doc-exporter/aspose_doc_exporter_download.php 1 http://organizingtoronto.com/wp-content/plugins/aspose-cloud-ebook-generator/aspose_posts_exporter_download.php
+/organizingservices.html 5 -
+/HomeGarageOrganizer.html 9 -
+/wp-content/themes/echelon/lib/scripts/dl-skin.php 1 http://organizingtoronto.com/wp-content/themes/infocus2/lib/scripts/dl-skin.php
+/OrganizeRoom.html 3 -
+/MoveOrganizing.html 4 -
+/wp-content/plugins/wp-symposium/server/php/NVlzWjVdWSWvEc.php 1 -
+/directory/edt/assetmanager/assetmanager.php 1 -
+/wp-content/plugins/work-the-flow-file-upload/README.txt 1 -
+/LockerOrganizerShelves.html 5 -
+/wp-content/themes/avada/js/jquery.flexslider-min.js 4 http://organizingtoronto.com/
+/wp-content/plugins/wp-symposium/server/php/index.php 2 -
+/admin/editor/assetmanager/assetmanager.asp 1 -
+/admin/bigdump.php 1 -
+/templates/cn/template.xml 1 http://organizingtoronto.com
+/wp-content/plugins/another-wordpress-classifieds-plugin/AWPCP.po 5 -
+/wp-content/plugins/mp3-jplayer/download.php 3 -
+/wp-content/plugins/website-contact-form-with-file-upload/js/scripts.js 1 -
+/ProfessionalOrganizing 1 -
+/admin/actualites4/editor/fckeditor.html 1 -
+/wp-content/plugins/mac-dock-gallery/macdownload.php 3 -
+/wp-content/plugins/wp-property/action_hooks.php 6 -
+/wp-content/themes/Organizing-Toronto/includes/uploadify/upload_settings_image.php 2 -
+/wp-content/themes/Avada/framework/plugins/revslider/temp/update_extract/revslider/update.php 10 http://organizingnewfoundland.net/wp-admin/
+/ONTO.COM 9 http://organizingtoronto.com/ONTO.COM
+/wp-content/plugins/contus-video-gallery/hdflvplayer/download.php 3 -
+/wp-admin/network/uploader.php 1 http://organizingtoronto.com/wp-admin/network/uploader.php
+/wp-content/plugins/nmedia-user-file-uploader/readme.txt 7 -
+/xampp/phpmyadmin/ 21 -
+/DownsizingYourHome.html 3 -
+/HomeOrganizingTips.html 8 -
+/hybridauth/install.php 1 -
+/pma/ 32 -
+/web/phpMyAdmin/ 21 -
+/admin/inc/scripts/assetmanager/assetmanager.asp 1 -
+/wp-content/themes/construct/lib/scripts/dl-skin.php 1 http://organizingtoronto.com/wp-content/themes/dejavu/lib/scripts/dl-skin.php
+/GarageOrganizingTips.html 8 -
+/innova/assetmanager/assetmanager.asp 1 -
+/blog/reorganize-your-closet-on-a-budget/ 1 -
+/OrganizingCloset.html 2 -
+/js/uploadify/uploadify.swf 2 http://organizingtoronto.com/js/uploadify/uploadify.swf
+/ProfessionalOrganizerDirectory.html 1 -
+/resorce/admin/article/FCKeditor/editor/fckeditor.html 1 -
+/admin/pma/ 22 -
+/blog-post-3/ 3 -
+/CustomClosetOrganizers.html 2 -
+/HomeOrganizationIdeas.html 2 -
+/ProfessionalOrganizersClutter.html 9 -
+/ClosetOrganizationShelving.html 3 -
+/Organizing.html 3 -
+/blog/explore-your-selling-options-while-downsizing-your-home/ 2 -
+/GladiatorGarageworks.html 9 -
+/importbuddy.txt 31 http://cottagecountryorganizers.com/importbuddy.txt
+/db/bigdump.php 1 -
+/images/CarCareGarageOrganizationStorageCabinet2.jpg 2 http://cabinetop.info/cabinet-garage-storage-toronto/
+/wp-content/uploads/wpallimport/uploads/add2cea55314b0d26b78f99d69292360/info.php 1 -
+/plugins/uploadify/uploadify.swf 2 http://organizingtoronto.com/plugins/uploadify/uploadify.swf
+/professionalorganizer.html 4 -
+/inc.old/GenericDB/assetmanager/assetmanager.asp 1 -
+/dyn/C2/SubmissionAgreement 1 -
+/wp-content/uploads/settingsimages/external.php 2 http://organizingtoronto.com/wp-content/uploads/settingsimages/external.php
+/LockerOrganizationIdeas.html 4 -
+/new2/admin/js/fckeditor/editor/fckeditor.html 1 -
+/wp-content/plugins/sexy-contact-form/readme.txt 1 -
+/AdvertiseWithUs.html 2 -
+/admin/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/admin/js/fckeditor/fckeditor.js 1 http://organizingtoronto.com
+/admin/phpmyadmin/ 22 -
+/wp-content/plugins/wysija-newsletters/readme.txt 4 http://organizingtoronto.com/wp-content/plugins/wysija-newsletters/readme.txt
+/sites/all/libraries/fckeditor/fckeditor.html 1 -
+/wp-content/themes/Organizing-Toronto/themify/css/themify-ui.css 21 -
+/HowtoOrganizeaHouse.html 2 -
+/professionalorganizers.html 6 -
+/wp-content/plugins/revslider/temp/update_extract/revslider/controller.php 1 -
+/admin/FCKeditor/editor/filemanager/upload/test.html 1 -
+/OrganizedSpaces.html 2 -
+/wp-content/plugins/website-contact-form-with-file-upload/readme.txt 23 http://organizingtoronto.com/wp-content/plugins/website-contact-form-with-file-upload/readme.txt
+/wp-content/plugins/simple-ads-manager/sam-ajax-admin.php 6 -
+/FCKEditorV2/fckeditor.js 1 http://organizingtoronto.com
+/LockerShelves.html 5 -
+/TorontoOrganizingServices.html 6 -
+/blog/essential-tools-for-maintaining-your-home/ 2 -
+/wp-content/plugins/revslider/temp/update_extract/revslider/tags.php 1 -
+/OrganizingConsultant.html 3 -
+/scripts/tiny_mce/plugins/tinybrowser/readme.txt 1 -
+/ClosetOrganizingIdea.html 8 -
+/OrganizeHouse.html 1 -
+/wp-content/themes/myriad/lib/scripts/dl-skin.php 1 http://organizingtoronto.com/wp-content/themes/method/lib/scripts/dl-skin.php
+/phpadmin/ 22 -
+/wp-content/uploads/wpallimport/uploads/561e91b41ff9c14501130e531e045666/info.php 1 -
+/V2/utils/WYSEditor/editor/fckeditor.html 1 -
+/web-local/fak/rj/admin/FCKeditor/editor/fckeditor.html 1 -
+/plugins/innova/assetmanager/assetmanager.php 1 -
+/HouseOrganizingTips.html 2 -
+/OrganizingaCloset.html 6 -
+/INC/GenericDB/assetmanager/assetmanager.php 1 -
+/cms/uploadify/uploadify.swf 2 http://organizingtoronto.com/cms/uploadify/uploadify.swf
+/OrganizationServices.html 4 -
+/fhadmin/lib/fckeditor/editor/fckeditor.html 1 -
+/OrganizerProfessional.html 4 -
+/admin/FCKeditor/editor/filemanager/connectors/test.html 1 -
+/wp-content/plugins/miwoftp/admin/assets/images/logo.pg 1 -
+/editors/fckeditor/editor/filemanager/upload/test.html 1 -
+/scripts/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/TipsforOrganizing.html 2 -
+/tinybrowser/readme.txt 1 -
+/blog/fight-your-clutter-nightmare-and-organize-your-basement/ 2 -
+/EstateClearing.html 5 -
+/wp-content/plugins/wp-symposium-pro/js/wps.admin.js 4 -
+/kyoshobutiken/fc_util/Editor_5_5/assetmanager/assetmanager.php 1 -
+/phpmyadmin/ 22 -
+/HowtoOrganizeaGarage.html 7 -
+/templets/default/style/dedecms.css 1 http://organizingtoronto.com
+/ProfessionalOrganizerCompanies.html 6 -
+/ProfessionalOrganizer.html 44 -
+/wp-content/plugins/wp-symposium/readme.txt 1 -
+/JunkRemovalServices.html 4 -
+/tinymce/jscripts/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js 1 -
+/wp-content/uploads/2014/02/Colorful_spring_garden-300x199.jpg&cfs=1 1 app:/FacebookForPlaybook.swf
+/template/default/common/footer.htm 1 http://organizingtoronto.com
+/manager/scripts/assetmanager/assetmanager.asp 1 -
+/scripts/iseditor/assetmanager/assetmanager.php 1 -
+/Organizing-blog.html 6 -
+/diendan/media/js/fckeditor/editor/fckeditor.html 1 -
+/cms/modules/articles/assetmanager/assetmanager.php 1 -
+/editor/fckeditor.js 1 http://organizingtoronto.com
+/HowtoOrganizeMyHome.html 6 -
+/sitemanager/protected/component/InnovaStudio-Editor/Editor/assetmanager/assetmanager.php 1 -
+/ProfessionalOrganizerServices.html 7 http://organizingtoronto.com/ProfessionalOrganizerServices.html
+/wp-content/plugins/user-photo/admin.css 5 -
+/ProfessionalHomeOrganizers.html 2 -
+/HomeOrganization.html 1 -
+/~nga/Edit0r/assetmanager/assetmanager.php 1 -
+/mysql/bigdump.php 1 -
+/professional-organizing-services/seasonal-specials/feed/ 1 -
+/HowtoOrganizeYourHome.html 4 -
+/wp-content/plugins/magic-fields/MF_Constant.php 4 -
+/HouseholdOrganizer.html 1 -
+/diymodule/Editor/assetmanager/assetmanager.php 1 -
+/ProfessionalClosetOrganizer.html 1 -
+/blog/the-advantages-of-having-storage-lockers/ 2 -
+/OrganizingGarageSpace.html 2 -
+/wp-content/plugins/revslider/settings/generas_settings.php 1 http://organizingtoronto.com/wp-content/plugins/revslider/settings/generas_settings.php
+/BedroomOrganizer.html 1 -
+/PersonalHomeOrganizer.html 2 -
+/OrganizingBook.html 1 -
+/assetmanager.asp 1 -
+/ClosetOrganizingSolutions.html 3 -
+/ProfessionalHomeOrganizer.html 2 -
+/js/tiny_mce/plugins/tinybrowser/readme.txt 1 -
+/wp-content/plugins/gravityforms/css/formsmain.css 4 -
+/gcassetmanager/assetmanager.asp 1 -
+/typo3/phpmyadmin/ 21 -
+/cms/assetmanager/assetmanager.php 1 -
+/ProfessionalResidentialOrganizer.html 2 -
+/wp-content/force-download.php 1 http://organizingtoronto.com/wp-content/plugins/aspose-doc-exporter/aspose_doc_exporter_download.php
+/ClutterExpert.html 1 -
+/fck/fckeditor.js 1 http://organizingtoronto.com
+/professional-organizing-services/prices/ 1 -
+/yml.php 5 -
+/wp-content/plugins/wp-image-news-slider/functions.php 5 -
+/OrganizingServicesConsultationRequest.html 3 -
+/data/scripts/tiny_mce/plugins/tinybrowser/readme.txt 1 -
+/wp-content/plugins/nex-forms-express-wp-form-builder/css/admin.css 1 http://organizingtoronto.com/wp-content/plugins/nex-forms-express-wp-form-builder/css/admin.css
+/core/coreSrc/externalSrc/WYSIWYG/assetmanager/assetmanager.asp 1 -
+/BathroomOrganization.html 2 -
+/p/m/a/ 21 -
+/TorontoProfessionalOrganizer.html 1 -
+/OrganizeYourCloset.html 2 -
+/OrganizeGarage.html 4 -
+/TipstoGetOrganized.html 2 -
+/wp-content/themes/avada/framework/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.min.js 4 http://organizingtoronto.com/
+/LockerShelf.html 6 -
+/BasementOrganizer.html 3 -
+/assetmanager/assetmanager.asp 1 -
+/dbadmin/ 22 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 3406
+65.19.138.34 295 295 931376 20150430232303
+65.19.138.33 281 281 1769230 20150430202253
+192.186.201.198 235 236 4 20150430175414
+91.109.19.34 129 180 13661956 20150428094613
+213.239.211.141 126 126 7349581 20150429052717
+46.105.98.166 125 125 7144373 20150414184059
+176.31.126.56 125 125 7165369 20150401005504
+175.44.5.183 108 108 4390080 20150415043705
+173.32.219.191 107 520 19162840 20150425050320
+192.99.150.97 102 102 5649354 20150430222629
+43.252.230.227 96 96 43238 20150429032952
+142.4.218.236 85 85 4707794 20150430222352
+174.95.103.37 65 208 9230415 20150421015812
+95.87.154.242 58 58 93150 20150430221333
+74.12.176.166 58 945 9132414 20150416191253
+50.93.249.212 55 825 20660433 20150426150926
+209.85.238.3 52 53 2476894 20150430234832
+175.44.24.117 52 52 2122012 20150429204019
+194.6.233.33 52 52 2888500 20150412064835
+71.187.219.210 50 50 2779486 20150411073906
+209.85.238.127 47 48 2326951 20150429053952
+209.85.238.119 40 41 2001050 20150428174412
+206.47.249.246 39 135 4050296 20150406233518
+198.252.44.14 37 37 2064589 20150430071136
+175.44.6.221 35 35 2055540 20150416024700
+54.211.247.243 2 39 787585 20150428011700
+178.125.246.20 0 1 55924 
+69.64.58.188 18 18 1000912 20150418200451
+91.200.12.9 2 2 123858 20150426003610
+99.244.121.105 2 74 2099299 20150410135521
+174.138.194.129 0 52 927291 
+68.170.250.136 0 1 138949 
+99.226.38.100 11 184 2420814 20150422083459
+81.163.241.194 0 1 64239 
+178.121.230.51 0 1 55924 
+107.222.168.2 0 1 104577 
+142.33.134.2 7 82 2048466 20150416193734
+199.19.138.101 0 1 138949 
+94.153.8.126 14 14 337919 20150430160436
+80.67.220.24 0 1 55924 
+45.55.134.22 12 38 1016790 20150402051554
+69.158.153.81 0 1 18791 
+207.219.69.185 2 73 1795361 20150407093039
+86.99.27.191 0 1 138949 
+64.180.190.171 0 1 116869 
+172.219.121.241 0 1 138949 
+46.151.52.12 5 5 114669 20150415094813
+50.156.77.185 0 2 241468 
+178.72.101.148 0 1 64239 
+63.143.114.205 0 1 116869 
+114.79.59.103 0 1 138949 
+207.219.69.236 2 72 1776672 20150401065147
+109.127.187.251 0 1 55924 
+74.74.206.146 2 66 1401925 20150421084610
+100.12.103.37 0 2 277898 
+164.151.5.18 0 1 138949 
+54.91.81.33 1 1 60247 20150430193101
+188.168.248.77 0 1 28922 
+135.23.156.114 2 72 1752308 20150425045435
+70.194.139.25 0 1 138949 
+78.157.17.88 0 1 116869 
+66.232.118.160 20 20 1115745 20150430023223
+68.196.188.13 0 1 138949 
+108.45.82.42 0 1 138949 
+199.212.69.3 2 73 1771307 20150414212919
+99.243.52.133 2 66 1401513 20150415144243
+5.14.116.0 2 2 0 20150426104049
+194.90.160.133 1 1 5158 20150420003132
+52.4.148.92 1 1 55791 20150421145624
+162.249.161.8 2 74 1786851 20150405113406
+74.66.128.41 0 1 138949 
+5.29.52.189 0 1 64239 
+115.134.150.62 0 1 138949 
+108.181.157.86 2 66 1401501 20150416061029
+166.137.242.28 0 1 138949 
+81.156.86.197 0 1 90954 
+99.244.3.65 9 87 2366361 20150427164501
+89.66.69.170 16 16 888032 20150425071441
+141.0.11.210 0 1 138949 
+5.45.255.71 0 1 55924 
+125.164.229.186 0 1 55924 
+189.11.185.100 2 72 1766807 20150410173018
+210.186.53.59 0 1 116869 
+178.207.38.9 0 1 55924 
+46.226.167.35 0 1 55924 
+148.251.139.163 1 1 55579 20150417020203
+109.173.84.183 2 73 1743700 20150424182321
+128.112.139.195 0 5 408138 
+188.141.72.229 0 1 116869 
+92.124.68.225 0 1 55924 
+12.49.77.206 0 1 138949 
+54.174.61.191 1 1 58518 20150408053557
+52.5.232.36 2 2 104380 20150424224302
+67.191.67.116 0 1 138949 
+2.28.30.97 0 1 116869 
+108.47.108.149 0 1 138949 
+176.58.98.66 1 1 55480 20150425202352
+70.31.5.213 0 1 19805 
+112.153.80.54 0 1 116869 
+99.230.233.104 8 75 1847372 20150417130507
+98.144.107.206 0 1 138949 
+107.188.26.15 0 1 138949 
+95.105.60.242 0 1 55924 
+37.29.41.247 0 1 55924 
+89.75.65.93 0 1 116869 
+24.150.253.169 4 67 1518395 20150418102559
+108.173.151.7 0 1 138949 
+76.68.64.103 2 72 1776606 20150411115844
+107.211.194.220 0 1 138949 
+104.197.11.165 0 1 138949 
+91.246.114.62 0 1 55924 
+74.105.222.105 0 1 116869 
+50.163.177.115 0 1 116869 
+24.16.29.241 0 1 138949 
+149.129.133.96 0 1 138949 
+78.46.167.11 2 2 110960 20150425202510
+52.5.33.1 2 2 88827 20150407032135
+208.54.36.129 0 1 138949 
+104.37.186.141 1 1 43257 20150423192856
+86.148.194.79 0 1 138949 
+88.250.255.126 0 1 138949 
+65.92.203.161 8 86 2774387 20150427175623
+192.81.210.100 2 29 588746 20150430111416
+92.62.158.45 0 1 55924 
+50.150.59.28 0 1 138949 
+178.94.172.30 0 1 55924 
+104.197.36.73 3 3 166449 20150425073820
+198.23.76.220 1 1 288 20150409225527
+99.235.141.225 2 72 1752594 20150419061520
+24.74.123.208 0 1 138949 
+178.57.99.134 0 1 64239 
+181.95.200.174 0 1 138949 
+209.161.103.119 2 2 60603 20150414195449
+61.152.102.40 1 1 55577 20150416084413
+54.84.208.177 1 1 0 20150430214248
+95.153.201.235 0 1 55924 
+95.95.171.48 0 1 116869 
+64.233.173.216 0 4 439184 
+220.181.38.147 0 1 49701 
+58.7.207.81 0 1 116869 
+62.167.57.67 0 1 64239 
+173.244.180.204 8 8 445595 20150430055843
+67.68.38.30 0 1 116869 
+73.208.188.51 0 1 138949 
+67.193.18.168 0 1 138949 
+209.141.128.136 0 1 138949 
+173.33.178.135 1 1 55625 20150421042429
+208.54.87.196 0 1 19805 
+78.188.167.205 1 1 5158 20150427110321
+54.147.205.26 1 1 57038 20150430134048
+50.184.238.160 0 1 138949 
+79.166.98.221 0 1 116869 
+73.177.223.50 0 1 138949 
+66.249.69.10 1 1 55481 20150425232824
+174.119.120.63 2 18 438179 20150426145021
+54.237.173.81 1 1 55483 20150424213914
+71.193.56.147 0 1 138949 
+101.161.24.80 0 1 138949 
+206.74.247.29 0 1 120873 
+159.255.1.178 0 1 55924 
+70.209.204.210 0 1 138949 
+37.26.1.116 0 1 55924 
+202.46.49.130 1 1 56996 20150430235733
+109.252.193.19 0 1 64239 
+70.197.203.40 0 1 138949 
+182.186.76.75 0 1 55924 
+175.44.24.82 6 6 352332 20150417210830
+69.121.221.246 0 1 106031 
+75.141.97.178 0 1 19805 
+208.87.238.180 0 1 116869 
+172.56.37.97 0 1 116869 
+195.154.188.74 6 6 387120 20150409115019
+103.14.124.146 0 1 138949 
+50.16.85.203 3 3 156317 20150414205831
+71.202.140.199 0 1 138949 
+92.98.189.33 0 1 138949 
+65.95.95.168 6 81 2070084 20150430121716
+24.243.190.211 0 1 138949 
+78.132.195.36 0 1 55924 
+155.94.131.214 1 1 55602 20150410152323
+24.156.44.82 0 2 277898 
+68.9.88.121 0 1 138949 
+76.177.244.149 0 1 138949 
+209.171.88.111 2 72 1752308 20150425092433
+142.4.218.207 1 1 55628 20150406103730
+107.77.75.121 0 1 138949 
+95.25.6.38 0 1 55924 
+54.90.253.213 0 2 25834 
+68.1.177.186 0 1 138949 
+24.212.245.203 8 8 445024 20150404151415
+183.90.37.46 0 1 116869 
+38.108.87.20 7 74 1674019 20150415022831
+108.77.223.140 0 1 138949 
+174.126.24.217 0 1 138949 
+207.164.79.32 2 72 1776660 20150402070231
+70.31.125.107 3 70 1490091 20150408191356
+66.43.60.8 1 1 55785 20150422152302
+109.252.74.86 0 1 64239 
+85.26.235.53 0 1 55924 
+58.181.228.229 0 1 138949 
+174.34.28.221 0 1 138949 
+95.8.204.4 0 1 89053 
+172.56.4.158 0 1 116869 
+178.125.225.225 0 1 55924 
+104.154.75.74 3 3 166881 20150403073740
+68.145.76.92 3 67 1370777 20150406115616
+104.12.86.39 0 1 1508627 
+174.118.43.35 17 196 2672403 20150401100237
+119.30.39.87 0 1 138949 
+209.195.79.38 4 74 1887826 20150407061518
+24.114.79.79 2 72 1776666 20150403112736
+5.41.170.48 0 1 116869 
+1.122.127.181 0 1 138949 
+71.191.251.167 0 1 106031 
+93.186.202.241 1 2 123717 20150416093618
+70.71.238.154 0 1 116869 
+108.161.115.142 8 150 2268256 20150419102208
+178.68.10.44 0 1 55924 
+98.201.233.155 0 1 19805 
+54.198.122.232 1 1 58964 20150414192340
+24.114.69.46 0 1 116869 
+76.72.13.115 0 1 138949 
+198.53.10.96 0 1 19805 
+5.139.96.192 0 1 28922 
+145.255.176.111 0 1 55924 
+61.135.190.103 0 2 110560 
+123.125.71.36 1 1 55579 20150416121138
+108.255.200.93 0 1 138949 
+162.243.170.58 12 39 1046836 20150430065129
+177.159.38.165 2 72 1766871 20150401135509
+76.104.30.241 0 1 138949 
+188.17.192.63 0 1 55924 
+79.133.111.26 0 1 64239 
+216.165.195.202 2 66 1681128 20150406232449
+70.65.148.211 0 1 138949 
+67.173.208.243 0 1 138949 
+172.56.6.82 0 1 138949 
+199.212.67.26 0 1 116869 
+68.109.85.20 0 1 138949 
+209.161.108.194 2 2 60603 20150414195217
+104.197.11.252 4 4 221947 20150414064301
+37.215.141.67 0 1 55924 
+52.6.144.87 1 1 55791 20150421145519
+66.249.80.124 2 80 1848434 20150414193423
+197.246.56.119 0 1 116869 
+178.75.123.56 0 1 55924 
+99.241.108.87 0 1 88238 
+50.101.97.115 2 72 1776294 20150413095717
+185.58.204.15 2 2 111068 20150413001905
+41.218.232.206 0 1 55924 
+107.181.190.103 1 1 55624 20150420095811
+108.181.12.53 0 1 116869 
+172.56.1.101 0 1 138949 
+76.66.164.87 2 73 1761296 20150424131453
+77.109.141.138 1 1 55629 20150401001243
+172.56.22.72 0 2 277898 
+5.141.232.67 0 1 55924 
+141.138.18.251 0 1 138949 
+23.91.188.20 2 73 1785656 20150406082653
+24.36.123.100 0 1 19805 
+24.114.48.85 4 76 1896319 20150420161726
+37.98.41.48 0 1 116869 
+99.244.43.251 5 145 3560567 20150415034014
+222.124.144.241 0 1 138949 
+68.150.141.198 0 1 138949 
+92.245.49.70 0 1 55924 
+99.244.115.151 0 1 116869 
+213.87.138.59 0 1 55924 
+24.100.252.180 0 1 116869 
+181.23.159.61 0 1 138949 
+42.99.164.55 0 1 138949 
+98.211.171.251 2 66 1416551 20150408190540
+54.204.88.77 10 154 3042922 20150420030622
+188.19.26.180 0 1 55924 
+216.163.188.239 1 1 55579 20150417042548
+192.240.224.221 2 2 60599 20150414201508
+62.210.146.246 1 1 55619 20150414210437
+202.46.61.122 1 1 55628 20150404093741
+92.4.120.254 0 1 138949 
+50.65.98.177 0 1 120734 
+99.237.108.92 0 52 945024 
+193.9.242.201 0 1 55924 
+77.251.49.90 0 1 116869 
+178.44.76.145 0 1 55924 
+36.71.190.251 0 1 138949 
+96.225.52.9 0 1 138949 
+213.33.198.150 0 1 28922 
+193.227.230.6 0 1 55924 
+24.175.216.91 0 1 138949 
+96.246.209.16 0 1 116869 
+91.22.205.205 2 3 235799 20150404041910
+80.82.62.207 0 1 115772 
+174.116.224.89 2 73 1761294 20150426175012
+173.217.216.166 0 1 138949 
+47.54.178.192 0 2 138949 
+67.80.192.5 0 1 138949 
+14.1.198.230 0 1 138949 
+79.12.92.28 2 72 1766531 20150414050541
+110.175.132.19 0 1 138949 
+121.54.32.169 0 1 138949 
+99.110.160.245 0 1 138949 
+94.131.14.50 9 9 141763 20150423072004
+173.252.105.119 0 1 106031 
+12.227.46.2 0 1 19805 
+24.57.209.81 0 1 140050 
+82.132.237.140 0 1 138949 
+69.156.78.172 4 78 1958233 20150402115116
+37.131.1.41 0 1 99393 
+37.150.225.92 0 1 55924 
+178.125.86.63 0 1 55924 
+108.203.238.231 0 1 138949 
+5.175.140.85 1 1 55440 20150412192758
+206.132.183.71 2 74 1762681 20150416063737
+209.7.73.115 0 1 138949 
+178.163.33.208 0 1 55924 
+99.47.77.145 0 1 138949 
+46.147.243.147 0 1 64239 
+69.118.86.164 0 1 138949 
+12.159.66.30 0 1 138949 
+94.178.141.153 0 1 55924 
+209.194.173.138 15 119 4401610 20150402092508
+65.55.218.37 0 6 56721 
+69.247.186.221 0 1 19805 
+31.8.205.229 0 1 55924 
+5.104.241.174 1 1 0 20150429083121
+188.234.179.207 0 1 55924 
+184.184.191.125 0 1 138949 
+50.17.110.80 2 38 768628 20150403013612
+104.48.180.20 0 1 138949 
+99.248.134.99 5 77 1904817 20150411204939
+54.80.8.146 2 2 115683 20150429214031
+76.123.9.211 0 1 55924 
+123.30.175.218 1 1 55628 20150403180332
+52.5.161.173 2 2 102121 20150407032116
+174.48.179.141 0 1 138949 
+188.165.200.14 22 22 1024371 20150429213552
+198.84.193.190 0 1 138949 
+5.149.158.4 0 1 55924 
+66.249.81.165 0 6 327283 
+158.82.194.5 4 80 1788929 20150430120017
+217.118.83.154 0 1 55924 
+202.58.37.100 0 1 138949 
+67.60.27.169 0 1 138949 
+172.56.35.123 0 1 116869 
+117.20.116.10 0 1 99393 
+185.35.220.12 1 1 55432 20150408090058
+93.120.129.123 0 1 55924 
+24.114.72.28 2 73 1795085 20150413124959
+24.27.49.90 0 1 138949 
+208.54.45.183 0 1 138949 
+104.197.46.228 3 3 166407 20150410073755
+92.112.54.255 0 1 55924 
+213.87.128.187 0 1 55924 
+220.181.38.250 0 1 1862 
+96.44.189.102 1 1 55579 20150418092352
+93.125.99.13 2 2 113778 20150428011632
+82.192.70.59 17 17 917722 20150414095541
+209.171.88.237 2 73 1771383 20150420161912
+54.185.20.52 1 1 55481 20150426203011
+46.138.33.229 0 1 55924 
+84.18.126.5 0 1 55924 
+174.114.53.124 0 1 116869 
+95.47.138.186 0 1 55924 
+82.145.208.197 0 1 55924 
+109.69.5.222 0 1 138949 
+68.192.21.43 0 2 277898 
+205.197.242.181 0 1 138949 
+166.137.252.120 0 1 138949 
+96.48.211.82 0 1 19805 
+54.158.149.71 1 1 55480 20150425152722
+24.235.121.34 2 71 1767253 20150413112416
+199.119.233.166 2 72 1776272 20150408052506
+209.171.88.160 2 74 1793664 20150423124855
+142.46.224.77 27 500 5494781 20150409084811
+109.131.92.128 0 1 116869 
+107.188.50.103 0 1 138949 
+123.125.71.97 1 1 55601 20150411001412
+173.179.167.154 2 74 1817806 20150403101609
+50.241.124.129 0 1 138949 
+192.235.248.67 3 73 1808091 20150415170917
+37.113.69.4 0 1 55924 
+198.40.29.5 0 1 88490 
+54.158.34.193 10 154 3042402 20150413044259
+99.234.32.46 8 147 2091779 20150402055540
+173.244.180.210 31 31 1720269 20150425091753
+23.91.128.229 2 73 1761730 20150422175351
+188.143.232.15 1 1 58370 20150422091826
+67.167.133.191 2 73 1785346 20150409130643
+75.82.26.37 2 61 1733136 20150415233709
+173.79.254.200 3 70 1600526 20150404072306
+78.173.224.132 0 1 116869 
+50.178.203.73 0 1 138949 
+74.65.133.67 0 1 138949 
+173.58.155.120 0 1 138949 
+125.162.15.242 0 1 138949 
+162.246.17.234 2 2 86762 20150421135326
+99.194.218.123 0 1 138949 
+208.54.39.204 0 1 138949 
+75.135.73.109 0 1 138949 
+173.244.181.12 3 3 168245 20150429184251
+81.140.68.54 0 1 138949 
+199.7.157.108 4 75 1906703 20150409091628
+72.39.128.118 2 73 1795119 20150414181402
+98.231.203.205 0 1 138949 
+54.161.110.96 1 1 58754 20150405191303
+187.36.139.177 11 11 56738 20150405085849
+69.242.215.254 0 1 138949 
+54.89.250.245 0 1 3102 
+70.77.212.135 0 1 138949 
+161.0.98.210 0 1 138949 
+178.197.224.122 0 1 116869 
+99.228.240.65 16 84 2301258 20150416073450
+120.29.74.68 0 1 138949 
+199.119.233.238 6 81 2125999 20150425104850
+184.147.131.4 0 1 116869 
+105.210.58.206 0 1 138949 
+112.120.216.11 2 72 1743111 20150422060419
+24.114.41.226 0 1 116869 
+24.140.226.213 2 72 1776666 20150406093037
+24.88.114.184 0 1 138949 
+178.45.67.94 0 1 55924 
+91.77.255.60 0 1 55924 
+54.82.64.115 0 2 52658 
+108.185.116.148 0 1 99393 
+174.251.97.159 0 1 138949 
+76.189.224.221 0 1 138949 
+5.104.241.184 2 2 0 20150422224959
+95.32.50.204 0 1 55924 
+173.32.106.245 6 77 2000846 20150411075957
+98.127.163.27 0 1 138949 
+52.1.189.165 11 11 580972 20150412233926
+109.172.58.101 0 1 64239 
+70.49.243.29 2 72 1766685 20150403110306
+77.105.181.106 0 2 111848 
+83.149.37.1 0 1 55924 
+66.249.80.3 3 75 2368716 20150414194002
+70.48.155.80 8 81 2047973 20150428224233
+83.149.48.137 0 1 55924 
+203.45.185.163 0 1 138949 
+95.241.195.154 4 8 297304 20150428155304
+24.114.26.187 3 70 1459949 20150415062926
+151.213.216.99 0 1 138949 
+93.144.250.13 2 72 1766805 20150411123626
+207.182.129.229 6 6 334061 20150425083617
+45.48.129.25 0 1 138949 
+108.248.64.180 0 1 138949 
+38.117.92.233 9 87 2628834 20150422125749
+24.114.74.70 2 72 1776672 20150401080951
+52.6.142.177 1 1 715 20150426031039
+69.250.132.241 0 1 138949 
+69.157.172.61 4 72 1589626 20150422183958
+72.207.116.127 0 1 138949 
+69.159.0.41 6 136 3003318 20150417072950
+64.233.172.140 7 118 4296984 20150427122042
+208.180.88.88 0 1 138949 
+117.151.244.144 1 1 55570 20150414192003
+213.248.211.171 4 4 111195 20150420223700
+136.181.195.65 0 1 138949 
+87.53.182.58 0 1 116869 
+80.249.188.143 0 1 64239 
+54.81.19.42 0 1 31503 
+207.164.255.139 2 73 1771765 20150429134408
+76.29.127.150 0 1 116869 
+82.30.254.52 0 1 138949 
+104.154.85.233 3 3 166749 20150415073737
+63.155.119.122 0 1 138949 
+181.66.94.115 0 1 63074 
+212.109.219.117 1 1 4953 20150405140836
+209.171.88.79 2 73 1771765 20150429131948
+70.27.133.112 2 74 1780543 20150427175516
+85.26.186.39 0 1 55924 
+201.170.136.224 0 1 138949 
+213.176.248.0 0 1 55924 
+70.215.22.170 0 1 116869 
+99.236.228.46 2 72 1776608 20150410184754
+61.135.190.223 0 2 191614 
+176.212.156.84 0 1 55924 
+188.165.112.228 1 1 226 20150426024825
+178.122.138.174 0 1 55924 
+5.251.165.19 0 1 55924 
+70.71.136.251 7 151 2162687 20150415212621
+24.114.50.177 2 72 1776274 20150408055749
+108.90.20.204 0 1 138949 
+93.33.232.250 0 1 138949 
+64.254.235.50 4 76 1926284 20150407065234
+172.56.5.120 0 1 138949 
+70.186.217.12 0 1 138949 
+110.168.232.97 0 1 116869 
+45.55.132.243 4 4 222276 20150414201102
+174.89.88.81 0 1 116869 
+173.230.186.120 3 50 1284794 20150417063618
+216.223.143.68 12 166 4157274 20150415110945
+92.243.182.98 0 1 64239 
+195.154.188.41 16 16 956524 20150427012113
+83.79.249.13 0 1 116869 
+46.39.36.10 0 1 64239 
+176.14.47.41 0 1 64239 
+176.9.137.165 1 1 58974 20150416195733
+209.190.6.123 3 3 167426 20150430232146
+205.235.218.10 0 1 138949 
+1.39.33.242 0 1 138949 
+37.115.187.54 8 8 223360 20150416115046
+67.84.211.131 0 1 138949 
+96.245.160.201 0 1 19805 
+119.30.47.126 0 1 138949 
+174.118.182.65 0 1 138949 
+99.244.228.234 2 72 1776282 20150407203258
+99.226.204.47 2 72 1776570 20150406232730
+166.137.244.34 0 1 138949 
+203.218.38.210 0 1 138949 
+54.235.60.189 0 1 3208 
+204.112.69.52 0 1 138949 
+69.156.20.46 0 1 138949 
+82.124.189.200 2 23 511414 20150426063640
+63.247.60.254 0 1 138949 
+115.70.4.145 0 1 138949 
+174.89.157.71 18 181 5843915 20150430040841
+43.242.36.179 0 1 138949 
+155.94.169.120 5 7 463283 20150411083706
+220.181.108.96 1 1 55481 20150426062441
+70.193.183.94 0 1 138949 
+95.110.97.175 0 1 55924 
+5.152.240.62 0 1 138949 
+66.190.230.38 0 1 138949 
+87.236.190.6 0 1 55924 
+24.114.57.7 2 72 1776486 20150403120412
+79.141.172.21 3 3 63563 20150409135807
+155.234.240.16 0 1 138949 
+121.54.44.93 0 1 138949 
+95.0.202.82 0 1 115772 
+172.56.6.90 0 1 138949 
+99.233.169.89 2 73 1771763 20150429051304
+137.119.210.24 0 1 138949 
+101.169.213.72 0 2 277898 
+190.83.188.93 0 1 138949 
+138.229.133.9 0 1 19805 
+184.151.190.185 9 92 2294112 20150430091746
+95.218.220.61 0 1 116869 
+54.82.159.153 1 3 98155 20150418165602
+104.155.13.248 1 1 55482 20150408211515
+182.64.51.131 3 53 1029011 20150420214850
+66.176.235.107 0 1 138949 
+142.245.59.17 0 1 116869 
+69.196.154.4 2 72 1752508 20150415112249
+90.201.9.92 0 1 138949 
+204.126.11.214 0 1 55924 
+174.105.240.231 0 1 138949 
+89.69.252.176 3 3 170468 20150424030705
+110.143.62.83 0 1 76840 
+189.78.235.219 2 72 1766871 20150401095236
+69.159.9.232 7 107 3361626 20150417161519
+66.87.86.29 0 1 138949 
+172.56.5.109 0 1 138949 
+68.43.67.188 0 1 138949 
+46.216.175.88 0 1 55924 
+91.105.168.214 0 1 64239 
+93.159.243.34 0 1 64239 
+50.188.188.136 0 1 19805 
+209.171.88.25 0 1 116869 
+66.249.80.116 2 57 1283067 20150415105734
+184.4.237.133 0 1 138949 
+73.205.181.55 0 2 277898 
+99.249.227.23 0 2 233738 
+24.114.75.214 3 3 255099 20150416082113
+37.115.166.1 0 1 64239 
+200.89.83.6 0 1 138949 
+64.231.174.29 3 74 1817206 20150417095655
+173.76.156.3 0 1 138949 
+199.119.233.144 2 87 1815778 20150407062237
+166.3.81.151 0 1 138949 
+99.119.30.110 0 1 138949 
+5.71.239.241 0 1 79184 
+24.64.82.179 0 1 138949 
+174.119.123.22 34 340 9754318 20150414082519
+52.6.156.2 1 1 1045 20150426031036
+107.77.76.24 0 1 138949 
+202.160.34.143 0 1 99393 
+121.54.54.42 0 1 138949 
+24.114.41.31 0 1 116869 
+108.213.89.210 0 1 138949 
+46.39.34.206 0 1 64239 
+5.104.241.190 3 3 0 20150420133135
+90.213.167.178 0 1 138949 
+67.84.194.111 0 1 138949 
+66.102.6.251 3 88 3910757 20150424124836
+38.104.158.106 0 1 128894 
+209.147.118.154 1 22 500920 20150403162224
+88.198.208.69 1 1 57039 20150430190334
+66.249.67.82 1 1 55440 20150412232845
+75.177.180.216 0 1 120734 
+173.201.196.9 1 1 55574 20150407193511
+99.243.121.208 0 2 233738 
+201.204.60.183 12 97 3092784 20150419122236
+62.1.33.248 0 1 116869 
+124.148.89.178 2 27 623673 20150428182159
+104.154.95.39 3 3 166881 20150419073839
+52.4.220.64 3 3 180660 20150412233104
+77.40.117.42 0 1 55924 
+24.49.229.97 2 73 1771095 20150426053250
+70.195.192.224 0 1 138949 
+117.195.3.22 0 1 138949 
+46.187.16.135 0 1 55924 
+74.133.145.192 0 1 138949 
+104.197.33.95 3 3 166443 20150426073747
+85.25.95.148 1 1 58593 20150425150355
+172.219.104.49 2 60 1601647 20150423105732
+72.174.50.113 0 1 138949 
+142.68.127.236 1 1 55579 20150416171241
+54.80.3.94 1 1 55483 20150425071832
+95.130.13.153 18 18 989072 20150404002808
+213.24.132.93 0 1 55924 
+2.31.220.157 0 1 138949 
+185.11.225.2 1 1 3030 20150411222634
+204.68.32.6 0 1 138949 
+166.137.10.83 0 1 19805 
+80.30.29.85 0 1 116869 
+83.27.27.222 0 1 116869 
+46.105.115.130 12 12 558838 20150430223903
+177.242.178.221 2 73 1762052 20150430175035
+46.244.94.250 0 1 116869 
+66.249.83.197 4 78 2492775 20150430044449
+73.168.78.69 0 1 138949 
+66.49.132.85 3 74 1844320 20150428093125
+80.93.62.63 1 1 55791 20150421234214
+54.83.108.144 1 1 55483 20150425071831
+92.240.135.170 0 1 64239 
+91.203.146.178 1 1 55583 20150415104300
+112.198.77.111 0 1 138949 
+216.168.125.37 2 72 1752304 20150427041808
+36.248.187.240 1 1 58721 20150407115131
+66.249.82.251 1 45 1349258 20150411181423
+24.114.64.193 2 73 1795403 20150411075227
+179.182.232.74 2 72 1742505 20150424184108
+94.28.30.74 0 1 64239 
+120.19.207.75 0 1 90088 
+119.95.94.184 0 1 138949 
+70.160.120.193 0 1 138949 
+93.106.197.195 0 1 34754 
+99.231.116.96 28 322 8442020 20150418130844
+173.33.195.41 2 74 1786763 20150406115907
+99.232.89.135 2 73 1765790 20150427184311
+124.13.181.69 0 1 116869 
+71.212.244.148 0 1 138949 
+54.198.55.16 0 1 2999 
+124.176.53.68 0 1 138949 
+207.228.78.69 1 1 57038 20150430152005
+41.164.144.68 0 1 55924 
+69.157.75.44 0 1 138949 
+24.2.255.219 0 1 138949 
+184.163.20.44 0 1 88238 
+54.90.68.207 0 1 1508627 
+66.169.27.102 0 1 138949 
+71.21.96.147 0 1 138949 
+105.237.119.179 0 1 138949 
+155.94.146.122 5 5 246359 20150429193322
+99.234.134.45 11 98 3019680 20150427194706
+146.74.60.99 0 1 138949 
+178.69.248.177 0 1 55924 
+5.104.241.192 12 12 46575 20150428034339
+1.22.216.90 0 1 138949 
+128.71.227.99 0 1 55924 
+184.161.178.26 2 2 111057 20150408055514
+73.0.42.149 0 1 138949 
+77.103.1.91 0 1 138949 
+5.139.71.251 0 2 111848 
+66.87.18.159 0 1 138949 
+104.238.177.225 1 1 55480 20150425202351
+73.160.218.182 0 1 138949 
+74.136.210.42 0 1 138949 
+79.145.160.175 0 1 116869 
+64.246.165.210 1 1 46544 20150412014634
+135.23.142.120 4 146 3543012 20150422215354
+200.123.210.10 0 1 138949 
+70.197.6.103 0 1 19805 
+108.197.30.22 0 1 138949 
+107.72.162.90 0 1 116869 
+23.117.113.166 0 1 138949 
+123.30.175.221 3 3 167365 20150422173335
+46.0.56.27 0 1 55924 
+91.212.124.19 23 44 1188652 20150422122838
+91.204.150.150 0 1 64239 
+68.204.97.220 0 1 138949 
+173.244.180.214 3 3 167361 20150422082407
+50.73.105.28 0 2 205424 
+24.114.56.34 2 72 1776378 20150408104616
+69.92.157.172 0 1 138949 
+98.26.142.85 0 1 138949 
+186.65.85.254 0 1 58109 
+176.9.113.45 2 2 111221 20150423111203
+36.37.146.14 0 1 138949 
+129.63.253.71 0 1 138949 
+91.159.48.28 1 1 55446 20150412044218
+76.66.146.171 2 73 1795457 20150404040802
+120.29.111.60 0 1 138949 
+184.20.181.26 0 1 138949 
+50.100.155.178 0 1 116869 
+135.23.107.111 2 72 1752304 20150427041957
+168.167.184.158 0 1 138949 
+212.40.39.14 3 3 170667 20150428113644
+99.233.173.43 4 71 1502384 20150416062013
+124.110.12.224 0 1 116869 
+173.32.168.201 2 67 1398801 20150402155644
+172.56.34.202 0 1 116869 
+62.210.69.5 1 1 57038 20150430131631
+54.211.56.55 2 2 110960 20150425152719
+50.130.137.214 0 1 138949 
+54.144.39.246 1 1 60220 20150430062936
+84.18.119.90 0 1 55924 
+70.195.137.103 0 1 138949 
+172.56.30.103 0 1 138949 
+121.223.39.113 0 1 138949 
+99.227.126.189 0 1 116869 
+82.145.208.113 0 1 55924 
+77.247.181.162 1 1 55717 20150410130155
+69.121.74.35 0 1 138949 
+66.249.91.16 4 4 186300 20150426061322
+23.243.75.252 0 1 138949 
+23.236.57.64 3 3 166737 20150418073852
+5.149.250.163 0 4 83079 
+173.244.181.13 7 7 390113 20150429175434
+79.165.1.235 0 1 64239 
+191.181.86.23 2 72 1766543 20150409202106
+199.7.157.67 2 23 677270 20150430080640
+37.190.39.3 0 1 55924 
+178.162.108.10 0 1 55924 
+220.233.184.217 0 1 138949 
+50.158.174.80 0 1 138949 
+115.164.60.194 0 1 116869 
+5.35.45.148 0 1 64239 
+52.5.125.126 2 2 104888 20150426172702
+216.231.14.180 14 90 3049438 20150423132141
+95.20.253.202 0 1 116869 
+50.177.62.88 0 1 138949 
+87.253.11.114 0 1 55924 
+2.50.2.63 0 1 138949 
+98.218.7.193 0 1 138949 
+73.160.3.66 0 1 138949 
+113.210.1.229 0 1 116869 
+207.102.138.3 2 98 2200958 20150423045008
+23.20.113.54 4 4 174613 20150413040603
+54.161.74.161 2 2 117941 20150414225933
+65.186.215.58 0 1 22337 
+96.20.246.190 0 1 138949 
+188.20.69.74 2 4 147766 20150422010657
+108.171.180.176 2 2 0 20150416141836
+82.145.210.172 0 2 120163 
+206.248.164.129 6 85 2131125 20150409173900
+99.192.119.231 0 1 138949 
+64.229.47.21 3 67 1346783 20150418231119
+174.118.15.138 2 69 1380006 20150420065710
+188.163.77.204 4 4 111735 20150401064001
+67.226.152.73 2 70 1742684 20150421090159
+217.173.21.16 0 1 64239 
+139.216.53.178 0 1 138949 
+144.76.63.199 1 1 55579 20150417122728
+54.191.33.174 3 3 145112 20150401162553
+24.114.73.139 2 72 1752508 20150415091057
+184.98.250.3 0 1 138949 
+65.52.240.20 1 1 58964 20150414192534
+69.122.209.16 0 1 138949 
+176.114.19.158 0 1 55924 
+109.201.212.191 0 1 64239 
+70.211.66.121 0 1 138949 
+104.154.71.151 2 2 110884 20150413073746
+70.209.211.161 0 1 138949 
+50.200.246.230 0 1 138949 
+54.159.53.1 0 1 2999 
+69.158.45.117 7 149 2990788 20150405120451
+125.60.173.69 0 1 55924 
+99.248.238.220 0 1 120734 
+47.16.177.59 0 1 138949 
+93.61.109.23 1 1 5158 20150424040407
+172.56.31.69 0 1 138949 
+196.29.170.181 0 1 116869 
+154.70.108.197 0 1 138949 
+37.216.46.3 0 1 116869 
+83.69.242.47 0 1 64239 
+69.165.159.139 3 73 1831706 20150408054537
+103.243.113.64 0 1 138949 
+31.132.177.94 0 1 64239 
+65.93.113.182 2 72 1776666 20150405060852
+184.160.139.185 0 1 19805 
+24.114.70.254 2 72 1776840 20150410124735
+173.51.214.131 0 1 138949 
+95.47.203.51 0 1 55924 
+173.252.105.113 0 1 49140 
+75.159.84.171 7 76 1826164 20150415121917
+8.17.178.9 0 1 55924 
+207.67.53.106 0 1 55924 
+24.102.104.7 0 1 138949 
+173.244.181.26 24 24 1333544 20150425073041
+65.92.153.103 2 72 1776390 20150406221644
+172.56.13.169 0 1 138949 
+70.199.101.223 0 1 90088 
+72.76.57.151 3 70 1459955 20150415163226
+172.56.21.135 0 1 138949 
+98.17.233.255 0 1 138949 
+178.63.60.140 1 1 55481 20150426034525
+199.223.233.119 3 3 166737 20150417073742
+138.128.2.235 22 22 667647 20150429181404
+85.255.233.80 0 1 138949 
+173.80.138.102 0 1 138949 
+78.85.72.154 0 1 55924 
+199.116.169.254 2 2 114382 20150406111636
+109.99.54.81 0 1 138949 
+75.179.179.73 0 1 138949 
+94.41.157.244 0 1 55924 
+98.248.24.100 0 1 88490 
+216.64.160.66 0 1 138949 
+37.29.15.26 0 1 55924 
+174.93.52.147 1 17 368368 20150425223545
+54.162.111.76 1 1 46575 20150421033646
+70.50.34.103 0 1 138949 
+188.167.126.114 0 1 116869 
+198.96.180.245 8 69 1953184 20150429123629
+66.87.121.135 0 1 138949 
+97.88.174.81 0 1 138949 
+71.74.129.25 0 1 138949 
+173.244.181.30 4 4 222479 20150425145440
+99.245.10.20 7 83 2130898 20150409070218
+184.72.86.77 1 1 55590 20150423080458
+74.84.211.228 3 77 1798964 20150420045455
+24.176.3.245 0 1 138949 
+73.29.222.244 0 1 138949 
+190.113.103.156 0 1 138949 
+50.16.1.188 1 1 55480 20150425152320
+52.4.18.61 3 3 186546 20150425125633
+107.193.17.76 0 1 138949 
+99.71.114.126 0 1 138949 
+142.157.218.34 0 1 116869 
+162.253.138.94 5 84 2018580 20150402150113
+176.0.108.125 1 56 1272743 20150427224944
+50.174.125.231 0 1 138949 
+73.221.158.29 0 1 138949 
+213.87.131.77 10 10 184862 20150428144754
+66.249.64.18 1 1 55588 20150423000719
+38.117.75.48 17 132 4304676 20150420125818
+209.171.88.193 2 73 1771703 20150422081949
+177.43.37.82 5 5 25790 20150419044319
+76.66.165.203 2 66 1755290 20150429114354
+105.57.0.252 3 68 1468665 20150401101327
+98.248.97.1 0 1 138949 
+24.189.75.75 0 1 138949 
+108.51.63.165 0 1 116869 
+76.64.162.39 9 81 2091497 20150406180100
+76.18.28.21 0 1 138949 
+175.44.5.110 2 2 117452 20150415125733
+66.17.154.167 0 1 138949 
+173.244.180.203 3 3 169557 20150430071304
+93.127.111.137 0 1 140479 
+65.55.218.43 0 2 18566 
+72.14.199.73 13 13 605320 20150418222442
+88.80.61.215 0 1 55924 
+108.51.123.152 0 1 138949 
+104.7.154.106 0 1 128894 
+70.48.246.140 2 73 1771711 20150421105312
+98.84.223.200 0 1 138949 
+24.114.80.80 6 85 2049763 20150423204451
+188.233.117.217 0 1 55924 
+175.44.6.67 34 34 1995988 20150415091202
+164.39.138.55 5 11 386361 20150422015439
+184.151.178.107 2 72 1752920 20150421104227
+92.40.248.132 0 1 138949 
+91.79.7.66 0 1 55924 
+98.194.69.244 0 1 138949 
+174.95.79.138 0 1 116869 
+177.130.107.85 2 71 1761317 20150428151456
+89.253.229.254 1 1 55481 20150426031252
+188.29.165.45 0 1 138949 
+95.185.162.153 0 1 138949 
+174.91.167.167 2 72 1776558 20150407155608
+173.244.180.213 7 7 393691 20150430043953
+78.159.214.159 2 72 1742503 20150427070735
+54.166.158.1 2 2 117939 20150416174237
+174.112.54.153 4 76 1870592 20150424145501
+84.188.176.93 0 1 138949 
+144.76.185.173 3 3 162489 20150429071313
+52.5.57.167 1 1 58363 20150426031042
+75.109.198.66 3 80 1687111 20150430094537
+174.116.178.92 33 225 6577904 20150420140142
+91.239.89.34 0 2 111848 
+135.23.95.13 0 1 116869 
+85.26.232.12 0 1 55924 
+92.46.115.199 0 1 64239 
+59.145.174.78 0 1 138949 
+184.146.183.94 0 1 116869 
+93.61.29.92 1 1 5158 20150423225803
+159.20.201.38 1 1 5158 20150423024858
+209.202.5.69 0 1 116869 
+86.136.158.56 0 1 55924 
+108.11.49.30 0 1 138949 
+99.240.154.86 0 1 116869 
+216.163.188.224 1 1 58978 20150415113645
+75.56.180.195 0 1 138949 
+189.159.70.101 0 1 138949 
+46.25.29.221 1 1 5158 20150427110409
+194.213.105.13 1 1 3030 20150401103435
+174.252.19.122 0 1 138949 
+184.156.103.214 0 1 19805 
+66.26.85.250 0 1 138949 
+52.5.81.194 2 2 52034 20150408162745
+70.54.140.5 2 72 1776664 20150403094520
+70.49.40.198 0 1 31323 
+174.91.65.246 0 1 99393 
+24.139.106.251 0 1 138949 
+128.70.188.192 0 1 64239 
+68.169.186.132 0 1 99393 
+89.148.8.247 0 1 55924 
+188.123.237.35 0 1 64239 
+166.137.240.78 0 1 138949 
+69.81.92.141 0 1 88490 
+39.47.182.191 0 1 88238 
+194.6.232.149 29 29 336621 20150430214017
+66.249.83.191 4 61 1922726 20150430044448
+72.237.51.4 0 1 138949 
+95.179.126.234 0 1 55924 
+76.66.131.86 2 73 1795457 20150404122740
+188.143.232.72 1 1 58692 20150418194956
+5.81.60.33 0 1 138949 
+99.232.129.186 2 73 1795061 20150408050724
+92.100.223.128 0 1 55924 
+76.71.67.87 2 72 1776478 20150409115242
+128.140.199.22 0 1 64239 
+184.68.40.62 0 1 63074 
+199.119.233.133 4 75 3395757 20150408041916
+46.147.184.17 0 1 55924 
+128.70.98.44 0 1 55924 
+75.86.183.184 0 1 138949 
+213.87.143.175 0 1 55924 
+94.131.14.102 9 9 194513 20150427213710
+24.33.144.78 0 1 138949 
+209.203.71.2 0 1 138949 
+120.140.70.73 0 1 116869 
+173.34.34.169 6 110 2000515 20150404135825
+98.207.220.254 0 1 138949 
+62.252.62.100 0 1 90954 
+65.94.59.242 12 89 2952841 20150412073809
+173.32.101.108 2 70 1770271 20150414172435
+68.204.112.39 0 1 138949 
+31.174.216.7 0 1 138949 
+98.203.27.188 0 1 138949 
+99.232.118.247 3 68 1448697 20150418171347
+72.14.199.67 23 23 1083460 20150425061732
+107.142.14.255 0 1 19805 
+107.77.64.57 0 1 138949 
+173.32.99.100 2 57 1401037 20150414143755
+175.44.24.215 2 2 117444 20150417092030
+193.16.255.22 0 1 116869 
+109.229.17.63 1 1 5158 20150422080716
+23.96.208.137 1 1 58965 20150414192001
+24.150.180.208 0 1 116869 
+23.17.145.56 0 1 138949 
+205.167.7.194 4 67 1472795 20150423054709
+172.56.18.174 0 1 138949 
+173.244.181.27 4 4 222824 20150422065014
+66.249.80.12 0 1 104218 
+82.80.249.168 1 1 55462 20150414070924
+99.226.119.40 9 87 2201902 20150401110834
+174.27.241.8 0 1 138949 
+81.248.5.56 1 1 5158 20150420003213
+144.76.30.242 16 16 890032 20150403032142
+178.154.1.71 0 1 55924 
+46.119.127.20 2 2 112349 20150428043218
+52.4.63.21 2 2 102475 20150425125634
+37.78.152.85 0 1 55924 
+172.56.13.218 0 1 19805 
+99.237.105.163 4 77 1874554 20150405211421
+172.56.30.144 0 1 138949 
+142.1.11.67 2 73 1761902 20150422125418
+77.120.125.35 2 2 113778 20150428105427
+98.251.61.24 0 1 138949 
+174.90.223.163 6 77 1711860 20150416112903
+189.245.161.110 0 1 138949 
+178.33.227.174 5 5 232813 20150423100017
+187.22.61.244 7 7 104580 20150424051240
+63.250.204.23 0 2 158754 
+173.34.66.115 3 74 1848809 20150413122228
+113.184.237.124 1 1 3030 20150401103438
+14.99.97.155 2 72 1766529 20150413230428
+99.47.232.36 0 1 138949 
+172.56.26.47 0 1 138949 
+95.105.121.5 1 1 55480 20150425154827
+92.18.189.121 0 1 120873 
+212.233.55.151 2 72 1766769 20150407030719
+49.145.207.10 0 1 138949 
+50.8.59.31 0 1 138949 
+208.90.97.118 4 4 223588 20150427220612
+188.162.40.2 0 1 55924 
+200.92.93.139 0 1 138949 
+98.169.14.36 0 1 19805 
+54.221.46.48 0 2 167570 
+5.189.144.88 6 6 342228 20150430113728
+96.51.118.81 0 1 138949 
+79.165.67.121 0 1 64239 
+52.5.47.145 1 1 43157 20150426031045
+150.188.32.84 0 1 34754 
+216.254.160.65 25 121 4452124 20150408184404
+104.197.33.149 3 3 166875 20150402073738
+176.49.94.136 0 1 55924 
+108.235.6.201 0 1 138949 
+73.24.221.14 0 1 116869 
+172.56.31.9 0 1 138949 
+162.200.16.234 0 1 19805 
+69.165.236.178 2 72 1776378 20150407160739
+206.177.43.73 0 1 116869 
+205.189.94.11 2 73 1785596 20150411133306
+107.167.107.34 0 1 138949 
+211.176.253.186 0 1 55924 
+209.171.88.131 4 76 1869333 20150424125415
+92.222.71.25 1 1 59104 20150419061649
+66.249.79.74 1 1 55577 20150415225436
+173.34.74.93 6 82 2686955 20150402031135
+154.20.188.216 0 1 138949 
+193.55.147.122 1 2 122685 20150428053030
+129.174.70.88 0 1 138949 
+64.233.173.221 0 2 255818 
+66.249.81.169 1 4 196036 20150427025841
+166.137.10.88 0 1 138949 
+108.203.9.119 0 1 138949 
+67.6.59.38 0 1 116869 
+80.95.39.70 0 1 55924 
+216.249.134.11 0 1 128894 
+212.156.0.126 0 1 116869 
+54.198.232.77 1 1 55483 20150425072220
+97.76.109.238 0 1 138949 
+112.208.190.145 0 1 138949 
+178.206.75.49 0 1 55924 
+180.253.135.64 1 16 301030 20150424124842
+66.249.89.8 9 9 419175 20150424091717
+70.192.29.22 0 1 138949 
+99.249.255.12 2 74 1817804 20150402074521
+176.9.72.40 1 1 55579 20150416130301
+54.92.219.188 0 1 3036 
+174.117.107.108 21 373 4311944 20150418180727
+77.247.160.83 0 1 64239 
+50.87.144.125 8 8 0 20150429205359
+66.87.91.144 0 1 138949 
+24.114.70.43 2 72 1752508 20150415100940
+93.159.240.173 0 1 55924 
+2.90.125.252 0 1 116869 
+174.118.15.23 3 72 1501229 20150419192630
+85.255.233.148 0 1 42994 
+64.231.110.100 0 1 116869 
+122.169.92.115 0 1 113108 
+112.198.99.78 0 1 138949 
+70.55.217.110 1 1 4913 20150429100314
+66.249.91.8 4 4 186300 20150426031652
+189.177.154.1 0 2 126148 
+135.26.10.137 0 1 138949 
+172.56.20.137 0 1 138949 
+99.230.225.86 15 25 1123537 20150427122916
+24.114.56.73 2 73 1761298 20150425070349
+192.81.219.93 12 38 1016863 20150409121642
+108.175.81.223 0 1 138949 
+75.143.12.58 0 1 138949 
+217.44.148.191 0 1 138949 
+50.163.179.97 0 1 138949 
+195.154.188.224 4 4 268673 20150410122752
+200.181.208.165 2 49 1263583 20150412143027
+24.114.70.244 2 73 1771771 20150430210407
+172.56.36.66 0 1 138949 
+93.187.146.177 0 1 138949 
+96.126.113.125 2 2 112804 20150430200636
+104.197.77.157 3 3 171123 20150430073737
+68.52.183.235 0 1 55924 
+50.252.212.14 2 2 111109 20150419122028
+213.59.130.87 0 1 55924 
+66.249.79.66 2 2 110943 20150424233211
+188.162.132.3 0 1 55924 
+62.10.197.180 0 1 88490 
+93.125.99.18 1 1 55626 20150419072956
+66.43.55.8 1 1 55785 20150422142159
+99.228.198.241 0 1 116869 
+80.61.247.92 0 1 64239 
+99.73.133.218 0 1 138949 
+85.104.141.172 0 1 89053 
+173.79.225.237 0 1 138949 
+172.56.32.139 0 1 138949 
+164.127.54.18 0 1 19805 
+66.220.156.112 0 1 303664 
+74.12.53.206 2 73 1771619 20150430063855
+54.144.28.12 2 38 768530 20150406171714
+179.197.204.56 2 72 1766547 20150410060850
+216.183.136.141 0 1 106031 
+79.112.113.56 0 1 138949 
+202.46.61.125 1 1 55588 20150423035308
+87.196.198.140 2 36 756757 20150411083428
+122.160.49.200 0 1 138949 
+31.203.107.105 0 1 88490 
+88.200.137.198 0 1 64239 
+70.29.34.208 0 1 116869 
+78.36.187.191 0 1 64239 
+70.193.139.77 0 1 138949 
+96.127.211.134 0 1 138949 
+182.70.78.100 0 1 116869 
+103.1.96.130 0 1 138949 
+46.175.214.218 0 1 55924 
+99.229.136.9 0 1 116869 
+64.235.52.138 1 1 55579 20150417175709
+178.129.86.28 0 1 55924 
+70.196.77.11 3 70 1459955 20150415142416
+216.177.76.254 0 1 55924 
+121.35.210.62 0 1 116869 
+72.140.96.230 13 102 2491063 20150417082435
+94.174.94.248 0 1 116869 
+73.195.184.75 0 1 138949 
+101.167.120.112 0 1 88490 
+118.101.201.233 0 1 116869 
+121.41.123.148 2 2 2 20150428152604
+79.21.163.224 2 72 1742699 20150418210341
+174.91.134.193 2 73 1785322 20150414053246
+99.244.94.127 2 72 1752122 20150425134418
+178.64.138.146 0 1 64239 
+185.57.29.211 0 1 64239 
+95.27.53.120 0 3 192717 
+122.57.16.93 0 1 55924 
+88.206.54.43 0 1 75429 
+213.176.241.254 0 1 55924 
+24.246.43.245 2 72 1752510 20150423201256
+74.101.103.235 0 1 138949 
+177.237.108.144 0 1 138949 
+50.63.197.96 1 1 55628 20150406103730
+191.199.49.141 1 15 287927 20150423150917
+146.120.158.150 0 1 55924 
+95.149.57.196 0 1 138949 
+99.231.189.49 5 111 1988598 20150416121556
+37.29.40.102 0 1 55924 
+52.6.96.63 2 2 117456 20150425125633
+194.126.168.14 0 1 55924 
+120.147.83.209 0 1 138949 
+85.26.199.3 0 1 64239 
+108.59.65.158 1 1 55579 20150418114055
+95.128.246.44 1 1 472 20150409094214
+94.99.117.33 0 1 138949 
+54.82.167.1 5 5 254609 20150413180145
+85.115.248.62 0 1 55924 
+108.234.221.88 0 1 138949 
+104.174.242.92 0 1 138949 
+217.110.120.254 0 1 28922 
+95.37.229.126 0 1 55924 
+166.137.139.28 0 1 138949 
+99.254.93.28 2 73 1761292 20150425101943
+54.174.58.142 0 1 22351 
+54.159.115.254 1 1 55440 20150413040228
+66.69.32.76 0 1 138949 
+98.219.8.63 0 1 138949 
+66.87.98.193 0 1 138949 
+67.191.92.19 0 1 19805 
+103.53.34.21 2 38 768952 20150421090821
+66.249.88.154 0 3 182072 
+66.102.6.130 5 108 3225396 20150424124837
+199.91.135.140 1 1 715 20150430120017
+94.3.253.240 0 1 116869 
+94.23.240.216 18 18 838009 20150430173850
+73.167.118.184 0 1 138949 
+99.231.200.231 2 73 1771301 20150423201134
+73.46.229.203 0 1 19805 
+108.46.58.254 0 1 138949 
+96.48.240.97 0 1 116869 
+95.143.19.175 0 1 64239 
+41.151.16.6 0 1 138949 
+99.98.141.107 0 1 138949 
+99.250.105.12 2 73 1795061 20150408052139
+31.173.240.47 0 1 55924 
+62.153.1.191 3 70 1444327 20150427094800
+69.117.52.196 0 1 138949 
+208.90.57.196 1 1 55469 20150410104354
+184.161.24.107 0 1 116869 
+68.227.28.77 0 1 138949 
+50.150.56.111 0 1 138949 
+54.186.159.172 1 1 59015 20150414210128
+95.73.192.128 0 1 55924 
+46.4.189.109 8 8 346345 20150412133657
+148.251.75.46 1 1 43706 20150407175111
+5.255.199.65 0 1 55924 
+69.158.26.6 2 72 1752594 20150419071920
+46.17.245.50 0 1 138949 
+66.87.74.170 0 1 138949 
+99.235.178.14 2 73 1785648 20150409094224
+37.231.159.140 0 1 55924 
+66.102.6.243 1 88 3556190 20150416031526
+66.249.81.173 1 4 218210 20150422060523
+65.96.26.23 0 1 138949 
+197.38.145.74 0 1 99393 
+207.219.69.247 4 76 1928280 20150408060506
+179.42.182.180 2 46 1393943 20150423092522
+85.115.170.19 0 1 55924 
+14.1.193.88 0 1 55924 
+174.119.226.178 2 72 1776290 20150412201445
+52.5.102.173 1 1 55627 20150402084554
+73.187.125.90 0 1 138949 
+24.36.198.196 0 2 241468 
+66.177.196.232 0 1 138949 
+4.34.132.146 0 1 138949 
+202.46.62.82 1 1 84922 20150414165118
+37.215.78.121 0 1 55924 
+46.63.157.132 0 1 64239 
+70.77.200.179 0 2 277898 
+142.68.132.16 9 153 2270441 20150429084700
+75.115.108.121 0 2 277898 
+108.30.18.123 0 1 138949 
+52.1.144.77 8 8 462875 20150407221621
+80.3.72.193 0 1 138949 
+188.138.1.229 1 1 55579 20150418064658
+2.135.55.238 0 1 64239 
+62.210.146.244 1 1 55562 20150414202337
+54.92.139.88 1 1 55483 20150425062122
+75.134.2.167 0 1 105934 
+173.32.11.107 0 1 116869 
+178.57.6.80 0 1 55924 
+176.18.11.220 0 1 55924 
+107.77.94.19 0 1 90954 
+172.11.254.58 0 1 138949 
+76.103.123.87 0 1 90954 
+24.114.71.12 0 1 19805 
+89.168.166.121 0 1 138949 
+125.26.5.155 0 1 116869 
+99.249.206.222 0 1 19805 
+85.232.154.168 0 1 116869 
+72.220.86.69 0 1 138949 
+54.81.114.149 0 1 3208 
+5.158.107.126 0 1 64239 
+99.247.41.76 6 86 2105959 20150402042856
+104.197.22.87 3 3 166223 20150421073850
+173.241.104.68 0 1 138949 
+178.171.125.212 0 1 55924 
+70.48.57.69 5 77 1921072 20150421100009
+54.146.198.96 0 1 2957 
+108.180.43.51 2 65 1382714 20150418155020
+99.231.181.84 5 76 1873835 20150420190503
+119.93.25.175 0 1 138949 
+100.37.159.96 0 1 138949 
+66.249.93.242 0 2 255818 
+37.105.9.179 0 1 138949 
+69.118.42.200 0 1 138949 
+152.13.52.122 0 1 138949 
+212.67.117.218 0 1 138949 
+46.53.205.36 0 1 116869 
+24.187.55.37 0 1 138949 
+166.170.14.18 0 1 138949 
+199.119.233.150 4 76 1928336 20150412114629
+31.51.203.3 0 1 138949 
+2.26.170.211 0 1 138949 
+216.37.13.98 0 1 138949 
+159.247.3.210 0 1 138949 
+94.29.124.208 0 1 55924 
+62.198.197.173 0 1 116869 
+99.238.146.220 9 84 2135737 20150415132754
+93.64.245.170 1 1 4953 20150412120957
+205.154.31.157 0 1 138949 
+177.126.234.236 2 38 768956 20150421165007
+118.97.57.7 0 1 116869 
+189.142.16.182 0 1 63074 
+177.34.20.210 2 56 1472819 20150415184135
+98.254.111.110 0 1 138949 
+112.206.78.216 0 1 138949 
+159.20.180.99 1 1 5158 20150418120608
+67.246.16.122 0 1 19805 
+70.30.116.199 2 73 1769573 20150418061825
+104.246.39.79 0 1 138949 
+24.252.238.200 3 68 1420075 20150428102328
+50.161.174.171 0 1 138949 
+104.219.25.20 0 1 88490 
+177.206.141.163 0 1 22337 
+72.195.132.202 0 1 116869 
+192.75.165.28 7 121 3116246 20150420083854
+166.137.126.65 0 1 138949 
+87.249.206.162 0 1 55924 
+203.56.246.157 0 1 138949 
+185.5.152.90 0 1 138949 
+220.181.38.183 0 1 88238 
+172.56.26.246 0 1 116869 
+173.32.224.225 1 1 4916 20150418103059
+173.196.13.122 3 74 1840807 20150410103551
+2.94.60.176 0 1 55924 
+50.101.45.69 0 1 138949 
+54.197.140.164 1 1 55624 20150420024736
+123.125.71.52 1 1 55599 20150410195527
+82.208.100.50 0 2 111848 
+177.126.201.46 2 24 527476 20150407180506
+99.122.168.7 0 2 277898 
+108.168.15.10 0 1 116869 
+50.92.21.213 3 70 1459892 20150414202554
+130.43.67.165 0 1 116869 
+103.247.48.92 0 1 55924 
+81.100.21.114 0 1 138949 
+83.244.55.38 0 1 116869 
+178.175.25.191 0 1 116869 
+210.246.49.175 0 1 138949 
+37.212.182.255 0 1 55924 
+185.66.250.120 4 4 222034 20150427082551
+66.46.158.122 2 75 1786610 20150410095234
+89.120.86.62 0 1 116869 
+172.56.13.176 0 1 138949 
+97.71.46.170 0 1 138949 
+72.39.29.126 2 64 1717903 20150423202758
+149.101.37.2 0 1 138949 
+174.95.95.127 2 73 1785334 20150409145537
+104.247.228.97 2 73 1771099 20150425041120
+12.1.48.108 0 1 138949 
+108.232.182.147 0 1 138949 
+94.131.14.13 9 9 241201 20150428052654
+100.37.184.61 0 1 138949 
+81.129.66.151 0 1 116869 
+193.111.136.162 1 1 55785 20150422075211
+152.2.15.26 0 1 138949 
+78.25.122.215 0 1 55924 
+204.101.190.163 3 77 1798968 20150419065926
+69.157.66.14 3 74 1817069 20150416112436
+73.166.34.157 0 1 90088 
+188.130.189.2 0 1 55924 
+76.115.45.224 0 1 116869 
+91.207.7.54 2 2 111154 20150415225624
+197.133.57.59 0 1 138949 
+46.118.119.63 16 16 446736 20150423013552
+166.181.82.187 0 1 138949 
+199.119.233.155 0 1 116869 
+82.14.14.114 0 1 116869 
+37.209.253.158 0 1 106031 
+195.112.98.126 0 1 64239 
+212.164.173.48 0 1 55924 
+95.108.220.162 0 1 55924 
+99.233.202.248 1 1 56995 20150429083239
+217.118.79.24 0 1 55924 
+52.4.195.35 1 1 43287 20150408162746
+72.53.149.227 2 73 1785650 20150402051724
+199.216.218.10 0 1 116869 
+182.70.0.7 0 1 138949 
+46.39.49.203 0 1 64239 
+54.197.168.201 1 1 58965 20150414194757
+92.98.175.188 0 1 138949 
+47.18.245.26 0 1 138949 
+175.136.238.89 0 1 116869 
+31.135.102.96 0 1 64239 
+78.61.100.81 1 1 3030 20150401103434
+85.141.70.206 0 1 64239 
+61.135.190.100 1 19 357579 20150423014412
+173.247.200.84 0 1 138949 
+188.9.90.243 0 1 22337 
+147.26.87.16 2 5 149149 20150415145835
+50.28.8.223 5 75 1924483 20150421201520
+5.9.145.132 3 4 192688 20150411152812
+109.187.68.133 0 1 64239 
+200.86.216.80 0 1 116869 
+142.54.160.106 2 2 117813 20150409131751
+52.5.106.149 2 2 114246 20150407032123
+154.70.32.65 0 1 138949 
+162.196.205.24 0 1 138949 
+83.149.47.217 0 1 55924 
+66.43.51.8 1 1 55791 20150421142626
+37.59.162.229 1 1 55598 20150411120818
+76.71.0.143 2 72 1776344 20150409172456
+99.233.188.103 2 56 1710736 20150421060846
+92.113.149.4 2 2 102156 20150415030043
+207.182.129.230 5 5 277631 20150422074034
+173.2.164.90 0 1 138949 
+173.9.98.45 0 1 138949 
+5.45.255.95 0 1 64239 
+213.87.248.135 0 2 111848 
+207.219.69.206 1 1 55574 20150407125742
+23.251.190.203 3 73 1816011 20150418084738
+31.216.160.60 0 1 55924 
+206.172.42.30 3 77 1802521 20150427132831
+99.234.246.5 2 72 1776168 20150410090514
+199.7.157.15 2 72 1776666 20150405061933
+201.34.232.215 2 37 702691 20150402052534
+54.81.155.94 1 1 59015 20150414205121
+174.3.73.77 0 1 138949 
+67.172.159.35 0 1 55924 
+107.77.90.115 0 1 138949 
+27.125.163.58 0 1 138949 
+202.46.50.101 1 1 55578 20150406165528
+75.120.40.228 0 1 19805 
+24.196.234.229 0 1 19805 
+202.46.63.95 1 1 58602 20150425183534
+180.253.69.36 0 1 138949 
+62.117.83.150 0 1 55924 
+176.103.48.34 1 1 55789 20150421124903
+70.27.1.34 4 67 1772259 20150424205408
+54.166.191.163 0 1 138949 
+109.98.83.250 2 70 1766058 20150413101333
+70.28.53.16 4 80 1901071 20150408222336
+24.0.128.229 0 1 19805 
+24.57.136.73 2 72 1752592 20150420140117
+37.215.122.232 0 1 55924 
+5.228.250.236 0 1 28922 
+5.164.212.7 0 1 64239 
+128.218.201.144 0 1 138949 
+77.230.247.201 0 1 88490 
+142.196.18.86 0 1 138949 
+100.10.65.61 0 1 138949 
+173.35.72.120 9 82 2079528 20150416081150
+99.227.120.95 0 1 140050 
+108.23.26.224 0 1 138949 
+98.168.137.155 0 2 277898 
+70.162.100.228 0 1 138949 
+5.138.105.61 0 1 55924 
+109.127.191.199 0 1 64239 
+193.222.135.194 0 1 88490 
+74.99.78.95 0 1 138949 
+92.22.195.171 0 1 138949 
+178.252.192.198 0 1 55924 
+199.116.221.167 0 1 138949 
+46.233.193.143 0 1 55924 
+67.171.29.35 0 1 116869 
+166.182.3.249 0 1 138949 
+36.81.15.100 0 2 198786 
+123.30.175.220 1 1 55440 20150412201942
+206.196.111.204 2 2 111109 20150426173210
+37.212.59.64 0 1 55924 
+96.227.124.38 5 5 277822 20150418184600
+188.51.78.104 0 1 116869 
+148.251.124.42 5 6 304674 20150408040235
+172.218.186.146 0 2 39610 
+5.9.106.81 1 1 43759 20150402140156
+37.232.248.97 0 1 55924 
+209.51.197.147 3 3 167055 20150424205758
+209.171.88.172 7 87 2169924 20150423191927
+99.248.14.220 0 1 116869 
+207.182.129.228 4 4 221338 20150425212557
+178.207.247.14 0 1 55924 
+130.242.104.226 0 1 138949 
+70.27.162.101 5 77 1952815 20150411222332
+71.248.175.46 0 1 138949 
+184.161.107.29 0 1 116869 
+184.151.190.150 2 72 1776270 20150408050246
+180.254.215.106 2 72 1742709 20150424053107
+188.27.57.112 0 1 138949 
+5.9.214.2 1 1 55625 20150402072339
+72.14.199.61 20 21 1049859 20150425031353
+209.51.197.146 8 8 446472 20150428063311
+217.118.95.71 0 1 55924 
+112.211.94.172 0 1 99393 
+208.114.154.24 0 1 55924 
+95.183.79.51 0 1 55924 
+64.40.248.183 10 278 6719505 20150429130438
+163.150.225.50 0 1 138949 
+94.233.148.95 0 1 64239 
+74.112.131.243 1 1 58963 20150414192105
+216.69.191.112 10 90 2882275 20150425051150
+184.148.64.97 0 1 116869 
+99.233.94.249 2 68 1606105 20150415135250
+99.236.248.49 2 72 1752500 20150418160125
+173.238.58.14 4 75 1882449 20150418044651
+104.12.207.124 0 1 138949 
+50.31.248.169 1 1 403 20150426221231
+79.134.11.207 0 1 55924 
+178.94.172.226 2 2 101986 20150413115324
+68.187.118.39 0 1 88490 
+99.237.204.23 2 73 1795093 20150412104434
+151.20.181.189 2 49 1259263 20150414024813
+24.140.83.67 0 1 99393 
+54.83.138.126 1 1 58965 20150414200145
+144.76.64.115 12 12 667500 20150402010053
+95.220.3.113 0 1 55924 
+105.48.192.230 0 1 138949 
+172.56.7.1 0 3 416847 
+207.164.255.138 2 73 1795457 20150406102648
+98.230.90.202 0 1 55924 
+5.104.241.175 2 2 0 20150404052911
+98.248.33.69 0 1 138949 
+14.99.115.126 7 86 2095800 20150422221444
+54.145.146.196 0 1 111599 
+209.190.6.122 11 11 611344 20150430073936
+37.63.234.4 0 1 116869 
+23.27.21.116 1 1 5033 20150415002526
+46.201.146.10 0 1 55924 
+92.113.13.21 3 3 157700 20150406180023
+64.38.83.151 0 1 138949 
+66.87.116.65 0 1 138949 
+46.229.167.149 2 2 110960 20150425194605
+109.67.19.152 0 1 55924 
+108.203.40.205 0 1 19805 
+213.248.211.172 2 2 55580 20150407061049
+66.212.171.118 3 71 1839314 20150410080719
+174.21.98.249 0 1 138949 
+54.167.253.124 0 1 49701 
+95.71.194.20 0 1 55924 
+93.125.99.46 1 1 55624 20150409121758
+101.176.250.161 0 1 116869 
+99.234.71.4 12 93 2659965 20150410154135
+112.198.77.97 2 73 1743902 20150415144151
+174.45.195.254 0 1 138949 
+192.162.96.86 0 1 55924 
+88.207.126.36 0 1 138949 
+75.186.41.12 0 1 19805 
+107.77.83.25 0 1 138949 
+59.126.254.21 2 72 1766863 20150403012201
+37.212.130.7 0 1 55924 
+99.244.117.159 0 1 19805 
+178.18.141.110 4 4 225059 20150430053545
+40.138.111.167 0 1 138949 
+82.146.43.225 7 7 114942 20150408103229
+65.3.192.141 0 1 138949 
+75.155.169.35 0 1 116869 
+64.229.247.20 1 1 55488 20150406154052
+166.181.3.142 0 1 138949 
+192.99.15.85 3 3 166747 20150415153507
+86.98.83.187 0 1 138949 
+99.238.126.44 0 1 116869 
+89.204.92.24 0 1 55924 
+92.124.30.234 0 1 55924 
+85.75.186.231 0 1 116869 
+119.94.51.250 0 1 138949 
+66.249.84.185 2 46 2726957 20150429153701
+173.206.45.176 2 73 1785656 20150403112927
+83.47.133.74 0 1 138949 
+46.118.159.220 1 1 4953 20150405014655
+99.59.213.36 0 1 19805 
+159.20.137.169 1 1 5158 20150418120633
+91.216.22.227 0 1 55924 
+24.226.56.207 2 41 1138317 20150420162641
+24.114.51.125 1 8 112540 20150422215032
+185.3.34.21 0 1 55924 
+98.94.57.102 0 1 138949 
+119.246.242.56 0 1 138949 
+98.226.101.22 0 1 138949 
+52.0.35.180 1 1 41858 20150424224302
+96.31.232.83 0 1 138949 
+85.75.80.144 0 1 116869 
+5.141.210.168 0 1 55924 
+54.211.63.34 1 1 55578 20150406164718
+220.181.108.97 2 2 112468 20150427171211
+180.153.163.187 1 1 55579 20150418035227
+93.80.55.232 2 73 1768060 20150406111706
+100.9.203.27 0 1 138949 
+92.118.51.242 0 1 116869 
+69.251.50.34 0 1 138949 
+108.69.74.0 0 1 138949 
+50.136.139.68 0 2 277898 
+177.129.90.37 11 11 56738 20150420003214
+71.84.207.66 0 2 277898 
+14.192.210.22 0 1 116869 
+76.30.54.6 0 1 138949 
+85.31.138.196 0 1 55924 
+172.56.1.232 0 1 138949 
+174.36.15.58 1 1 403 20150404005031
+70.48.44.32 3 72 1492076 20150418142405
+85.26.232.117 0 1 64239 
+116.104.0.27 0 1 99393 
+70.192.1.151 0 1 138949 
+66.249.89.10 5 5 232875 20150424062332
+99.234.219.11 0 1 116869 
+107.77.90.76 0 1 138949 
+173.247.178.165 3 74 1817687 20150422081356
+104.139.15.6 0 1 19805 
+95.181.78.6 0 1 64239 
+188.247.77.69 0 1 64239 
+54.158.83.150 4 4 179493 20150428020753
+67.243.160.171 0 1 138949 
+46.28.98.232 0 1 55924 
+23.95.43.108 1 1 55482 20150409000353
+70.211.72.219 0 1 138949 
+90.189.170.16 0 1 55924 
+176.108.193.19 0 2 111848 
+109.225.12.110 0 1 55924 
+131.253.36.205 0 17 416056 
+37.104.195.188 0 1 138949 
+150.129.142.128 0 1 116869 
+106.220.99.250 0 1 138949 
+65.93.137.185 2 73 1742772 20150416061820
+99.253.144.188 2 72 1766533 20150414083257
+24.114.71.173 1 1 55459 20150414184745
+81.177.225.181 0 2 128478 
+198.211.113.92 12 38 1017677 20150422060155
+209.64.153.92 0 1 138949 
+54.145.237.207 10 158 3117894 20150428023418
+99.237.179.24 3 73 1823666 20150424123031
+195.211.154.195 4 4 308651 20150404182952
+31.148.246.98 0 1 55924 
+96.51.173.55 3 70 1459943 20150414222454
+100.1.157.42 0 1 116869 
+99.225.212.17 3 66 1820265 20150410193818
+46.175.218.63 0 1 55924 
+174.88.140.128 3 73 1816629 20150422075214
+135.0.79.215 2 73 1795457 20150403163927
+145.255.21.51 1 1 42 20150417174503
+24.200.7.238 2 72 1776328 20150414175223
+109.184.191.168 0 1 55924 
+82.79.21.193 0 1 138949 
+109.184.195.121 0 1 55924 
+76.247.220.124 0 1 138949 
+209.171.88.122 0 1 116869 
+70.112.99.160 0 2 277898 
+173.178.236.35 2 72 1776612 20150411055229
+95.72.150.144 0 1 64239 
+72.198.217.219 0 1 138949 
+198.252.44.7 3 3 166670 20150410004136
+189.35.175.196 2 72 1766533 20150414114717
+108.64.174.131 0 1 19805 
+173.58.156.244 0 1 138949 
+135.23.187.38 7 71 1609494 20150407173346
+71.72.60.223 0 1 138949 
+94.29.124.190 0 1 55924 
+94.126.178.1 1 1 55482 20150424114949
+80.252.136.198 0 1 64239 
+95.186.31.88 0 1 116869 
+104.197.51.212 3 3 166758 20150424073745
+208.54.64.218 0 1 138949 
+162.196.62.13 0 1 138949 
+182.68.180.136 0 1 138949 
+66.249.89.9 11 11 512325 20150424122003
+76.98.4.173 0 1 34754 
+68.224.101.82 0 1 138949 
+205.74.163.114 0 1 138949 
+182.172.176.47 0 1 88490 
+95.44.107.213 0 1 116869 
+204.101.16.199 0 1 138949 
+5.44.169.182 0 1 55924 
+75.168.247.35 0 1 138949 
+131.92.76.176 0 1 138949 
+69.120.186.190 0 1 138949 
+70.197.2.34 0 1 138949 
+62.210.75.243 2 28 569399 20150415052032
+90.211.193.210 0 1 138949 
+94.41.160.18 0 1 55924 
+54.167.252.122 1 1 58502 20150414205831
+95.185.88.226 0 1 138949 
+86.24.151.101 0 1 138949 
+107.136.6.110 0 1 138949 
+5.166.165.82 0 1 55924 
+162.244.11.123 2 2 118092 20150422101047
+5.104.241.189 1 1 0 20150426232340
+124.184.82.215 0 1 138949 
+54.84.108.137 1 1 55578 20150406181139
+24.54.32.242 0 2 233738 
+71.123.53.186 0 1 138949 
+190.235.239.77 0 1 63074 
+72.51.224.115 0 1 138949 
+81.130.69.127 0 1 138949 
+54.224.129.83 5 41 901366 20150414160532
+66.65.30.151 0 1 138949 
+82.178.199.98 0 1 116869 
+77.66.181.85 0 1 64239 
+112.198.83.5 0 1 138949 
+50.108.135.230 3 66 1459556 20150420063344
+173.206.253.147 2 73 1766090 20150430174840
+50.164.205.12 0 1 138949 
+108.50.30.119 0 2 159855 
+66.249.80.21 1 3 162743 20150414073311
+5.2.64.15 5 5 25 20150421141646
+209.141.190.113 2 72 1776666 20150405174813
+104.180.196.37 0 1 138949 
+198.84.196.213 2 72 1752308 20150425060014
+94.204.87.138 0 1 116869 
+93.107.66.153 0 1 116869 
+178.91.106.198 0 1 55924 
+46.175.120.20 0 1 55924 
+68.189.184.105 0 3 416847 
+216.183.143.173 2 75 1837367 20150414040108
+71.65.234.143 0 1 138949 
+99.238.223.139 2 73 1761498 20150415134219
+195.211.28.2 0 2 111848 
+5.166.196.25 0 1 64239 
+61.69.1.160 0 1 138949 
+104.11.54.142 0 1 138949 
+77.79.173.108 0 1 55924 
+75.191.139.169 0 2 277898 
+76.182.255.60 0 1 138949 
+50.59.189.124 0 1 138949 
+79.139.170.40 0 1 64239 
+54.80.160.195 0 1 49701 
+162.236.138.4 0 1 138949 
+174.129.84.101 2 2 89213 20150420025135
+82.146.32.138 1 1 4953 20150415041734
+208.107.139.113 0 1 138949 
+99.226.244.72 2 72 1776664 20150403053024
+101.181.7.106 0 1 138949 
+121.99.216.232 0 1 138949 
+66.87.130.242 0 1 138949 
+195.154.191.162 6 6 395208 20150409055642
+93.171.128.241 0 1 55924 
+71.198.185.161 0 1 138949 
+172.56.33.155 0 1 138949 
+67.81.162.177 0 1 138949 
+108.28.66.213 0 1 138949 
+70.24.6.188 5 81 2022981 20150404081122
+50.18.94.121 2 2 0 20150414191949
+2.92.19.101 0 1 55924 
+2.100.181.120 0 1 138949 
+99.250.127.116 11 92 2438887 20150414195814
+114.184.34.70 0 2 111848 
+68.61.148.102 0 1 138949 
+174.114.140.202 2 72 1776122 20150412065703
+142.4.218.156 12 12 674450 20150424050655
+74.47.127.69 0 1 138949 
+115.248.142.118 0 1 138949 
+50.111.96.153 0 1 138949 
+209.52.88.105 12 150 2552767 20150418112741
+66.249.93.236 0 4 522878 
+66.249.92.67 4 4 186176 20150413012532
+69.157.1.195 2 73 1785602 20150411041737
+70.208.200.245 0 1 138949 
+146.200.153.125 0 1 116869 
+72.36.17.198 0 1 19805 
+213.21.46.16 0 1 64239 
+174.113.16.221 2 72 1752308 20150425070317
+99.231.55.252 0 1 19805 
+79.133.116.146 0 1 55924 
+203.52.130.220 0 1 138949 
+172.56.21.0 0 1 116869 
+194.105.132.88 1 1 3030 20150412044222
+98.143.70.16 2 72 1776334 20150414145243
+101.191.43.142 0 1 138949 
+104.197.40.223 1 1 55628 20150406073714
+61.4.76.213 0 1 90954 
+99.233.38.140 2 67 1402502 20150425100833
+76.103.208.22 0 1 55924 
+176.10.104.234 18 18 988219 20150407213312
+201.21.67.208 2 72 1743119 20150421105059
+190.205.253.210 15 15 77370 20150420003051
+204.76.166.50 0 1 138949 
+66.249.73.241 7 7 392047 20150430231924
+99.236.93.199 0 1 55924 
+177.231.225.15 0 1 116869 
+69.116.116.142 0 1 138949 
+99.234.222.153 0 1 19805 
+217.71.235.241 0 1 55924 
+71.87.90.80 0 1 138949 
+92.230.215.97 0 1 138949 
+99.190.140.227 0 1 138949 
+95.158.248.236 0 1 55924 
+142.177.217.230 2 65 1382514 20150414192726
+31.28.207.101 0 1 64239 
+88.30.37.161 0 1 116869 
+37.215.158.150 0 1 55924 
+37.187.56.47 1 1 55625 20150421024126
+126.122.174.201 0 1 138949 
+71.162.220.222 0 1 138949 
+46.254.217.126 0 1 55924 
+70.75.92.110 0 1 138949 
+109.150.161.140 0 1 63074 
+66.214.122.132 0 1 138949 
+74.208.16.210 13 13 242013 20150427132411
+52.1.254.250 1 1 55628 20150406084908
+199.71.174.200 8 223 2228761 20150417014644
+64.231.152.176 2 73 1429273 20150415121223
+69.158.151.116 2 72 1776664 20150403071539
+144.132.32.15 0 1 138949 
+192.0.161.172 2 74 1786795 20150410211225
+178.141.1.88 0 1 55924 
+198.84.203.151 7 145 3329979 20150422155153
+131.253.24.157 0 8 314813 
+52.1.252.113 1 1 55442 20150413155635
+124.13.72.111 0 1 138949 
+24.114.52.175 2 73 1771703 20150422085041
+24.114.45.238 0 1 138949 
+209.171.88.44 2 69 1745637 20150419213726
+106.51.240.222 0 1 138949 
+177.43.63.141 5 5 25790 20150405085609
+24.114.58.66 2 72 1776666 20150404091739
+217.69.133.169 6 12 445777 20150426165731
+89.23.193.148 0 1 55924 
+64.233.173.211 0 8 830625 
+47.23.126.90 0 1 138949 
+67.68.30.244 21 171 4526498 20150409183556
+122.105.130.61 0 1 138949 
+148.251.11.211 2 2 110916 20150408153836
+99.199.74.30 0 1 116869 
+204.124.183.98 5 5 277859 20150418141538
+24.114.55.29 2 72 1752302 20150425194851
+37.212.54.239 0 1 55924 
+94.131.14.17 23 23 1175142 20150417205304
+89.223.47.218 0 1 55924 
+24.114.66.252 2 69 1758866 20150429045917
+54.197.99.87 1 1 55480 20150425152318
+204.108.18.91 0 1 138949 
+173.183.143.36 0 1 88238 
+50.21.128.89 0 1 116869 
+99.225.54.54 2 72 1776666 20150406070806
+54.188.71.94 0 1 138949 
+92.221.7.91 0 1 99393 
+184.144.107.118 1 1 55369 20150414183531
+99.237.242.129 0 1 116869 
+189.33.218.43 2 72 1742707 20150415205708
+24.114.39.240 2 72 1776610 20150410233656
+162.209.84.156 1 1 56889 20150428064528
+75.81.203.24 0 1 138949 
+24.250.66.49 0 1 138949 
+86.154.25.170 0 1 116869 
+124.150.105.31 0 1 55924 
+100.11.151.90 0 1 138949 
+68.80.30.141 0 1 138949 
+70.199.96.202 0 1 138949 
+83.149.48.27 0 1 55924 
+178.125.175.26 0 1 55924 
+217.96.18.163 1 1 55579 20150417110150
+79.7.60.55 1 14 247367 20150428094033
+99.162.69.198 0 1 138949 
+83.166.109.84 0 1 55924 
+130.211.186.69 2 2 111154 20150416073909
+197.231.221.211 3 3 112574 20150430182934
+50.131.123.88 0 1 55924 
+66.249.93.239 0 2 222900 
+196.41.49.130 0 1 138949 
+70.209.206.207 0 1 138949 
+24.226.55.126 0 1 138949 
+198.211.96.53 2 28 569499 20150401090058
+24.37.201.254 0 1 116869 
+74.193.206.108 0 1 138949 
+68.187.169.128 2 72 1742505 20150424150749
+208.101.69.127 1 1 60194 20150428064804
+85.26.183.138 0 1 55924 
+207.182.129.226 18 18 999338 20150425212558
+37.193.200.5 0 1 19805 
+188.162.80.69 0 1 116869 
+66.129.175.210 0 1 138949 
+24.114.68.187 0 1 19805 
+70.211.132.189 0 1 104577 
+187.173.145.18 0 1 138949 
+82.145.208.147 0 1 55924 
+174.31.129.233 0 1 138949 
+213.138.86.202 0 1 55924 
+92.21.21.57 0 1 138949 
+75.162.22.42 0 1 19805 
+54.243.20.173 0 1 3235 
+71.41.58.178 0 1 138949 
+50.63.194.170 1 1 55628 20150406103731
+108.67.157.130 0 2 181908 
+109.252.68.40 0 1 64239 
+73.141.134.106 0 1 138949 
+46.216.245.85 0 1 55924 
+213.154.173.143 0 1 64239 
+66.249.82.130 0 49 2161117 
+24.133.87.59 10 10 51580 20150418021627
+99.227.133.200 8 92 2588480 20150418174746
+24.114.51.251 2 73 1771851 20150430082133
+175.44.7.157 27 27 1593712 20150429112024
+176.204.211.219 0 1 138949 
+115.64.29.189 0 1 138949 
+83.242.224.114 0 1 64239 
+95.27.7.214 0 1 64239 
+82.80.249.170 1 1 55481 20150426150943
+205.210.47.14 1 74 1724849 20150428104105
+142.161.222.235 0 1 116869 
+50.243.182.161 0 1 19805 
+66.249.84.191 1 37 1249944 20150414074727
+52.1.111.58 1 1 43680 20150424224259
+121.54.32.156 0 1 99393 
+166.62.188.120 0 1 116869 
+54.234.145.80 1 1 58957 20150414203241
+54.198.131.110 0 1 106031 
+54.146.132.188 1 1 55480 20150425152317
+136.159.49.120 0 1 88238 
+188.68.249.126 1 1 4953 20150429003529
+83.174.219.140 0 1 55924 
+123.211.165.177 0 1 138949 
+174.94.8.138 0 1 116869 
+166.137.136.120 0 2 277898 
+73.129.69.203 0 1 19805 
+176.9.155.247 5 5 277368 20150408153837
+108.20.169.113 0 1 138949 
+68.145.195.98 0 1 106031 
+181.66.157.233 0 1 63074 
+112.198.77.178 1 2 197934 20150418015118
+87.211.78.85 0 1 116869 
+124.150.66.204 0 1 138949 
+43.250.211.57 0 1 138949 
+142.177.216.109 3 68 1468546 20150412093347
+178.159.242.91 3 3 167157 20150421104024
+70.27.69.132 2 72 1776666 20150404081808
+99.228.77.162 2 74 1798240 20150430102022
+174.95.209.145 2 73 1771553 20150428042706
+65.51.207.226 0 1 55924 
+121.54.58.148 0 1 138949 
+46.44.38.71 0 1 55924 
+173.244.181.14 3 3 167039 20150421103202
+24.114.69.95 1 7 108077 20150419083123
+88.248.250.247 1 1 3030 20150401103431
+104.178.253.229 0 1 138949 
+75.71.43.111 0 1 138949 
+50.175.52.18 0 1 138949 
+99.231.110.181 3 74 1849283 20150410222911
+95.233.46.215 0 1 116869 
+188.87.40.137 0 1 116869 
+178.198.184.154 0 1 116869 
+69.35.177.181 0 1 138949 
+54.187.34.87 2 2 56292 20150416074253
+213.248.211.173 4 4 111091 20150419230722
+99.252.193.4 5 78 1903361 20150411113036
+24.84.241.139 0 1 55924 
+69.42.245.31 0 1 138949 
+117.240.188.34 0 1 138949 
+176.240.53.42 0 1 116869 
+100.42.251.103 3 66 1459556 20150420091336
+99.234.247.187 6 86 2132425 20150406161656
+162.211.179.246 1 1 55628 20150404210128
+91.215.79.117 0 1 55924 
+173.244.180.212 1 1 55627 20150419094803
+93.125.99.40 1 1 55482 20150409005748
+46.229.170.193 1 1 56889 20150427180321
+123.236.127.49 2 56 1472819 20150415115349
+54.191.93.64 3 3 145112 20150401115149
+49.151.104.232 0 1 138949 
+117.192.189.93 0 1 138949 
+75.40.73.60 0 1 138949 
+91.149.157.145 1 1 55469 20150410005156
+178.92.162.186 0 1 28922 
+109.230.155.33 0 1 64239 
+113.210.135.134 0 1 138949 
+69.174.87.68 0 1 138949 
+69.204.56.122 0 1 138949 
+67.70.38.222 5 79 2016922 20150425210351
+173.73.39.90 0 1 138949 
+195.154.189.155 8 8 540185 20150413033721
+101.226.33.216 1 1 57012 20150430035228
+70.49.124.227 2 73 1771095 20150426050942
+49.230.167.37 0 1 55924 
+107.167.103.102 0 2 277898 
+85.56.147.69 2 2 10795 20150412044640
+62.109.30.190 0 1 64239 
+88.121.209.226 0 1 138949 
+180.76.4.239 1 1 55440 20150413022850
+99.235.172.13 2 73 1795457 20150406090058
+109.160.93.134 0 1 116869 
+99.236.182.121 0 1 116869 
+209.82.41.112 2 2 99255 20150421203037
+72.76.211.66 0 1 138949 
+190.19.240.79 0 1 138949 
+63.250.204.24 0 1 138949 
+66.249.64.16 1 1 55791 20150421230501
+94.131.14.6 1 1 55628 20150405023240
+144.76.155.8 4 6 294048 20150430095827
+186.18.13.43 4 4 20632 20150420003126
+99.233.116.103 2 72 1752304 20150426063236
+52.5.148.48 10 10 525212 20150412233927
+213.87.248.33 0 1 55924 
+64.40.242.69 10 91 2256812 20150424110108
+46.216.38.8 0 2 111848 
+99.234.98.231 2 72 1776664 20150403071924
+173.206.104.111 4 74 1887730 20150407065547
+95.153.187.142 0 1 64239 
+220.181.108.142 1 1 57038 20150430100727
+70.208.85.101 0 1 138949 
+96.246.92.190 0 1 138949 
+101.182.89.139 0 1 138949 
+97.122.104.2 0 1 138949 
+181.214.61.183 3 3 15099 20150415153540
+75.173.101.212 0 1 138949 
+128.140.164.62 0 1 55924 
+5.41.14.26 0 1 116869 
+66.43.58.228 1 1 0 20150423184152
+220.245.245.20 0 1 138949 
+23.22.14.71 2 2 110960 20150425152242
+98.211.214.121 0 1 116869 
+72.72.218.137 0 1 138949 
+218.101.114.189 0 1 138949 
+71.195.167.95 0 1 138949 
+5.104.226.5 0 3 0 
+64.7.154.61 2 73 1795087 20150412173851
+110.168.172.237 0 1 116869 
+108.166.87.63 3 3 0 20150417231348
+37.175.145.146 0 1 116869 
+67.165.139.153 0 1 138949 
+54.145.120.163 1 1 55483 20150425061727
+73.16.67.16 0 1 138949 
+99.228.78.167 2 73 1785650 20150402073849
+195.154.211.220 6 6 409172 20150411171222
+70.215.11.92 3 72 1501085 20150416123317
+95.29.214.73 0 1 55924 
+68.195.20.23 0 1 138949 
+137.187.163.211 0 1 63074 
+199.241.145.219 2 2 111570 20150422103331
+70.197.68.86 3 62 1804859 20150415084219
+109.74.197.200 1 1 55480 20150425202353
+70.49.50.2 2 72 1752412 20150420141925
+52.6.79.243 1 1 50859 20150426031039
+89.97.32.61 1 1 5158 20150423074723
+70.39.246.37 1 1 46544 20150403195216
+52.6.128.113 1 1 39872 20150426031036
+173.73.186.195 0 1 138949 
+175.142.112.23 0 1 138949 
+65.93.93.164 30 144 4842674 20150411054857
+93.85.208.237 0 1 55924 
+73.1.84.152 0 1 138949 
+130.211.170.164 3 3 166803 20150411073731
+24.114.68.106 2 68 1742041 20150422064250
+93.54.47.155 1 1 5158 20150423175525
+213.87.249.231 0 1 64239 
+194.166.30.183 4 83 1729205 20150403090809
+67.230.74.33 0 1 138949 
+142.68.92.199 2 66 1401595 20150420071944
+151.236.42.160 3 3 61685 20150420153433
+70.178.146.182 0 1 138949 
+92.23.230.65 0 1 138949 
+178.76.227.171 0 1 55924 
+187.13.69.251 2 72 1766533 20150414133924
+173.238.99.17 6 86 2027414 20150428082623
+136.169.250.103 1 1 55577 20150415234803
+24.101.139.214 0 1 138949 
+5.141.232.13 0 1 55924 
+134.0.10.10 1 1 55574 20150407193512
+203.92.217.240 0 1 55924 
+85.115.243.117 0 1 55924 
+101.161.230.24 0 1 138949 
+45.55.134.15 2 28 569161 20150414062439
+213.153.79.239 0 1 138949 
+200.7.90.57 0 27 520417 
+162.157.29.253 0 1 138949 
+71.181.24.115 0 1 138949 
+71.237.165.228 0 1 138949 
+184.156.213.105 0 1 138949 
+144.76.62.77 0 52 927291 
+128.234.15.76 0 1 55924 
+100.2.4.162 0 1 19805 
+199.182.53.168 2 73 1771093 20150425134419
+175.44.6.167 7 7 419885 20150430173537
+52.5.134.133 1 1 40002 20150408162755
+216.218.29.172 2 72 1776672 20150401153441
+97.93.103.80 0 1 116869 
+76.27.44.15 0 1 55924 
+113.210.6.241 0 2 233738 
+82.145.217.21 0 2 277898 
+59.93.95.231 0 1 138949 
+76.25.246.80 0 1 138949 
+178.19.251.248 0 1 28922 
+68.47.169.118 0 1 138949 
+213.55.104.245 0 1 138949 
+71.244.203.176 0 1 138949 
+200.77.114.106 0 1 138949 
+24.150.145.203 3 68 1365622 20150429161320
+95.141.35.157 1 1 55579 20150417160439
+196.210.69.168 0 1 89445 
+208.3.100.222 0 1 138949 
+176.119.122.233 0 1 28922 
+184.175.25.250 0 1 138949 
+86.45.52.249 0 1 116869 
+173.244.181.10 21 21 1167970 20150428053945
+74.70.111.33 0 1 138949 
+188.143.232.13 12 12 569423 20150419005310
+50.100.150.158 2 72 1742611 20150420153928
+37.107.97.90 0 1 138949 
+173.209.211.152 0 1 138949 
+54.146.3.142 0 1 3036 
+88.194.0.154 0 1 138949 
+184.151.178.204 5 81 2593062 20150425130044
+76.173.66.230 0 2 126148 
+188.53.65.242 0 1 116869 
+73.168.55.164 0 1 138949 
+62.248.14.133 2 72 1766499 20150412031521
+72.235.193.225 0 1 138949 
+67.11.74.64 0 1 138949 
+70.50.105.66 2 72 1742515 20150416040558
+131.253.24.150 0 2 14662 
+198.54.106.110 0 1 138949 
+109.173.76.61 0 1 55924 
+192.99.144.50 4 4 226474 20150428203944
+54.243.53.148 1 1 46575 20150418095226
+89.21.157.178 0 1 64239 
+188.123.239.201 0 1 64239 
+23.16.7.250 0 1 116869 
+112.198.99.10 0 1 138949 
+75.71.51.249 0 1 68252 
+172.56.40.205 0 1 138949 
+217.165.61.19 0 1 19805 
+185.10.104.130 1 1 55579 20150418164258
+84.244.54.28 0 1 55924 
+31.132.177.129 0 1 55924 
+104.129.196.49 0 1 138949 
+175.213.46.190 0 1 55924 
+199.212.150.5 0 1 116869 
+177.45.205.244 2 72 1742721 20150423133540
+70.27.2.158 4 76 1848353 20150416105316
+173.161.225.193 0 1 138949 
+188.2.244.160 0 1 138949 
+73.222.176.26 0 1 138949 
+54.81.194.115 2 2 98479 20150409122832
+155.94.154.53 2 2 90031 20150405180206
+54.174.53.191 0 1 22351 
+173.244.180.206 5 5 278267 20150425145440
+77.246.54.254 0 1 116869 
+209.85.238.21 4 4 186300 20150430205032
+166.137.136.110 0 1 138949 
+91.203.146.194 1 1 55461 20150414031544
+5.54.87.44 0 1 138949 
+188.92.192.135 0 1 55924 
+76.64.33.154 4 74 1887922 20150405062507
+70.29.242.215 0 1 138949 
+46.61.242.15 0 1 55924 
+71.92.122.97 0 2 277898 
+65.9.226.149 0 1 138949 
+74.15.168.166 0 1 22337 
+172.56.19.40 0 1 138949 
+24.114.48.20 2 72 1776666 20150404151301
+99.235.72.86 4 76 1848533 20150420063504
+216.221.35.114 9 84 2193747 20150414113434
+5.18.155.154 0 1 64239 
+64.233.172.132 1 102 2888082 20150402000001
+82.142.175.146 0 1 55924 
+45.49.97.31 0 1 138949 
+120.149.88.178 0 1 116869 
+108.5.48.85 0 1 120734 
+73.188.39.58 0 1 120734 
+50.136.136.14 0 1 116869 
+37.140.93.204 0 1 55924 
+220.181.108.87 1 1 55599 20150410200240
+99.244.2.51 2 73 3261223 20150419123855
+92.100.170.255 0 1 64239 
+107.155.70.207 0 1 111599 
+172.56.39.64 0 1 138949 
+83.110.229.210 0 1 138949 
+50.253.151.21 0 1 138949 
+135.23.84.25 1 2 75522 20150401044529
+202.46.51.146 1 1 59258 20150421203422
+65.95.205.93 7 80 1982279 20150417053018
+178.206.117.35 0 1 64239 
+73.5.8.110 0 1 138949 
+99.225.167.77 0 1 116869 
+88.147.153.246 0 1 75429 
+216.163.188.229 1 1 55627 20150402150144
+125.24.198.103 0 1 116869 
+180.76.14.12 1 1 59824 20150428161112
+36.248.167.75 23 23 1351221 20150408001132
+114.108.214.192 0 1 138949 
+146.120.89.201 1 1 55446 20150412072115
+62.210.89.37 16 16 959072 20150430074436
+49.149.15.75 0 1 138949 
+86.138.161.126 0 1 116869 
+142.4.218.201 2 2 110938 20150410004850
+190.78.49.210 1 1 5158 20150420003336
+67.255.212.89 0 1 138949 
+65.55.218.42 1 1 59128 20150405040641
+36.78.203.122 1 1 3030 20150401103442
+67.239.23.170 3 70 1459685 20150415063457
+71.201.167.210 0 1 138949 
+95.93.191.232 0 1 116869 
+194.219.194.173 0 1 138949 
+66.249.79.82 2 2 111204 20150418230611
+61.135.190.222 2 27 714026 20150429064638
+52.4.61.7 1 1 42104 20150409105746
+76.175.24.39 0 1 138949 
+195.154.250.39 24 24 1462984 20150429043327
+68.193.84.85 0 1 138949 
+90.20.226.130 0 1 116869 
+61.135.190.101 2 32 931268 20150423065618
+14.97.81.131 0 1 138949 
+67.86.26.247 0 1 138949 
+76.84.103.21 0 1 138949 
+188.124.110.189 0 1 64239 
+66.249.82.243 1 65 2065562 20150410122504
+24.127.173.203 0 1 63074 
+99.232.62.7 11 115 3617080 20150428061729
+107.191.49.187 1 1 43431 20150401122959
+66.87.68.117 0 1 138949 
+37.78.176.31 0 1 55924 
+190.27.238.58 0 1 138949 
+42.115.44.105 0 1 138949 
+85.115.224.131 0 1 55924 
+193.5.216.100 0 1 55924 
+63.241.226.178 0 1 19805 
+188.123.253.18 0 1 55924 
+97.90.202.125 0 1 138949 
+96.26.126.22 0 1 138949 
+98.250.26.253 0 1 138949 
+208.124.148.170 5 84 2017840 20150413114129
+70.49.243.88 2 55 1628478 20150415105637
+54.176.195.13 1 1 0 20150414225553
+175.136.197.178 2 57 1710213 20150415181723
+64.118.215.193 0 1 138949 
+5.139.138.152 0 1 64239 
+207.219.69.128 1 1 55580 20150407055143
+37.228.104.199 0 1 138949 
+189.250.84.134 0 1 19805 
+203.121.205.113 0 1 138949 
+69.166.118.37 6 86 2081884 20150419041340
+96.225.69.249 0 1 138949 
+142.163.83.21 3 70 1459955 20150415191611
+84.54.84.5 0 1 28922 
+38.122.184.51 9 86 1885512 20150417071116
+209.51.197.148 2 2 112674 20150427131844
+184.151.190.89 0 2 204592 
+92.246.222.176 0 1 55924 
+173.32.100.232 10 84 2163666 20150425221746
+178.184.188.119 0 1 55924 
+109.191.43.94 0 1 28922 
+212.100.147.186 0 1 55924 
+166.78.134.156 1 1 56889 20150428064530
+54.161.127.238 1 1 58965 20150414195135
+83.220.236.200 0 1 64239 
+222.161.250.173 1 1 55462 20150414081222
+87.117.231.161 1 1 58342 20150401030652
+5.18.161.62 0 1 64239 
+83.34.57.190 0 1 34754 
+112.210.79.28 0 1 138949 
+172.56.14.150 0 1 138949 
+124.182.97.237 0 1 116869 
+50.153.221.10 0 1 138949 
+179.43.152.228 2 2 111029 20150410162308
+174.95.128.229 4 77 1873918 20150410071501
+174.95.76.217 2 74 1762685 20150418060955
+213.24.134.244 0 1 55924 
+99.233.247.4 0 1 116869 
+197.87.14.232 3 70 1459943 20150414223022
+96.125.213.57 11 84 1976475 20150413065549
+2.54.55.208 0 1 55924 
+209.171.88.246 18 125 4055661 20150423203601
+173.58.171.244 0 1 138949 
+204.108.125.8 3 67 1414934 20150415150414
+120.141.132.235 0 1 116869 
+166.137.252.62 0 1 138949 
+104.197.6.101 3 3 166215 20150422073736
+54.149.107.194 1 1 55628 20150406112919
+63.155.165.108 0 1 138949 
+220.181.108.121 1 1 56889 20150427230958
+173.230.171.2 0 1 138949 
+173.252.105.116 0 1 106031 
+208.70.120.24 0 1 138949 
+84.81.117.168 3 66 1459427 20150415030311
+99.234.122.93 2 74 1817750 20150410184710
+45.55.133.245 2 28 569807 20150422104117
+67.168.238.21 0 1 138949 
+95.128.246.45 3 3 111722 20150421045818
+125.212.61.146 0 1 138949 
+174.117.110.222 15 121 3832119 20150413135157
+70.192.64.15 0 1 138949 
+68.56.70.87 0 1 55924 
+45.55.134.20 2 28 569199 20150426125326
+178.71.143.48 0 1 64239 
+223.176.171.233 5 78 1929452 20150409020947
+24.150.18.101 0 1 116869 
+174.140.184.9 5 111 3287012 20150408155219
+73.54.222.39 0 1 138949 
+64.234.103.117 0 1 138949 
+199.7.157.98 2 73 1771301 20150424041533
+31.134.18.164 0 1 55924 
+149.200.193.83 0 1 138949 
+66.43.62.178 1 1 0 20150403184007
+106.68.108.204 0 1 116869 
+184.15.28.123 0 1 138949 
+52.68.118.157 2 2 117928 20150414192818
+124.148.105.225 0 1 116869 
+72.46.128.66 6 6 333462 20150416063111
+37.9.53.89 1 1 4953 20150401134402
+93.181.201.28 0 1 55924 
+62.143.237.7 0 1 55924 
+200.161.115.34 5 5 25790 20150416035435
+76.68.65.213 10 137 1732864 20150409082201
+31.222.142.254 1 1 55460 20150414015356
+99.226.112.60 17 136 5592127 20150405234105
+67.149.168.238 0 1 138949 
+176.212.154.248 0 1 55924 
+89.175.18.190 0 1 64239 
+24.114.50.54 2 73 1771553 20150428063204
+99.238.140.64 2 74 1762491 20150424144206
+175.144.4.83 0 1 138949 
+174.49.121.115 0 1 138949 
+71.187.255.193 12 12 667540 20150402224040
+189.196.236.214 0 1 138949 
+66.176.90.61 0 1 99393 
+193.178.118.46 0 1 64239 
+54.224.133.18 0 1 3102 
+184.147.109.130 2 37 702301 20150408041614
+89.108.67.111 1 1 55461 20150414033349
+206.248.239.142 0 1 138949 
+176.107.10.233 0 1 64239 
+202.46.50.128 1 1 55579 20150418141444
+95.242.2.226 0 1 116869 
+178.72.99.239 0 1 55924 
+108.94.101.142 0 1 138949 
+69.58.178.59 13 13 626843 20150415204808
+67.164.200.122 0 1 138949 
+83.139.146.84 0 1 64239 
+188.32.247.250 0 1 55924 
+5.104.241.172 1 1 0 20150403052046
+46.229.166.195 0 2 111848 
+37.231.60.218 0 1 116869 
+221.164.232.80 0 1 55924 
+182.182.67.222 0 1 63074 
+86.97.4.218 0 1 138949 
+93.185.192.65 0 1 55924 
+216.164.57.9 0 1 138949 
+36.250.176.162 1 1 58778 20150401065752
+72.208.232.193 0 1 138949 
+85.74.95.23 0 1 116869 
+217.66.159.61 0 1 64239 
+99.243.50.61 2 72 1752500 20150418055024
+109.234.152.238 1 1 55482 20150409030033
+108.29.3.76 0 1 138949 
+82.102.252.238 0 1 116869 
+76.114.35.218 0 1 138949 
+130.255.36.128 0 1 64239 
+74.61.103.54 0 1 138949 
+65.26.230.92 0 1 138949 
+181.140.37.198 0 1 63074 
+69.242.236.22 0 1 138949 
+119.40.126.167 0 1 138949 
+24.114.59.224 2 72 1752600 20150418224049
+72.143.15.218 2 73 1761294 20150427062529
+216.104.122.240 0 1 55924 
+166.170.5.53 0 1 22337 
+104.155.33.61 1 1 55627 20150419163721
+46.73.129.156 0 1 64239 
+79.21.109.82 0 1 138949 
+5.141.193.163 0 1 55924 
+95.78.193.86 0 1 64239 
+188.18.229.134 0 1 55924 
+36.72.142.127 0 1 138949 
+176.62.183.74 0 1 55924 
+89.113.2.153 0 1 64239 
+79.104.51.170 0 1 55924 
+204.139.85.158 0 1 138949 
+86.136.120.251 0 1 106031 
+174.236.197.47 0 1 138949 
+95.179.119.122 2 2 58512 20150408210706
+93.100.114.85 0 1 28922 
+217.122.80.175 0 1 116869 
+69.242.31.115 0 1 138949 
+76.109.101.54 0 1 138949 
+99.233.144.62 2 72 1776348 20150410065740
+67.87.29.100 0 1 138949 
+107.206.128.128 0 1 138949 
+220.181.108.147 1 1 55601 20150411001836
+76.248.244.161 0 1 128894 
+52.0.15.83 1 1 58759 20150412233932
+209.190.6.125 3 3 167373 20150421103202
+24.193.201.10 0 1 19805 
+138.88.9.160 0 1 88195 
+184.151.179.75 0 1 138949 
+64.183.53.230 0 1 138949 
+63.235.191.66 0 1 138949 
+79.69.236.57 0 1 55924 
+218.50.135.74 0 1 138949 
+52.4.224.214 15 15 767487 20150412233929
+14.192.215.246 0 1 116869 
+174.88.52.75 0 2 277898 
+73.133.88.208 0 1 138949 
+216.163.188.231 1 1 55785 20150422065503
+188.94.51.81 0 1 55924 
+24.114.73.105 2 73 1795457 20150406103351
+104.188.97.50 0 1 138949 
+74.114.75.97 4 96 1538407 20150407100623
+209.121.24.12 0 1 138949 
+94.131.14.12 3 3 63413 20150409091539
+62.150.106.227 0 1 138949 
+105.54.164.89 0 1 138949 
+72.39.18.80 2 72 1766313 20150413140639
+66.87.115.214 0 1 138949 
+148.168.40.121 0 1 138949 
+182.50.130.50 1 1 55628 20150406103731
+174.119.10.73 6 79 1956735 20150427191103
+99.227.121.131 0 1 19805 
+202.46.52.83 1 1 59624 20150421165829
+136.0.96.34 1 1 5033 20150415015519
+110.78.174.130 0 1 138949 
+54.84.179.12 1 1 55628 20150406084902
+182.50.130.194 1 1 55628 20150406103731
+37.215.106.76 0 1 55924 
+146.185.148.26 1 1 55601 20150411051929
+210.195.236.226 0 1 116869 
+82.208.108.233 0 1 64239 
+68.4.141.201 0 1 138949 
+93.89.159.8 4 144 3533066 20150414102941
+52.11.172.80 3 3 145112 20150401062340
+211.9.101.80 0 1 55924 
+75.132.193.187 3 74 1841277 20150407084457
+98.209.231.60 0 1 138949 
+79.167.36.78 2 72 1742695 20150416030908
+124.107.104.68 0 1 138949 
+173.206.243.41 2 74 1807635 20150413110143
+79.166.118.135 0 1 116869 
+24.224.196.197 1 1 55484 20150408181009
+192.111.146.34 1 1 4953 20150411184520
+69.158.60.35 0 1 138949 
+24.212.149.177 2 56 1710162 20150422195144
+85.173.205.121 0 1 55924 
+191.250.253.51 2 72 1766863 20150403080253
+189.206.75.142 1 1 73429 20150423010420
+66.41.60.228 0 1 138949 
+104.243.32.171 1 1 55570 20150414195925
+151.19.96.164 0 1 116869 
+98.127.253.238 0 1 138949 
+99.226.150.232 0 1 99393 
+46.161.41.199 10 10 542047 20150407221125
+178.90.135.244 0 1 28922 
+94.23.42.201 16 16 889314 20150415183930
+69.87.144.216 0 5 279620 
+178.137.85.199 2 2 86916 20150422072554
+50.242.113.181 0 1 138949 
+82.198.168.250 0 1 64239 
+87.255.31.16 0 1 140479 
+177.189.53.185 2 72 1742699 20150417011603
+110.174.13.129 0 1 138949 
+178.141.206.104 0 1 55924 
+78.132.171.82 0 1 55924 
+58.97.220.167 0 1 138949 
+184.151.190.238 2 72 1776666 20150403165128
+189.69.164.111 2 30 578610 20150422100627
+128.218.234.251 0 1 138949 
+68.147.221.157 0 1 116869 
+70.29.24.50 2 43 1419908 20150428041025
+198.103.152.52 0 1 138949 
+64.74.215.113 5 5 0 20150429091627
+52.1.128.27 1 1 58197 20150408162748
+174.252.2.68 0 1 138949 
+95.102.188.48 0 1 116869 
+52.6.128.73 1 1 55481 20150426103122
+185.26.122.45 1 1 55482 20150409011741
+174.119.2.35 24 140 4498181 20150417111023
+96.227.124.37 3 3 166487 20150417234222
+45.36.87.29 0 1 138949 
+213.205.251.42 0 1 116869 
+5.144.96.252 0 1 55924 
+95.80.65.213 0 1 55924 
+77.247.181.165 1 1 55483 20150424205109
+202.179.20.143 0 1 55924 
+82.25.57.183 0 1 138949 
+24.114.70.36 9 93 2267948 20150420153440
+180.76.6.156 1 1 55484 20150408115047
+176.123.216.39 0 1 55924 
+92.240.211.123 0 1 55924 
+202.46.61.103 1 1 55446 20150412050325
+61.94.55.123 0 1 138949 
+59.92.96.162 0 1 138949 
+119.160.190.56 0 1 79184 
+220.255.1.160 0 1 55924 
+176.10.104.227 17 17 920982 20150425170828
+91.200.12.22 33 33 1963557 20150424160007
+76.168.215.166 0 1 138949 
+98.199.131.147 0 1 138949 
+104.8.188.169 0 1 138949 
+190.213.141.168 0 1 138949 
+73.17.205.230 0 1 116869 
+99.105.66.246 0 1 22337 
+99.231.8.117 13 96 3027290 20150418143945
+67.8.99.129 0 1 138949 
+190.80.105.169 0 2 277898 
+216.56.160.13 3 67 1419092 20150429072755
+54.81.159.238 2 2 98487 20150405191041
+185.66.250.80 2 2 111188 20150423072528
+188.168.20.45 0 1 55924 
+71.162.211.66 0 1 63074 
+195.241.38.46 0 1 138949 
+24.114.71.236 1 1 55631 20150401084326
+24.114.58.1 6 80 1986616 20150423193220
+81.68.166.65 0 1 88490 
+93.171.205.23 14 15 2306649 20150422110314
+37.122.252.49 6 6 30198 20150415161258
+50.64.35.141 0 1 116869 
+109.188.125.69 0 1 64239 
+79.70.104.3 0 1 116869 
+52.4.86.90 1 1 715 20150408162750
+146.120.87.58 0 1 55924 
+69.196.152.211 6 109 1999050 20150407113941
+68.63.105.186 0 1 138949 
+173.252.80.115 0 1 303664 
+192.115.252.2 0 1 138949 
+213.24.133.188 0 1 55924 
+67.213.239.197 0 1 138949 
+192.241.154.95 12 38 1015411 20150418061922
+31.132.79.75 0 1 55924 
+95.110.94.168 0 1 55924 
+187.131.0.97 0 1 138949 
+70.48.47.108 10 133 3090298 20150408143027
+94.1.106.164 0 1 138949 
+190.36.16.124 2 64 1755080 20150404063619
+178.153.16.26 0 1 116869 
+83.220.236.92 0 1 55924 
+184.151.179.163 2 3 160394 20150419154344
+61.135.190.104 1 15 420461 20150410161649
+23.250.11.122 8 8 242460 20150415191850
+187.237.107.73 0 1 63074 
+207.166.7.210 0 1 116869 
+67.193.76.30 0 1 116869 
+184.151.178.226 2 73 1777543 20150410073027
+69.156.108.169 6 111 2123500 20150406142557
+190.115.185.237 1 1 3030 20150401103500
+174.5.82.224 9 89 2251534 20150403074123
+185.26.182.35 0 1 55924 
+190.234.106.167 0 1 63074 
+219.92.14.138 0 1 138949 
+8.28.16.254 10 10 427083 20150430120016
+41.79.165.241 0 1 55924 
+76.69.6.148 0 1 138949 
+74.12.48.168 2 73 1785284 20150413120927
+68.207.82.13 0 1 138949 
+65.112.21.185 0 2 277898 
+14.192.215.64 0 1 116869 
+69.42.186.254 2 72 1776294 20150413123553
+104.197.43.109 3 3 166881 20150409073147
+37.230.114.209 5 5 275885 20150401071557
+131.253.26.247 0 5 86142 
+76.28.176.206 0 1 116869 
+31.132.79.123 0 1 55924 
+70.26.179.175 0 1 116869 
+198.45.168.80 0 1 138949 
+5.108.45.153 0 1 116869 
+95.129.166.95 0 1 55924 
+79.172.119.144 1 1 4953 20150407213030
+119.159.33.61 0 1 19805 
+99.231.208.103 2 72 1776390 20150407045759
+184.7.118.134 0 1 138949 
+213.87.133.139 0 1 64239 
+46.39.228.201 0 1 64239 
+66.249.92.73 1 1 46544 20150412162042
+67.193.242.254 0 2 126148 
+37.214.165.160 0 1 55924 
+195.154.173.141 8 8 520299 20150414074820
+54.158.111.95 1 1 56889 20150428011045
+66.87.125.152 0 1 140050 
+190.205.223.89 9 9 46422 20150424051446
+208.105.207.73 0 1 79184 
+173.244.181.28 5 5 279700 20150430055843
+81.213.206.174 9 9 46422 20150427110316
+109.62.233.29 0 1 55924 
+54.87.164.72 1 1 55627 20150419150051
+95.185.24.18 0 1 116869 
+109.87.189.115 0 1 64239 
+185.5.152.59 0 1 55924 
+85.174.218.99 0 1 64239 
+54.84.9.111 1 1 55628 20150406084905
+115.70.171.38 0 1 138949 
+173.252.40.108 2 72 1776612 20150411030921
+88.200.151.188 0 1 55924 
+166.137.244.78 0 1 138949 
+60.54.89.122 0 1 120734 
+23.91.237.30 2 72 1757016 20150428204015
+209.171.88.27 2 74 1793642 20150416165018
+69.42.184.90 0 1 15437 
+104.197.55.105 3 3 166443 20150427073750
+65.94.50.76 3 66 1459421 20150417033455
+54.205.157.99 2 38 768622 20150420025430
+176.8.111.32 0 1 55924 
+24.136.200.240 0 1 138949 
+104.32.103.17 0 1 19805 
+67.211.7.2 0 1 59620 
+213.177.98.15 0 1 64239 
+172.56.19.241 0 1 138949 
+67.2.213.101 0 1 138949 
+99.226.112.236 2 74 1796362 20150408104122
+172.250.115.100 0 1 138949 
+213.55.26.207 0 1 138949 
+93.185.24.95 0 1 55924 
+108.209.160.220 0 1 138949 
+174.49.1.112 0 1 138949 
+70.192.197.153 0 1 99393 
+178.121.78.134 0 1 55924 
+198.13.194.55 2 72 1776666 20150406073719
+69.17.147.136 0 1 63074 
+99.229.162.138 0 1 138949 
+188.186.192.222 0 1 55924 
+171.25.189.180 0 1 55924 
+216.13.52.14 1 1 55574 20150407131842
+5.56.63.52 1 1 55440 20150413044337
+2.49.72.220 0 1 138949 
+52.5.45.221 1 1 43424 20150409105752
+176.12.96.111 0 1 55924 
+207.182.129.227 5 5 280203 20150430071651
+5.18.85.33 0 1 55924 
+50.248.19.177 0 1 138949 
+184.151.112.2 6 85 2062368 20150427054146
+54.166.47.158 5 5 277400 20150425152926
+62.133.175.88 0 1 55924 
+162.207.88.186 0 1 138949 
+178.90.141.114 0 1 55924 
+45.48.135.43 0 54 947277 
+95.191.2.119 0 1 55924 
+24.231.67.14 0 1 116869 
+108.180.3.254 0 1 138949 
+65.41.32.2 0 1 138949 
+173.76.91.190 0 1 138949 
+64.246.165.50 1 1 46575 20150425074351
+70.51.117.147 0 1 140050 
+73.199.202.234 0 1 138949 
+24.244.248.8 2 74 1878373 20150424085331
+95.72.61.165 0 1 55924 
+54.158.158.0 2 2 111096 20150419121739
+99.244.180.3 4 58 1176754 20150430164607
+176.53.209.227 0 1 55924 
+123.243.94.79 0 1 138949 
+69.168.198.90 0 1 138949 
+166.137.240.57 0 1 138949 
+91.140.11.61 0 1 116869 
+184.160.110.99 0 1 19805 
+2.61.45.192 0 1 55924 
+5.18.175.255 0 1 55924 
+73.36.226.166 0 1 19805 
+104.32.57.40 0 1 138949 
+171.33.251.8 0 1 55924 
+37.215.155.214 0 1 55924 
+54.162.144.136 2 2 100983 20150429214407
+98.234.104.115 0 1 138949 
+205.207.127.146 7 114 2135783 20150413100553
+130.211.115.227 3 3 170985 20150429073750
+86.161.117.159 2 72 1766573 20150409005345
+99.244.208.229 3 77 1590296 20150414204028
+200.116.66.70 0 1 79184 
+71.191.141.228 0 1 138949 
+66.130.52.238 3 68 1586102 20150404165943
+99.247.185.53 0 1 116869 
+24.252.59.56 0 1 1508627 
+68.54.222.109 0 1 138949 
+24.205.166.159 0 1 116869 
+192.166.238.223 0 1 64239 
+38.124.138.111 0 1 140050 
+202.46.49.101 1 1 55584 20150423203934
+213.87.130.100 0 1 55924 
+83.233.207.74 5 5 255437 20150423214626
+202.46.62.47 1 1 84922 20150414170757
+50.70.13.166 0 1 116869 
+142.161.92.186 0 1 138949 
+23.20.99.190 2 2 98421 20150411165425
+124.190.121.102 0 1 138949 
+78.160.3.56 0 1 89053 
+37.212.19.86 0 1 55924 
+151.229.19.116 0 1 138949 
+50.100.252.114 2 73 1771553 20150428082127
+72.202.215.199 0 1 138949 
+77.232.10.192 0 1 64239 
+54.90.119.36 2 2 98487 20150406112438
+99.226.194.171 2 73 1766002 20150429181031
+111.176.74.50 1 1 55628 20150405041820
+85.113.58.36 1 1 55579 20150417024326
+1.39.32.238 0 1 0 
+105.107.250.62 1 1 3030 20150401103435
+74.71.119.126 0 1 138949 
+49.148.188.142 0 1 138949 
+131.253.36.203 1 5 85987 20150405040704
+73.192.145.126 0 1 99393 
+81.4.246.102 0 1 55924 
+187.67.243.147 0 1 138949 
+12.69.93.34 0 1 138949 
+193.222.161.6 0 1 138949 
+112.209.122.29 0 1 19805 
+112.64.235.250 1 1 55584 20150424035338
+94.180.254.165 0 1 55924 
+112.207.0.49 0 1 138949 
+213.87.133.241 0 1 64239 
+123.125.71.96 2 2 113778 20150427230139
+8.22.12.64 0 1 55924 
+109.81.211.140 0 1 116869 
+91.90.59.245 0 1 116869 
+74.112.131.246 1 1 58965 20150414192001
+70.193.162.156 0 1 138949 
+5.104.241.178 1 1 0 20150407140621
+24.172.52.130 0 1 19805 
+154.70.108.196 0 1 138949 
+63.217.48.143 0 1 55924 
+85.95.252.243 4 4 1612 20150407072006
+46.191.225.224 0 1 64239 
+93.178.72.159 0 1 55924 
+131.249.80.201 0 1 138949 
+178.68.52.73 0 1 89572 
+24.114.72.39 2 55 1875853 20150430073422
+64.229.58.177 0 1 138949 
+61.135.190.220 2 33 696358 20150406132157
+73.14.44.177 0 1 138949 
+159.0.184.220 0 1 116869 
+205.197.242.148 0 1 138949 
+173.244.181.11 1 1 55483 20150425084139
+74.106.52.186 0 1 138949 
+73.27.69.15 0 1 138949 
+71.200.117.196 0 1 138949 
+39.50.157.222 0 1 138949 
+54.158.16.141 2 38 768254 20150413045302
+213.138.86.253 0 1 55924 
+94.131.14.7 1 1 55627 20150403003105
+107.216.28.131 0 1 63074 
+139.218.97.95 0 1 138949 
+95.175.225.2 0 1 64239 
+74.120.40.10 0 1 138949 
+175.44.5.133 9 9 527613 20150427091918
+185.66.250.180 7 7 388952 20150423185615
+207.219.69.161 2 70 1770597 20150402050654
+149.254.224.254 0 1 138949 
+91.217.78.225 1 1 5158 20150422142243
+146.199.88.166 5 78 1941026 20150430073257
+109.167.253.87 0 1 64239 
+76.71.93.112 2 47 1390589 20150415094116
+191.250.13.213 2 73 1762050 20150430155010
+99.110.232.118 0 1 138949 
+173.20.120.161 0 1 138949 
+184.183.175.116 3 70 1459955 20150415113937
+86.178.83.164 0 1 116869 
+71.59.181.35 0 1 80101 
+99.120.22.222 0 1 19805 
+68.0.172.33 0 1 138949 
+68.146.138.32 3 72 1664529 20150416054950
+70.196.142.128 0 1 138949 
+82.145.209.210 0 2 277898 
+108.88.242.226 0 1 138949 
+66.87.149.41 0 1 138949 
+24.114.64.55 2 72 1776664 20150402115718
+184.175.5.41 0 1 138949 
+50.90.45.132 0 1 138949 
+62.76.207.19 0 1 55924 
+112.198.223.204 0 1 138949 
+174.118.20.222 3 70 1459685 20150415193008
+109.172.47.151 0 1 64239 
+200.87.176.92 0 4 277898 
+81.27.79.18 1 1 4953 20150411024722
+24.235.42.8 0 1 138949 
+220.255.1.104 0 1 138949 
+104.157.208.39 2 72 1776668 20150401050315
+199.247.186.164 2 72 1776666 20150404093716
+71.127.221.37 0 1 138949 
+64.30.73.146 0 1 138949 
+37.145.86.76 0 1 55924 
+108.168.80.15 4 74 1863850 20150419082411
+95.47.138.195 0 1 55924 
+199.30.228.144 2 72 1766765 20150406140351
+116.254.24.125 0 1 116869 
+69.159.55.38 2 73 1771799 20150430055854
+99.233.107.136 2 2 110882 20150413054906
+72.192.134.120 0 1 138949 
+99.226.194.70 25 271 3837490 20150413190837
+5.61.38.9 1 1 55624 20150420072648
+82.11.178.183 0 1 138949 
+24.224.190.9 0 1 138949 
+108.199.178.137 0 1 138949 
+99.45.166.2 0 1 138949 
+99.231.115.113 2 73 1761582 20150420155915
+83.149.35.45 0 1 64239 
+81.129.83.181 0 1 138949 
+142.255.120.170 0 1 138949 
+70.198.38.135 0 1 138949 
+54.198.125.83 1 1 58965 20150414192937
+70.193.12.196 0 1 138949 
+52.5.203.32 18 19 2411866 20150412233931
+91.77.209.20 0 1 64239 
+217.12.206.140 5 5 279354 20150430153610
+96.239.76.124 0 1 19805 
+99.247.192.229 2 72 1776660 20150402061115
+108.206.232.62 0 1 138949 
+66.249.83.185 2 59 2545850 20150423184633
+80.227.236.9 0 1 116869 
+72.66.88.67 0 1 138949 
+42.115.52.159 0 1 138949 
+70.193.4.28 0 1 138949 
+46.19.112.9 0 1 55924 
+14.139.69.85 2 48 1285050 20150416130657
+41.254.2.206 0 1 116869 
+54.163.73.10 3 3 129168 20150406165013
+201.172.152.138 0 1 116869 
+87.109.195.24 0 1 116869 
+97.75.120.83 0 1 138949 
+58.104.7.233 0 1 116869 
+176.223.68.22 1 1 3030 20150401103434
+96.30.165.20 0 1 116869 
+174.0.36.98 0 2 233738 
+174.93.84.231 0 1 116869 
+83.26.215.22 0 1 116869 
+174.91.111.186 3 58 1758630 20150422002600
+99.229.56.88 2 73 1771387 20150419091459
+78.158.11.226 1 2 56731 20150404165213
+78.129.218.36 1 1 58344 20150401131422
+99.241.40.147 28 504 5345122 20150420082025
+93.183.216.134 1 1 55482 20150409011349
+88.142.123.87 0 1 116869 
+91.77.237.207 0 1 64239 
+173.34.248.180 0 1 19805 
+97.90.152.52 0 1 138949 
+76.126.190.166 0 1 138949 
+99.242.231.169 35 239 6569594 20150418172923
+173.206.164.207 6 81 2034552 20150425145942
+204.108.117.70 2 2 117322 20150416101843
+99.235.106.68 2 72 1776666 20150405065330
+86.62.120.187 0 1 64239 
+66.225.132.61 0 1 138949 
+213.24.125.120 0 1 64239 
+122.29.4.191 0 1 138949 
+5.196.54.214 1 1 226 20150409052432
+107.178.222.25 2 2 111248 20150420073817
+70.52.198.161 0 1 41942 
+209.221.240.193 0 1 138949 
+77.94.189.203 0 1 55924 
+134.249.53.85 5 5 111728 20150402085858
+112.210.11.135 0 1 138949 
+64.236.138.3 0 4 555796 
+5.228.252.182 0 1 55924 
+99.40.244.159 0 1 116869 
+182.68.85.30 0 1 138949 
+45.55.133.244 12 38 1014333 20150426083829
+107.72.164.108 0 1 138949 
+217.23.186.10 0 1 55924 
+24.130.13.24 0 1 11948 
+82.146.36.221 4 4 22479 20150418232307
+93.170.82.87 0 1 64239 
+74.94.86.77 0 1 138949 
+66.249.84.197 3 30 1238078 20150423093708
+220.247.240.251 0 1 55924 
+123.30.175.215 4 4 222140 20150413124839
+109.125.18.204 0 1 138949 
+98.198.218.165 0 2 277898 
+203.185.170.159 0 1 138949 
+24.204.240.184 3 66 1327802 20150414205452
+52.1.157.207 1 1 42082 20150407032136
+190.234.106.14 2 71 1763936 20150407203815
+178.122.200.196 0 1 55924 
+136.243.17.161 1 2 123728 20150423094337
+149.129.189.156 0 1 138949 
+68.3.59.47 0 1 138949 
+70.198.192.42 0 1 138949 
+70.25.60.26 0 1 138949 
+5.31.191.165 0 1 138949 
+52.5.133.83 13 13 677675 20150412233103
+189.230.212.138 0 1 63074 
+93.35.120.136 0 1 138949 
+166.137.136.81 0 1 19805 
+99.248.2.201 8 79 2025153 20150412060031
+174.0.76.229 0 1 116869 
+206.72.201.249 6 6 284260 20150419064254
+101.14.116.72 0 1 138949 
+99.245.51.36 1 1 55483 20150425052046
+96.244.201.23 0 1 138949 
+174.2.181.19 0 1 116869 
+180.191.105.4 0 1 138949 
+68.146.86.24 0 1 138949 
+188.255.107.55 0 1 55924 
+173.224.106.58 0 1 138949 
+69.158.26.221 6 117 2050842 20150421153255
+99.16.97.208 0 1 116869 
+70.199.72.78 0 2 277898 
+54.145.53.224 1 1 59295 20150417214433
+107.145.227.30 0 1 138949 
+173.244.180.205 4 4 222996 20150422042409
+74.215.229.189 0 1 138949 
+54.87.103.58 10 154 3043506 20150406170843
+173.244.180.211 6 6 336152 20150430071305
+74.56.106.43 2 67 1418032 20150403174338
+75.187.88.159 0 1 138949 
+92.63.81.114 24 24 344179 20150417034325
+94.131.14.15 29 29 500 20150411222302
+104.130.142.11 1 1 0 20150414192307
+52.5.11.191 1 1 55627 20150402084522
+175.44.4.227 4 4 235080 20150419124307
+95.29.234.252 0 1 55924 
+23.31.184.78 0 1 55924 
+24.114.87.100 0 2 204592 
+71.228.103.182 0 1 138949 
+213.24.135.30 0 1 55924 
+67.243.153.172 0 1 138949 
+5.9.16.195 1 1 55579 20150416100224
+184.151.178.192 2 88 2107187 20150421124430
+78.97.137.32 0 1 116869 
+174.119.136.168 4 76 1842625 20150418174611
+24.91.187.20 0 1 138949 
+50.153.110.253 0 1 138949 
+174.34.131.177 2 72 1742699 20150416160742
+75.115.140.216 0 1 22337 
+75.168.40.199 3 66 1459433 20150415193109
+206.255.48.55 0 1 55924 
+95.30.241.220 0 1 55924 
+141.0.11.60 0 1 138949 
+61.135.190.221 2 15 380114 20150426200025
+95.133.93.159 0 1 19805 
+192.166.238.191 0 1 55924 
+54.178.210.226 2 2 117928 20150414192558
+50.8.246.10 0 6 833694 
+95.57.112.208 0 1 55924 
+49.151.83.161 0 1 138949 
+98.176.62.62 0 1 138949 
+213.87.129.173 0 1 55924 
+104.154.52.248 3 3 166893 20150401073751
+24.90.49.170 0 1 138949 
+72.248.219.50 0 1 116869 
+54.242.235.249 6 181 4165218 20150403041651
+212.34.12.164 0 1 138949 
+213.87.130.252 0 1 55924 
+90.195.130.48 0 1 138949 
+66.87.144.69 0 1 116869 
+174.118.51.221 6 80 2000293 20150429115955
+45.33.90.151 1 1 55791 20150421145147
+216.163.188.228 1 1 55484 20150408154919
+111.252.172.176 0 1 116869 
+92.242.35.54 0 1 55924 
+203.106.56.112 0 1 63074 
+198.84.160.3 2 73 1771321 20150422193745
+67.215.134.83 13 106 3661413 20150429183633
+45.48.97.218 0 1 116869 
+166.61.228.11 0 1 138949 
+94.131.14.10 5 5 24765 20150422113659
+108.30.30.173 0 1 138949 
+203.87.162.52 0 1 138949 
+31.193.141.19 4 4 58532 20150425193109
+195.200.78.248 1 1 55624 20150420083052
+66.87.131.79 0 1 138949 
+189.252.114.79 0 1 138949 
+12.204.222.254 0 1 138949 
+61.135.190.102 3 60 1164619 20150425110626
+109.248.17.127 0 1 64239 
+209.51.197.149 6 6 337630 20150429184252
+151.202.21.184 0 1 116869 
+99.246.214.243 2 65 1382542 20150415142600
+54.82.161.150 0 2 38684 
+129.100.213.23 0 1 116869 
+69.124.152.31 0 1 138949 
+217.29.114.95 1 1 5158 20150422211839
+78.60.6.155 0 1 116869 
+208.91.113.22 1 1 55469 20150410020651
+152.26.44.100 0 1 138949 
+121.245.152.123 0 1 138949 
+68.180.109.43 0 1 138949 
+94.23.217.201 1 1 56889 20150428044917
+199.230.203.254 0 1 138949 
+23.31.54.86 0 1 138949 
+47.55.130.108 3 70 1474642 20150405050834
+99.236.206.57 0 1 120734 
+24.146.205.36 0 1 116869 
+50.190.64.198 0 1 138949 
+69.120.211.250 0 1 55924 
+136.167.190.90 0 1 138949 
+70.124.48.154 0 1 138949 
+174.95.65.106 15 101 2339219 20150417130803
+216.123.2.154 2 73 1771763 20150429052501
+58.175.128.145 0 1 116869 
+5.164.128.65 0 1 55924 
+189.72.185.138 2 38 768348 20150408100538
+24.114.100.135 1 1 55627 20150402163347
+99.231.41.174 3 74 1840923 20150414113808
+70.51.100.235 2 15 274391 20150412054414
+37.228.104.184 0 3 416847 
+66.87.114.138 0 1 138949 
+209.91.107.230 0 1 88490 
+173.32.78.255 0 1 116869 
+5.33.155.156 0 1 138949 
+94.23.245.151 7 7 325808 20150412024540
+24.114.75.103 2 15 302149 20150408065258
+173.69.25.89 0 1 138949 
+45.37.17.210 0 1 99393 
+131.253.26.222 1 1 58940 20150413001754
+76.106.122.183 0 1 138949 
+173.32.224.179 3 71 1839641 20150406173338
+172.56.13.151 0 1 138949 
+96.255.200.194 0 1 120734 
+89.110.52.214 0 1 64239 
+198.252.44.9 14 14 782266 20150430073137
+145.255.169.14 0 1 55924 
+92.124.114.71 0 1 55924 
+188.83.89.46 2 72 1766859 20150402020522
+197.248.23.70 0 1 138949 
+98.102.127.114 0 1 128894 
+24.114.54.110 2 27 691043 20150424055814
+213.87.240.80 0 1 55924 
+184.145.95.250 0 1 116869 
+60.53.24.59 0 1 138949 
+70.26.140.144 16 88 2306680 20150411145120
+161.7.59.15 0 1 80101 
+52.5.75.9 1 1 41834 20150426172702
+52.5.252.203 1 1 55483 20150424224302
+54.185.22.193 1 1 55481 20150426203109
+95.141.58.112 0 1 138949 
+54.145.65.251 0 1 20461 
+185.47.108.192 1 1 472 20150413100807
+92.124.30.214 0 1 55924 
+199.67.131.156 0 1 138949 
+89.31.57.5 1 1 55444 20150411231153
+152.131.10.131 0 1 22337 
+176.107.245.23 0 1 55924 
+205.197.242.153 0 1 138949 
+24.246.63.170 2 74 1817806 20150402124645
+70.208.140.183 0 1 138949 
+107.77.72.111 0 2 277898 
+142.162.134.38 3 70 1459955 20150415155715
+67.70.151.28 9 89 2347793 20150427181832
+184.151.190.135 2 73 1771095 20150427061456
+73.184.144.178 0 1 138949 
+46.159.129.196 0 1 64239 
+99.233.131.157 2 73 1761490 20150416103422
+76.187.33.160 0 1 138949 
+173.212.190.193 2 76 1791828 20150429093804
+85.70.146.236 0 1 116869 
+72.208.242.6 0 1 99393 
+71.114.102.24 0 1 138949 
+139.139.19.68 0 2 111848 
+37.146.85.189 0 1 116869 
+24.243.176.144 0 1 138949 
+2.51.133.48 0 1 116869 
+179.107.193.56 2 36 701318 20150413060719
+70.139.93.130 0 1 138949 
+166.137.244.96 0 1 116869 
+104.154.53.22 3 3 166338 20150412073759
+62.210.248.240 8 8 444412 20150418212735
+5.104.241.173 1 1 0 20150430155746
+188.43.70.252 0 1 55924 
+93.186.202.244 1 1 43627 20150423094336
+24.114.75.176 2 72 1752596 20150419110735
+128.69.121.7 0 1 55924 
+99.233.149.61 2 73 1795455 20150403064926
+5.9.16.220 5 5 277406 20150416033334
+54.166.179.189 5 5 255198 20150414203952
+182.186.206.67 0 1 138949 
+95.27.210.127 0 1 64239 
+5.90.143.240 0 1 116869 
+176.51.35.53 0 1 55924 
+99.9.140.44 0 1 138949 
+188.191.162.11 0 1 55924 
+152.193.3.62 0 1 116869 
+173.32.106.179 0 1 116869 
+24.21.31.29 0 1 99393 
+109.225.47.72 0 1 55924 
+146.185.234.67 1 1 4953 20150419062112
+70.24.236.175 0 1 116869 
+84.59.189.113 5 83 1975099 20150420225710
+104.184.90.29 0 1 138949 
+62.210.177.242 14 14 839833 20150430180713
+93.190.204.6 0 1 64239 
+96.20.55.28 0 1 116869 
+212.224.105.158 1 1 55577 20150416020424
+24.246.172.254 0 1 138949 
+2.93.148.125 0 1 55924 
+52.5.49.188 1 1 42604 20150424224311
+45.55.133.237 2 28 569205 20150408173704
+109.74.128.172 0 1 116869 
+173.183.63.67 2 66 1401505 20150416105027
+93.168.169.210 0 1 116869 
+113.254.69.56 5 69 1532662 20150423074830
+90.155.217.81 0 1 64239 
+172.56.11.45 0 1 19805 
+107.167.103.39 1 76 1528992 20150415204407
+86.26.83.74 0 1 138949 
+98.220.31.43 0 1 138949 
+31.220.42.202 1 1 55598 20150411134630
+82.0.43.86 0 1 138949 
+104.189.184.146 0 1 138949 
+46.255.97.66 0 1 55924 
+100.37.8.154 0 1 138949 
+109.233.224.6 0 1 64239 
+99.230.239.173 11 159 4149020 20150430082518
+88.198.208.70 1 1 55462 20150414173503
+63.217.158.61 1 1 55482 20150409042356
+209.190.6.124 4 4 222991 20150422083835
+220.245.252.179 0 1 138949 
+66.249.92.61 2 2 93088 20150413042642
+99.244.158.3 9 114 3541685 20150412064530
+151.252.215.69 0 1 116869 
+111.250.99.87 0 1 138949 
+115.147.102.160 0 1 138949 
+24.163.104.92 0 1 138949 
+66.68.249.220 0 1 138949 
+61.135.190.219 0 2 191614 
+162.144.49.78 10 10 0 20150429032247
+95.72.238.48 0 1 55924 
+117.111.174.47 0 1 55924 
+99.70.225.175 0 1 19805 
+94.50.153.131 0 1 55924 
+212.38.110.194 0 1 64239 
+93.118.67.45 1 1 55581 20150415012919
+69.42.188.58 1 28 1011791 20150422072430
+73.25.175.55 0 1 138949 
+66.249.73.233 3 3 166590 20150426232545
+213.108.148.100 0 1 64239 
+71.231.151.89 0 1 138949 
+184.101.194.207 0 1 138949 
+82.158.121.150 0 1 116869 
+89.179.5.194 0 1 55924 
+70.65.81.47 3 70 1459817 20150419163051
+87.57.134.234 0 1 116869 
+173.35.232.47 2 70 1419764 20150415062729
+104.154.72.4 3 3 166296 20150408073118
+73.192.145.113 0 1 138949 
+107.77.94.20 0 1 138949 
+189.251.204.1 0 1 116869 
+216.141.81.254 0 1 128894 
+67.71.84.237 2 72 1752304 20150426130738
+75.156.100.160 21 169 4982694 20150410141636
+45.59.22.42 1 1 5033 20150415022038
+172.218.195.172 2 66 1401513 20150415181422
+70.139.43.105 0 1 76840 
+163.41.112.5 0 1 138949 
+174.114.130.191 21 107 3071871 20150407163747
+96.49.136.87 3 67 1439106 20150401153505
+217.7.228.214 0 1 55924 
+69.243.56.31 0 1 138949 
+94.205.204.166 0 1 116869 
+108.45.126.96 0 1 138949 
+64.136.121.29 10 85 2235647 20150411084229
+123.136.107.123 0 1 55924 
+81.214.55.160 14 14 72212 20150427110234
+71.210.197.164 0 1 88490 
+24.114.55.38 2 72 1776666 20150405061054
+24.245.60.58 0 1 138949 
+49.145.95.180 0 1 138949 
+105.236.31.190 0 1 138949 
+216.163.188.234 1 1 55625 20150421015929
+73.3.76.44 0 1 138949 
+63.140.107.28 0 1 138949 
+189.81.233.231 0 1 138949 
+111.94.74.214 0 1 116869 
+76.202.3.188 0 1 138949 
+61.135.190.224 4 48 1205689 20150427223728
+212.15.125.2 0 1 64239 
+24.114.96.61 2 73 1771299 20150415102344
+197.88.6.97 0 1 138949 
+176.204.165.53 0 1 116869 
+24.239.66.232 0 1 138949 
+75.139.72.243 0 1 138949 
+50.131.13.222 0 1 138949 
+68.174.5.140 0 1 116869 
+23.117.72.199 0 1 138949 
+67.233.28.128 0 1 138949 
+37.143.9.74 1 1 55629 20150401021348
+99.250.123.130 3 67 1452298 20150430073243
+199.119.233.190 2 72 1776660 20150401215824
+49.149.231.202 0 1 138949 
+74.15.0.175 7 80 2030932 20150429094701
+213.87.241.89 0 1 55924 
+46.118.159.76 4 4 3504 20150416052422
+122.62.101.217 0 1 138949 
+89.175.176.178 0 1 55924 
+70.91.133.237 0 1 138949 
+63.202.171.143 0 1 138949 
+91.224.160.116 6 6 332766 20150414041814
+131.253.24.138 0 2 35251 
+54.162.6.244 1 1 58965 20150414193647
+50.72.183.213 0 1 116869 
+176.215.142.37 0 1 55924 
+123.125.71.26 2 2 111060 20150426061601
+207.219.69.165 2 73 1795457 20150405211159
+207.236.194.157 1 1 55569 20150414192422
+54.159.43.165 0 1 2968 
+184.151.178.93 2 72 1752304 20150426041425
+68.4.106.23 0 1 138949 
+144.76.201.69 2 2 88859 20150430203038
+178.44.85.17 0 1 55924 
+151.236.0.41 11 11 512232 20150430033736
+104.154.58.215 3 3 166884 20150405073726
+173.195.9.200 0 1 63074 
+175.139.75.145 0 1 116869 
+93.171.161.154 0 1 55924 
+68.104.172.219 0 1 138949 
+174.115.114.255 5 78 1913199 20150420185840
+189.152.189.157 0 1 138949 
+193.201.83.9 0 1 116869 
+73.163.28.250 0 1 138949 
+52.4.114.1 1 1 60877 20150409105746
+96.32.73.89 0 1 138949 
+89.207.130.134 0 4 0 
+108.64.150.192 0 1 138949 
+79.41.137.246 0 1 116869 
+117.78.13.29 1 1 55440 20150412234719
+123.30.175.219 1 1 57038 20150430120046
+99.182.206.232 0 1 138949 
+76.68.67.190 2 73 1771095 20150427112511
+23.95.43.112 1 1 55469 20150410063714
+95.153.176.3 0 1 55924 
+69.172.94.48 2 72 1776334 20150414154141
+83.172.8.175 0 1 64239 
+94.131.14.104 11 11 54483 20150413101258
+142.158.254.202 0 1 138949 
+159.18.26.96 2 74 1762695 20150424062531
+64.233.172.148 3 113 3352475 20150410080004
+207.219.69.239 5 147 3650102 20150406025320
+79.141.160.93 2 2 58658 20150403193112
+99.43.176.136 0 1 138949 
+89.232.231.191 0 1 55924 
+95.141.190.87 0 1 55924 
+68.6.118.186 0 1 138949 
+89.65.107.253 0 1 116869 
+108.11.10.101 0 1 138949 
+173.79.245.39 0 1 138949 
+220.181.38.231 0 1 222 
+92.39.165.129 1 1 55444 20150411222622
+24.150.185.118 20 367 3776996 20150426174545
+5.167.123.127 0 1 55924 
+77.51.93.88 0 1 64239 
+202.141.240.118 0 1 63074 
+173.180.14.204 0 1 138949 
+189.219.51.34 0 1 138949 
+98.145.93.121 0 1 138949 
+54.242.42.147 0 1 2968 
+107.2.193.37 0 1 19805 
+184.151.179.148 9 90 2392347 20150429212159
+166.137.118.122 0 1 138949 
+37.17.4.112 0 1 55924 
+64.139.97.175 0 1 138949 
+184.151.178.35 3 66 1481574 20150406094851
+209.51.197.150 3 3 168592 20150430055843
+72.50.85.128 0 1 138949 
+98.244.214.28 0 1 138949 
+24.231.56.175 0 1 138949 
+70.197.71.251 0 1 138949 
+74.197.145.222 0 1 138949 
+207.6.73.23 0 1 19805 
+178.120.227.22 0 1 55924 
+42.3.163.180 0 1 88195 
+210.3.136.182 0 1 116869 
+188.136.16.8 2 4 147342 20150417035830
+69.64.109.2 0 1 55924 
+177.17.197.114 2 72 1742503 20150427073207
+107.194.157.45 0 1 138949 
+209.190.6.126 5 5 278787 20150421085058
+72.80.198.174 0 1 138949 
+173.206.87.112 2 72 1776666 20150404093211
+187.233.107.175 0 1 116869 
+92.100.124.152 0 1 55924 
+123.125.71.113 1 1 57038 20150430095917
+107.138.221.36 0 1 116869 
+67.111.45.100 0 1 34754 
+104.154.77.241 3 3 166386 20150414073714
+24.114.70.85 0 1 116869 
+74.12.8.151 2 73 1771095 20150426032302
+66.176.5.94 0 1 138949 
+77.100.125.28 0 1 5743 
+173.33.251.101 3 58 1772626 20150409172153
+192.198.93.98 2 2 3502 20150406192416
+109.69.5.249 0 1 138949 
+50.53.180.19 0 1 138949 
+46.4.21.242 1 1 55583 20150415120830
+85.113.55.152 4 4 221936 20150412032445
+54.244.60.131 0 1 138949 
+98.218.55.18 0 1 116869 
+109.196.74.222 0 1 55924 
+46.118.243.205 20 20 35020 20150409131053
+67.197.133.121 0 1 19805 
+76.238.188.162 0 1 138949 
+64.231.172.130 0 1 116869 
+201.122.193.13 0 1 63074 
+68.199.80.143 0 1 138949 
+188.124.196.46 2 74 1762777 20150421044832
+202.46.51.127 1 1 43760 20150404111906
+108.171.180.44 2 2 0 20150424073750
+189.173.185.100 1 1 3030 20150401103425
+64.118.27.161 0 1 90088 
+178.44.201.99 0 1 55924 
+172.56.18.168 0 1 138949 
+122.55.54.44 0 1 19805 
+138.163.0.42 0 1 138949 
+70.65.131.110 0 1 116869 
+93.120.196.33 0 1 64239 
+104.60.101.4 0 1 138949 
+201.131.148.3 2 53 1393398 20150412133126
+186.92.110.3 1 1 3030 20150401103439
+173.244.181.29 9 9 505252 20150430232147
+52.6.123.246 2 2 115327 20150425125633
+198.50.142.77 3 3 166743 20150415022034
+67.196.50.54 1 1 58976 20150415062833
+76.121.84.132 0 1 138949 
+94.160.116.65 0 1 116869 
+54.84.44.66 2 2 111040 20150414092901
+109.201.113.87 0 1 55924 
+86.134.61.59 3 68 1424853 20150428113353
+5.44.168.97 0 1 55924 
+130.211.129.180 3 3 170667 20150428073812
+52.6.209.38 1 1 59199 20150424224302
+198.13.174.15 2 72 1752304 20150427075001
+104.157.132.141 2 55 1668499 20150411015559
+136.169.10.10 2 2 60402 20150403000459
+94.75.185.137 0 1 55924 
+1.136.97.109 0 1 138949 
+37.57.25.225 2 2 111256 20150404212231
+202.46.63.65 1 1 55628 20150406031613
+100.36.105.217 0 1 138949 
+74.195.0.126 0 1 138949 
+163.153.25.240 0 1 138949 
+65.31.226.35 0 1 138949 
+94.23.195.135 28 28 1303728 20150430073602
+74.12.198.53 12 98 3216939 20150403121313
+71.20.170.189 0 1 90088 
+197.206.126.56 1 1 3030 20150401103435
+176.202.111.108 0 1 116869 
+177.98.137.27 2 31 1153183 20150401190637
+75.155.192.232 0 1 19805 
+70.51.166.191 2 72 1752510 20150423191235
+84.91.232.220 2 72 1766863 20150409074219
+117.201.2.62 0 1 138949 
+106.208.197.169 0 1 138949 
+95.80.65.11 0 1 64239 
+5.61.13.162 0 1 64239 
+209.52.88.222 21 107 3109417 20150419232822
+71.199.57.116 0 1 138949 
+2.91.39.211 0 1 116869 
+108.29.57.109 0 1 138949 
+173.63.203.107 0 1 138949 
+96.24.51.165 0 1 138949 
+5.156.224.11 0 1 116869 
+142.134.219.185 1 1 58886 20150415060015
+24.114.45.190 0 1 116869 
+24.49.59.110 0 1 138949 
+58.179.84.132 0 1 138949 
+174.117.81.85 2 72 1752414 20150419071023
+68.96.221.231 0 1 19805 
+86.1.69.202 0 1 116869 
+37.113.249.68 0 1 55924 
+93.81.59.45 0 1 64239 
+209.85.238.12 3 3 139725 20150430054032
+64.228.145.68 2 66 1401485 20150414192628
+54.172.240.102 1 1 4953 20150411073454
+99.232.144.166 2 73 1761910 20150421082112
+206.108.165.248 2 7 114024 20150430044014
+100.42.242.181 0 1 138949 
+217.119.24.234 0 1 64239 
+24.114.65.117 2 72 1752304 20150427061936
+69.17.141.122 0 1 90954 
+199.119.233.210 1 1 55579 20150416094921
+172.56.35.21 0 1 116869 
+94.23.202.191 9 9 419082 20150427093038
+99.228.47.45 0 1 138949 
+209.82.41.114 2 2 99243 20150422063435
+192.95.184.162 0 1 116869 
+146.148.48.102 3 3 166770 20150423073854
+52.1.230.104 1 1 55482 20150409013440
+68.9.123.92 0 1 138949 
+54.174.57.136 3 39 806250 20150408053600
+72.32.185.201 1 1 55579 20150416160726
+172.56.17.191 0 1 116869 
+74.79.214.189 0 1 120734 
+24.114.51.246 2 73 1795093 20150412054121
+213.87.122.204 0 1 55924 
+67.8.121.88 0 1 138949 
+79.145.186.118 0 1 116869 
+49.144.46.235 4 72 1492943 20150429165258
+54.147.31.95 1 1 58976 20150414223716
+135.23.105.152 2 73 1761914 20150421170429
+94.1.190.98 0 1 138949 
+213.87.132.108 0 1 55924 
+204.112.222.77 3 66 1459433 20150415163531
+59.177.231.15 0 1 55924 
+104.157.208.51 2 66 1742297 20150405031055
+173.244.180.202 19 19 1055507 20150422042409
+100.33.61.200 0 1 138949 
+74.128.102.173 0 1 138949 
+67.221.205.65 0 1 138949 
+50.192.203.171 12 12 36360 20150406162247
+103.31.225.178 3 3 9090 20150406135256
+173.34.201.107 2 72 1752514 20150424094315
+130.193.222.9 0 1 138949 
+146.50.79.106 1 1 58798 20150424203353
+81.141.210.133 0 1 138949 
+178.209.99.42 0 1 28922 
+72.140.53.218 0 1 22133 
+168.250.62.33 0 1 138949 
+76.71.67.157 2 73 1795135 20150409150400
+46.180.10.187 0 1 55924 
+54.174.57.93 0 1 22351 
+122.100.224.215 0 1 138949 
+70.48.7.1 2 69 1400965 20150416050649
+195.208.8.86 0 1 64239 
+62.210.189.96 2 29 588660 20150429122303
+66.183.179.25 0 1 116869 
+83.220.239.98 0 1 55924 
+195.225.201.119 0 1 34754 
+70.172.192.43 0 1 138949 
+54.221.11.121 1 1 55481 20150427054900
+135.23.68.90 2 74 1780543 20150428063828
+112.215.66.70 0 1 138949 
+172.3.61.180 0 1 138949 
+190.176.232.69 0 1 55924 
+99.239.39.183 3 70 1459814 20150419044326
+184.147.44.168 4 28 712627 20150412171652
+52.4.248.164 1 1 57623 20150407032123
+192.206.151.130 2 73 1761296 20150424132756
+197.132.127.254 0 1 128894 
+24.56.8.151 4 78 1933569 20150425155104
+200.84.152.156 5 5 25790 20150408172445
+70.52.97.75 13 181 4037876 20150408152142
+24.114.68.16 6 78 1953901 20150426135234
+85.95.179.78 0 1 55924 
+208.87.237.180 2 51 1520896 20150409104645
+99.225.176.71 19 119 4184415 20150401222733
+99.231.74.93 2 44 1240958 20150401094925
+137.186.219.119 0 1 116869 
+99.225.239.196 15 171 4441701 20150418092129
+37.228.241.165 0 1 116869 
+94.23.220.222 25 25 1164158 20150428053142
+68.112.131.246 0 1 138949 
+1.126.49.47 0 1 138949 
+99.108.112.17 0 1 19805 
+195.211.218.7 0 1 55924 
+73.182.47.161 0 1 90954 
+99.231.167.76 2 73 1785334 20150409180008
+50.83.16.154 0 1 138949 
+88.205.131.147 0 1 55924 
+213.79.99.167 0 1 55924 
+99.246.73.182 0 1 116869 
+74.73.247.164 8 81 2077517 20150421094403
+85.25.73.6 1 1 55581 20150415025537
+93.94.15.194 0 2 277898 
+5.141.205.59 0 1 55924 
+68.146.201.32 0 1 138949 
+54.224.159.51 4 4 215728 20150414203951
+86.147.65.195 0 1 116869 
+146.148.75.118 3 3 166884 20150404073729
+37.140.192.183 1 1 55583 20150415094102
+91.203.146.198 2 2 111362 20150422121541
+173.62.88.103 0 1 138949 
+108.69.237.125 0 1 138949 
+108.176.147.238 2 13 347412 20150411063310
+108.236.133.63 0 1 138949 
+87.255.24.5 0 1 64239 
+46.165.245.214 16 16 446260 20150415085230
+122.170.27.54 3 69 1435038 20150429031953
+142.255.22.156 0 1 138949 
+148.251.69.136 2 4 210137 20150430095832
+209.147.118.17 1 18 276020 20150403162235
+64.231.69.45 0 1 116869 
+94.51.17.92 1 1 55483 20150424202242
+93.79.254.87 0 1 55924 
+173.251.33.91 0 1 138949 
+31.173.240.119 0 1 140479 
+72.190.21.215 0 1 138949 
+67.167.214.175 0 1 138949 
+174.116.126.112 5 69 1551527 20150415051240
+50.160.89.69 0 1 55924 
+88.198.56.239 1 1 61832 20150418042053
+82.71.6.244 0 1 1508627 
+75.162.208.172 0 1 22337 
+99.241.242.61 1 1 56889 20150428064244
+85.105.48.27 0 1 116869 
+83.220.238.124 0 1 64239 
+89.136.160.21 0 1 138949 
+99.235.103.163 6 80 2015165 20150421114340
+62.210.215.115 18 18 700584 20150430012258
+37.122.53.36 1 1 3030 20150401103435
+209.161.100.128 2 2 60603 20150414193713
+62.215.43.50 0 1 138949 
+176.97.116.146 4 4 320784 20150429075726
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20150401 349 1659 49190889 103
+20150402 265 1808 50411915 110
+20150403 283 2388 69502831 88
+20150404 205 1220 35651777 98
+20150405 179 1389 42058628 89
+20150406 257 2243 62878505 109
+20150407 265 1664 48231052 113
+20150408 236 1922 55849939 102
+20150409 246 2373 57456580 92
+20150410 236 2063 60423149 96
+20150411 185 1408 42288292 90
+20150412 242 1503 49824381 78
+20150413 232 2250 61904274 93
+20150414 459 3181 92804860 153
+20150415 320 3370 86839477 151
+20150416 264 2849 62143205 105
+20150417 204 1404 39111305 90
+20150418 240 2150 55015114 92
+20150419 190 1513 47317642 93
+20150420 248 2712 64409857 104
+20150421 253 1644 51520867 130
+20150422 215 1714 51745410 109
+20150423 179 1604 48755624 90
+20150424 176 1556 45055610 94
+20150425 218 1629 54355446 113
+20150426 153 1330 36713746 81
+20150427 205 1821 52381884 86
+20150428 304 1729 60303508 89
+20150429 413 2138 63681959 91
+20150430 371 1787 55766645 105
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 61
+5mn-15mn 81
+2mn-5mn 58
+30s-2mn 101
+15mn-30mn 82
+0s-30s 2558
+30mn-1h 96
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 167
+/ 2496 137771282 1365 1189
+/feed/ 1030 22442733 804 812
+/blog/space-saving-tips-to-brighten-up-your-laundry-room/ 264 15537067 88 86
+/wp-login.php 251 1290118 98 115
+/blog/closet-organizing-ideas-for-your-childs-bedroom/ 235 13651210 96 85
+/wp-cron.php 231 0 162 163
+/wp-admin/admin-ajax.php 188 194083 70 64
+/contact/ 131 5443138 27 37
+/frequently-asked-questions/ 123 10481761 8 27
+/seasonal-specials/ 122 4903547 11 10
+/organizing-toronto-team/andrew-neary/ 118 5180664 22 30
+/wp-content/themes/Avada/fonts/fontawesome-webfont.woff 116 3661600 0 43
+/xmlrpc.php 106 43777 7 8
+/blog/laundry-room-aesthetics-for-a-pleasant-laundry-experience/ 88 5515049 42 42
+/organizing-toronto-team/teresa/ 82 3467595 6 8
+/professional-organizing-services/business-service-directory/ 79 3407747 2 6
+/blog/spring-home-maintenance-tips/ 78 3971612 28 37
+/testimonials/ 75 4660512 6 12
+/blog/solutions-to-reduce-clutter-in-bathrooms/ 72 4273541 3 9
+/organizing-toronto-team/tony/ 71 3267696 3 9
+/professional-organizing-services/ 69 3012475 4 3
+/organizing-toronto-team/maria/ 68 3471666 2 7
+/organizing-toronto-team/trudi/ 68 2917312 3 3
+/blog/fight-your-clutter-nightmare-and-organize-your-basement/ 63 3701302 9 9
+/blog/carpentry-technique-organize-your-kitchen/ 60 3735349 8 13
+/blog/top-5-home-staging-tips/ 15 893353 1 3
+/blog/sources-of-clutter-in-your-bedroom/ 9 535317 2 1
+/blog/use-the-walls-for-space-in-your-small-bedroom/ 12 716611 5 3
+/blog/the-advantages-of-having-storage-lockers/feed/ 1 837 0 0
+/blog/category/from-andrew/ 7 513284 0 0
+/blog/3-things-to-consider-while-organizing-your-home/ 4 238347 0 0
+/blog/category/articles-of-interest/ 4 211633 0 0
+/organizing-toronto-team/about-stephen/ 52 2204084 2 5
+/blog/author/trudi/ 4 202287 0 0
+/blog/steps-to-declutter-your-laundry-room/ 4 237753 0 0
+/blog/2013/08/ 4 210263 0 0
+/blog/category/kitchens/ 4 220957 0 0
+/blog/2013/11/ 6 344115 0 0
+/wp-admin/post.php 2 390373 0 0
+/blog/bathroom-space-saving-tips/ 8 476583 1 1
+/blog/enhance-your-living-space-with-basement-remodels/ 9 537967 3 3
+/blog/author/andrew/page/3/ 4 294499 0 0
+/blog/2014/08/ 9 448608 0 0
+/organizing-toronto-team/ 50 2116799 3 6
+/blog/2014/06/ 9 468236 0 0
+/blog/page/3/ 6 441383 0 0
+/blog/author/tony/page/2/ 4 243291 0 0
+/blog/category/downsizing/ 5 295761 0 0
+/blog/the-benefits-of-an-estate-clearing-service/ 6 353307 0 0
+/blog/category/estate-clearing/ 4 228307 0 0
+/blog/2014/04/ 9 519419 0 3
+/blog/2013/10/ 4 220175 0 0
+/blog/author/andrew/page/4/ 4 244909 0 0
+/home-2/feed/ 45 9295 34 37
+/blog/reorganize-your-closet-on-a-budget/ 52 3086662 7 2
+/blog/category/from-andrew/page/3/ 4 294579 0 0
+/wp-admin/load-scripts.php 15 2203941 0 1
+/blog/types-of-storage-lockers-you-can-choose-from/ 6 352307 0 0
+/blog/page/6/ 1 56123 0 0
+/blog/page/4/ 5 361141 0 0
+/blog/page/2/ 7 509732 0 1
+/blog/making-the-most-of-your-garage-space/ 4 235757 0 0
+/blog/explore-your-selling-options-while-downsizing-your-home/ 7 414183 0 1
+/blog/tips-for-downsizing-your-home/ 9 528565 2 1
+/blog/2015/03/ 33 1633039 0 1
+/blog/category/closets/ 4 231263 0 0
+/blog/why-choose-climate-controlled-storage-facilities/feed/ 1 862 0 0
+/organizing-toronto-team/trudi/feed/ 1 745 0 0
+/blog/2015/04/ 8 400268 0 1
+/blog/the-upside-of-downsizing/ 5 294299 0 0
+/blog/category/from-andrew/page/6/ 1 51335 0 0
+/blog/why-choose-climate-controlled-storage-facilities/ 20 1179725 2 7
+/blog/professional-organizer-for-your-move/ 4 235961 0 0
+/blog/category/from-andrew/page/2/ 4 291745 0 0
+/blog/category/maintenance/ 4 251903 0 0
+/blog/2013/04/ 8 418129 0 0
+/contact/thank-you/ 8 313866 0 2
+/blog/2013/03/ 4 200751 0 0
+/wp-includes/wlwmanifest.xml 6 6270 2 1
+/blog/author/andrew/ 4 296637 0 0
+/wp-content/themes/Avada/fonts/fontawesome-webfont.ttf 1 60296 0 1
+/organizing-toronto-team/andrew-neary/feed/ 1 759 0 0
+/blog/smart-tips-to-organize-your-kitchen/ 21 1241706 0 0
+/blog/category/basements/ 4 231715 0 0
+/blog/reorganize-your-closet-on-a-budget/feed/ 1 819 0 0
+/blog/essential-tools-for-maintaining-your-home/ 8 471091 1 1
+/blog/category/from-trudi/ 4 201443 0 0
+/blog/tips-to-organize-your-bedroom/ 4 236895 0 0
+/blog/closet-organizing-ideas-for-small-spaces/ 23 1361232 10 8
+/wp-content/themes/Avada/framework/plugins/revslider/temp/update_extract/update_extract.php 5 25 3 3
+/blog/4-ways-to-get-more-bathroom-space/ 6 355901 1 0
+/blog/stop-the-clutter-in-your-bedroom-dresser-and-closet/ 40 2382268 17 17
+/blog/2015/01/ 8 400331 0 0
+/blog/hire-professionals-for-your-estate-clearance-needs/ 5 296289 1 1
+/wp-admin/themes.php 2 120396 0 0
+/blog/the-benefits-of-being-organized-at-home/ 8 475223 0 1
+/blog/2013/05/ 4 210911 0 0
+/sitemap.xml 14 67418 2 14
+/blog/2014/07/ 9 448355 0 0
+/blog/author/tony/ 4 292133 0 0
+/wp-admin/load-styles.php 11 1907816 0 0
+//wp-admin/admin-ajax.php 7 4449 3 0
+// 6 333484 0 3
+/blog/positioning-your-kitchen-cabinets/ 4 235619 0 0
+/blog/category/garages/ 4 241337 0 0
+/blog/category/from-andrew/page/4/ 1 72591 0 0
+/blog/checklist-for-your-garage-door-maintenance/ 4 236417 0 0
+/blog/author/maria/ 4 208373 0 0
+/blog/making-the-most-out-of-your-bathroom/ 4 234627 0 0
+/wp-admin/ 16 441657 2 1
+/blog/2014/09/ 10 498956 0 1
+/blog/cleaning-after-renting/ 7 409619 1 1
+/blog/category/home-organizing/ 4 293911 0 0
+/blog/author/andrew/page/2/ 4 291127 0 0
+/blog/category/laundry-rooms/ 4 230819 0 0
+/feed 24 0 22 22
+/blog/5-quick-tips-to-organize-your-laundry-room/ 8 475119 1 1
+/wp-admin/nav-menus.php 3 1306238 0 0
+/blog/spring-home-maintenance-tips/feed/ 1 801 0 0
+/blog/2014/11/ 8 399287 0 1
+/wp-admin/upgrade.php 4 4 3 2
+/blog/2014/12/ 12 597161 0 0
+/blog/5-creative-strategies-for-downsizing-your-home/ 5 295836 1 1
+/blog/2013/06/ 4 211067 0 0
+/blog/smart-tips-to-organize-your-kitchen/feed/ 1 822 0 0
+/blog/9-steps-to-help-seniors-stay-at-home-longer/ 12 688491 0 0
+/blog/a-guide-to-organize-your-garage/ 5 292596 0 0
+/blog/category/bedrooms/ 5 287214 0 0
+/blog/2013/07/ 6 315369 0 0
+/blog/page/5/ 4 295597 0 3
+/blog/category/from-andrew/page/5/ 1 74133 0 0
+/blog/2015/02/ 27 1341681 0 1
+/blog/how-to-save-money-while-maintaining-your-home/ 4 236789 0 0
+/blog/determining-the-right-storage-locker/ 6 352475 0 1
+/blog/2014/03/ 6 338867 0 0
+/blog/2014/02/ 4 221081 0 0
+/blog/category/storage-lockers/ 4 222023 0 0
+/blog/how-to-hire-the-right-estate-clearing-service/ 12 708516 5 4
+/blog/custom-solutions-for-a-neat-garage/ 4 236253 0 0
+/blog/carpentry-technique-organize-your-kitchen/feed/ 1 841 0 0
+/blog/the-advantages-of-having-storage-lockers/ 42 2478788 14 7
+/blog/2014/01/ 4 240133 0 0
+/blog/ 55 4042433 5 6
+/blog/wall-mount-solutions-for-your-kitchen/ 6 355115 1 1
+/blog/solutions-to-reduce-clutter-in-bathrooms/feed/ 1 837 0 0
+/organizing-toronto-team/join-the-team/ 40 1759248 2 2
+/blog/get-better-use-of-your-basement/ 4 235047 0 0
+/wp-comments-post.php 52 154596 0 1
+/blog/2013/12/ 6 322439 0 0
+/blog/transform-your-messy-garage-into-a-multipurpose-storage-space/ 9 531485 1 1
+/blog/organizing-your-home-a-process/ 6 354233 1 0
+/blog/2013/09/ 4 206193 0 0
+/blog/dont-you-wish-that-guys-home-was-yours/ 4 239191 0 0
+/blog/category/from-maria/ 4 207553 0 0
+/wp-content/themes/Avada/fonts/fontawesome-webfont.eot 27 724854 0 8
+/blog/time-saving-tips-for-organizing-your-home/ 4 238475 0 0
+/blog/fight-your-clutter-nightmare-and-organize-your-basement/feed/ 1 882 0 0
+/blog/why-stage/ 6 346149 0 1
+/wp-admin/edit-comments.php 1 197998 0 0
+/blog/stop-the-clutter-in-your-bedroom-dresser-and-closet/feed/ 1 870 0 0
+/index.php 39 2166375 0 13
+/wp-admin/edit.php 2 217473 0 0
+/blog/category/bathrooms/ 4 229991 0 0
+/blog/affordable-solutions-to-organize-your-closet/ 8 472877 2 2
+/blog/2014/05/ 11 630774 0 0
+/blog/importance-of-waterproofing-your-basement/ 4 237187 0 0
+/wp-admin/update-core.php 1 42772 0 0
+END_SIDER

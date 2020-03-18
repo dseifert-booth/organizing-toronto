@@ -1,0 +1,27 @@
+Return-path: <>
+Envelope-to: andrewn29@p3plcpnl0133.prod.phx3.secureserver.net
+Delivery-date: Tue, 19 Apr 2016 19:33:55 -0700
+Received: from mailnull by p3plcpnl0133.prod.phx3.secureserver.net with local (Exim 4.85_1)
+	id 1ashxj-0007KO-DC
+	for andrewn29@p3plcpnl0133.prod.phx3.secureserver.net; Tue, 19 Apr 2016 19:33:55 -0700
+X-Failed-Recipients: laird@palladio.ca
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@p3plcpnl0133.prod.phx3.secureserver.net>
+To: andrewn29@p3plcpnl0133.prod.phx3.secureserver.net
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1ashxj-0007KO-DC@p3plcpnl0133.prod.phx3.secureserver.net>
+Date: Tue, 19 Apr 2016 19:33:55 -0700
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  laird@palladio.ca
+    host p3nlsmtpcp-v01.prod.phx3.gdg [72.167.191.78]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 shxjaWp01hgzy :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.1 cv=WcmsExVX c=1 sm=1 tr=0 p=38Qiv1Ph-R0A:10 a=fn+xUPpQb2K/N1D8mmsCjA==:117 a=L9H7d07YOLsA:10 a=9cW_t1CCXrUA:10 a=s5jvgZ67dGcA:10 a=K6Bx_ss5AAAA:8 a=IkcTkHD0fZMA:10 a=wZOtAKPjcqYA:10 a=jEaYF2ggwCsA:10 a=kziv93cY1bsA:10 a=69EAbJreAAAA:8 a=s06aQa4QAAAA:8 a=AVKY0FDyVrmp-Ubzi74A:9 a=QEXdDO2ut3YA:10 a=4_TxF-SDIYoA:10 a=G6e2wOo_Z_AA:10 a=MYRlYhBk-usA:10 a=yZqJflK53ykA:10 a=H3I9pOk20rcA:10 ::
+    100.00
+
